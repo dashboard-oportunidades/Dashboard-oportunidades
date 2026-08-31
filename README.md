@@ -232,29 +232,39 @@ python recolher_outlet.py --limit 1
 
 **Se bloquear mesmo assim** (o Datadome marca a rede inteira ao longo do dia,
 não só o pedido isolado — já aconteceu), o caminho manual funciona sempre,
-porque é navegação humana a sério, nunca automatizada. Usa dois marcadores
-(bookmarklets) do browser, criados uma única vez:
+porque é navegação humana a sério, nunca automatizada.
 
-### Criar os marcadores (uma vez)
+**Trocar de loja por cookie só funciona numa janela anónima nova** (Ctrl+Shift+N)
+que nunca tenha escolhido loja nenhuma. O cookie `store` fica `HttpOnly`
+assim que o site alguma vez o define a sério (ex. depois de usares "Escolher
+a minha loja" nessa sessão) — a partir daí nenhuma escrita via JavaScript
+consegue mudar o valor. Mas antes disso, numa sessão em branco, o cookie
+criado por JavaScript funciona sem problema. Por isso: sempre janela anónima
+nova, nunca reaproveitar uma onde já escolheste loja à mão.
 
-No Chrome: **Ctrl+Shift+O** (Gestor de Marcadores) → ⋮ → **Adicionar novo
-marcador**, para cada um destes:
+Dois marcadores (bookmarklets), criados uma vez:
 
-| Nome | URL (conteúdo do ficheiro) |
+| Nome | Ficheiro |
 |---|---|
 | Próxima Loja | `bookmarklet_mudar_loja.txt` |
 | Recolher Outlet | `bookmarklet.txt` |
 
-### Usar, por categoria
+No Chrome: **Ctrl+Shift+O** (Gestor de Marcadores) → ⋮ → **Adicionar novo
+marcador** para cada um. Marcadores normais aparecem também em janelas
+anónimas, não precisas de os recriar lá.
 
-1. Abre o outlet da categoria (ex: [bases de duche](https://www.leroymerlin.pt/produtos/promocoes/outlet/?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22%2C%22attribute-22088%22%3A%22Base%2520de%2520duche%22%7D)) no Chrome normal.
-2. Clica **"Próxima Loja"** — troca de loja sozinho (sem tocar na interface
-   do site) e mostra qual é; a página recarrega já nessa loja.
-3. Clica **"Recolher Outlet"** — escreve o nome da loja que apareceu no
-   passo anterior; fica copiado para a área de transferência.
-4. Cola o resultado no chat.
-5. Repete os passos 2-4 para a loja seguinte (o marcador "Próxima Loja"
-   lembra-se de onde ficou e avança sozinho; ao fim de 45 volta ao início).
+### Usar
+
+1. **Ctrl+Shift+N** — janela anónima nova.
+2. Abre o outlet da categoria (ex: [bases de duche](https://www.leroymerlin.pt/produtos/promocoes/outlet/?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22%2C%22attribute-22088%22%3A%22Base%2520de%2520duche%22%7D)).
+3. Clica **"Próxima Loja"** — troca sozinho, mostra o nome, recarrega.
+4. Clica **"Recolher Outlet"**, escreve esse mesmo nome — fica copiado.
+5. Cola o resultado no chat.
+6. Repete os passos 3-5 para a loja seguinte (o marcador lembra-se de onde
+   ficou; ao fim de 45 volta ao início).
+
+Se alguma vez usares "Escolher a minha loja" à mão nessa janela, o cookie
+fica protegido e tens de abrir outra janela anónima para continuar.
 
 Do lado de quem recebe o colado: guarda num ficheiro `.json` e corre
 ```powershell
