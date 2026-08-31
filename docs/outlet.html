@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Outlet — bases de duche</title>
+<title>Dashboard de Oportunidades</title>
 <meta name="theme-color" content="#ECEFEF">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -30,11 +30,27 @@ h1{
   font-family:var(--display);font-weight:700;font-size:28px;line-height:1.05;
   letter-spacing:-.02em;margin:0 0 4px;
 }
-.actualizado{color:var(--betume);font-size:13px;margin:0 0 20px}
+.actualizado{color:var(--betume);font-size:13px;margin:0 0 14px}
 
-.filtros{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 20px}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--linha);margin:0 0 16px}
+.tabs button{
+  font:inherit;font-size:14px;font-weight:600;padding:8px 4px;margin-right:16px;
+  border:none;border-bottom:2px solid transparent;background:transparent;
+  color:var(--betume);cursor:pointer;
+}
+.tabs button.tab-ativo{color:var(--agua);border-bottom-color:var(--agua)}
+.tabs button:focus-visible{outline:2px solid var(--agua);outline-offset:2px}
+
+.filtros-toggle{
+  font:inherit;font-size:13px;color:var(--agua);background:none;border:none;
+  padding:2px 0;margin:0 0 8px;cursor:pointer;
+}
+.filtros-painel{margin:0 0 14px}
+.filtros-painel[hidden]{display:none}
+
+.filtros{display:flex;gap:6px;flex-wrap:nowrap;overflow-x:auto;margin:0 0 6px;padding-bottom:4px}
 .filtros button{
-  font:inherit;font-size:14px;padding:6px 13px;border-radius:999px;
+  font:inherit;font-size:12px;padding:4px 10px;border-radius:999px;white-space:nowrap;flex:none;
   border:1px solid var(--linha);background:transparent;color:var(--ardosia);
   cursor:pointer;
 }
@@ -75,23 +91,33 @@ td{padding:12px 10px;vertical-align:top}
 .evolucao{margin-top:6px;display:block;height:22px;width:100%;max-width:140px;overflow:visible}
 
 select.loja{
-  font:inherit;font-size:14px;padding:6px 13px;border-radius:999px;
+  font:inherit;font-size:12px;padding:4px 10px;border-radius:999px;
   border:1px solid var(--linha);background:#fff;color:var(--ardosia);
 }
 </style>
 </head>
 <body>
 <div class="envolucro">
-  <h1>Outlet — bases de duche</h1>
-  <p class="actualizado" id="actualizado">A carregar…</p>
+  <h1>Dashboard de Oportunidades</h1>
 
-  <div class="filtros" id="filtrosDim"></div>
-  <div class="filtros" id="filtrosDistrito"></div>
-  <div class="filtros" style="margin-top:-12px">
-    <select class="loja" id="filtroLoja"><option value="todas">Todas as lojas</option></select>
+  <div class="tabs" id="tabs">
+    <button class="tab-ativo" data-tab="base-duche">Base Duche</button>
   </div>
 
-  <div id="conteudo"></div>
+  <div class="tab-painel" id="tab-base-duche">
+    <p class="actualizado" id="actualizado">A carregar…</p>
+
+    <button class="filtros-toggle" id="filtrosToggle">Filtros ▾</button>
+    <div class="filtros-painel" id="filtrosPainel" hidden>
+      <div class="filtros" id="filtrosDim"></div>
+      <div class="filtros" id="filtrosDistrito"></div>
+      <div class="filtros">
+        <select class="loja" id="filtroLoja"><option value="todas">Todas as lojas</option></select>
+      </div>
+    </div>
+
+    <div id="conteudo"></div>
+  </div>
 </div>
 
 <script>
@@ -168,6 +194,26 @@ function montarFiltros(){
   selLoja.onchange = () => { lojaAtiva = selLoja.value; desenhar(); };
 }
 
+function atualizarBotaoFiltros(){
+  const ativos = dimensoesAtivas.size + distritosAtivos.size + (lojaAtiva !== 'todas' ? 1 : 0);
+  const painel = el('filtrosPainel');
+  const rotulo = ativos > 0 ? `Filtros (${ativos})` : 'Filtros';
+  el('filtrosToggle').textContent = rotulo + (painel.hidden ? ' ▾' : ' ▴');
+}
+
+el('filtrosToggle').onclick = () => {
+  el('filtrosPainel').hidden = !el('filtrosPainel').hidden;
+  atualizarBotaoFiltros();
+};
+
+/* So ha um separador por agora (Base Duche); a estrutura ja aceita mais. */
+document.querySelectorAll('#tabs button').forEach(b => {
+  b.onclick = () => {
+    document.querySelectorAll('#tabs button').forEach(x => x.classList.remove('tab-ativo'));
+    b.classList.add('tab-ativo');
+  };
+});
+
 function ordenarPor(campo){
   if (ordem.campo === campo) ordem.asc = !ordem.asc;
   else { ordem.campo = campo; ordem.asc = true; }
@@ -195,6 +241,7 @@ function evolucao(hist){
 }
 
 function desenhar(){
+  atualizarBotaoFiltros();
   let lista = dados.products
     .filter(p => dimensoesAtivas.size === 0 || dimensoesAtivas.has(dimCanonica(p.dimensao)))
     .map(p => {
