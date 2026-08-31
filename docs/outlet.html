@@ -71,6 +71,13 @@ td{padding:12px 10px;vertical-align:top}
   background:var(--descida);color:#fff;margin-left:6px;vertical-align:2px;
 }
 .vazio{padding:40px 10px;text-align:center;color:var(--betume)}
+.quando{font-size:13px;color:var(--betume);white-space:nowrap}
+.evolucao{margin-top:6px;display:block;height:22px;width:100%;max-width:140px;overflow:visible}
+
+select.loja{
+  font:inherit;font-size:14px;padding:6px 13px;border-radius:999px;
+  border:1px solid var(--linha);background:#fff;color:var(--ardosia);
+}
 </style>
 </head>
 <body>
@@ -79,6 +86,9 @@ td{padding:12px 10px;vertical-align:top}
   <p class="actualizado" id="actualizado">A carregar…</p>
 
   <div class="filtros" id="filtrosDim"></div>
+  <div class="filtros" style="margin-top:-12px">
+    <select class="loja" id="filtroLoja"><option value="todas">Todas as lojas</option></select>
+  </div>
 
   <div id="conteudo"></div>
 </div>
@@ -88,11 +98,18 @@ const fmt = n => n.toLocaleString('pt-PT',{minimumFractionDigits:2,maximumFracti
 const el = id => document.getElementById(id);
 let dados = null;
 let dimensaoAtiva = 'todas';
+let lojaAtiva = 'todas';
 let ordem = { campo: 'preco_final', asc: true };
 
 function dimensoes(produtos){
   const s = new Set();
   produtos.forEach(p => { if (p.dimensao) s.add(p.dimensao); });
+  return [...s].sort();
+}
+
+function lojas(produtos){
+  const s = new Set();
+  produtos.forEach(p => p.prices.forEach(x => s.add(x.store)));
   return [...s].sort();
 }
 
@@ -111,6 +128,12 @@ function montarFiltros(){
     };
     alvo.appendChild(b);
   });
+
+  const selLoja = el('filtroLoja');
+  selLoja.innerHTML = '<option value="todas">Todas as lojas</option>' +
+    lojas(dados.products).map(l => `<option value="${l}">${l}</option>`).join('');
+  selLoja.value = lojaAtiva;
+  selLoja.onchange = () => { lojaAtiva = selLoja.value; desenhar(); };
 }
 
 function ordenarPor(campo){
@@ -119,10 +142,36 @@ function ordenarPor(campo){
   desenhar();
 }
 
+/* Mini-grafico da evolucao do preco final; so aparece se houver mudanca. */
+function evolucao(hist){
+  if (!hist || hist.length < 2) return '';
+  const vals = hist.map(h => h[1]);
+  const min = Math.min(...vals), max = Math.max(...vals);
+  if (max - min < 0.01) return '';
+  const w = 140, alt = 22, n = hist.length;
+  const pts = hist.map((ponto, i) => {
+    const x = n === 1 ? 0 : (i / (n - 1)) * w;
+    const y = alt - 3 - ((ponto[1] - min) / (max - min)) * (alt - 6);
+    return [x, y];
+  });
+  const d = pts.map((p, i) => (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' ');
+  const desceu = vals[vals.length - 1] < vals[0];
+  return `<svg class="evolucao" viewBox="0 0 ${w} ${alt}" preserveAspectRatio="none" aria-hidden="true">
+    <path d="${d}" fill="none" stroke="${desceu ? 'var(--descida)' : 'var(--betume)'}" stroke-width="1.5"
+      stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+  </svg>`;
+}
+
 function desenhar(){
-  let lista = dados.products.filter(p =>
-    dimensaoAtiva === 'todas' || p.dimensao === dimensaoAtiva
-  );
+  let lista = dados.products
+    .filter(p => dimensaoAtiva === 'todas' || p.dimensao === dimensaoAtiva)
+    .map(p => {
+      if (lojaAtiva === 'todas') return p;
+      const so = p.prices.filter(x => x.store === lojaAtiva);
+      if (!so.length) return null;
+      return { ...p, prices: so, preco_final: so[0].preco_final };
+    })
+    .filter(Boolean);
 
   lista = [...lista].sort((a, b) => {
     let va = a[ordem.campo], vb = b[ordem.campo];
@@ -133,7 +182,7 @@ function desenhar(){
   });
 
   if (!lista.length){
-    el('conteudo').innerHTML = '<div class="vazio">Sem produtos para esta medida.</div>';
+    el('conteudo').innerHTML = '<div class="vazio">Sem produtos para este filtro.</div>';
     return;
   }
 
@@ -144,6 +193,8 @@ function desenhar(){
       : fmt(x.preco_final);
     return `${x.store}: ${detalhe}`;
   };
+
+  const dataCurta = iso => new Date(iso).toLocaleDateString('pt-PT', {day:'numeric', month:'short'});
 
   const linhas = lista.map(p => {
     const mostrar = p.prices.slice(0, 3);
@@ -157,8 +208,10 @@ function desenhar(){
       ? `<span class="desconto">-${fmt(melhor.preco_desconto)}</span>` : '';
     return `<tr>
       <td class="preco">${fmt(p.preco_final)}${descontoBadge}</td>
-      <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}</td>
+      <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}
+        ${evolucao(melhor.history)}</td>
       <td class="lojas">${lojasTxt}</td>
+      <td class="quando">${dataCurta(melhor.atualizado)}</td>
     </tr>`;
   }).join('');
 
@@ -168,6 +221,7 @@ function desenhar(){
       <th class="${ordem.campo==='preco_final'?'ativo':''}" onclick="ordenarPor('preco_final')">Preço${seta('preco_final')}</th>
       <th class="${ordem.campo==='name'?'ativo':''}" onclick="ordenarPor('name')">Produto${seta('name')}</th>
       <th>Lojas</th>
+      <th>Visto em</th>
     </tr></thead>
     <tbody>${linhas}</tbody>
   </table>`;

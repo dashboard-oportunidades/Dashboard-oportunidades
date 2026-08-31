@@ -12,7 +12,7 @@ $env:Path = $machinePath + ';' + $userPath
 python recolher_outlet.py
 $exit = $LASTEXITCODE
 
-git add docs/outlet.json
+git add docs/outlet.json outlet_state.json
 git diff --cached --quiet
 $hasChanges = $LASTEXITCODE -ne 0
 if ($hasChanges) {
@@ -24,5 +24,5 @@ if ($hasChanges) {
 }
 
 if ($exit -ne 0) {
-    Write-Host "`nAviso: o recolher_outlet.py parou mais cedo (bloqueio ou erro). O que tinha sido recolhido ate la ja foi publicado acima." -ForegroundColor Yellow
+    Write-Host "`nFicaram lojas por visitar nesta corrida -- corre outra vez mais tarde para as apanhar (as ja recolhidas ficam guardadas)." -ForegroundColor Yellow
 }

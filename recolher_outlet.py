@@ -21,7 +21,9 @@ from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent
 CONFIG_FILE = ROOT / "config.json"
+STATE_FILE = ROOT / "outlet_state.json"
 OUT_FILE = ROOT / "docs" / "outlet.json"
+HISTORY_LIMIT = 180
 
 OUTLET_URL = (
     "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
@@ -181,9 +183,84 @@ def wait_for_human(page, timeout_s: int = 300) -> bool:
     return False
 
 
-def save_results(results: dict[str, dict]) -> int:
+def load_state() -> dict:
+    if not STATE_FILE.exists():
+        return {"products": {}}
+    try:
+        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        print("outlet_state.json ilegivel, a comecar do zero", file=sys.stderr)
+        return {"products": {}}
+
+
+def save_state(state: dict) -> None:
+    STATE_FILE.write_text(
+        json.dumps(state, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8"
+    )
+
+
+def ordenar_por_antiguidade(stores: list[dict], state: dict) -> list[dict]:
+    """Poe primeiro as lojas nunca visitadas ou visitadas ha mais tempo, para
+    uma corrida interrompida nao ficar sempre a falhar nas mesmas do fim."""
+    visitas = state.get("lojas", {})
+
+    def chave(store: dict) -> str:
+        return visitas.get(store_label(store), "")  # "" ordena primeiro
+
+    return sorted(stores, key=chave)
+
+
+def update_store_in_state(state: dict, store_label: str, products: dict[str, dict]) -> None:
+    """So mexe nas entradas desta loja -- as outras lojas ficam como estavam,
+    mesmo que esta corrida tenha parado antes de as visitar."""
+    hoje = dt.date.today().isoformat()
+    agora = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    state.setdefault("lojas", {})[store_label] = agora
+    sufixo = f"@{store_label}"
+
+    for key in [k for k in state["products"] if k.endswith(sufixo)]:
+        del state["products"][key]
+
+    for pid, data in products.items():
+        key = f"{pid}{sufixo}"
+        anterior = state["products"].get(key)
+        historico = anterior.get("history", []) if anterior else []
+        preco = data["preco_final"]
+        if not historico or abs(historico[-1][1] - preco) > 0.001:
+            historico.append([hoje, preco])
+        else:
+            historico[-1][0] = hoje
+        state["products"][key] = {
+            "id": pid,
+            "store": store_label,
+            "name": data["name"],
+            "url": data["url"],
+            "dimensao": data["dimensao"],
+            "preco_normal": data["preco_normal"],
+            "preco_desconto": data["preco_desconto"],
+            "preco_final": preco,
+            "atualizado": agora,
+            "history": historico[-HISTORY_LIMIT:],
+        }
+
+
+def export_outlet_json(state: dict) -> int:
+    por_produto: dict[str, dict] = {}
+    for entry in state["products"].values():
+        grupo = por_produto.setdefault(entry["id"], {
+            "name": entry["name"], "url": entry["url"], "dimensao": entry["dimensao"], "prices": [],
+        })
+        grupo["prices"].append({
+            "store": entry["store"],
+            "preco_normal": entry["preco_normal"],
+            "preco_desconto": entry["preco_desconto"],
+            "preco_final": entry["preco_final"],
+            "atualizado": entry["atualizado"],
+            "history": entry.get("history", []),
+        })
+
     products = []
-    for pid, data in results.items():
+    for pid, data in por_produto.items():
         prices = sorted(data["prices"], key=lambda r: r["preco_final"])
         products.append({
             "id": pid,
@@ -211,7 +288,9 @@ def main() -> int:
     if not stores:
         sys.exit("Nenhuma loja com cookies em config.json.")
 
-    results: dict[str, dict] = {}
+    state = load_state()
+    stores = ordenar_por_antiguidade(stores, state)
+    visitadas = 0
     blocked = False
 
     with sync_playwright() as p:
@@ -222,7 +301,7 @@ def main() -> int:
         try:
             for i, store in enumerate(stores):
                 if i > 0:
-                    pausa = random.uniform(6, 12)
+                    pausa = random.uniform(10, 15)
                     print(f"  (pausa de {pausa:.0f}s antes da proxima loja)")
                     time.sleep(pausa)
 
@@ -235,7 +314,8 @@ def main() -> int:
 
                 if is_captcha(page.content()):
                     if not wait_for_human(page):
-                        print("  ! desisti de esperar pelo CAPTCHA.", file=sys.stderr)
+                        print(f"  ! {label}: desisti de esperar pelo CAPTCHA -- "
+                              f"fica para a proxima corrida.", file=sys.stderr)
                         continue
                     page.goto(OUTLET_URL, wait_until="domcontentloaded", timeout=60000)
                     page.wait_for_timeout(2000)
@@ -244,19 +324,11 @@ def main() -> int:
                 products = parse_listing(html)
                 print(f"  {len(products)} produtos")
 
-                for pid, data in products.items():
-                    entry = results.setdefault(pid, {
-                        "name": data["name"],
-                        "url": data["url"],
-                        "dimensao": data["dimensao"],
-                        "prices": [],
-                    })
-                    entry["prices"].append({
-                        "store": label,
-                        "preco_normal": data["preco_normal"],
-                        "preco_desconto": data["preco_desconto"],
-                        "preco_final": data["preco_final"],
-                    })
+                # Visita valida mesmo com 0 produtos -- pode ser mesmo que
+                # esta loja nao tenha outlet de bases de duche agora.
+                update_store_in_state(state, label, products)
+                save_state(state)
+                visitadas += 1
         except BlockedError as exc:
             blocked = True
             print(f"\n!!! {exc}", file=sys.stderr)
@@ -266,10 +338,11 @@ def main() -> int:
             except Exception:
                 pass
 
-    save_results(results)
-    if blocked:
-        print("Parei mais cedo por causa do bloqueio -- o que ja tinha sido "
-              "recolhido ficou gravado. Tenta outra vez mais tarde.")
+    export_outlet_json(state)
+    print(f"{visitadas}/{len(stores)} lojas visitadas nesta corrida "
+          f"({len(state.get('lojas', {}))} no total ja alguma vez visitadas).")
+    if blocked or visitadas < len(stores):
+        print("Ficaram lojas por visitar -- a proxima corrida comeca por elas.")
         return 1
     return 0
 
