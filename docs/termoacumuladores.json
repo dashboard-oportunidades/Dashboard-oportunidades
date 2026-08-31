@@ -1,6 +1,29 @@
 {
-  "generated": "2026-08-31T22:05:12+00:00",
+  "generated": "2026-08-31T22:06:14+00:00",
   "products": [
+    {
+      "id": "75347816",
+      "name": "Termoacumulador HTW Smart Lite 80 litros",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-lite-80-litros-75347816.html",
+      "dimensao": "80L",
+      "preco_final": 149,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 169,
+          "preco_desconto": 20,
+          "preco_final": 149,
+          "atualizado": "2026-08-31T22:05:47+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              149
+            ]
+          ]
+        }
+      ]
+    },
     {
       "id": "82005350",
       "name": "Termoacumulador EQUATION Q2 50L",
@@ -203,7 +226,7 @@
           "preco_normal": 469,
           "preco_desconto": 81,
           "preco_final": 388,
-          "atualizado": "2026-08-31T15:14:32+00:00",
+          "atualizado": "2026-08-31T22:06:14+00:00",
           "history": [
             [
               "2026-08-31",
