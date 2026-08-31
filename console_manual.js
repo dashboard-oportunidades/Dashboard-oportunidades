@@ -39,11 +39,13 @@
         const dim = nome.match(/(\d{2,3})\s*[xX]\s*(\d{2,3})/);
         const btu = nome.match(/(\d{4,5})\s*\.?\s*BTU/i);
         const btuK = nome.match(/(\d{1,2})\s*K\s*\.?\s*BTU/i);
+        const btuDot = nome.match(/(\d{1,2})\.\s*BTU/i);
         const lit = nome.match(/(\d{2,4})\s*[lL](?:itros?)?\b/);
         let dimensao = null;
         if (dim) dimensao = `${Math.max(+dim[1], +dim[2])}x${Math.min(+dim[1], +dim[2])}`;
         else if (btu) dimensao = `${btu[1]} BTU`;
         else if (btuK) dimensao = `${+btuK[1] * 1000} BTU`;
+        else if (btuDot) dimensao = `${+btuDot[1] * 1000} BTU`;
         else if (lit) dimensao = `${lit[1]}L`;
         const entry = {
           name: produto.name,

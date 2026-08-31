@@ -66,6 +66,7 @@ CATEGORIAS = {
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
 BTU_RE = re.compile(r"(\d{4,5})\s*\.?\s*BTU", re.IGNORECASE)
 BTU_K_RE = re.compile(r"(\d{1,2})\s*K\s*\.?\s*BTU", re.IGNORECASE)
+BTU_DOT_RE = re.compile(r"(\d{1,2})\.\s*BTU", re.IGNORECASE)
 LITROS_RE = re.compile(r"(\d{2,4})\s*[lL](?:itros?)?\b")
 
 
@@ -84,6 +85,9 @@ def extrair_atributo(name: str) -> str | None:
     btu_k_match = BTU_K_RE.search(name)
     if btu_k_match:
         return f"{int(btu_k_match.group(1)) * 1000} BTU"
+    btu_dot_match = BTU_DOT_RE.search(name)
+    if btu_dot_match:
+        return f"{int(btu_dot_match.group(1)) * 1000} BTU"
     litros_match = LITROS_RE.search(name)
     if litros_match:
         return f"{litros_match.group(1)}L"
