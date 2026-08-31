@@ -30,10 +30,14 @@
           produto.url && produto.url.startsWith('/')
             ? location.origin + produto.url
             : produto.url;
-        const dim = (produto.name || '').match(/(\d{2,3})\s*[xX]\s*(\d{2,3})/);
-        const dimensao = dim
-          ? `${Math.max(+dim[1], +dim[2])}x${Math.min(+dim[1], +dim[2])}`
-          : null;
+        const nome = produto.name || '';
+        const dim = nome.match(/(\d{2,3})\s*[xX]\s*(\d{2,3})/);
+        const btu = nome.match(/(\d{4,5})\s*\.?\s*BTU/i);
+        const lit = nome.match(/(\d{2,4})\s*[lL](?:itros?)?\b/);
+        let dimensao = null;
+        if (dim) dimensao = `${Math.max(+dim[1], +dim[2])}x${Math.min(+dim[1], +dim[2])}`;
+        else if (btu) dimensao = `${btu[1]} BTU`;
+        else if (lit) dimensao = `${lit[1]}L`;
         const entry = {
           name: produto.name,
           url,
@@ -50,7 +54,13 @@
   });
 
   const loja = prompt('Nome da loja atual? (ex: Alta de Lisboa)');
+  if (loja === null) return;
   const resultado = { loja, produtos: found };
-  copy(JSON.stringify(resultado));
-  alert('Copiado! ' + Object.keys(found).length + ' produtos. Cola no chat.');
+  const texto = JSON.stringify(resultado);
+  const n = Object.keys(found).length;
+  navigator.clipboard.writeText(texto).then(() => {
+    alert('Copiado! ' + n + ' produtos. Cola no chat.');
+  }).catch(() => {
+    prompt('Não consegui copiar sozinho -- copia isto (Ctrl+C) e cola no chat:', texto);
+  });
 })();
