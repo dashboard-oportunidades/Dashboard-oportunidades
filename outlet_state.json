@@ -4,6 +4,7 @@
     "Almada (Setubal)": "2026-08-31T12:17:18+00:00",
     "Alta de Lisboa (Lisboa)": "2026-08-31T12:07:47+00:00",
     "Amadora (Lisboa)": "2026-08-31T12:16:43+00:00",
+    "Aveiro (Aveiro)": "2026-08-31T12:25:32+00:00",
     "Braga (Braga)": "2026-08-31T12:22:36+00:00",
     "Braganca (Braganca)": "2026-08-31T12:19:22+00:00",
     "Caldas da Rainha (Leiria)": "2026-08-31T12:22:38+00:00",
@@ -11,11 +12,17 @@
     "Cascais (Lisboa)": "2026-08-31T12:15:24+00:00",
     "Castelo Branco (Castelo Branco)": "2026-08-31T12:22:41+00:00",
     "Chaves (Vila Real)": "2026-08-31T12:19:23+00:00",
+    "Coimbra (Coimbra)": "2026-08-31T12:25:30+00:00",
     "Colombo (Lisboa)": "2026-08-31T12:15:23+00:00",
+    "Covilha (Castelo Branco)": "2026-08-31T12:23:44+00:00",
+    "Figueira da Foz (Coimbra)": "2026-08-31T12:25:32+00:00",
+    "Gondomar (Porto)": "2026-08-31T12:25:35+00:00",
     "Guarda (Guarda)": "2026-08-31T12:22:34+00:00",
     "Guimaraes (Braga)": "2026-08-31T12:22:35+00:00",
     "Leiria (Leiria)": "2026-08-31T12:22:39+00:00",
     "Loures (Lisboa)": "2026-08-31T12:19:19+00:00",
+    "Maia (Porto)": "2026-08-31T12:25:33+00:00",
+    "Matosinhos (Porto)": "2026-08-31T12:25:34+00:00",
     "Montijo (Setubal)": "2026-08-31T12:22:41+00:00",
     "Oeiras (Lisboa)": "2026-08-31T12:13:17+00:00",
     "Penafiel (Porto)": "2026-08-31T12:19:23+00:00",
@@ -24,7 +31,8 @@
     "Sintra (Lisboa)": "2026-08-31T12:16:42+00:00",
     "Telheiras (Lisboa)": "2026-08-31T12:15:54+00:00",
     "Torres Novas (Santarem)": "2026-08-31T12:22:37+00:00",
-    "Torres Vedras (Lisboa)": "2026-08-31T12:22:40+00:00"
+    "Torres Vedras (Lisboa)": "2026-08-31T12:22:40+00:00",
+    "Viseu (Viseu)": "2026-08-31T12:25:31+00:00"
   },
   "products": {
     "16872240@Cascais (Lisboa)": {
@@ -171,6 +179,24 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
     },
+    "82002223@Aveiro (Aveiro)": {
+      "atualizado": "2026-08-31T12:25:32+00:00",
+      "dimensao": "120x70",
+      "history": [
+        [
+          "2026-08-31",
+          218
+        ]
+      ],
+      "id": "82002223",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 120X70CM",
+      "preco_desconto": 0,
+      "preco_final": 218,
+      "preco_normal": 218,
+      "region": "Aveiro",
+      "store": "Aveiro (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
+    },
     "82002223@Caldas da Rainha (Leiria)": {
       "atualizado": "2026-08-31T12:22:38+00:00",
       "dimensao": "120x70",
@@ -261,6 +287,24 @@
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-branca-120x80cm-82002228.html"
     },
+    "82002238@Maia (Porto)": {
+      "atualizado": "2026-08-31T12:25:33+00:00",
+      "dimensao": "120x70",
+      "history": [
+        [
+          "2026-08-31",
+          218
+        ]
+      ],
+      "id": "82002238",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 120X70CM",
+      "preco_desconto": 0,
+      "preco_final": 218,
+      "preco_normal": 218,
+      "region": "Porto",
+      "store": "Maia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-120x70cm-82002238.html"
+    },
     "82002238@Montijo (Setubal)": {
       "atualizado": "2026-08-31T12:22:41+00:00",
       "dimensao": "120x70",
@@ -278,6 +322,24 @@
       "region": "Setubal",
       "store": "Montijo (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-120x70cm-82002238.html"
+    },
+    "82002242@Coimbra (Coimbra)": {
+      "atualizado": "2026-08-31T12:25:30+00:00",
+      "dimensao": "100x80",
+      "history": [
+        [
+          "2026-08-31",
+          161.98
+        ]
+      ],
+      "id": "82002242",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 100X80CM",
+      "preco_desconto": 122.02,
+      "preco_final": 161.98,
+      "preco_normal": 284,
+      "region": "Coimbra",
+      "store": "Coimbra (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-100x80cm-82002242.html"
     },
     "82002246@Alfragide (Lisboa)": {
       "atualizado": "2026-08-31T12:15:22+00:00",
@@ -459,6 +521,60 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-90x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227261.html"
     },
+    "84227261@Matosinhos (Porto)": {
+      "atualizado": "2026-08-31T12:25:34+00:00",
+      "dimensao": "90x70",
+      "history": [
+        [
+          "2026-08-31",
+          157
+        ]
+      ],
+      "id": "84227261",
+      "name": "Base de duche 90x70 cm branco mate efeito ardósia Obath Greenpact",
+      "preco_desconto": 62,
+      "preco_final": 157,
+      "preco_normal": 219,
+      "region": "Porto",
+      "store": "Matosinhos (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-90x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227261.html"
+    },
+    "84227264@Maia (Porto)": {
+      "atualizado": "2026-08-31T12:25:33+00:00",
+      "dimensao": "120x70",
+      "history": [
+        [
+          "2026-08-31",
+          187.97
+        ]
+      ],
+      "id": "84227264",
+      "name": "Base de duche 120x70 cm branco mate efeito ardósia Obath Greenpact",
+      "preco_desconto": 61.03,
+      "preco_final": 187.97,
+      "preco_normal": 249,
+      "region": "Porto",
+      "store": "Maia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-120x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227264.html"
+    },
+    "84227265@Aveiro (Aveiro)": {
+      "atualizado": "2026-08-31T12:25:32+00:00",
+      "dimensao": "130x70",
+      "history": [
+        [
+          "2026-08-31",
+          199
+        ]
+      ],
+      "id": "84227265",
+      "name": "Base de duche 130x70 cm branco mate efeito ardósia Obath Greenpact",
+      "preco_desconto": 60,
+      "preco_final": 199,
+      "preco_normal": 259,
+      "region": "Aveiro",
+      "store": "Aveiro (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-130x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227265.html"
+    },
     "84227538@Cascais (Lisboa)": {
       "atualizado": "2026-08-31T12:15:24+00:00",
       "dimensao": "150x70",
@@ -477,6 +593,24 @@
       "store": "Cascais (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-150x70-cm-bege-mate-efeito-ardosia-obath-greenpact-84227538.html"
     },
+    "84227562@Figueira da Foz (Coimbra)": {
+      "atualizado": "2026-08-31T12:25:32+00:00",
+      "dimensao": "150x80",
+      "history": [
+        [
+          "2026-08-31",
+          229
+        ]
+      ],
+      "id": "84227562",
+      "name": "Base de duche 150x80 cm moka mate efeito ardósia Obath Greenpact",
+      "preco_desconto": 90,
+      "preco_final": 229,
+      "preco_normal": 319,
+      "region": "Coimbra",
+      "store": "Figueira da Foz (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-150x80-cm-moka-mate-efeito-ardosia-obath-greenpact-84227562.html"
+    },
     "84834089@Guarda (Guarda)": {
       "atualizado": "2026-08-31T12:22:34+00:00",
       "dimensao": "70x100",
@@ -494,6 +628,24 @@
       "region": "Guarda",
       "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-70x100cm-grelha-metal-branco-mate-84834089.html"
+    },
+    "84834090@Viseu (Viseu)": {
+      "atualizado": "2026-08-31T12:25:31+00:00",
+      "dimensao": "70x120",
+      "history": [
+        [
+          "2026-08-31",
+          238
+        ]
+      ],
+      "id": "84834090",
+      "name": "Base de duche NEO 70X120CM GRELHA METAL BRANCO MATE",
+      "preco_desconto": 0,
+      "preco_final": 238,
+      "preco_normal": 238,
+      "region": "Viseu",
+      "store": "Viseu (Viseu)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-70x120cm-grelha-metal-branco-mate-84834090.html"
     },
     "84834102@Amadora (Lisboa)": {
       "atualizado": "2026-08-31T12:16:43+00:00",
@@ -548,6 +700,24 @@
       "region": "Setubal",
       "store": "Almada (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x140cm-grelha-metal-preto-mate-84834105.html"
+    },
+    "84834124@Gondomar (Porto)": {
+      "atualizado": "2026-08-31T12:25:35+00:00",
+      "dimensao": "70x120",
+      "history": [
+        [
+          "2026-08-31",
+          238
+        ]
+      ],
+      "id": "84834124",
+      "name": "Base de duche NEO 70X120CM GRELHA METAL PRETO MATE",
+      "preco_desconto": 0,
+      "preco_final": 238,
+      "preco_normal": 238,
+      "region": "Porto",
+      "store": "Gondomar (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-70x120cm-grelha-metal-preto-mate-84834124.html"
     },
     "86584060@Santarem (Santarem)": {
       "atualizado": "2026-08-31T12:22:36+00:00",
@@ -657,6 +827,24 @@
       "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x80-cm-branco-mate-sensea-easy-86584064.html"
     },
+    "86584064@Maia (Porto)": {
+      "atualizado": "2026-08-31T12:25:33+00:00",
+      "dimensao": "140x80",
+      "history": [
+        [
+          "2026-08-31",
+          168
+        ]
+      ],
+      "id": "86584064",
+      "name": "Base de duche 140x80 cm branco mate Sensea Easy",
+      "preco_desconto": 31,
+      "preco_final": 168,
+      "preco_normal": 199,
+      "region": "Porto",
+      "store": "Maia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x80-cm-branco-mate-sensea-easy-86584064.html"
+    },
     "86584065@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T12:07:47+00:00",
       "dimensao": "160x80",
@@ -711,6 +899,60 @@
       "store": "Braganca (Braganca)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-80x170-preto-mate-88286908.html"
     },
+    "88286913@Aveiro (Aveiro)": {
+      "atualizado": "2026-08-31T12:25:32+00:00",
+      "dimensao": "70x140",
+      "history": [
+        [
+          "2026-08-31",
+          137
+        ]
+      ],
+      "id": "88286913",
+      "name": "Base de duche SENSEA REMIX RESINA 70X140 CINZENTO MATE",
+      "preco_desconto": 44,
+      "preco_final": 137,
+      "preco_normal": 181,
+      "region": "Aveiro",
+      "store": "Aveiro (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-70x140-cinzento-mate-88286913.html"
+    },
+    "88286913@Coimbra (Coimbra)": {
+      "atualizado": "2026-08-31T12:25:30+00:00",
+      "dimensao": "70x140",
+      "history": [
+        [
+          "2026-08-31",
+          149
+        ]
+      ],
+      "id": "88286913",
+      "name": "Base de duche SENSEA REMIX RESINA 70X140 CINZENTO MATE",
+      "preco_desconto": 32,
+      "preco_final": 149,
+      "preco_normal": 181,
+      "region": "Coimbra",
+      "store": "Coimbra (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-70x140-cinzento-mate-88286913.html"
+    },
+    "88286913@Matosinhos (Porto)": {
+      "atualizado": "2026-08-31T12:25:34+00:00",
+      "dimensao": "70x140",
+      "history": [
+        [
+          "2026-08-31",
+          137
+        ]
+      ],
+      "id": "88286913",
+      "name": "Base de duche SENSEA REMIX RESINA 70X140 CINZENTO MATE",
+      "preco_desconto": 44,
+      "preco_final": 137,
+      "preco_normal": 181,
+      "region": "Porto",
+      "store": "Matosinhos (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-70x140-cinzento-mate-88286913.html"
+    },
     "88286913@Penafiel (Porto)": {
       "atualizado": "2026-08-31T12:19:23+00:00",
       "dimensao": "70x140",
@@ -728,6 +970,24 @@
       "region": "Porto",
       "store": "Penafiel (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-70x140-cinzento-mate-88286913.html"
+    },
+    "88286915@Covilha (Castelo Branco)": {
+      "atualizado": "2026-08-31T12:23:44+00:00",
+      "dimensao": "80x120",
+      "history": [
+        [
+          "2026-08-31",
+          145
+        ]
+      ],
+      "id": "88286915",
+      "name": "Base de duche SENSEA REMIX RESINA 80X120 BRANCO MATE",
+      "preco_desconto": 0,
+      "preco_final": 145,
+      "preco_normal": 145,
+      "region": "Castelo Branco",
+      "store": "Covilha (Castelo Branco)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-80x120-branco-mate-88286915.html"
     },
     "88286943@Braganca (Braganca)": {
       "atualizado": "2026-08-31T12:19:22+00:00",
@@ -765,6 +1025,24 @@
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html"
     },
+    "88672190@Viseu (Viseu)": {
+      "atualizado": "2026-08-31T12:25:31+00:00",
+      "dimensao": "160x70",
+      "history": [
+        [
+          "2026-08-31",
+          148
+        ]
+      ],
+      "id": "88672190",
+      "name": "Base de duche ardósia 160x70 cm branco Musa",
+      "preco_desconto": 0,
+      "preco_final": 148,
+      "preco_normal": 148,
+      "region": "Viseu",
+      "store": "Viseu (Viseu)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html"
+    },
     "89863859@Caldas da Rainha (Leiria)": {
       "atualizado": "2026-08-31T12:22:38+00:00",
       "dimensao": "100x70",
@@ -782,6 +1060,42 @@
       "region": "Leiria",
       "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-100x70-cm-bege-musa-89863859.html"
+    },
+    "91835292@Figueira da Foz (Coimbra)": {
+      "atualizado": "2026-08-31T12:25:32+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-08-31",
+          108
+        ]
+      ],
+      "id": "91835292",
+      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
+      "preco_desconto": 21,
+      "preco_final": 108,
+      "preco_normal": 129,
+      "region": "Coimbra",
+      "store": "Figueira da Foz (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835292.html"
+    },
+    "91835295@Figueira da Foz (Coimbra)": {
+      "atualizado": "2026-08-31T12:25:32+00:00",
+      "dimensao": "100x70",
+      "history": [
+        [
+          "2026-08-31",
+          118
+        ]
+      ],
+      "id": "91835295",
+      "name": "Base de duche Resina 100x70 cm branco mate Sensea Easy V2",
+      "preco_desconto": 21,
+      "preco_final": 118,
+      "preco_normal": 139,
+      "region": "Coimbra",
+      "store": "Figueira da Foz (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-100x70-cm-branco-mate-sensea-easy-v2-91835295.html"
     },
     "91835297@Amadora (Lisboa)": {
       "atualizado": "2026-08-31T12:16:43+00:00",
@@ -837,6 +1151,24 @@
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
     },
+    "91835297@Maia (Porto)": {
+      "atualizado": "2026-08-31T12:25:33+00:00",
+      "dimensao": "140x80",
+      "history": [
+        [
+          "2026-08-31",
+          158
+        ]
+      ],
+      "id": "91835297",
+      "name": "Base de duche Resina 140x80 cm branco mate Sensea Easy V2",
+      "preco_desconto": 34,
+      "preco_final": 158,
+      "preco_normal": 192,
+      "region": "Porto",
+      "store": "Maia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
+    },
     "91835297@Montijo (Setubal)": {
       "atualizado": "2026-08-31T12:22:41+00:00",
       "dimensao": "140x80",
@@ -853,6 +1185,24 @@
       "preco_normal": 192,
       "region": "Setubal",
       "store": "Montijo (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
+    },
+    "91835297@Viseu (Viseu)": {
+      "atualizado": "2026-08-31T12:25:31+00:00",
+      "dimensao": "140x80",
+      "history": [
+        [
+          "2026-08-31",
+          158
+        ]
+      ],
+      "id": "91835297",
+      "name": "Base de duche Resina 140x80 cm branco mate Sensea Easy V2",
+      "preco_desconto": 0,
+      "preco_final": 158,
+      "preco_normal": 158,
+      "region": "Viseu",
+      "store": "Viseu (Viseu)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
     },
     "91835298@Caldas da Rainha (Leiria)": {
@@ -1070,6 +1420,24 @@
       "region": "Lisboa",
       "store": "Cascais (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-preto-mate-sensea-neo-95043609.html"
+    },
+    "95043678@Coimbra (Coimbra)": {
+      "atualizado": "2026-08-31T12:25:30+00:00",
+      "dimensao": "170x80",
+      "history": [
+        [
+          "2026-08-31",
+          349
+        ]
+      ],
+      "id": "95043678",
+      "name": "Base de duche 170x80 cm branco mate Sensea Neo",
+      "preco_desconto": 25,
+      "preco_final": 349,
+      "preco_normal": 374,
+      "region": "Coimbra",
+      "store": "Coimbra (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-170x80-cm-branco-mate-sensea-neo-95043678.html"
     }
   }
 }
