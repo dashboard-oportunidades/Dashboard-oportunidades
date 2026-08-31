@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:12:06+00:00",
+  "generated": "2026-08-31T22:13:37+00:00",
   "products": [
     {
       "id": "82005354",
@@ -240,6 +240,20 @@
             [
               "2026-08-31",
               298
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 449,
+          "preco_desconto": 81,
+          "preco_final": 368,
+          "atualizado": "2026-08-31T22:13:36+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              368
             ]
           ]
         }
