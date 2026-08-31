@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:09:49+00:00",
+  "generated": "2026-08-31T22:10:57+00:00",
   "products": [
     {
       "id": "82005354",
@@ -131,29 +131,6 @@
       ]
     },
     {
-      "id": "89834463",
-      "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
-      "dimensao": "100L",
-      "preco_final": 228,
-      "prices": [
-        {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 270,
-          "preco_desconto": 42,
-          "preco_final": 228,
-          "atualizado": "2026-08-31T22:02:36+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              228
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "81988416",
       "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html",
@@ -167,6 +144,29 @@
           "preco_desconto": 46,
           "preco_final": 228,
           "atualizado": "2026-08-31T22:09:49+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              228
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89834463",
+      "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
+      "dimensao": "100L",
+      "preco_final": 228,
+      "prices": [
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 270,
+          "preco_desconto": 42,
+          "preco_final": 228,
+          "atualizado": "2026-08-31T22:02:36+00:00",
           "history": [
             [
               "2026-08-31",
@@ -217,6 +217,29 @@
             [
               "2026-08-31",
               239.99
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81940803",
+      "name": "Termoacumulador indimante inox tel1500w v/h 60l",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html",
+      "dimensao": "60L",
+      "preco_final": 298,
+      "prices": [
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 449,
+          "preco_desconto": 151,
+          "preco_final": 298,
+          "atualizado": "2026-08-31T22:10:57+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              298
             ]
           ]
         }
