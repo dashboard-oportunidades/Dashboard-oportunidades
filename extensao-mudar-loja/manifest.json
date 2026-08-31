@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Mudar Loja - Leroy Merlin",
+  "version": "1.0",
+  "description": "Troca de loja no leroymerlin.pt escrevendo o cookie 'store' diretamente. Funciona mesmo esse cookie sendo HttpOnly, porque a API chrome.cookies corre ao nivel do browser, nao da pagina.",
+  "permissions": ["cookies", "storage", "tabs", "scripting"],
+  "host_permissions": ["*://*.leroymerlin.pt/*"],
+  "action": {
+    "default_title": "Clica para ir para a proxima loja"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
