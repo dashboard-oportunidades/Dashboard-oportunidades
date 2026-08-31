@@ -205,6 +205,12 @@ def parse_listing(html: str) -> dict[str, dict]:
             card = card.parent
             if card is None:
                 break
+            outros_ids = {
+                m2.group(1) for a2 in card.find_all("a", href=True)
+                if (m2 := PRODUCT_HREF_RE.search(a2["href"]))
+            }
+            if len(outros_ids) > 1:
+                break
             card_text = normalise(card.get_text(" ", strip=True))
             prices = extract_prices(card_text)
             if prices:
