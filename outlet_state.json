@@ -5,6 +5,7 @@
     "Alta de Lisboa (Lisboa)": "2026-08-31T12:07:47+00:00",
     "Amadora (Lisboa)": "2026-08-31T12:16:43+00:00",
     "Aveiro (Aveiro)": "2026-08-31T12:25:32+00:00",
+    "Barcelos (Braga)": "2026-08-31T12:27:55+00:00",
     "Braga (Braga)": "2026-08-31T12:22:36+00:00",
     "Braganca (Braganca)": "2026-08-31T12:19:22+00:00",
     "Caldas da Rainha (Leiria)": "2026-08-31T12:22:38+00:00",
@@ -34,6 +35,7 @@
     "Telheiras (Lisboa)": "2026-08-31T12:15:54+00:00",
     "Torres Novas (Santarem)": "2026-08-31T12:22:37+00:00",
     "Torres Vedras (Lisboa)": "2026-08-31T12:22:40+00:00",
+    "Viana do Castelo (Viana do Castelo)": "2026-08-31T12:27:53+00:00",
     "Viseu (Viseu)": "2026-08-31T12:25:31+00:00"
   },
   "products": {
@@ -252,6 +254,24 @@
       "region": "Vila Real",
       "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
+    },
+    "82002225@Barcelos (Braga)": {
+      "atualizado": "2026-08-31T12:27:55+00:00",
+      "dimensao": "160x70",
+      "history": [
+        [
+          "2026-08-31",
+          178
+        ]
+      ],
+      "id": "82002225",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 160X70CM",
+      "preco_desconto": 156,
+      "preco_final": 178,
+      "preco_normal": 334,
+      "region": "Braga",
+      "store": "Barcelos (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-160x70cm-82002225.html"
     },
     "82002225@Braga (Braga)": {
       "atualizado": "2026-08-31T12:22:36+00:00",
@@ -505,6 +525,24 @@
       "store": "Braga (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-valvula-rebaixada-120x70-cm-branco-pietra-82271967.html"
     },
+    "82271969@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-08-31T12:27:53+00:00",
+      "dimensao": "160x70",
+      "history": [
+        [
+          "2026-08-31",
+          379
+        ]
+      ],
+      "id": "82271969",
+      "name": "Base de duche válvula rebaixada 160x70 cm branco Pietra",
+      "preco_desconto": 110,
+      "preco_final": 379,
+      "preco_normal": 489,
+      "region": "Viana do Castelo",
+      "store": "Viana do Castelo (Viana do Castelo)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-valvula-rebaixada-160x70-cm-branco-pietra-82271969.html"
+    },
     "82307234@Santarem (Santarem)": {
       "atualizado": "2026-08-31T12:22:36+00:00",
       "dimensao": "140x70",
@@ -558,6 +596,42 @@
       "region": "Leiria",
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-marmore-branca-100x80cm-82307237.html"
+    },
+    "82307262@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-08-31T12:27:53+00:00",
+      "dimensao": "100x80",
+      "history": [
+        [
+          "2026-08-31",
+          148
+        ]
+      ],
+      "id": "82307262",
+      "name": "Base de duche SENSEA NEO MARMORE TRAV 100X80CM",
+      "preco_desconto": 125,
+      "preco_final": 148,
+      "preco_normal": 273,
+      "region": "Viana do Castelo",
+      "store": "Viana do Castelo (Viana do Castelo)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-marmore-trav-100x80cm-82307262.html"
+    },
+    "83728706@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-08-31T12:27:53+00:00",
+      "dimensao": "80x150",
+      "history": [
+        [
+          "2026-08-31",
+          279
+        ]
+      ],
+      "id": "83728706",
+      "name": "Base de duche  80X150 cm antricite Stone",
+      "preco_desconto": 70,
+      "preco_final": 279,
+      "preco_normal": 349,
+      "region": "Viana do Castelo",
+      "store": "Viana do Castelo (Viana do Castelo)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x150-cm-antricite-stone-83728706.html"
     },
     "84227261@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T12:07:47+00:00",
@@ -630,6 +704,24 @@
       "region": "Aveiro",
       "store": "Aveiro (Aveiro)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-130x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227265.html"
+    },
+    "84227384@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-08-31T12:27:53+00:00",
+      "dimensao": "160x80",
+      "history": [
+        [
+          "2026-08-31",
+          248
+        ]
+      ],
+      "id": "84227384",
+      "name": "Base de duche 160x80 cm creme mate efeito ardósia Obath Greenpact",
+      "preco_desconto": 91,
+      "preco_final": 248,
+      "preco_normal": 339,
+      "region": "Viana do Castelo",
+      "store": "Viana do Castelo (Viana do Castelo)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x80-cm-creme-mate-efeito-ardosia-obath-greenpact-84227384.html"
     },
     "84227538@Cascais (Lisboa)": {
       "atualizado": "2026-08-31T12:15:24+00:00",
@@ -1332,6 +1424,24 @@
       "region": "Viseu",
       "store": "Viseu (Viseu)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
+    },
+    "91835298@Barcelos (Braga)": {
+      "atualizado": "2026-08-31T12:27:55+00:00",
+      "dimensao": "90x70",
+      "history": [
+        [
+          "2026-08-31",
+          108
+        ]
+      ],
+      "id": "91835298",
+      "name": "Base de duche Resina 90x70 cm branco mate Sensea Easy V2",
+      "preco_desconto": 21,
+      "preco_final": 108,
+      "preco_normal": 129,
+      "region": "Braga",
+      "store": "Barcelos (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-90x70-cm-branco-mate-sensea-easy-v2-91835298.html"
     },
     "91835298@Caldas da Rainha (Leiria)": {
       "atualizado": "2026-08-31T12:22:38+00:00",
