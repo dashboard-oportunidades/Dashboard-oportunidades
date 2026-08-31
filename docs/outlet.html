@@ -66,9 +66,9 @@ td{padding:12px 10px;vertical-align:top}
 .lojas{font-size:13px;color:var(--betume);line-height:1.5}
 .lojas b{font-weight:600;color:var(--ardosia)}
 .antes{color:var(--betume);font-weight:400}
-.desconto{
-  display:inline-block;font-size:12px;font-weight:700;padding:1px 7px;border-radius:999px;
-  background:var(--descida);color:#fff;margin-left:6px;vertical-align:2px;
+.desconto-col{
+  font-family:var(--display);font-weight:700;font-size:15px;color:var(--descida);
+  font-variant-numeric:tabular-nums;white-space:nowrap;
 }
 .vazio{padding:40px 10px;text-align:center;color:var(--betume)}
 .quando{font-size:13px;color:var(--betume);white-space:nowrap}
@@ -194,7 +194,12 @@ function desenhar(){
       if (lojaAtiva !== 'todas') precos = precos.filter(x => x.store === lojaAtiva);
       if (!precos.length) return null;
       precos = [...precos].sort((a, b) => a.preco_final - b.preco_final);
-      return { ...p, prices: precos, preco_final: precos[0].preco_final };
+      return {
+        ...p,
+        prices: precos,
+        preco_final: precos[0].preco_final,
+        preco_desconto: precos[0].preco_desconto,
+      };
     })
     .filter(Boolean);
 
@@ -229,10 +234,10 @@ function desenhar(){
       .join(' · ') + (resto > 0 ? ` · mais ${resto}` : '');
     const dimBadge = p.dimensao ? `<span class="dim">${p.dimensao} cm</span>` : '';
     const melhor = p.prices[0];
-    const descontoBadge = melhor.preco_desconto > 0
-      ? `<span class="desconto">-${fmt(melhor.preco_desconto)}</span>` : '';
+    const descontoTxt = p.preco_desconto > 0 ? `-${fmt(p.preco_desconto)}` : '—';
     return `<tr>
-      <td class="preco">${fmt(p.preco_final)}${descontoBadge}</td>
+      <td class="preco">${fmt(p.preco_final)}</td>
+      <td class="desconto-col">${descontoTxt}</td>
       <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}
         ${evolucao(melhor.history)}</td>
       <td class="lojas">${lojasTxt}</td>
@@ -244,6 +249,7 @@ function desenhar(){
   el('conteudo').innerHTML = `<table>
     <thead><tr>
       <th class="${ordem.campo==='preco_final'?'ativo':''}" onclick="ordenarPor('preco_final')">Preço${seta('preco_final')}</th>
+      <th class="${ordem.campo==='preco_desconto'?'ativo':''}" onclick="ordenarPor('preco_desconto')">Desconto${seta('preco_desconto')}</th>
       <th class="${ordem.campo==='name'?'ativo':''}" onclick="ordenarPor('name')">Produto${seta('name')}</th>
       <th>Lojas</th>
       <th>Visto em</th>
