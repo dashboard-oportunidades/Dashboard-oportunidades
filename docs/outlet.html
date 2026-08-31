@@ -196,7 +196,11 @@ function dimCanonica(dim){
 function dimensoes(produtos){
   const s = new Set();
   produtos.forEach(p => { if (p.dimensao) s.add(dimCanonica(p.dimensao)); });
-  return [...s].sort();
+  return [...s].sort((a, b) => {
+    const na = parseInt(a, 10), nb = parseInt(b, 10);
+    if (!isNaN(na) && !isNaN(nb) && na !== nb) return na - nb;
+    return a.localeCompare(b);
+  });
 }
 
 function lojas(produtos){
