@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bases de duche</title>
+<meta name="theme-color" content="#ECEFEF">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ceramica:#ECEFEF;
+  --ardosia:#23282B;
+  --betume:#8E9899;
+  --agua:#0F5468;
+  --agua-clara:#CFE0E4;
+  --descida:#2F6B4F;
+  --linha:#D3D9D9;
+  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --corpo:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--ceramica);color:var(--ardosia);
+  font-family:var(--corpo);font-size:16px;line-height:1.45;
+  padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+.envolucro{max-width:640px;margin:0 auto;padding:24px 20px 64px}
+
+/* ---------- cabeçalho ---------- */
+header{margin-bottom:28px}
+h1{
+  font-family:var(--display);font-weight:700;font-size:30px;line-height:1.05;
+  letter-spacing:-.02em;margin:0 0 4px;
+}
+.actualizado{color:var(--betume);font-size:13px;margin:0}
+.contagem{
+  font-family:var(--display);font-weight:700;font-size:64px;line-height:.9;
+  letter-spacing:-.04em;color:var(--agua);margin:20px 0 2px;
+  font-variant-numeric:tabular-nums;
+}
+.contagem-nota{margin:0;font-size:15px;color:var(--ardosia)}
+
+/* ---------- controlo do limite ---------- */
+.limite{margin:26px 0 8px}
+.limite-topo{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+.limite-topo label{font-size:14px;color:var(--betume)}
+.limite-valor{
+  font-family:var(--display);font-weight:700;font-size:24px;
+  font-variant-numeric:tabular-nums;letter-spacing:-.02em;
+}
+input[type=range]{
+  -webkit-appearance:none;appearance:none;width:100%;height:34px;
+  background:transparent;margin:2px 0 0;
+}
+input[type=range]::-webkit-slider-runnable-track{
+  height:3px;background:var(--linha);border-radius:2px;
+}
+input[type=range]::-moz-range-track{height:3px;background:var(--linha);border-radius:2px}
+input[type=range]::-webkit-slider-thumb{
+  -webkit-appearance:none;width:28px;height:28px;border-radius:50%;
+  background:var(--agua);border:4px solid var(--ceramica);margin-top:-13px;
+  box-shadow:0 0 0 1px var(--agua);cursor:grab;
+}
+input[type=range]::-moz-range-thumb{
+  width:28px;height:28px;border-radius:50%;background:var(--agua);
+  border:4px solid var(--ceramica);box-shadow:0 0 0 1px var(--agua);cursor:grab;
+}
+input[type=range]:focus-visible{outline:2px solid var(--agua);outline-offset:6px;border-radius:4px}
+
+.filtros{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 0}
+.filtros button{
+  font:inherit;font-size:14px;padding:6px 13px;border-radius:999px;
+  border:1px solid var(--linha);background:transparent;color:var(--ardosia);
+  cursor:pointer;
+}
+.filtros button[aria-pressed=true]{background:var(--agua);border-color:var(--agua);color:#fff}
+.filtros button:focus-visible{outline:2px solid var(--agua);outline-offset:2px}
+
+/* ---------- lista ---------- */
+.lista{list-style:none;margin:32px 0 0;padding:0;position:relative}
+.produto{
+  display:block;text-decoration:none;color:inherit;
+  padding:16px 16px 16px 0;border-top:1px solid var(--linha);position:relative;
+}
+.produto:last-child{border-bottom:1px solid var(--linha)}
+.produto.submerso{
+  background:var(--agua-clara);
+  padding-left:16px;margin-left:-16px;margin-right:-16px;padding-right:16px;
+}
+.produto:focus-visible{outline:2px solid var(--agua);outline-offset:-2px}
+
+.linha-preco{display:flex;align-items:baseline;gap:10px}
+.preco{
+  font-family:var(--display);font-weight:700;font-size:27px;letter-spacing:-.03em;
+  font-variant-numeric:tabular-nums;white-space:nowrap;
+}
+.submerso .preco{color:var(--agua)}
+.anterior{font-size:14px;color:var(--descida);white-space:nowrap}
+.nome{margin:3px 0 0;font-size:15px;line-height:1.35}
+.lojas{margin:8px 0 0;font-size:13px;color:var(--betume);line-height:1.5}
+.lojas b{font-weight:600;color:var(--ardosia)}
+.etiqueta{
+  display:inline-block;font-size:12px;padding:1px 8px;border-radius:999px;
+  border:1px solid var(--linha);color:var(--betume);margin-left:8px;vertical-align:2px;
+}
+.evolucao{margin-top:10px;display:block;height:26px;width:100%;max-width:180px;overflow:visible}
+
+/* ---------- linha de água ---------- */
+#linhaAgua{
+  position:absolute;left:-16px;right:-16px;height:0;
+  border-top:2px solid var(--agua);pointer-events:none;z-index:2;
+  transition:top .18s ease;
+}
+#linhaAgua::after{
+  content:attr(data-etiqueta);position:absolute;right:16px;top:-11px;
+  background:var(--agua);color:#fff;font-size:11px;font-weight:600;
+  padding:2px 8px;border-radius:999px;white-space:nowrap;
+}
+@media (prefers-reduced-motion:reduce){
+  #linhaAgua{transition:none}
+}
+
+/* ---------- estados ---------- */
+.aviso{
+  border:1px solid var(--linha);border-left:3px solid var(--agua);
+  padding:14px 16px;margin:24px 0;font-size:15px;
+}
+.aviso p{margin:0 0 6px}
+.aviso p:last-child{margin:0}
+footer{margin-top:40px;font-size:13px;color:var(--betume)}
+footer a{color:var(--agua)}
+</style>
+</head>
+<body>
+<div class="envolucro">
+
+<header>
+  <h1>Bases de duche</h1>
+  <p class="actualizado" id="actualizado">A carregar…</p>
+  <p class="contagem" id="contagem">—</p>
+  <p class="contagem-nota" id="contagemNota"></p>
+</header>
+
+<section class="limite" hidden id="secLimite">
+  <div class="limite-topo">
+    <label for="limite">O teu limite</label>
+    <span class="limite-valor" id="limiteValor"></span>
+  </div>
+  <input type="range" id="limite" min="40" max="500" step="5">
+  <div class="filtros" id="filtros"></div>
+</section>
+
+<div id="conteudo"></div>
+
+<footer>
+  <p>Preços recolhidos uma vez por dia em leroymerlin.pt. Confirma sempre no site
+  antes de comprares — pode haver diferenças de stock entre lojas.</p>
+</footer>
+</div>
+
+<script>
+const fmt = n => n.toLocaleString('pt-PT',{minimumFractionDigits:2,maximumFractionDigits:2}) + ' €';
+const el = id => document.getElementById(id);
+let dados = null, limite = 120, regiao = 'todas';
+
+function regioesDe(dados){
+  const r = new Set();
+  dados.stores.forEach(s => { const m = s.match(/\(([^)]+)\)\s*$/); if(m) r.add(m[1]); });
+  return [...r].sort();
+}
+
+function precosVisiveis(p){
+  if(regiao === 'todas') return p.prices;
+  return p.prices.filter(x => x.store.endsWith('(' + regiao + ')'));
+}
+
+/* Mini-gráfico da evolução: só aparece quando o preço mudou alguma vez. */
+function evolucao(hist){
+  if(hist.length < 2) return '';
+  const vals = hist.map(h => h[1]);
+  const min = Math.min(...vals), max = Math.max(...vals);
+  if(max - min < 0.01) return '';
+  const w = 180, alt = 26, n = hist.length;
+  const pts = hist.map((ponto,i) => {
+    const x = n === 1 ? 0 : (i/(n-1))*w;
+    const y = alt - 3 - ((ponto[1]-min)/(max-min))*(alt-6);
+    return [x, y];
+  });
+  const d = pts.map((p,i) => (i? 'L':'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' ');
+  const desc = vals[vals.length-1] < vals[0];
+  return `<svg class="evolucao" viewBox="0 0 ${w} ${alt}" preserveAspectRatio="none" aria-hidden="true">
+    <path d="${d}" fill="none" stroke="${desc ? 'var(--descida)' : 'var(--betume)'}" stroke-width="1.5"
+      stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+  </svg>`;
+}
+
+function desenhar(){
+  const lista = dados.products
+    .map(p => {
+      const precos = precosVisiveis(p);
+      if(!precos.length) return null;
+      return {...p, prices: precos, price: precos[0].price, store: precos[0].store};
+    })
+    .filter(Boolean)
+    .sort((a,b) => a.price - b.price);
+
+  const abaixo = lista.filter(p => p.price <= limite);
+
+  el('contagem').textContent = abaixo.length;
+  el('contagemNota').textContent = abaixo.length === 1
+    ? `base de duche abaixo de ${fmt(limite)}`
+    : `bases de duche abaixo de ${fmt(limite)}`;
+
+  if(!lista.length){
+    el('conteudo').innerHTML = `<div class="aviso"><p>Nenhuma base de duche nesta região.
+      Escolhe outra região ou verifica se essa loja tem cookie configurado no
+      <code>config.json</code>.</p></div>`;
+    return;
+  }
+
+  const linhas = lista.slice(0, 60).map(p => {
+    const submerso = p.price <= limite;
+    const hist = p.history;
+    const antes = hist.length > 1 && hist[hist.length-1][1] < hist[hist.length-2][1]
+      ? `<span class="anterior">era ${fmt(hist[hist.length-2][1])}</span>` : '';
+    const etiqueta = p.marketplace
+      ? '<span class="etiqueta">preço nacional</span>' : '';
+    if(p.marketplace){
+      var lojasHtml = `<b>${fmt(p.price)}</b> em todas as lojas`;
+    }
+    const mostrar = p.prices.slice(0,3);
+    const resto = p.prices.length - mostrar.length;
+    const lojas = mostrar
+      .map((x,i) => i === 0 ? `<b>${x.store} ${fmt(x.price)}</b>` : `${x.store} ${fmt(x.price)}`)
+      .join(' · ') + (resto > 0 ? ` · mais ${resto}` : '');
+    const lojasFinal = p.marketplace ? lojasHtml : lojas;
+    return `<a class="produto${submerso?' submerso':''}" href="${p.url}" target="_blank" rel="noopener">
+      <span class="linha-preco"><span class="preco">${fmt(p.price)}</span>${antes}</span>
+      <p class="nome">${p.name}${etiqueta}</p>
+      <p class="lojas">${lojasFinal}</p>
+      ${evolucao(hist)}
+    </a>`;
+  }).join('');
+
+  el('conteudo').innerHTML = `<div class="lista" id="lista">${linhas}<div id="linhaAgua"></div></div>`;
+  posicionarAgua(abaixo.length, lista.length);
+}
+
+/* A linha de água assenta logo abaixo do último produto dentro do limite. */
+function posicionarAgua(nAbaixo, total){
+  const lista = el('lista'), linha = el('linhaAgua');
+  if(!lista || !linha) return;
+  const itens = lista.querySelectorAll('.produto');
+  if(!nAbaixo){ linha.style.display = 'none'; return; }
+  if(nAbaixo >= itens.length){ linha.style.display = 'none'; return; }
+  linha.style.display = '';
+  const ultimo = itens[nAbaixo-1];
+  linha.style.top = (ultimo.offsetTop + ultimo.offsetHeight) + 'px';
+  linha.dataset.etiqueta = 'o teu limite · ' + fmt(limite);
+}
+
+function montarFiltros(){
+  const regioes = regioesDe(dados);
+  if(regioes.length < 2) return;
+  const alvo = el('filtros');
+  ['todas', ...regioes].forEach(r => {
+    const b = document.createElement('button');
+    b.textContent = r === 'todas' ? 'Todas as lojas' : r;
+    b.setAttribute('aria-pressed', r === regiao);
+    b.onclick = () => {
+      regiao = r;
+      [...alvo.children].forEach(c => c.setAttribute('aria-pressed', c === b));
+      desenhar();
+    };
+    alvo.appendChild(b);
+  });
+}
+
+fetch('data.json?' + Date.now())
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(d => {
+    dados = d;
+    limite = d.max_price;
+
+    const quando = new Date(d.generated);
+    const horas = (Date.now() - quando) / 36e5;
+    el('actualizado').textContent = 'Atualizado ' + quando.toLocaleString('pt-PT',
+      {day:'numeric', month:'long', hour:'2-digit', minute:'2-digit'});
+    if(horas > 48){
+      el('conteudo').insertAdjacentHTML('beforebegin',
+        `<div class="aviso"><p>Estes preços têm mais de dois dias. A verificação
+         diária pode ter falhado — vê o separador Actions no GitHub.</p></div>`);
+    }
+
+    const teto = Math.min(500, Math.max(200,
+      Math.ceil((d.products[Math.min(30, d.products.length-1)]?.price || 300)/50)*50));
+    const slider = el('limite');
+    slider.max = teto;
+    slider.value = Math.min(limite, teto);
+    el('limiteValor').textContent = fmt(limite);
+    el('secLimite').hidden = false;
+    slider.addEventListener('input', e => {
+      limite = +e.target.value;
+      el('limiteValor').textContent = fmt(limite);
+      desenhar();
+    });
+
+    montarFiltros();
+    desenhar();
+  })
+  .catch(err => {
+    el('actualizado').textContent = '';
+    el('contagem').textContent = '';
+    el('conteudo').innerHTML = `<div class="aviso">
+      <p>Ainda não há dados para mostrar.</p>
+      <p>Corre a verificação uma vez em <b>Actions → Monitor bases de duche →
+      Run workflow</b>. O ficheiro <code>docs/data.json</code> aparece a seguir.</p></div>`;
+    console.error(err);
+  });
+
+window.addEventListener('resize', () => dados && desenhar());
+</script>
+</body>
+</html>

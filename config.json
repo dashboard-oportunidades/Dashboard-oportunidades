@@ -1,0 +1,41 @@
+{
+  "max_price": 120.00,
+  "max_pages": 4,
+  "delay_seconds": 3,
+  "skip_marketplace": false,
+
+  "_comentario_lojas": "Preenche 'cookies' com o que capturares no browser para cada loja (README, secção 3). Lojas sem cookie são saltadas, por isso podes arrancar só com uma e ir acrescentando.",
+  "stores": [
+    { "name": "Alta de Lisboa", "region": "Lisboa", "cookies": {} },
+    { "name": "Colombo",        "region": "Lisboa", "cookies": {} },
+    { "name": "Alfragide",      "region": "Lisboa", "cookies": {} },
+    { "name": "Sacavem",        "region": "Lisboa", "cookies": {} },
+    { "name": "Oeiras",         "region": "Lisboa", "cookies": {} },
+
+    { "name": "Loule",          "region": "Faro",   "cookies": {} },
+    { "name": "Albufeira",      "region": "Faro",   "cookies": {} },
+    { "name": "Portimao",       "region": "Faro",   "cookies": {} }
+  ],
+
+  "listing_urls": [
+    "https://www.leroymerlin.pt/produtos/casas-de-banho/duche/bases-de-duche/bases-de-duche-quadradas/",
+    "https://www.leroymerlin.pt/produtos/casas-de-banho/duche/bases-de-duche/bases-de-duche-retangulares/"
+  ],
+  "include_keywords": [
+    "base de duche",
+    "base de chuveiro",
+    "prato de duche",
+    "placa de duche"
+  ],
+  "exclude_keywords": [
+    "resguardo",
+    "divisoria",
+    "divisória",
+    "torneira",
+    "grelha de",
+    "sifao",
+    "sifão",
+    "cortina",
+    "tapete"
+  ]
+}
