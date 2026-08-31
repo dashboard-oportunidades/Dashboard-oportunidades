@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:39:56+00:00",
+  "generated": "2026-08-31T22:40:52+00:00",
   "products": [
     {
       "id": "94727281",
@@ -38,6 +38,20 @@
           "preco_desconto": 81,
           "preco_final": 378,
           "atualizado": "2026-08-31T22:39:10+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 429,
+          "preco_desconto": 51,
+          "preco_final": 378,
+          "atualizado": "2026-08-31T22:40:50+00:00",
           "history": [
             [
               "2026-08-31",
@@ -92,12 +106,12 @@
           ]
         },
         {
-          "store": "Colombo (Lisboa)",
+          "store": "Alverca (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
+          "preco_normal": 538,
+          "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-08-31T13:41:15+00:00",
+          "atualizado": "2026-08-31T22:39:56+00:00",
           "history": [
             [
               "2026-08-31",
@@ -106,12 +120,40 @@
           ]
         },
         {
-          "store": "Alverca (Lisboa)",
+          "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 538,
           "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-08-31T22:39:56+00:00",
+          "atualizado": "2026-08-31T22:40:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:40:51+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T13:41:15+00:00",
           "history": [
             [
               "2026-08-31",
@@ -139,6 +181,52 @@
             [
               "2026-08-31",
               528
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98196845",
+      "name": "Ar condicionado fixo (1X1) ELUXE Amber3 24KBTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber3-24kbtu-98196845.html",
+      "dimensao": "24000 BTU",
+      "preco_final": 568,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 568,
+          "preco_desconto": 0,
+          "preco_final": 568,
+          "atualizado": "2026-08-31T22:40:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              568
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83791809",
+      "name": "Pack ar condicionado fixo + unidade exterior HAIER FLEXIS 12000BTU WIFI PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/pack-ar-condicionado-fixo-unidade-exterior-haier-flexis-12000btu-wifi-preto-83791809.html",
+      "dimensao": "12000 BTU",
+      "preco_final": 578,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 714,
+          "preco_desconto": 136,
+          "preco_final": 578,
+          "atualizado": "2026-08-31T22:40:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              578
             ]
           ]
         }
@@ -191,6 +279,140 @@
       ]
     },
     {
+      "id": "83791802",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 12000BTU WIFI BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-12000btu-wifi-branco-83791802.html",
+      "dimensao": "12000 BTU",
+      "preco_final": 658,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 658,
+          "preco_desconto": 0,
+          "preco_final": 658,
+          "atualizado": "2026-08-31T22:40:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              658
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84229566",
+      "name": "Ar condicionado fixo (1X1) Aire+ TD-WIFI R32 24000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-aire-td-wifi-r32-24000-btu-84229566.html",
+      "dimensao": "24000 BTU",
+      "preco_final": 878,
+      "prices": [
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 878,
+          "preco_desconto": 0,
+          "preco_final": 878,
+          "atualizado": "2026-08-31T22:40:52+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              878
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82558730",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK15Z6L-W 15000BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk15z6l-w-15000btu-82558730.html",
+      "dimensao": "15000 BTU",
+      "preco_final": 888,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1099,
+          "preco_desconto": 211,
+          "preco_final": 888,
+          "atualizado": "2026-08-31T22:40:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              888
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86733349",
+      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html",
+      "dimensao": "9000 BTU",
+      "preco_final": 898,
+      "prices": [
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 1299,
+          "preco_desconto": 401,
+          "preco_final": 898,
+          "atualizado": "2026-08-31T22:40:51+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              898
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1048,
+          "preco_desconto": 0,
+          "preco_final": 1048,
+          "atualizado": "2026-08-31T22:39:54+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-08-31T22:40:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-08-31T22:40:52+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1048
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82548114",
       "name": "Ar condicionado fixo (1X1) HAIER CHAO/TECTO 12KBTU WIFI A++/A+",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-chao-tecto-12kbtu-wifi-a-a-82548114.html",
@@ -208,29 +430,6 @@
             [
               "2026-08-31",
               959
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86733349",
-      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html",
-      "dimensao": "9000 BTU",
-      "preco_final": 1048,
-      "prices": [
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1048,
-          "preco_desconto": 0,
-          "preco_final": 1048,
-          "atualizado": "2026-08-31T22:39:54+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              1048
             ]
           ]
         }
@@ -264,6 +463,34 @@
           "preco_desconto": 0,
           "preco_final": 1168,
           "atualizado": "2026-08-31T22:39:54+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1168
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-08-31T22:40:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1168
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-08-31T22:40:51+00:00",
           "history": [
             [
               "2026-08-31",
