@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:20:08+00:00",
+  "generated": "2026-08-31T22:20:32+00:00",
   "products": [
     {
       "id": "82005354",
@@ -268,6 +268,43 @@
             [
               "2026-08-31",
               368
+            ]
+          ]
+        },
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 449,
+          "preco_desconto": 81,
+          "preco_final": 368,
+          "atualizado": "2026-08-31T22:20:32+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              368
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87542649",
+      "name": "Termoacumulador inteligente multiposição Flat ES80-TF7 80L Haier",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-multiposicao-flat-es80-tf7-80l-haier-87542649.html",
+      "dimensao": "80L",
+      "preco_final": 308,
+      "prices": [
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 379,
+          "preco_desconto": 71,
+          "preco_final": 308,
+          "atualizado": "2026-08-31T22:20:32+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              308
             ]
           ]
         }

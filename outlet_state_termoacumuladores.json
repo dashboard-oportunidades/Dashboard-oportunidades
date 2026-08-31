@@ -2,6 +2,7 @@
   "lojas": {
     "Albufeira (Faro)": "2026-08-31T22:19:21+00:00",
     "Alfragide (Lisboa)": "2026-08-31T21:15:06+00:00",
+    "Almada (Setubal)": "2026-08-31T22:20:32+00:00",
     "Alta de Lisboa (Lisboa)": "2026-08-31T21:58:49+00:00",
     "Alverca (Lisboa)": "2026-08-31T22:02:32+00:00",
     "Amadora (Lisboa)": "2026-08-31T22:02:33+00:00",
@@ -80,6 +81,24 @@
       "region": "Coimbra",
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-lite-80-litros-75347816.html"
+    },
+    "81940803@Almada (Setubal)": {
+      "atualizado": "2026-08-31T22:20:32+00:00",
+      "dimensao": "60L",
+      "history": [
+        [
+          "2026-08-31",
+          368
+        ]
+      ],
+      "id": "81940803",
+      "name": "Termoacumulador indimante inox tel1500w v/h 60l",
+      "preco_desconto": 81,
+      "preco_final": 368,
+      "preco_normal": 449,
+      "region": "Setubal",
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
     "81940803@Montijo (Setubal)": {
       "atualizado": "2026-08-31T22:10:57+00:00",
@@ -332,6 +351,24 @@
       "region": "Leiria",
       "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-50l-84801327.html"
+    },
+    "87542649@Almada (Setubal)": {
+      "atualizado": "2026-08-31T22:20:32+00:00",
+      "dimensao": "80L",
+      "history": [
+        [
+          "2026-08-31",
+          308
+        ]
+      ],
+      "id": "87542649",
+      "name": "Termoacumulador inteligente multiposição Flat ES80-TF7 80L Haier",
+      "preco_desconto": 71,
+      "preco_final": 308,
+      "preco_normal": 379,
+      "region": "Setubal",
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-multiposicao-flat-es80-tf7-80l-haier-87542649.html"
     },
     "87695267@Chaves (Vila Real)": {
       "atualizado": "2026-08-31T22:05:12+00:00",
