@@ -8,6 +8,8 @@
     "Barcelos (Braga)": "2026-08-31T22:02:35+00:00",
     "Barreiro (Setubal)": "2026-08-31T22:02:36+00:00",
     "Braga (Braga)": "2026-08-31T22:02:37+00:00",
+    "Braganca (Braganca)": "2026-08-31T22:03:24+00:00",
+    "Caldas da Rainha (Leiria)": "2026-08-31T22:03:25+00:00",
     "Colombo (Lisboa)": "2026-08-31T15:14:32+00:00",
     "Oeiras (Lisboa)": "2026-08-31T20:46:00+00:00",
     "Sacavem (Lisboa)": "2026-08-31T20:45:44+00:00"
@@ -85,6 +87,24 @@
       "store": "Colombo (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-80l-81940804.html"
     },
+    "84801327@Caldas da Rainha (Leiria)": {
+      "atualizado": "2026-08-31T22:03:25+00:00",
+      "dimensao": "50L",
+      "history": [
+        [
+          "2026-08-31",
+          178
+        ]
+      ],
+      "id": "84801327",
+      "name": "Termoacumulador BOSCH tronic tr 4000t 50l",
+      "preco_desconto": 36,
+      "preco_final": 178,
+      "preco_normal": 214,
+      "region": "Leiria",
+      "store": "Caldas da Rainha (Leiria)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-50l-84801327.html"
+    },
     "89834463@Barreiro (Setubal)": {
       "atualizado": "2026-08-31T22:02:36+00:00",
       "dimensao": "100L",
@@ -102,6 +122,24 @@
       "region": "Setubal",
       "store": "Barreiro (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html"
+    },
+    "95933346@Braganca (Braganca)": {
+      "atualizado": "2026-08-31T22:03:24+00:00",
+      "dimensao": "100L",
+      "history": [
+        [
+          "2026-08-31",
+          239.99
+        ]
+      ],
+      "id": "95933346",
+      "name": "Termo Vertical HTW SMART LITE função smart e ânodo eletronico 100L",
+      "preco_desconto": 39.01,
+      "preco_final": 239.99,
+      "preco_normal": 279,
+      "region": "Braganca",
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/termo-vertical-htw-smart-lite-funcao-smart-e-anodo-eletronico-100l-95933346.html"
     }
   }
 }
