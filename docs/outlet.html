@@ -102,6 +102,7 @@ select.loja{
 
   <div class="tabs" id="tabs">
     <button class="tab-ativo" data-tab="base-duche">Base Duche</button>
+    <button data-tab="monosplit">Ar Condicionado</button>
   </div>
 
   <div class="tab-painel" id="tab-base-duche">
@@ -123,11 +124,64 @@ select.loja{
 <script>
 const fmt = n => n.toLocaleString('pt-PT',{minimumFractionDigits:2,maximumFractionDigits:2}) + ' €';
 const el = id => document.getElementById(id);
-let dados = null;
-let dimensoesAtivas = new Set();  // vazio = todas
-let lojaAtiva = 'todas';
-let distritosAtivos = new Set();  // vazio = todos
-let ordem = { campo: 'preco_final', asc: true };
+
+const TABS = [
+  { id: 'base-duche', file: 'outlet.json' },
+  { id: 'monosplit', file: 'monosplit.json' },
+];
+
+let abaAtiva = 'base-duche';
+const estados = {};  // um por separador: { dados, dimensoesAtivas, lojaAtiva, distritosAtivos, ordem }
+
+function novoEstado(){
+  return {
+    dados: null,
+    dimensoesAtivas: new Set(),
+    lojaAtiva: 'todas',
+    distritosAtivos: new Set(),
+    ordem: { campo: 'preco_final', asc: true },
+  };
+}
+
+function estadoAtual(){
+  if (!estados[abaAtiva]) estados[abaAtiva] = novoEstado();
+  return estados[abaAtiva];
+}
+
+function mudarAba(id){
+  abaAtiva = id;
+  document.querySelectorAll('#tabs button').forEach(b => b.classList.toggle('tab-ativo', b.dataset.tab === id));
+  const e = estadoAtual();
+  if (e.dados){ montarFiltros(); desenhar(); return; }
+  carregarDados(id);
+}
+
+function carregarDados(id){
+  const tab = TABS.find(t => t.id === id);
+  const e = estadoAtual();
+  el('actualizado').textContent = 'A carregar…';
+  el('conteudo').innerHTML = '';
+  fetch(tab.file + '?' + Date.now())
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(d => {
+      e.dados = d;
+      const quando = new Date(d.generated);
+      el('actualizado').textContent = 'Atualizado ' + quando.toLocaleString('pt-PT',
+        {day:'numeric', month:'long', hour:'2-digit', minute:'2-digit'}) +
+        ` · ${d.products.length} produtos`;
+      montarFiltros();
+      desenhar();
+    })
+    .catch(err => {
+      el('actualizado').textContent = '';
+      el('conteudo').innerHTML = '<div class="vazio">Ainda não há dados para este separador.</div>';
+      console.error(err);
+    });
+}
+
+document.querySelectorAll('#tabs button').forEach(b => {
+  b.onclick = () => mudarAba(b.dataset.tab);
+});
 
 /* '70x160' e '160x70' sao a mesma medida -- canonicaliza maior x menor. */
 function dimCanonica(dim){
@@ -156,17 +210,18 @@ function distritos(produtos){
 }
 
 function montarFiltros(){
-  const dims = dimensoes(dados.products);
+  const e = estadoAtual();
+  const dims = dimensoes(e.dados.products);
   const alvo = el('filtrosDim');
   alvo.innerHTML = '';
   dims.forEach(d => {
     const b = document.createElement('button');
     b.textContent = d;
-    b.setAttribute('aria-pressed', dimensoesAtivas.has(d));
+    b.setAttribute('aria-pressed', e.dimensoesAtivas.has(d));
     b.onclick = () => {
-      if (dimensoesAtivas.has(d)) dimensoesAtivas.delete(d);
-      else dimensoesAtivas.add(d);
-      b.setAttribute('aria-pressed', dimensoesAtivas.has(d));
+      if (e.dimensoesAtivas.has(d)) e.dimensoesAtivas.delete(d);
+      else e.dimensoesAtivas.add(d);
+      b.setAttribute('aria-pressed', e.dimensoesAtivas.has(d));
       desenhar();
     };
     alvo.appendChild(b);
@@ -174,14 +229,14 @@ function montarFiltros(){
 
   const alvoDist = el('filtrosDistrito');
   alvoDist.innerHTML = '';
-  distritos(dados.products).forEach(dist => {
+  distritos(e.dados.products).forEach(dist => {
     const b = document.createElement('button');
     b.textContent = dist;
-    b.setAttribute('aria-pressed', distritosAtivos.has(dist));
+    b.setAttribute('aria-pressed', e.distritosAtivos.has(dist));
     b.onclick = () => {
-      if (distritosAtivos.has(dist)) distritosAtivos.delete(dist);
-      else distritosAtivos.add(dist);
-      b.setAttribute('aria-pressed', distritosAtivos.has(dist));
+      if (e.distritosAtivos.has(dist)) e.distritosAtivos.delete(dist);
+      else e.distritosAtivos.add(dist);
+      b.setAttribute('aria-pressed', e.distritosAtivos.has(dist));
       desenhar();
     };
     alvoDist.appendChild(b);
@@ -189,13 +244,14 @@ function montarFiltros(){
 
   const selLoja = el('filtroLoja');
   selLoja.innerHTML = '<option value="todas">Todas as lojas</option>' +
-    lojas(dados.products).map(l => `<option value="${l}">${l}</option>`).join('');
-  selLoja.value = lojaAtiva;
-  selLoja.onchange = () => { lojaAtiva = selLoja.value; desenhar(); };
+    lojas(e.dados.products).map(l => `<option value="${l}">${l}</option>`).join('');
+  selLoja.value = e.lojaAtiva;
+  selLoja.onchange = () => { e.lojaAtiva = selLoja.value; desenhar(); };
 }
 
 function atualizarBotaoFiltros(){
-  const ativos = dimensoesAtivas.size + distritosAtivos.size + (lojaAtiva !== 'todas' ? 1 : 0);
+  const e = estadoAtual();
+  const ativos = e.dimensoesAtivas.size + e.distritosAtivos.size + (e.lojaAtiva !== 'todas' ? 1 : 0);
   const painel = el('filtrosPainel');
   const rotulo = ativos > 0 ? `Filtros (${ativos})` : 'Filtros';
   el('filtrosToggle').textContent = rotulo + (painel.hidden ? ' ▾' : ' ▴');
@@ -206,17 +262,10 @@ el('filtrosToggle').onclick = () => {
   atualizarBotaoFiltros();
 };
 
-/* So ha um separador por agora (Base Duche); a estrutura ja aceita mais. */
-document.querySelectorAll('#tabs button').forEach(b => {
-  b.onclick = () => {
-    document.querySelectorAll('#tabs button').forEach(x => x.classList.remove('tab-ativo'));
-    b.classList.add('tab-ativo');
-  };
-});
-
 function ordenarPor(campo){
-  if (ordem.campo === campo) ordem.asc = !ordem.asc;
-  else { ordem.campo = campo; ordem.asc = true; }
+  const e = estadoAtual();
+  if (e.ordem.campo === campo) e.ordem.asc = !e.ordem.asc;
+  else { e.ordem.campo = campo; e.ordem.asc = true; }
   desenhar();
 }
 
@@ -242,12 +291,13 @@ function evolucao(hist){
 
 function desenhar(){
   atualizarBotaoFiltros();
-  let lista = dados.products
-    .filter(p => dimensoesAtivas.size === 0 || dimensoesAtivas.has(dimCanonica(p.dimensao)))
+  const e = estadoAtual();
+  let lista = e.dados.products
+    .filter(p => e.dimensoesAtivas.size === 0 || e.dimensoesAtivas.has(dimCanonica(p.dimensao)))
     .map(p => {
       let precos = p.prices;
-      if (distritosAtivos.size > 0) precos = precos.filter(x => distritosAtivos.has(x.region));
-      if (lojaAtiva !== 'todas') precos = precos.filter(x => x.store === lojaAtiva);
+      if (e.distritosAtivos.size > 0) precos = precos.filter(x => e.distritosAtivos.has(x.region));
+      if (e.lojaAtiva !== 'todas') precos = precos.filter(x => x.store === e.lojaAtiva);
       if (!precos.length) return null;
       precos = [...precos].sort((a, b) => a.preco_final - b.preco_final);
       return {
@@ -260,10 +310,10 @@ function desenhar(){
     .filter(Boolean);
 
   lista = [...lista].sort((a, b) => {
-    let va = a[ordem.campo], vb = b[ordem.campo];
-    if (ordem.campo === 'name') { va = va.toLowerCase(); vb = vb.toLowerCase(); }
-    if (va < vb) return ordem.asc ? -1 : 1;
-    if (va > vb) return ordem.asc ? 1 : -1;
+    let va = a[e.ordem.campo], vb = b[e.ordem.campo];
+    if (e.ordem.campo === 'name') { va = va.toLowerCase(); vb = vb.toLowerCase(); }
+    if (va < vb) return e.ordem.asc ? -1 : 1;
+    if (va > vb) return e.ordem.asc ? 1 : -1;
     return 0;
   });
 
@@ -301,12 +351,12 @@ function desenhar(){
     </tr>`;
   }).join('');
 
-  const seta = campo => ordem.campo === campo ? (ordem.asc ? ' ▲' : ' ▼') : '';
+  const seta = campo => e.ordem.campo === campo ? (e.ordem.asc ? ' ▲' : ' ▼') : '';
   el('conteudo').innerHTML = `<table>
     <thead><tr>
-      <th class="${ordem.campo==='preco_final'?'ativo':''}" onclick="ordenarPor('preco_final')">Preço${seta('preco_final')}</th>
-      <th class="${ordem.campo==='preco_desconto'?'ativo':''}" onclick="ordenarPor('preco_desconto')">Desconto${seta('preco_desconto')}</th>
-      <th class="${ordem.campo==='name'?'ativo':''}" onclick="ordenarPor('name')">Produto${seta('name')}</th>
+      <th class="${e.ordem.campo==='preco_final'?'ativo':''}" onclick="ordenarPor('preco_final')">Preço${seta('preco_final')}</th>
+      <th class="${e.ordem.campo==='preco_desconto'?'ativo':''}" onclick="ordenarPor('preco_desconto')">Desconto${seta('preco_desconto')}</th>
+      <th class="${e.ordem.campo==='name'?'ativo':''}" onclick="ordenarPor('name')">Produto${seta('name')}</th>
       <th>Lojas</th>
       <th>Visto em</th>
     </tr></thead>
@@ -314,22 +364,7 @@ function desenhar(){
   </table>`;
 }
 
-fetch('outlet.json?' + Date.now())
-  .then(r => r.ok ? r.json() : Promise.reject(r.status))
-  .then(d => {
-    dados = d;
-    const quando = new Date(d.generated);
-    el('actualizado').textContent = 'Atualizado ' + quando.toLocaleString('pt-PT',
-      {day:'numeric', month:'long', hour:'2-digit', minute:'2-digit'}) +
-      ` · ${d.products.length} produtos`;
-    montarFiltros();
-    desenhar();
-  })
-  .catch(err => {
-    el('actualizado').textContent = '';
-    el('conteudo').innerHTML = '<div class="vazio">Ainda não há dados. Corre o recolher_outlet.py primeiro.</div>';
-    console.error(err);
-  });
+carregarDados('base-duche');
 </script>
 </body>
 </html>

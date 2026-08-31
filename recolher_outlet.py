@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """
-Recolhe as bases de duche em outlet, em todas as lojas configuradas.
+Recolhe produtos em outlet (por categoria), em todas as lojas configuradas.
 
 Abre um browser a serio (visivel) para a primeira pagina. Se aparecer o
 CAPTCHA do Datadome, resolve-o tu na janela que abre -- o script espera e
 continua sozinho assim que detectar que passou. Depois disso percorre as
 restantes lojas sem precisares de fazer mais nada.
+
+Uso: python recolher_outlet.py [--categoria <slug>] [--limit N]
 """
 
 import datetime as dt
@@ -21,17 +23,51 @@ from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent
 CONFIG_FILE = ROOT / "config.json"
-STATE_FILE = ROOT / "outlet_state.json"
-OUT_FILE = ROOT / "docs" / "outlet.json"
 HISTORY_LIMIT = 180
 
-OUTLET_URL = (
-    "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
-    "?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22"
-    "%2C%22attribute-22088%22%3A%22Base%2520de%2520duche%22%7D"
-)
+# Cada categoria e um separador ("tab") no dashboard. Para acrescentar uma
+# nova, basta adicionar uma entrada aqui com o URL do outlet ja filtrado
+# pela categoria certa (aplica os filtros no site e copia o URL).
+CATEGORIAS = {
+    "base-duche": {
+        "label": "Base Duche",
+        "url": (
+            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
+            "?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22"
+            "%2C%22attribute-22088%22%3A%22Base%2520de%2520duche%22%7D"
+        ),
+        "state_file": "outlet_state.json",
+        "out_file": "docs/outlet.json",
+    },
+    "monosplit": {
+        "label": "Ar Condicionado",
+        "url": (
+            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
+            "?filters=%7B%22breadcrumb-1-label%22%3A%22Aquecimento%2520e%2520Climatiza"
+            "%25C3%25A7%25C3%25A3o%22%2C%22attribute-22088%22%3A%22Pack%2520ar%2520condicionado"
+            "%2520Monosplit%22%7D"
+        ),
+        "state_file": "outlet_state_monosplit.json",
+        "out_file": "docs/monosplit.json",
+    },
+}
 
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
+BTU_RE = re.compile(r"(\d{4,5})\s*\.?\s*BTU", re.IGNORECASE)
+
+
+def extrair_atributo(name: str) -> str | None:
+    """Etiqueta usada nos filtros da tabela -- medida (AxB) para bases de
+    duche, capacidade (BTU) para ar condicionado. None se nao reconhecer
+    nenhum dos dois padroes (o produto so nao aparece nesse filtro)."""
+    dim_match = DIM_RE.search(name)
+    if dim_match:
+        a, b = int(dim_match.group(1)), int(dim_match.group(2))
+        return f"{max(a, b)}x{min(a, b)}"
+    btu_match = BTU_RE.search(name)
+    if btu_match:
+        return f"{btu_match.group(1)} BTU"
+    return None
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -67,12 +103,7 @@ def parse_listing(html: str) -> dict[str, dict]:
                     continue
 
                 name = produto.get("name", "")
-                dim_match = DIM_RE.search(name)
-                if dim_match:
-                    a, b = int(dim_match.group(1)), int(dim_match.group(2))
-                    dimensao = f"{max(a, b)}x{min(a, b)}"
-                else:
-                    dimensao = None
+                dimensao = extrair_atributo(name)
 
                 url = produto.get("url", "")
                 if url.startswith("/"):
@@ -140,18 +171,18 @@ def wait_for_human(page, timeout_s: int = 300) -> bool:
     return False
 
 
-def load_state() -> dict:
-    if not STATE_FILE.exists():
+def load_state(state_file: Path) -> dict:
+    if not state_file.exists():
         return {"products": {}}
     try:
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+        return json.loads(state_file.read_text(encoding="utf-8"))
     except json.JSONDecodeError:
-        print("outlet_state.json ilegivel, a comecar do zero", file=sys.stderr)
+        print(f"{state_file.name} ilegivel, a comecar do zero", file=sys.stderr)
         return {"products": {}}
 
 
-def save_state(state: dict) -> None:
-    STATE_FILE.write_text(
+def save_state(state: dict, state_file: Path) -> None:
+    state_file.write_text(
         json.dumps(state, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8"
     )
 
@@ -202,7 +233,7 @@ def update_store_in_state(state: dict, store_label: str, region: str, products: 
         }
 
 
-def export_outlet_json(state: dict) -> int:
+def export_outlet_json(state: dict, out_file: Path) -> int:
     por_produto: dict[str, dict] = {}
     for entry in state["products"].values():
         grupo = por_produto.setdefault(entry["id"], {
@@ -235,19 +266,30 @@ def export_outlet_json(state: dict) -> int:
         "generated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "products": products,
     }
-    OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    OUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\ndocs/outlet.json: {len(products)} produtos")
+    out_file.parent.mkdir(parents=True, exist_ok=True)
+    out_file.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"\n{out_file}: {len(products)} produtos")
     return len(products)
 
 
 def main() -> int:
+    categoria_slug = "base-duche"
+    if "--categoria" in sys.argv:
+        categoria_slug = sys.argv[sys.argv.index("--categoria") + 1]
+    if categoria_slug not in CATEGORIAS:
+        sys.exit(f"Categoria '{categoria_slug}' desconhecida. Opcoes: {sorted(CATEGORIAS)}")
+    categoria = CATEGORIAS[categoria_slug]
+    outlet_url = categoria["url"]
+    state_file = ROOT / categoria["state_file"]
+    out_file = ROOT / categoria["out_file"]
+    print(f"Categoria: {categoria['label']} ({categoria_slug})")
+
     cfg = json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
     stores = [s for s in cfg["stores"] if s.get("cookies")]
     if not stores:
         sys.exit("Nenhuma loja com cookies em config.json.")
 
-    state = load_state()
+    state = load_state(state_file)
     stores = ordenar_por_antiguidade(stores, state)
 
     if "--limit" in sys.argv:
@@ -273,7 +315,7 @@ def main() -> int:
                 label = store_label(store)
                 set_store_cookies(context, store)
                 print(f"> Loja: {label}")
-                page.goto(OUTLET_URL, wait_until="domcontentloaded", timeout=60000)
+                page.goto(outlet_url, wait_until="domcontentloaded", timeout=60000)
                 page.wait_for_timeout(2000)
 
                 if page.locator("#onetrust-accept-btn-handler").count() > 0:
@@ -288,7 +330,7 @@ def main() -> int:
                         print(f"  ! {label}: desisti de esperar pelo CAPTCHA -- "
                               f"fica para a proxima corrida.", file=sys.stderr)
                         continue
-                    page.goto(OUTLET_URL, wait_until="domcontentloaded", timeout=60000)
+                    page.goto(outlet_url, wait_until="domcontentloaded", timeout=60000)
                     page.wait_for_timeout(2000)
 
                 html = page.content()
@@ -298,7 +340,7 @@ def main() -> int:
                 # Visita valida mesmo com 0 produtos -- pode ser mesmo que
                 # esta loja nao tenha outlet de bases de duche agora.
                 update_store_in_state(state, label, store.get("region", ""), products)
-                save_state(state)
+                save_state(state, state_file)
                 visitadas += 1
         except BlockedError as exc:
             blocked = True
@@ -309,7 +351,7 @@ def main() -> int:
             except Exception:
                 pass
 
-    export_outlet_json(state)
+    export_outlet_json(state, out_file)
     print(f"{visitadas}/{len(stores)} lojas visitadas nesta corrida "
           f"({len(state.get('lojas', {}))} no total ja alguma vez visitadas).")
     if blocked or visitadas < len(stores):

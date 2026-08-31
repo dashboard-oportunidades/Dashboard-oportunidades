@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-Junta ao outlet_state.json um resultado copiado manualmente da consola do
-browser (ver README/chat). Uso:
+Junta ao estado de uma categoria um resultado copiado manualmente da consola
+do browser (ver README/chat). Uso:
 
-    python ingerir_manual.py caminho/para/ficheiro.json
+    python ingerir_manual.py caminho/para/ficheiro.json [--categoria <slug>]
+
+Sem --categoria assume "base-duche".
 """
 import json
 import sys
@@ -11,6 +13,8 @@ import unicodedata
 from pathlib import Path
 
 from recolher_outlet import (
+    CATEGORIAS,
+    ROOT,
     export_outlet_json,
     load_state,
     save_state,
@@ -18,7 +22,7 @@ from recolher_outlet import (
     update_store_in_state,
 )
 
-CONFIG_FILE = Path(__file__).resolve().parent / "config.json"
+CONFIG_FILE = ROOT / "config.json"
 
 
 def normalizar_nome(nome: str) -> str:
@@ -28,8 +32,17 @@ def normalizar_nome(nome: str) -> str:
 
 
 def main() -> int:
-    if len(sys.argv) != 2:
-        sys.exit("Uso: python ingerir_manual.py caminho/para/ficheiro.json")
+    if len(sys.argv) < 2:
+        sys.exit("Uso: python ingerir_manual.py caminho/para/ficheiro.json [--categoria <slug>]")
+
+    categoria_slug = "base-duche"
+    if "--categoria" in sys.argv:
+        categoria_slug = sys.argv[sys.argv.index("--categoria") + 1]
+    if categoria_slug not in CATEGORIAS:
+        sys.exit(f"Categoria '{categoria_slug}' desconhecida. Opcoes: {sorted(CATEGORIAS)}")
+    categoria = CATEGORIAS[categoria_slug]
+    state_file = ROOT / categoria["state_file"]
+    out_file = ROOT / categoria["out_file"]
 
     dados = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
     nome_loja = dados["loja"]
@@ -44,11 +57,11 @@ def main() -> int:
     store = stores[chave]
     label = store_label(store)
 
-    state = load_state()
+    state = load_state(state_file)
     update_store_in_state(state, label, store.get("region", ""), produtos)
-    save_state(state)
-    export_outlet_json(state)
-    print(f"Guardado: {label} ({len(produtos)} produtos)")
+    save_state(state, state_file)
+    export_outlet_json(state, out_file)
+    print(f"Guardado [{categoria['label']}]: {label} ({len(produtos)} produtos)")
     return 0
 
 
