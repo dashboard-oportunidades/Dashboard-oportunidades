@@ -16,7 +16,9 @@
     "Castelo Branco (Castelo Branco)": "2026-08-31T22:43:19+00:00",
     "Chaves (Vila Real)": "2026-08-31T22:43:20+00:00",
     "Coimbra (Coimbra)": "2026-08-31T22:43:21+00:00",
-    "Colombo (Lisboa)": "2026-08-31T13:41:15+00:00"
+    "Colombo (Lisboa)": "2026-08-31T22:44:03+00:00",
+    "Covilha (Castelo Branco)": "2026-08-31T22:44:04+00:00",
+    "Evora (Evora)": "2026-08-31T22:44:05+00:00"
   },
   "products": {
     "82063484@Braganca (Braganca)": {
@@ -74,8 +76,8 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html"
     },
     "82548114@Colombo (Lisboa)": {
-      "atualizado": "2026-08-31T13:41:15+00:00",
-      "dimensao": null,
+      "atualizado": "2026-08-31T22:44:03+00:00",
+      "dimensao": "12000 BTU",
       "history": [
         [
           "2026-08-31",
@@ -272,7 +274,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Colombo (Lisboa)": {
-      "atualizado": "2026-08-31T13:41:15+00:00",
+      "atualizado": "2026-08-31T22:44:03+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
@@ -341,6 +343,24 @@
       "preco_normal": 649,
       "region": "Lisboa",
       "store": "Cascais (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
+    },
+    "82558726@Evora (Evora)": {
+      "atualizado": "2026-08-31T22:44:05+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          528
+        ]
+      ],
+      "id": "82558726",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK12Z6L-W 12000BTU",
+      "preco_desconto": 121,
+      "preco_final": 528,
+      "preco_normal": 649,
+      "region": "Evora",
+      "store": "Evora (Evora)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
     },
     "82558730@Amadora (Lisboa)": {
@@ -794,7 +814,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733851@Colombo (Lisboa)": {
-      "atualizado": "2026-08-31T13:41:15+00:00",
+      "atualizado": "2026-08-31T22:44:03+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
@@ -866,8 +886,8 @@
       "url": "https://www.leroymerlin.pt/produtos/monosplit-mural-hisense-comfort-9-btu-wifi-92500112.html"
     },
     "94727281@Colombo (Lisboa)": {
-      "atualizado": "2026-08-31T13:41:15+00:00",
-      "dimensao": null,
+      "atualizado": "2026-08-31T22:44:03+00:00",
+      "dimensao": "9000 BTU",
       "history": [
         [
           "2026-08-31",

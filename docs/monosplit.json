@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-31T22:43:21+00:00",
+  "generated": "2026-08-31T22:44:05+00:00",
   "products": [
     {
       "id": "94727281",
       "name": "Ar condicionado 1x1 WIND WD25-RD1 9 KBTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-wind-wd25-rd1-9-kbtu-94727281.html",
-      "dimensao": null,
+      "dimensao": "9000 BTU",
       "preco_final": 198,
       "prices": [
         {
@@ -14,7 +14,7 @@
           "preco_normal": 239,
           "preco_desconto": 41,
           "preco_final": 198,
-          "atualizado": "2026-08-31T13:41:15+00:00",
+          "atualizado": "2026-08-31T22:44:03+00:00",
           "history": [
             [
               "2026-08-31",
@@ -203,7 +203,7 @@
           "preco_normal": 509,
           "preco_desconto": 91,
           "preco_final": 418,
-          "atualizado": "2026-08-31T13:41:15+00:00",
+          "atualizado": "2026-08-31T22:44:03+00:00",
           "history": [
             [
               "2026-08-31",
@@ -370,12 +370,12 @@
           ]
         },
         {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 538,
+          "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-08-31T13:41:15+00:00",
+          "atualizado": "2026-08-31T22:43:21+00:00",
           "history": [
             [
               "2026-08-31",
@@ -384,12 +384,12 @@
           ]
         },
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 538,
-          "preco_desconto": 50,
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-08-31T22:43:21+00:00",
+          "atualizado": "2026-08-31T22:44:03+00:00",
           "history": [
             [
               "2026-08-31",
@@ -464,6 +464,20 @@
           "preco_desconto": 121,
           "preco_final": 528,
           "atualizado": "2026-08-31T22:42:37+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              528
+            ]
+          ]
+        },
+        {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 649,
+          "preco_desconto": 121,
+          "preco_final": 528,
+          "atualizado": "2026-08-31T22:44:05+00:00",
           "history": [
             [
               "2026-08-31",
@@ -805,7 +819,7 @@
       "id": "82548114",
       "name": "Ar condicionado fixo (1X1) HAIER CHAO/TECTO 12KBTU WIFI A++/A+",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-chao-tecto-12kbtu-wifi-a-a-82548114.html",
-      "dimensao": null,
+      "dimensao": "12000 BTU",
       "preco_final": 959,
       "prices": [
         {
@@ -814,7 +828,7 @@
           "preco_normal": 1139,
           "preco_desconto": 180,
           "preco_final": 959,
-          "atualizado": "2026-08-31T13:41:15+00:00",
+          "atualizado": "2026-08-31T22:44:03+00:00",
           "history": [
             [
               "2026-08-31",
