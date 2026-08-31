@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T12:36:57+00:00",
+  "generated": "2026-08-31T12:38:06+00:00",
   "products": [
     {
       "id": "94150387",
@@ -832,6 +832,20 @@
           ]
         },
         {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-08-31T12:38:04+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              158
+            ]
+          ]
+        },
+        {
           "store": "Viseu (Viseu)",
           "region": "Viseu",
           "preco_normal": 158,
@@ -1004,6 +1018,29 @@
             [
               "2026-08-31",
               278
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89863865",
+      "name": "Base de duche ardósia 160x80 cm preto Musa",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x80-cm-preto-musa-89863865.html",
+      "dimensao": "160x80",
+      "preco_final": 178,
+      "prices": [
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 178,
+          "preco_desconto": 0,
+          "preco_final": 178,
+          "atualizado": "2026-08-31T12:38:04+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              178
             ]
           ]
         }
@@ -1398,6 +1435,20 @@
               218
             ]
           ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 218,
+          "preco_desconto": 0,
+          "preco_final": 218,
+          "atualizado": "2026-08-31T12:38:04+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              218
+            ]
+          ]
         }
       ]
     },
@@ -1461,6 +1512,20 @@
           "preco_desconto": 0,
           "preco_final": 238,
           "atualizado": "2026-08-31T12:15:22+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              238
+            ]
+          ]
+        },
+        {
+          "store": "Mafra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 238,
+          "preco_desconto": 0,
+          "preco_final": 238,
+          "atualizado": "2026-08-31T12:38:06+00:00",
           "history": [
             [
               "2026-08-31",
