@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T12:15:54+00:00",
+  "generated": "2026-08-31T12:16:43+00:00",
   "products": [
     {
       "id": "17757411",
@@ -19,6 +19,29 @@
             [
               "2026-08-31",
               93.36
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91835310",
+      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835310.html",
+      "dimensao": null,
+      "preco_final": 118,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 139,
+          "preco_desconto": 21,
+          "preco_final": 118,
+          "atualizado": "2026-08-31T12:16:43+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              118
             ]
           ]
         }
@@ -113,6 +136,29 @@
       ]
     },
     {
+      "id": "86584062",
+      "name": "Base de duche 100x80 cm branco mate Sensea Easy",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-100x80-cm-branco-mate-sensea-easy-86584062.html",
+      "dimensao": "100x80",
+      "preco_final": 138,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-08-31T12:16:43+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              138
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "86584061",
       "name": "Base de duche 160x70 cm branco mate Sensea Easy",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html",
@@ -153,6 +199,29 @@
             [
               "2026-08-31",
               148
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91835297",
+      "name": "Base de duche Resina 140x80 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html",
+      "dimensao": "140x80",
+      "preco_final": 158,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-08-31T12:16:43+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              158
             ]
           ]
         }
@@ -351,6 +420,29 @@
             [
               "2026-08-31",
               248
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84834102",
+      "name": "Base de duche NEO 80X120CM GRELHA METAL PRETO MATE",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x120cm-grelha-metal-preto-mate-84834102.html",
+      "dimensao": "80x120",
+      "preco_final": 278,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 278,
+          "preco_desconto": 0,
+          "preco_final": 278,
+          "atualizado": "2026-08-31T12:16:43+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              278
             ]
           ]
         }
