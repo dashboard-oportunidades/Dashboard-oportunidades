@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:42:37+00:00",
+  "generated": "2026-08-31T22:43:21+00:00",
   "products": [
     {
       "id": "94727281",
@@ -71,6 +71,29 @@
       ]
     },
     {
+      "id": "85280679",
+      "name": "Ar condicionado fixo (1X1)  EQUATION ENKI WIFI 9000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-enki-wifi-9000-btu-85280679.html",
+      "dimensao": "9000 BTU",
+      "preco_final": 368,
+      "prices": [
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 368,
+          "preco_desconto": 0,
+          "preco_final": 368,
+          "atualizado": "2026-08-31T22:43:20+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              368
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "86733733",
       "name": "Ar condicionado fixo (1x1) New Luso KC25YR03 WIFI 9000 BTU Hisense",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html",
@@ -98,6 +121,20 @@
           "preco_desconto": 51,
           "preco_final": 378,
           "atualizado": "2026-08-31T22:40:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-08-31T22:43:21+00:00",
           "history": [
             [
               "2026-08-31",
@@ -305,6 +342,34 @@
           ]
         },
         {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:42:37+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 559,
+          "preco_desconto": 71,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:43:20+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 599,
@@ -319,16 +384,39 @@
           ]
         },
         {
-          "store": "Cascais (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 538,
+          "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-08-31T22:42:37+00:00",
+          "atualizado": "2026-08-31T22:43:21+00:00",
           "history": [
             [
               "2026-08-31",
               488
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84567639",
+      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 12000BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-12000btu-r32-84567639.html",
+      "dimensao": "12000 BTU",
+      "preco_final": 518,
+      "prices": [
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 639,
+          "preco_desconto": 121,
+          "preco_final": 518,
+          "atualizado": "2026-08-31T22:43:20+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              518
             ]
           ]
         }
@@ -488,6 +576,20 @@
               628
             ]
           ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 628,
+          "preco_desconto": 0,
+          "preco_final": 628,
+          "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              628
+            ]
+          ]
         }
       ]
     },
@@ -509,6 +611,43 @@
             [
               "2026-08-31",
               658
+            ]
+          ]
+        },
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 658,
+          "preco_desconto": 0,
+          "preco_final": 658,
+          "atualizado": "2026-08-31T22:43:19+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              658
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87421093",
+      "name": "Ar condicionado fixo (1X1) Hisense Energy Pro R32 9000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-9000-btu-87421093.html",
+      "dimensao": "9000 BTU",
+      "preco_final": 828,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 828,
+          "preco_desconto": 0,
+          "preco_final": 828,
+          "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              828
             ]
           ]
         }
@@ -622,6 +761,43 @@
               1048
             ]
           ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1048
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87421092",
+      "name": "Ar condicionado fixo (1X1) Hisense Energy Pro R32 12000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-12000-btu-87421092.html",
+      "dimensao": "12000 BTU",
+      "preco_final": 938,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 938,
+          "preco_desconto": 0,
+          "preco_final": 938,
+          "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              938
+            ]
+          ]
         }
       ]
     },
@@ -718,6 +894,20 @@
           "preco_desconto": 281,
           "preco_final": 1168,
           "atualizado": "2026-08-31T22:41:26+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1168
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-08-31T22:43:21+00:00",
           "history": [
             [
               "2026-08-31",
