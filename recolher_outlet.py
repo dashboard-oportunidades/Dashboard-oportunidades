@@ -210,7 +210,7 @@ def ordenar_por_antiguidade(stores: list[dict], state: dict) -> list[dict]:
     return sorted(stores, key=chave)
 
 
-def update_store_in_state(state: dict, store_label: str, products: dict[str, dict]) -> None:
+def update_store_in_state(state: dict, store_label: str, region: str, products: dict[str, dict]) -> None:
     """So mexe nas entradas desta loja -- as outras lojas ficam como estavam,
     mesmo que esta corrida tenha parado antes de as visitar."""
     hoje = dt.date.today().isoformat()
@@ -233,6 +233,7 @@ def update_store_in_state(state: dict, store_label: str, products: dict[str, dic
         state["products"][key] = {
             "id": pid,
             "store": store_label,
+            "region": region,
             "name": data["name"],
             "url": data["url"],
             "dimensao": data["dimensao"],
@@ -252,6 +253,7 @@ def export_outlet_json(state: dict) -> int:
         })
         grupo["prices"].append({
             "store": entry["store"],
+            "region": entry.get("region", ""),
             "preco_normal": entry["preco_normal"],
             "preco_desconto": entry["preco_desconto"],
             "preco_final": entry["preco_final"],
@@ -326,7 +328,7 @@ def main() -> int:
 
                 # Visita valida mesmo com 0 produtos -- pode ser mesmo que
                 # esta loja nao tenha outlet de bases de duche agora.
-                update_store_in_state(state, label, products)
+                update_store_in_state(state, label, store.get("region", ""), products)
                 save_state(state)
                 visitadas += 1
         except BlockedError as exc:

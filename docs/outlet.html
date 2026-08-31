@@ -86,6 +86,7 @@ select.loja{
   <p class="actualizado" id="actualizado">A carregar…</p>
 
   <div class="filtros" id="filtrosDim"></div>
+  <div class="filtros" id="filtrosDistrito"></div>
   <div class="filtros" style="margin-top:-12px">
     <select class="loja" id="filtroLoja"><option value="todas">Todas as lojas</option></select>
   </div>
@@ -99,6 +100,7 @@ const el = id => document.getElementById(id);
 let dados = null;
 let dimensaoAtiva = 'todas';
 let lojaAtiva = 'todas';
+let distritosAtivos = new Set();  // vazio = todos
 let ordem = { campo: 'preco_final', asc: true };
 
 function dimensoes(produtos){
@@ -110,6 +112,12 @@ function dimensoes(produtos){
 function lojas(produtos){
   const s = new Set();
   produtos.forEach(p => p.prices.forEach(x => s.add(x.store)));
+  return [...s].sort();
+}
+
+function distritos(produtos){
+  const s = new Set();
+  produtos.forEach(p => p.prices.forEach(x => { if (x.region) s.add(x.region); }));
   return [...s].sort();
 }
 
@@ -127,6 +135,21 @@ function montarFiltros(){
       desenhar();
     };
     alvo.appendChild(b);
+  });
+
+  const alvoDist = el('filtrosDistrito');
+  alvoDist.innerHTML = '';
+  distritos(dados.products).forEach(dist => {
+    const b = document.createElement('button');
+    b.textContent = dist;
+    b.setAttribute('aria-pressed', distritosAtivos.has(dist));
+    b.onclick = () => {
+      if (distritosAtivos.has(dist)) distritosAtivos.delete(dist);
+      else distritosAtivos.add(dist);
+      b.setAttribute('aria-pressed', distritosAtivos.has(dist));
+      desenhar();
+    };
+    alvoDist.appendChild(b);
   });
 
   const selLoja = el('filtroLoja');
@@ -166,10 +189,12 @@ function desenhar(){
   let lista = dados.products
     .filter(p => dimensaoAtiva === 'todas' || p.dimensao === dimensaoAtiva)
     .map(p => {
-      if (lojaAtiva === 'todas') return p;
-      const so = p.prices.filter(x => x.store === lojaAtiva);
-      if (!so.length) return null;
-      return { ...p, prices: so, preco_final: so[0].preco_final };
+      let precos = p.prices;
+      if (distritosAtivos.size > 0) precos = precos.filter(x => distritosAtivos.has(x.region));
+      if (lojaAtiva !== 'todas') precos = precos.filter(x => x.store === lojaAtiva);
+      if (!precos.length) return null;
+      precos = [...precos].sort((a, b) => a.preco_final - b.preco_final);
+      return { ...p, prices: precos, preco_final: precos[0].preco_final };
     })
     .filter(Boolean);
 
