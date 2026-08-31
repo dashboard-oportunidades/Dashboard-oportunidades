@@ -48,9 +48,9 @@ h1{
 .filtros-painel{margin:0 0 14px}
 .filtros-painel[hidden]{display:none}
 
-.filtros{display:flex;gap:6px;flex-wrap:nowrap;overflow-x:auto;margin:0 0 6px;padding-bottom:4px}
+.filtros{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 6px}
 .filtros button{
-  font:inherit;font-size:12px;padding:4px 10px;border-radius:999px;white-space:nowrap;flex:none;
+  font:inherit;font-size:10px;padding:2px 7px;border-radius:999px;white-space:nowrap;
   border:1px solid var(--linha);background:transparent;color:var(--ardosia);
   cursor:pointer;
 }
@@ -161,7 +161,7 @@ function montarFiltros(){
   alvo.innerHTML = '';
   dims.forEach(d => {
     const b = document.createElement('button');
-    b.textContent = d + ' cm';
+    b.textContent = d;
     b.setAttribute('aria-pressed', dimensoesAtivas.has(d));
     b.onclick = () => {
       if (dimensoesAtivas.has(d)) dimensoesAtivas.delete(d);
@@ -288,7 +288,7 @@ function desenhar(){
     const lojasTxt = mostrar
       .map((x, i) => i === 0 ? `<b>${linhaLoja(x)}</b>` : linhaLoja(x))
       .join(' · ') + (resto > 0 ? ` · mais ${resto}` : '');
-    const dimBadge = p.dimensao ? `<span class="dim">${dimCanonica(p.dimensao)} cm</span>` : '';
+    const dimBadge = p.dimensao ? `<span class="dim">${dimCanonica(p.dimensao)}</span>` : '';
     const melhor = p.prices[0];
     const descontoTxt = p.preco_desconto > 0 ? `-${fmt(p.preco_desconto)}` : '—';
     return `<tr>
