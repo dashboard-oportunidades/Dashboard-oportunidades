@@ -12,7 +12,8 @@ $env:Path = $machinePath + ';' + $userPath
 python recolher_outlet.py
 $exit = $LASTEXITCODE
 
-git add docs/outlet.json outlet_state.json
+git add docs/outlet.json
+if (Test-Path "outlet_state.json") { git add outlet_state.json }
 git diff --cached --quiet
 $hasChanges = $LASTEXITCODE -ne 0
 if ($hasChanges) {
