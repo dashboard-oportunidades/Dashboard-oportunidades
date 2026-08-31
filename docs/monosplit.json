@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:49:05+00:00",
+  "generated": "2026-08-31T22:50:43+00:00",
   "products": [
     {
       "id": "94727281",
@@ -19,6 +19,29 @@
             [
               "2026-08-31",
               198
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82143593",
+      "name": "Ar condicionado fixo (1X1) ELUXE AMBER 12000 BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber-12000-btu-r32-82143593.html",
+      "dimensao": "12000 BTU",
+      "preco_final": 248,
+      "prices": [
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 248,
+          "preco_desconto": 0,
+          "preco_final": 248,
+          "atualizado": "2026-08-31T22:50:38+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              248
             ]
           ]
         }
@@ -148,6 +171,71 @@
             [
               "2026-08-31",
               308
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84567638",
+      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html",
+      "dimensao": "9000 BTU",
+      "preco_final": 328,
+      "prices": [
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 569,
+          "preco_desconto": 241,
+          "preco_final": 328,
+          "atualizado": "2026-08-31T22:50:38+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              328
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-08-31T22:42:07+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              468
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-08-31T22:44:51+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              468
+            ]
+          ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-08-31T22:46:04+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              468
             ]
           ]
         }
@@ -356,6 +444,34 @@
           ]
         },
         {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-08-31T22:50:38+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-08-31T22:50:41+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              378
+            ]
+          ]
+        },
+        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 399,
@@ -504,57 +620,6 @@
             [
               "2026-08-31",
               438
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "84567638",
-      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html",
-      "dimensao": "9000 BTU",
-      "preco_final": 468,
-      "prices": [
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-08-31T22:42:07+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-08-31T22:44:51+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-08-31T22:46:04+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              468
             ]
           ]
         }
@@ -860,6 +925,48 @@
               488
             ]
           ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:50:42+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 509,
+          "preco_desconto": 0,
+          "preco_final": 509,
+          "atualizado": "2026-08-31T22:50:39+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              509
+            ]
+          ]
+        },
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 599,
+          "preco_desconto": 31,
+          "preco_final": 568,
+          "atualizado": "2026-08-31T22:50:38+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              568
+            ]
+          ]
         }
       ]
     },
@@ -1004,6 +1111,34 @@
               628
             ]
           ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 628,
+          "preco_desconto": 0,
+          "preco_final": 628,
+          "atualizado": "2026-08-31T22:50:39+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 628,
+          "preco_desconto": 0,
+          "preco_final": 628,
+          "atualizado": "2026-08-31T22:50:41+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              628
+            ]
+          ]
         }
       ]
     },
@@ -1021,6 +1156,20 @@
           "preco_desconto": 121,
           "preco_final": 518,
           "atualizado": "2026-08-31T22:43:20+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              518
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 518,
+          "preco_desconto": 0,
+          "preco_final": 518,
+          "atualizado": "2026-08-31T22:50:41+00:00",
           "history": [
             [
               "2026-08-31",
@@ -1157,6 +1306,20 @@
               568
             ]
           ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 568,
+          "preco_desconto": 0,
+          "preco_final": 568,
+          "atualizado": "2026-08-31T22:50:41+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              568
+            ]
+          ]
         }
       ]
     },
@@ -1217,6 +1380,20 @@
               588
             ]
           ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 588,
+          "preco_desconto": 0,
+          "preco_final": 588,
+          "atualizado": "2026-08-31T22:50:41+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              588
+            ]
+          ]
         }
       ]
     },
@@ -1252,6 +1429,29 @@
             [
               "2026-08-31",
               658
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82568726",
+      "name": "Ar condicionado fixo (1X1) SAMSUNG AVANT 9 BTU WF R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-samsung-avant-9-btu-wf-r32-82568726.html",
+      "dimensao": "9000 BTU",
+      "preco_final": 728,
+      "prices": [
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 728,
+          "preco_desconto": 0,
+          "preco_final": 728,
+          "atualizado": "2026-08-31T22:50:41+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              728
             ]
           ]
         }
@@ -1426,6 +1626,20 @@
               1048
             ]
           ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-08-31T22:50:39+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1048
+            ]
+          ]
         }
       ]
     },
@@ -1443,6 +1657,20 @@
           "preco_desconto": 0,
           "preco_final": 828,
           "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              828
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1019,
+          "preco_desconto": 191,
+          "preco_final": 828,
+          "atualizado": "2026-08-31T22:50:40+00:00",
           "history": [
             [
               "2026-08-31",
@@ -1672,6 +1900,20 @@
               1168
             ]
           ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-08-31T22:50:39+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1168
+            ]
+          ]
         }
       ]
     },
@@ -1769,6 +2011,20 @@
               998
             ]
           ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1328,
+          "preco_desconto": 0,
+          "preco_final": 1328,
+          "atualizado": "2026-08-31T22:50:41+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1328
+            ]
+          ]
         }
       ]
     },
@@ -1832,6 +2088,20 @@
           "preco_desconto": 256,
           "preco_final": 1078,
           "atualizado": "2026-08-31T22:48:14+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1078
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1078,
+          "preco_desconto": 0,
+          "preco_final": 1078,
+          "atualizado": "2026-08-31T22:50:41+00:00",
           "history": [
             [
               "2026-08-31",
