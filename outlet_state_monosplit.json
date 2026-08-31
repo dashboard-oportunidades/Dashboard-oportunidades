@@ -7,6 +7,8 @@
     "Amadora (Lisboa)": "2026-08-31T22:40:50+00:00",
     "Aveiro (Aveiro)": "2026-08-31T22:40:51+00:00",
     "Barcelos (Braga)": "2026-08-31T22:40:52+00:00",
+    "Barreiro (Setubal)": "2026-08-31T22:41:25+00:00",
+    "Braga (Braga)": "2026-08-31T22:41:26+00:00",
     "Colombo (Lisboa)": "2026-08-31T13:41:15+00:00"
   },
   "products": {
@@ -370,6 +372,24 @@
       "store": "Aveiro (Aveiro)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
     },
+    "86733350@Braga (Braga)": {
+      "atualizado": "2026-08-31T22:41:26+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          1168
+        ]
+      ],
+      "id": "86733350",
+      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 12000 BTU IONIZADOR",
+      "preco_desconto": 281,
+      "preco_final": 1168,
+      "preco_normal": 1449,
+      "region": "Braga",
+      "store": "Braga (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
+    },
     "86733733@Almada (Setubal)": {
       "atualizado": "2026-08-31T22:39:10+00:00",
       "dimensao": "9000 BTU",
@@ -477,6 +497,24 @@
       "region": "Lisboa",
       "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber3-24kbtu-98196845.html"
+    },
+    "98196849@Barreiro (Setubal)": {
+      "atualizado": "2026-08-31T22:41:25+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          308
+        ]
+      ],
+      "id": "98196849",
+      "name": "Ar condicionado fixo (1x1) HTW IX39 Plus 12 KBTU",
+      "preco_desconto": 18.62,
+      "preco_final": 308,
+      "preco_normal": 326.62,
+      "region": "Setubal",
+      "store": "Barreiro (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39-plus-12-kbtu-98196849.html"
     }
   }
 }

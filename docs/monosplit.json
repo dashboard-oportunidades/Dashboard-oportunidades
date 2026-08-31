@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:40:52+00:00",
+  "generated": "2026-08-31T22:41:26+00:00",
   "products": [
     {
       "id": "94727281",
@@ -19,6 +19,29 @@
             [
               "2026-08-31",
               198
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98196849",
+      "name": "Ar condicionado fixo (1x1) HTW IX39 Plus 12 KBTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39-plus-12-kbtu-98196849.html",
+      "dimensao": "12000 BTU",
+      "preco_final": 308,
+      "prices": [
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 326.62,
+          "preco_desconto": 18.62,
+          "preco_final": 308,
+          "atualizado": "2026-08-31T22:41:25+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              308
             ]
           ]
         }
@@ -491,6 +514,20 @@
           "preco_desconto": 281,
           "preco_final": 1168,
           "atualizado": "2026-08-31T22:40:51+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1168
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-08-31T22:41:26+00:00",
           "history": [
             [
               "2026-08-31",
