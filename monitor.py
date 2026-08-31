@@ -14,7 +14,6 @@ from __future__ import annotations
 import datetime as dt
 import json
 import os
-import re
 import smtplib
 import ssl
 import sys
@@ -38,10 +37,6 @@ USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 )
-
-PRICE_RE = re.compile(r"(\d{1,3}(?:\.\d{3})*)([,.]\d{2})?\s*€")
-PRODUCT_HREF_RE = re.compile(r"/produtos/(?!marcas/)[^?#]*?-(\d{6,})\.html")
-
 
 # --------------------------------------------------------------------------
 # Utilitarios
@@ -103,33 +98,6 @@ def save_state(state: dict) -> None:
     )
 
 
-def normalise(text: str) -> str:
-    """Junta digitos separados por espacos ('64 ,89 €' -> '64,89 €')."""
-    text = text.replace("\xa0", " ")
-    text = re.sub(r"(?<=\d)\s+(?=[,.\d])", "", text)
-    text = re.sub(r"(?<=[,.])\s+(?=\d)", "", text)
-    return re.sub(r"\s+", " ", text).strip()
-
-
-def texto_com_centavos(node) -> str:
-    """Como get_text(), mas insere ',' antes de <sup> -- os centimos do
-    preco vem num <sup> sem separador nenhum no texto."""
-    partes = []
-    for texto in node.find_all(string=True):
-        pai = texto.parent
-        if pai is not None and pai.name == "sup" and partes:
-            partes.append(",")
-        partes.append(str(texto))
-    return normalise(" ".join(partes))
-
-
-def to_float(inteiro: str, decimais: str | None) -> float:
-    """'inteiro' pode ter pontos de milhar (ex. '1.234'); 'decimais' e ',97'
-    ou '.97' -- alguns cartoes do outlet mostram os centimos com ponto."""
-    valor = inteiro.replace(".", "")
-    return float(valor + "." + decimais[1:]) if decimais else float(valor)
-
-
 def eur(value: float) -> str:
     return f"{value:,.2f} €".replace(",", "X").replace(".", ",").replace("X", ".")
 
@@ -183,70 +151,44 @@ def fetch(session: requests.Session, url: str, retries: int = 3) -> str | None:
     return None
 
 
-def extract_prices(card_text: str) -> list[float]:
-    """Numeros seguidos de '€', ignorando os precedidos de '-' (o valor do
-    desconto, ex. 'Outlet - 41 €', que nao e um preco a serio)."""
-    prices = []
-    for m in PRICE_RE.finditer(card_text):
-        j = m.start() - 1
-        while j >= 0 and card_text[j] == " ":
-            j -= 1
-        if j >= 0 and card_text[j] == "-":
-            continue
-        prices.append(to_float(m.group(1), m.group(2)))
-    return prices
-
-
 def parse_listing(html: str) -> dict[str, dict]:
-    """Devolve {product_id: {name, url, price, marketplace}} de uma pagina."""
+    """Devolve {product_id: {name, url, price, marketplace}} de uma pagina.
+
+    Le o <script class="dataTms"> de cada produto -- dados estruturados que
+    o proprio site usa para analitica, exatos e sem ambiguidade (ao contrario
+    de tentar interpretar o texto/HTML visivel do preco)."""
     soup = BeautifulSoup(html, "html.parser")
     found: dict[str, dict] = {}
 
-    for anchor in soup.find_all("a", href=True):
-        match = PRODUCT_HREF_RE.search(anchor["href"])
-        if not match:
+    for script in soup.find_all("script", class_="dataTms"):
+        try:
+            blocos = json.loads(script.string or "")
+        except json.JSONDecodeError:
             continue
+        for bloco in blocos:
+            if bloco.get("name") != "cdl_products_list":
+                continue
+            for produto in bloco.get("value", []):
+                product_id = produto.get("identifier")
+                offer = produto.get("offer") or {}
+                price = offer.get("unitprice_ati")
+                if not product_id or price is None:
+                    continue
 
-        product_id = match.group(1)
-        name = normalise(anchor.get("title") or anchor.get_text(" ", strip=True))
-        if len(name) < 10:
-            continue
+                name = produto.get("name", "")
+                url = produto.get("url", "")
+                if url.startswith("/"):
+                    url = urljoin(BASE, url)
 
-        # O cartao e o antepassado mais proximo que ja contem um preco.
-        card = anchor
-        prices: list[float] = []
-        card_text = ""
-        for _ in range(6):
-            card = card.parent
-            if card is None:
-                break
-            outros_ids = {
-                m2.group(1) for a2 in card.find_all("a", href=True)
-                if (m2 := PRODUCT_HREF_RE.search(a2["href"]))
-            }
-            if len(outros_ids) > 1:
-                break
-            card_text = texto_com_centavos(card)
-            prices = extract_prices(card_text)
-            if prices:
-                break
-
-        if not prices:
-            continue
-
-        lowered = card_text.lower()
-        # "Vendido por LEROY MERLIN" = preco da loja; outro vendedor = marketplace.
-        marketplace = "vendido por" in lowered and "vendido por leroy merlin" not in lowered
-
-        entry = {
-            "name": name,
-            "url": urljoin(BASE, anchor["href"].split("?")[0]),
-            "price": min(prices),   # em promocao aparece o antigo e o novo
-            "marketplace": marketplace,
-        }
-        previous = found.get(product_id)
-        if previous is None or entry["price"] < previous["price"]:
-            found[product_id] = entry
+                entry = {
+                    "name": name,
+                    "url": url,
+                    "price": price,
+                    "marketplace": offer.get("seller_type") != "1P",
+                }
+                previous = found.get(product_id)
+                if previous is None or entry["price"] < previous["price"]:
+                    found[product_id] = entry
 
     return found
 

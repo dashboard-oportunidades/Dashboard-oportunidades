@@ -31,8 +31,6 @@ OUTLET_URL = (
     "%2C%22attribute-22088%22%3A%22Base%2520de%2520duche%22%7D"
 )
 
-PRICE_RE = re.compile(r"(\d{1,3}(?:\.\d{3})*)([,.]\d{2})?\s*€")
-PRODUCT_HREF_RE = re.compile(r"/produtos/(?!marcas/)[^?#]*?-(\d{6,})\.html")
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
 
 USER_AGENT = (
@@ -41,111 +39,52 @@ USER_AGENT = (
 )
 
 
-def normalise(text: str) -> str:
-    text = text.replace("\xa0", " ")
-    text = re.sub(r"(?<=\d)\s+(?=[,.\d])", "", text)
-    text = re.sub(r"(?<=[,.])\s+(?=\d)", "", text)
-    return re.sub(r"\s+", " ", text).strip()
-
-
-def texto_com_centavos(node) -> str:
-    """Como get_text(), mas insere ',' antes de <sup> -- os centimos do
-    preco vem num <sup> sem separador nenhum no texto (o site usa CSS para
-    o mostrar como decimal), por isso '169' + <sup>97</sup> vira '16997'
-    em vez de '169,97' se nao tratarmos isto especificamente."""
-    partes = []
-    for texto in node.find_all(string=True):
-        pai = texto.parent
-        if pai is not None and pai.name == "sup" and partes:
-            partes.append(",")
-        partes.append(str(texto))
-    return normalise(" ".join(partes))
-
-
-def to_float(inteiro: str, decimais: str | None) -> float:
-    """'inteiro' pode ter pontos de milhar (ex. '1.234'); 'decimais' e ',97'
-    ou '.97' -- alguns cartoes do outlet mostram os centimos com ponto."""
-    valor = inteiro.replace(".", "")
-    return float(valor + "." + decimais[1:]) if decimais else float(valor)
-
-
 def store_label(store: dict) -> str:
     region = store.get("region")
     return f"{store['name']} ({region})" if region else store["name"]
 
 
-def extract_prices(card_text: str) -> dict | None:
-    """Separa o valor do desconto ('Outlet - 41 €') dos precos a serio, e
-    devolve preco normal (mais alto), preco final (mais baixo) e desconto."""
-    desconto = None
-    outros = []
-    for m in PRICE_RE.finditer(card_text):
-        j = m.start() - 1
-        while j >= 0 and card_text[j] == " ":
-            j -= 1
-        valor = to_float(m.group(1), m.group(2))
-        if j >= 0 and card_text[j] == "-":
-            if desconto is None:
-                desconto = valor
-        else:
-            outros.append(valor)
-
-    if not outros:
-        return None
-    return {
-        "preco_normal": max(outros),
-        "preco_final": min(outros),
-        "preco_desconto": desconto if desconto is not None else 0.0,
-    }
-
-
 def parse_listing(html: str) -> dict[str, dict]:
+    """Le os precos do <script class="dataTms"> de cada produto -- dados
+    estruturados que o proprio site usa para analitica, exatos e sem
+    ambiguidade (ao contrario de tentar interpretar o texto visivel)."""
     soup = BeautifulSoup(html, "html.parser")
     found: dict[str, dict] = {}
 
-    for anchor in soup.find_all("a", href=True):
-        match = PRODUCT_HREF_RE.search(anchor["href"])
-        if not match:
+    for script in soup.find_all("script", class_="dataTms"):
+        try:
+            blocos = json.loads(script.string or "")
+        except json.JSONDecodeError:
             continue
-        product_id = match.group(1)
-        name = normalise(anchor.get("title") or anchor.get_text(" ", strip=True))
-        if len(name) < 10:
-            continue
+        for bloco in blocos:
+            if bloco.get("name") != "cdl_products_list":
+                continue
+            for produto in bloco.get("value", []):
+                pid = produto.get("identifier")
+                offer = produto.get("offer") or {}
+                preco_final = offer.get("unitprice_ati")
+                if not pid or preco_final is None:
+                    continue
 
-        card = anchor
-        precos = None
-        for _ in range(6):
-            card = card.parent
-            if card is None:
-                break
-            # Se este ancestral ja engloba outro produto, parou-se cedo demais
-            # nao subir mais -- misturaria precos de produtos diferentes.
-            outros_ids = {
-                m2.group(1) for a2 in card.find_all("a", href=True)
-                if (m2 := PRODUCT_HREF_RE.search(a2["href"]))
-            }
-            if len(outros_ids) > 1:
-                break
-            card_text = texto_com_centavos(card)
-            precos = extract_prices(card_text)
-            if precos:
-                break
-        if not precos:
-            continue
+                name = produto.get("name", "")
+                dim_match = DIM_RE.search(name)
+                dimensao = f"{dim_match.group(1)}x{dim_match.group(2)}" if dim_match else None
 
-        dim_match = DIM_RE.search(name)
-        dimensao = f"{dim_match.group(1)}x{dim_match.group(2)}" if dim_match else None
+                url = produto.get("url", "")
+                if url.startswith("/"):
+                    url = "https://www.leroymerlin.pt" + url
 
-        entry = {
-            "name": name,
-            "url": "https://www.leroymerlin.pt" + anchor["href"].split("?")[0]
-            if anchor["href"].startswith("/") else anchor["href"].split("?")[0],
-            "dimensao": dimensao,
-            **precos,
-        }
-        previous = found.get(product_id)
-        if previous is None or entry["preco_final"] < previous["preco_final"]:
-            found[product_id] = entry
+                entry = {
+                    "name": name,
+                    "url": url,
+                    "dimensao": dimensao,
+                    "preco_normal": offer.get("initial_price") or preco_final,
+                    "preco_desconto": offer.get("discount_ati") or 0.0,
+                    "preco_final": preco_final,
+                }
+                previous = found.get(pid)
+                if previous is None or entry["preco_final"] < previous["preco_final"]:
+                    found[pid] = entry
 
     return found
 
