@@ -1,19 +1,30 @@
 # Monitor de bases de duche — leroymerlin.pt
 
-Corre todos os dias às 8h no GitHub Actions, lê as listagens de bases de duche
-e avisa-te por **email** e por **notificação no telemóvel** quando aparece
-alguma abaixo do preço que definiste — ou quando uma que já conhecias baixa.
+Corres manualmente a partir do teu PC sempre que quiseres atualizar, lê as
+listagens de bases de duche e avisa-te por **email** e por **notificação no
+telemóvel** quando aparece alguma abaixo do preço que definiste — ou quando
+uma que já conhecias baixa.
 
-Custo: zero. O GitHub Actions dá 2000 minutos/mês em repositórios privados e
-é ilimitado em públicos; isto gasta menos de um minuto por dia.
+**Porque não corre sozinho na nuvem:** a Leroy Merlin tem proteção anti-bot
+(Datadome) que bloqueia com 403 os pedidos vindos de servidores do GitHub
+Actions — e provavelmente de qualquer outra nuvem. A partir de uma ligação de
+casa normal não há esse problema, por isso o script corre localmente e depois
+publica o resultado no GitHub.
+
+Custo: zero — só precisas do teu PC ligado no momento em que corres o script.
 
 ---
 
-## 1. Criar o repositório
+## 1. Preparar o repositório localmente
 
-1. Cria um repositório novo no GitHub (privado, se preferires).
-2. Copia para lá estes quatro ficheiros:
-   `monitor.py`, `config.json`, `requirements.txt`, `.github/workflows/monitor.yml`.
+1. Clona o repositório para o teu PC.
+2. Instala o Python (3.10+) se ainda não tiveres.
+3. Instala as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Copia `.env.example` para `.env` e preenche os valores (ver secções 4 e 5).
+   O `.env` fica só no teu PC — está no `.gitignore`, nunca é enviado para o GitHub.
 
 ## 2. Escolher o que queres vigiar
 
@@ -115,23 +126,11 @@ myaccount.google.com → Segurança → Palavras-passe de aplicações.
 - `SMTP_USER`: o teu endereço
 - `SMTP_PASS`: a palavra-passe de aplicação
 
-## 6. Configurar os segredos no GitHub
+## 6. Preencher o `.env`
 
-No repositório → **Settings → Secrets and variables → Actions**.
-
-Em *Secrets* (New repository secret):
-
-```
-SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, MAIL_TO, NTFY_TOPIC
-```
-
-Em *Variables*:
-
-```
-MAX_PRICE = 120
-```
-
-Assim mudas o limite de preço pela interface do GitHub, sem tocar no código.
+Abre o `.env` que criaste no passo 1 e preenche `SMTP_USER`, `SMTP_PASS`,
+`MAIL_TO` e `NTFY_TOPIC` com os valores das secções 4 e 5. O limite de preço
+não vem daqui — continua a ser o `max_price` do `config.json`.
 
 ## 7. Publicar a página no telemóvel
 
@@ -162,25 +161,34 @@ Fica com ícone próprio e abre em ecrã inteiro, sem barra de endereço.
   abaixo fica submerso; o que está acima fica em seco.
 - **Arrasta o cursor** para mover o limite e ver o que entra e sai. Isto é só
   no teu telemóvel — não muda o valor a que és alertado, que continua a ser o
-  `MAX_PRICE` no GitHub.
+  `max_price` do `config.json`.
 - **Filtra por região** para veres só Lisboa ou só Faro.
 - **A linha por baixo de cada preço** é a evolução dos últimos meses. Só
   aparece quando o preço mudou alguma vez; fica verde quando desceu.
 - Toca numa base de duche para abrir a página do produto no site.
 
-## 8. Arrancar
+## 8. Arrancar e atualizar
 
-Vai a **Actions → Monitor bases de duche → Run workflow** para correr à mão a
-primeira vez. É esta corrida que cria o `docs/data.json` e enche a página —
-até lá ela mostra apenas instruções. Nessa primeira corrida vais receber um aviso com *tudo* o que
-está abaixo do limite. A partir daí só recebes novidades e descidas de preço.
+Sempre que quiseres verificar os preços, corre no PowerShell, na pasta do
+repositório:
+
+```powershell
+./atualizar.ps1
+```
+
+Isto carrega o `.env`, corre o `monitor.py`, e se houver preços novos faz
+commit e push de `state.json` e `docs/data.json` automaticamente. A primeira
+corrida cria o `docs/data.json` e enche a página — até lá ela mostra apenas
+instruções, e vais receber um aviso com *tudo* o que está abaixo do limite. A
+partir daí só recebes novidades e descidas de preço.
 
 ---
 
 ## Como funciona
 
-- A página é estática: o GitHub Actions escreve o `docs/data.json` e faz commit,
-  o GitHub Pages serve o ficheiro. Não há servidor a correr nem nada a pagar.
+- A página é estática: o `atualizar.ps1` escreve o `docs/data.json` e faz
+  commit/push a partir do teu PC; o GitHub Pages serve o ficheiro. Não há
+  servidor a correr nem nada a pagar.
 - O `state.json` guarda o último preço visto de cada produto **em cada loja** e é gravado de
   volta no repositório em cada corrida. É por isso que não recebes o mesmo
   aviso todos os dias — e ao fim de uns meses tens um histórico de preços no
@@ -188,16 +196,16 @@ está abaixo do limite. A partir daí só recebes novidades e descidas de preço
 - Os produtos são identificados pelo ID no fim do URL, não pelo nome, por isso
   aguenta mudanças de título.
 - Se o site mudar de estrutura e o script deixar de extrair produtos, ele
-  termina com erro. O GitHub envia-te automaticamente um email quando um
-  workflow falha, por isso ficas a saber que partiu em vez de assumires
-  silenciosamente que não há promoções.
+  termina com erro e o `atualizar.ps1` não faz commit nenhum — ficas a saber
+  pelo próprio terminal em vez de assumires silenciosamente que não há
+  promoções.
 
 ## Boa vizinhança
 
-Uma corrida por dia com 3 segundos entre páginas é tráfego irrelevante para
-o site, mesmo multiplicado por oito lojas — dá cerca de 60 pedidos e uns cinco
-minutos por corrida, folgadamente dentro dos limites do GitHub Actions. Se
-acrescentares muitas mais lojas, aumenta o `delay_seconds` em vez de o baixar. Evita baixar o `delay_seconds` ou pôr o cron a correr de hora a hora —
-além de ser má prática, arriscas ser bloqueado. Confirma também os
+Um `delay_seconds` de 3 segundos entre páginas é tráfego irrelevante para
+o site, mesmo multiplicado por doze lojas. Se acrescentares muitas mais lojas,
+aumenta o `delay_seconds` em vez de o baixar, e evita correr o script muitas
+vezes seguidas no mesmo dia — além de ser má prática, arriscas ser bloqueado.
+Confirma também os
 [Termos e Condições](https://www.leroymerlin.pt/politicas-e-condicoes/termos-e-condicoes-gerais/)
 do site, e usa isto só para uso pessoal.
