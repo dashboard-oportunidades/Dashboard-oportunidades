@@ -48,6 +48,20 @@ def normalise(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+def texto_com_centavos(node) -> str:
+    """Como get_text(), mas insere ',' antes de <sup> -- os centimos do
+    preco vem num <sup> sem separador nenhum no texto (o site usa CSS para
+    o mostrar como decimal), por isso '169' + <sup>97</sup> vira '16997'
+    em vez de '169,97' se nao tratarmos isto especificamente."""
+    partes = []
+    for texto in node.find_all(string=True):
+        pai = texto.parent
+        if pai is not None and pai.name == "sup" and partes:
+            partes.append(",")
+        partes.append(str(texto))
+    return normalise(" ".join(partes))
+
+
 def to_float(inteiro: str, decimais: str | None) -> float:
     """'inteiro' pode ter pontos de milhar (ex. '1.234'); 'decimais' e ',97'
     ou '.97' -- alguns cartoes do outlet mostram os centimos com ponto."""
@@ -112,7 +126,7 @@ def parse_listing(html: str) -> dict[str, dict]:
             }
             if len(outros_ids) > 1:
                 break
-            card_text = normalise(card.get_text(" ", strip=True))
+            card_text = texto_com_centavos(card)
             precos = extract_prices(card_text)
             if precos:
                 break
