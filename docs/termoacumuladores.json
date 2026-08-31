@@ -1,6 +1,29 @@
 {
-  "generated": "2026-08-31T22:04:24+00:00",
+  "generated": "2026-08-31T22:05:12+00:00",
   "products": [
+    {
+      "id": "82005350",
+      "name": "Termoacumulador EQUATION Q2 50L",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-50l-82005350.html",
+      "dimensao": "50L",
+      "preco_final": 158,
+      "prices": [
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 158,
+          "preco_desconto": 0,
+          "preco_final": 158,
+          "atualizado": "2026-08-31T22:05:11+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              158
+            ]
+          ]
+        }
+      ]
+    },
     {
       "id": "84801327",
       "name": "Termoacumulador BOSCH tronic tr 4000t 50l",
@@ -19,6 +42,29 @@
             [
               "2026-08-31",
               178
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84434192",
+      "name": "Termoacumulador HTW SMART PLUS WIFI 80L",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-plus-wifi-80l-84434192.html",
+      "dimensao": "80L",
+      "preco_final": 219.98,
+      "prices": [
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 259,
+          "preco_desconto": 39.02,
+          "preco_final": 219.98,
+          "atualizado": "2026-08-31T22:05:12+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              219.98
             ]
           ]
         }
@@ -48,6 +94,29 @@
       ]
     },
     {
+      "id": "87695267",
+      "name": "Termoacumulador 80L HTW Koi",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-80l-htw-koi-87695267.html",
+      "dimensao": "80L",
+      "preco_final": 239.98,
+      "prices": [
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 279,
+          "preco_desconto": 39.02,
+          "preco_final": 239.98,
+          "atualizado": "2026-08-31T22:05:12+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              239.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "95933346",
       "name": "Termo Vertical HTW SMART LITE função smart e ânodo eletronico 100L",
       "url": "https://www.leroymerlin.pt/produtos/termo-vertical-htw-smart-lite-funcao-smart-e-anodo-eletronico-100l-95933346.html",
@@ -65,6 +134,29 @@
             [
               "2026-08-31",
               239.99
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82246625",
+      "name": "Termoacumulador EQUATION Q2 150L",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-150l-82246625.html",
+      "dimensao": "150L",
+      "preco_final": 328,
+      "prices": [
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 405,
+          "preco_desconto": 77,
+          "preco_final": 328,
+          "atualizado": "2026-08-31T22:05:12+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              328
             ]
           ]
         }
