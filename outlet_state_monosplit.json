@@ -11,6 +11,8 @@
     "Braga (Braga)": "2026-08-31T22:41:26+00:00",
     "Braganca (Braganca)": "2026-08-31T22:42:06+00:00",
     "Caldas da Rainha (Leiria)": "2026-08-31T22:42:07+00:00",
+    "Carcavelos (Lisboa)": "2026-08-31T22:42:36+00:00",
+    "Cascais (Lisboa)": "2026-08-31T22:42:37+00:00",
     "Colombo (Lisboa)": "2026-08-31T13:41:15+00:00"
   },
   "products": {
@@ -194,6 +196,42 @@
       "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
+    "82558714@Carcavelos (Lisboa)": {
+      "atualizado": "2026-08-31T22:42:36+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          488
+        ]
+      ],
+      "id": "82558714",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
+      "preco_desconto": 111,
+      "preco_final": 488,
+      "preco_normal": 599,
+      "region": "Lisboa",
+      "store": "Carcavelos (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
+    },
+    "82558714@Cascais (Lisboa)": {
+      "atualizado": "2026-08-31T22:42:37+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          488
+        ]
+      ],
+      "id": "82558714",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
+      "preco_desconto": 111,
+      "preco_final": 488,
+      "preco_normal": 599,
+      "region": "Lisboa",
+      "store": "Cascais (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
+    },
     "82558714@Colombo (Lisboa)": {
       "atualizado": "2026-08-31T13:41:15+00:00",
       "dimensao": "9000 BTU",
@@ -246,6 +284,24 @@
       "preco_normal": 649,
       "region": "Braganca",
       "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
+    },
+    "82558726@Cascais (Lisboa)": {
+      "atualizado": "2026-08-31T22:42:37+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          528
+        ]
+      ],
+      "id": "82558726",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK12Z6L-W 12000BTU",
+      "preco_desconto": 121,
+      "preco_final": 528,
+      "preco_normal": 649,
+      "region": "Lisboa",
+      "store": "Cascais (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
     },
     "82558730@Amadora (Lisboa)": {

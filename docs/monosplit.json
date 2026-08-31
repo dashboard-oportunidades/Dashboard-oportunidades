@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:42:07+00:00",
+  "generated": "2026-08-31T22:42:37+00:00",
   "products": [
     {
       "id": "94727281",
@@ -277,6 +277,34 @@
           ]
         },
         {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:42:07+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:42:36+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 599,
@@ -291,12 +319,12 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-08-31T22:42:07+00:00",
+          "atualizado": "2026-08-31T22:42:37+00:00",
           "history": [
             [
               "2026-08-31",
@@ -334,6 +362,20 @@
           "preco_desconto": 121,
           "preco_final": 528,
           "atualizado": "2026-08-31T22:42:06+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              528
+            ]
+          ]
+        },
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 649,
+          "preco_desconto": 121,
+          "preco_final": 528,
+          "atualizado": "2026-08-31T22:42:37+00:00",
           "history": [
             [
               "2026-08-31",
