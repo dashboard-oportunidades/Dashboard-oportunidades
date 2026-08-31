@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T21:15:06+00:00",
+  "generated": "2026-08-31T21:58:49+00:00",
   "products": [
     {
       "id": "81940804",
@@ -9,12 +9,12 @@
       "preco_final": 388,
       "prices": [
         {
-          "store": "Colombo (Lisboa)",
+          "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 469,
-          "preco_desconto": 81,
+          "preco_normal": 388,
+          "preco_desconto": 0,
           "preco_final": 388,
-          "atualizado": "2026-08-31T15:14:32+00:00",
+          "atualizado": "2026-08-31T21:15:06+00:00",
           "history": [
             [
               "2026-08-31",
@@ -23,12 +23,12 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
+          "store": "Colombo (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 388,
-          "preco_desconto": 0,
+          "preco_normal": 469,
+          "preco_desconto": 81,
           "preco_final": 388,
-          "atualizado": "2026-08-31T21:15:06+00:00",
+          "atualizado": "2026-08-31T15:14:32+00:00",
           "history": [
             [
               "2026-08-31",

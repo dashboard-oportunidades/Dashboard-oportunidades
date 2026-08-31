@@ -1,0 +1,27 @@
+// Avanca para a loja seguinte da lista, via cookie, sem tocar na
+// interface do site -- so um clique, sem escrever nada. Lembra-se de
+// onde vai (localStorage) entre cliques. Usa isto ANTES do marcador
+// "Recolher Outlet" em cada loja.
+//
+// Gerado a partir de config.json -- se acrescentares lojas novas la,
+// volta a gerar este ficheiro.
+
+(function () {
+  const LOJAS = {"Albufeira": 4, "Alfragide": 5, "Almada": 3, "Alta de Lisboa": 17, "Alverca": 71, "Amadora": 7, "Aveiro": 14, "Barcelos": 69, "Barreiro": 55, "Braga": 11, "Braganca": 59, "Caldas da Rainha": 57, "Carcavelos": 70, "Cascais": 38, "Castelo Branco": 63, "Chaves": 67, "Coimbra": 9, "Colombo": 39, "Covilha": 32, "Evora": 46, "Figueira da Foz": 56, "Gaia": 10, "Gondomar": 1, "Guarda": 54, "Guimaraes": 33, "Leiria": 13, "Loule": 12, "Loures": 44, "Mafra": 58, "Maia": 8, "Matosinhos": 6, "Montijo": 34, "Oeiras": 60, "Penafiel": 51, "Portimao": 19, "Sacavem": 65, "Santa Maria da Feira": 52, "Santarem": 18, "Setubal": 36, "Sintra": 2, "Telheiras": 72, "Torres Novas": 61, "Torres Vedras": 31, "Viana do Castelo": 47, "Viseu": 43};
+  const nomes = Object.keys(LOJAS);
+  const chave = 'proximaLojaIdx';
+  let idx = parseInt(localStorage.getItem(chave) || '-1', 10);
+  idx = (idx + 1) % nomes.length;
+  localStorage.setItem(chave, idx);
+
+  const nome = nomes[idx];
+  const id = LOJAS[nome];
+  const hoje = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+  const dom = 'domain=.leroymerlin.pt; path=/';
+  document.cookie = 'store=store=' + id + '|dateContext=' + hoje + '; ' + dom;
+  document.cookie = 'store_id=' + id + '; ' + dom;
+  document.cookie = 'lmpt_store_id=' + id + '; ' + dom;
+
+  alert('Loja ' + (idx + 1) + '/' + nomes.length + ': ' + nome);
+  location.reload();
+})();
