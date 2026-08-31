@@ -5,6 +5,10 @@
 $ErrorActionPreference = "Stop"
 Set-Location $PSScriptRoot
 
+$machinePath = [System.Environment]::GetEnvironmentVariable('Path','Machine')
+$userPath = [System.Environment]::GetEnvironmentVariable('Path','User')
+$env:Path = $machinePath + ';' + $userPath
+
 $envFile = Join-Path $PSScriptRoot ".env"
 if (-not (Test-Path $envFile)) {
     Write-Error "Falta o ficheiro .env. Copia .env.example para .env e preenche os valores."

@@ -5,6 +5,10 @@
 $ErrorActionPreference = "Stop"
 Set-Location $PSScriptRoot
 
+$machinePath = [System.Environment]::GetEnvironmentVariable('Path','Machine')
+$userPath = [System.Environment]::GetEnvironmentVariable('Path','User')
+$env:Path = $machinePath + ';' + $userPath
+
 python recolher_outlet.py
 $exit = $LASTEXITCODE
 
