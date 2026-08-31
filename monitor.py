@@ -438,7 +438,7 @@ def send_push(subject: str, body: str) -> None:
 
 def main() -> int:
     cfg = load_config()
-    max_price = float(os.environ.get("MAX_PRICE", cfg["max_price"]))
+    max_price = float(os.environ.get("MAX_PRICE") or cfg["max_price"])
     state = load_state()
 
     by_store, labels = scrape_all(cfg)
