@@ -68,7 +68,11 @@ def parse_listing(html: str) -> dict[str, dict]:
 
                 name = produto.get("name", "")
                 dim_match = DIM_RE.search(name)
-                dimensao = f"{dim_match.group(1)}x{dim_match.group(2)}" if dim_match else None
+                if dim_match:
+                    a, b = int(dim_match.group(1)), int(dim_match.group(2))
+                    dimensao = f"{max(a, b)}x{min(a, b)}"
+                else:
+                    dimensao = None
 
                 url = produto.get("url", "")
                 if url.startswith("/"):

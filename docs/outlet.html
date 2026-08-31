@@ -98,14 +98,22 @@ select.loja{
 const fmt = n => n.toLocaleString('pt-PT',{minimumFractionDigits:2,maximumFractionDigits:2}) + ' €';
 const el = id => document.getElementById(id);
 let dados = null;
-let dimensaoAtiva = 'todas';
+let dimensoesAtivas = new Set();  // vazio = todas
 let lojaAtiva = 'todas';
 let distritosAtivos = new Set();  // vazio = todos
 let ordem = { campo: 'preco_final', asc: true };
 
+/* '70x160' e '160x70' sao a mesma medida -- canonicaliza maior x menor. */
+function dimCanonica(dim){
+  if (!dim) return dim;
+  const partes = dim.split('x').map(Number);
+  if (partes.length !== 2 || partes.some(isNaN)) return dim;
+  return `${Math.max(...partes)}x${Math.min(...partes)}`;
+}
+
 function dimensoes(produtos){
   const s = new Set();
-  produtos.forEach(p => { if (p.dimensao) s.add(p.dimensao); });
+  produtos.forEach(p => { if (p.dimensao) s.add(dimCanonica(p.dimensao)); });
   return [...s].sort();
 }
 
@@ -125,13 +133,14 @@ function montarFiltros(){
   const dims = dimensoes(dados.products);
   const alvo = el('filtrosDim');
   alvo.innerHTML = '';
-  ['todas', ...dims].forEach(d => {
+  dims.forEach(d => {
     const b = document.createElement('button');
-    b.textContent = d === 'todas' ? 'Todas as medidas' : d + ' cm';
-    b.setAttribute('aria-pressed', d === dimensaoAtiva);
+    b.textContent = d + ' cm';
+    b.setAttribute('aria-pressed', dimensoesAtivas.has(d));
     b.onclick = () => {
-      dimensaoAtiva = d;
-      [...alvo.children].forEach(c => c.setAttribute('aria-pressed', c === b));
+      if (dimensoesAtivas.has(d)) dimensoesAtivas.delete(d);
+      else dimensoesAtivas.add(d);
+      b.setAttribute('aria-pressed', dimensoesAtivas.has(d));
       desenhar();
     };
     alvo.appendChild(b);
@@ -187,7 +196,7 @@ function evolucao(hist){
 
 function desenhar(){
   let lista = dados.products
-    .filter(p => dimensaoAtiva === 'todas' || p.dimensao === dimensaoAtiva)
+    .filter(p => dimensoesAtivas.size === 0 || dimensoesAtivas.has(dimCanonica(p.dimensao)))
     .map(p => {
       let precos = p.prices;
       if (distritosAtivos.size > 0) precos = precos.filter(x => distritosAtivos.has(x.region));
@@ -232,7 +241,7 @@ function desenhar(){
     const lojasTxt = mostrar
       .map((x, i) => i === 0 ? `<b>${linhaLoja(x)}</b>` : linhaLoja(x))
       .join(' · ') + (resto > 0 ? ` · mais ${resto}` : '');
-    const dimBadge = p.dimensao ? `<span class="dim">${p.dimensao} cm</span>` : '';
+    const dimBadge = p.dimensao ? `<span class="dim">${dimCanonica(p.dimensao)} cm</span>` : '';
     const melhor = p.prices[0];
     const descontoTxt = p.preco_desconto > 0 ? `-${fmt(p.preco_desconto)}` : '—';
     return `<tr>

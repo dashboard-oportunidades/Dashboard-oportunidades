@@ -31,10 +31,13 @@
             ? location.origin + produto.url
             : produto.url;
         const dim = (produto.name || '').match(/(\d{2,3})\s*[xX]\s*(\d{2,3})/);
+        const dimensao = dim
+          ? `${Math.max(+dim[1], +dim[2])}x${Math.min(+dim[1], +dim[2])}`
+          : null;
         const entry = {
           name: produto.name,
           url,
-          dimensao: dim ? `${dim[1]}x${dim[2]}` : null,
+          dimensao,
           preco_normal: offer.initial_price || precoFinal,
           preco_desconto: offer.discount_ati || 0,
           preco_final: precoFinal,
