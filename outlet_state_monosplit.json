@@ -1,6 +1,7 @@
 {
   "lojas": {
     "Alfragide (Lisboa)": "2026-08-31T22:38:39+00:00",
+    "Almada (Setubal)": "2026-08-31T22:39:10+00:00",
     "Alta de Lisboa (Lisboa)": "2026-08-31T13:37:35+00:00",
     "Colombo (Lisboa)": "2026-08-31T13:41:15+00:00"
   },
@@ -77,6 +78,24 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
     },
+    "83791801@Almada (Setubal)": {
+      "atualizado": "2026-08-31T22:39:10+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          628
+        ]
+      ],
+      "id": "83791801",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
+      "preco_desconto": 0,
+      "preco_final": 628,
+      "preco_normal": 628,
+      "region": "Setubal",
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
+    },
     "86733349@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T13:37:35+00:00",
       "dimensao": null,
@@ -95,6 +114,24 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
     },
+    "86733350@Almada (Setubal)": {
+      "atualizado": "2026-08-31T22:39:10+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          1168
+        ]
+      ],
+      "id": "86733350",
+      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 12000 BTU IONIZADOR",
+      "preco_desconto": 281,
+      "preco_final": 1168,
+      "preco_normal": 1449,
+      "region": "Setubal",
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
+    },
     "86733350@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T13:37:35+00:00",
       "dimensao": null,
@@ -112,6 +149,24 @@
       "region": "Lisboa",
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
+    },
+    "86733733@Almada (Setubal)": {
+      "atualizado": "2026-08-31T22:39:10+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          378
+        ]
+      ],
+      "id": "86733733",
+      "name": "Ar condicionado fixo (1x1) New Luso KC25YR03 WIFI 9000 BTU Hisense",
+      "preco_desconto": 81,
+      "preco_final": 378,
+      "preco_normal": 459,
+      "region": "Setubal",
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733851@Colombo (Lisboa)": {
       "atualizado": "2026-08-31T13:41:15+00:00",
