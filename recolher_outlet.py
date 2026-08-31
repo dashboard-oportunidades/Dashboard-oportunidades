@@ -55,6 +55,31 @@ def store_label(store: dict) -> str:
     return f"{store['name']} ({region})" if region else store["name"]
 
 
+def extract_prices(card_text: str) -> dict | None:
+    """Separa o valor do desconto ('Outlet - 41 €') dos precos a serio, e
+    devolve preco normal (mais alto), preco final (mais baixo) e desconto."""
+    desconto = None
+    outros = []
+    for m in PRICE_RE.finditer(card_text):
+        j = m.start() - 1
+        while j >= 0 and card_text[j] == " ":
+            j -= 1
+        valor = to_float(m.group(1))
+        if j >= 0 and card_text[j] == "-":
+            if desconto is None:
+                desconto = valor
+        else:
+            outros.append(valor)
+
+    if not outros:
+        return None
+    return {
+        "preco_normal": max(outros),
+        "preco_final": min(outros),
+        "preco_desconto": desconto if desconto is not None else 0.0,
+    }
+
+
 def parse_listing(html: str) -> dict[str, dict]:
     soup = BeautifulSoup(html, "html.parser")
     found: dict[str, dict] = {}
@@ -69,18 +94,16 @@ def parse_listing(html: str) -> dict[str, dict]:
             continue
 
         card = anchor
-        prices: list[float] = []
-        card_text = ""
+        precos = None
         for _ in range(6):
             card = card.parent
             if card is None:
                 break
             card_text = normalise(card.get_text(" ", strip=True))
-            raw = PRICE_RE.findall(card_text)
-            if raw:
-                prices = [to_float(p) for p in raw]
+            precos = extract_prices(card_text)
+            if precos:
                 break
-        if not prices:
+        if not precos:
             continue
 
         dim_match = DIM_RE.search(name)
@@ -90,11 +113,11 @@ def parse_listing(html: str) -> dict[str, dict]:
             "name": name,
             "url": "https://www.leroymerlin.pt" + anchor["href"].split("?")[0]
             if anchor["href"].startswith("/") else anchor["href"].split("?")[0],
-            "price": min(prices),
             "dimensao": dimensao,
+            **precos,
         }
         previous = found.get(product_id)
-        if previous is None or entry["price"] < previous["price"]:
+        if previous is None or entry["preco_final"] < previous["preco_final"]:
             found[product_id] = entry
 
     return found
@@ -161,16 +184,16 @@ def wait_for_human(page, timeout_s: int = 300) -> bool:
 def save_results(results: dict[str, dict]) -> int:
     products = []
     for pid, data in results.items():
-        prices = sorted(data["prices"], key=lambda r: r["price"])
+        prices = sorted(data["prices"], key=lambda r: r["preco_final"])
         products.append({
             "id": pid,
             "name": data["name"],
             "url": data["url"],
             "dimensao": data["dimensao"],
-            "price": prices[0]["price"],
+            "preco_final": prices[0]["preco_final"],
             "prices": prices,
         })
-    products.sort(key=lambda p: p["price"])
+    products.sort(key=lambda p: p["preco_final"])
 
     payload = {
         "generated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
@@ -228,7 +251,12 @@ def main() -> int:
                         "dimensao": data["dimensao"],
                         "prices": [],
                     })
-                    entry["prices"].append({"store": label, "price": data["price"]})
+                    entry["prices"].append({
+                        "store": label,
+                        "preco_normal": data["preco_normal"],
+                        "preco_desconto": data["preco_desconto"],
+                        "preco_final": data["preco_final"],
+                    })
         except BlockedError as exc:
             blocked = True
             print(f"\n!!! {exc}", file=sys.stderr)

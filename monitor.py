@@ -168,6 +168,20 @@ def fetch(session: requests.Session, url: str, retries: int = 3) -> str | None:
     return None
 
 
+def extract_prices(card_text: str) -> list[float]:
+    """Numeros seguidos de '€', ignorando os precedidos de '-' (o valor do
+    desconto, ex. 'Outlet - 41 €', que nao e um preco a serio)."""
+    prices = []
+    for m in PRICE_RE.finditer(card_text):
+        j = m.start() - 1
+        while j >= 0 and card_text[j] == " ":
+            j -= 1
+        if j >= 0 and card_text[j] == "-":
+            continue
+        prices.append(to_float(m.group(1)))
+    return prices
+
+
 def parse_listing(html: str) -> dict[str, dict]:
     """Devolve {product_id: {name, url, price, marketplace}} de uma pagina."""
     soup = BeautifulSoup(html, "html.parser")
@@ -192,9 +206,8 @@ def parse_listing(html: str) -> dict[str, dict]:
             if card is None:
                 break
             card_text = normalise(card.get_text(" ", strip=True))
-            raw = PRICE_RE.findall(card_text)
-            if raw:
-                prices = [to_float(p) for p in raw]
+            prices = extract_prices(card_text)
+            if prices:
                 break
 
         if not prices:

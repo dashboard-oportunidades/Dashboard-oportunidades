@@ -65,6 +65,11 @@ td{padding:12px 10px;vertical-align:top}
 }
 .lojas{font-size:13px;color:var(--betume);line-height:1.5}
 .lojas b{font-weight:600;color:var(--ardosia)}
+.antes{color:var(--betume);font-weight:400}
+.desconto{
+  display:inline-block;font-size:12px;font-weight:700;padding:1px 7px;border-radius:999px;
+  background:var(--descida);color:#fff;margin-left:6px;vertical-align:2px;
+}
 .vazio{padding:40px 10px;text-align:center;color:var(--betume)}
 </style>
 </head>
@@ -83,7 +88,7 @@ const fmt = n => n.toLocaleString('pt-PT',{minimumFractionDigits:2,maximumFracti
 const el = id => document.getElementById(id);
 let dados = null;
 let dimensaoAtiva = 'todas';
-let ordem = { campo: 'price', asc: true };
+let ordem = { campo: 'preco_final', asc: true };
 
 function dimensoes(produtos){
   const s = new Set();
@@ -132,15 +137,26 @@ function desenhar(){
     return;
   }
 
+  const linhaLoja = x => {
+    const temDesconto = x.preco_desconto > 0;
+    const detalhe = temDesconto
+      ? `${fmt(x.preco_final)} <span class="antes">(era ${fmt(x.preco_normal)}, -${fmt(x.preco_desconto)})</span>`
+      : fmt(x.preco_final);
+    return `${x.store}: ${detalhe}`;
+  };
+
   const linhas = lista.map(p => {
     const mostrar = p.prices.slice(0, 3);
     const resto = p.prices.length - mostrar.length;
     const lojasTxt = mostrar
-      .map((x, i) => i === 0 ? `<b>${x.store} ${fmt(x.price)}</b>` : `${x.store} ${fmt(x.price)}`)
+      .map((x, i) => i === 0 ? `<b>${linhaLoja(x)}</b>` : linhaLoja(x))
       .join(' · ') + (resto > 0 ? ` · mais ${resto}` : '');
     const dimBadge = p.dimensao ? `<span class="dim">${p.dimensao} cm</span>` : '';
+    const melhor = p.prices[0];
+    const descontoBadge = melhor.preco_desconto > 0
+      ? `<span class="desconto">-${fmt(melhor.preco_desconto)}</span>` : '';
     return `<tr>
-      <td class="preco">${fmt(p.price)}</td>
+      <td class="preco">${fmt(p.preco_final)}${descontoBadge}</td>
       <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}</td>
       <td class="lojas">${lojasTxt}</td>
     </tr>`;
@@ -149,7 +165,7 @@ function desenhar(){
   const seta = campo => ordem.campo === campo ? (ordem.asc ? ' ▲' : ' ▼') : '';
   el('conteudo').innerHTML = `<table>
     <thead><tr>
-      <th class="${ordem.campo==='price'?'ativo':''}" onclick="ordenarPor('price')">Preço${seta('price')}</th>
+      <th class="${ordem.campo==='preco_final'?'ativo':''}" onclick="ordenarPor('preco_final')">Preço${seta('preco_final')}</th>
       <th class="${ordem.campo==='name'?'ativo':''}" onclick="ordenarPor('name')">Produto${seta('name')}</th>
       <th>Lojas</th>
     </tr></thead>
