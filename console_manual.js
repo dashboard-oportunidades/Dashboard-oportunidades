@@ -12,7 +12,12 @@
 
 (function () {
   const found = {};
-  document.querySelectorAll('script.dataTms').forEach((script) => {
+  // So dentro de #guidance-product-list -- a seccao "Ultimos produtos
+  // vistos" mais abaixo na pagina usa a mesma estrutura dataTms, mas para
+  // produtos vistos anteriormente (nada a ver com o outlet desta loja).
+  const container = document.getElementById('guidance-product-list');
+  const scripts = container ? container.querySelectorAll('script.dataTms') : [];
+  scripts.forEach((script) => {
     let blocos;
     try {
       blocos = JSON.parse(script.textContent);

@@ -99,11 +99,18 @@ def store_label(store: dict) -> str:
 def parse_listing(html: str) -> dict[str, dict]:
     """Le os precos do <script class="dataTms"> de cada produto -- dados
     estruturados que o proprio site usa para analitica, exatos e sem
-    ambiguidade (ao contrario de tentar interpretar o texto visivel)."""
+    ambiguidade (ao contrario de tentar interpretar o texto visivel).
+
+    So dentro de #guidance-product-list -- a seccao "Ultimos produtos
+    vistos" mais abaixo na pagina usa a mesma estrutura dataTms, mas para
+    produtos vistos anteriormente (nada a ver com o outlet desta loja)."""
     soup = BeautifulSoup(html, "html.parser")
     found: dict[str, dict] = {}
 
-    for script in soup.find_all("script", class_="dataTms"):
+    container = soup.find(id="guidance-product-list")
+    scripts = container.find_all("script", class_="dataTms") if container else []
+
+    for script in scripts:
         try:
             blocos = json.loads(script.string or "")
         except json.JSONDecodeError:
