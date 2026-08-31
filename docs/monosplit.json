@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:44:51+00:00",
+  "generated": "2026-08-31T22:45:35+00:00",
   "products": [
     {
       "id": "94727281",
@@ -135,6 +135,20 @@
           "preco_desconto": 81,
           "preco_final": 378,
           "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-08-31T22:45:34+00:00",
           "history": [
             [
               "2026-08-31",
@@ -438,6 +452,20 @@
               488
             ]
           ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:45:35+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
         }
       ]
     },
@@ -455,6 +483,20 @@
           "preco_desconto": 130,
           "preco_final": 498,
           "atualizado": "2026-08-31T22:44:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              498
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 628,
+          "preco_desconto": 130,
+          "preco_final": 498,
+          "atualizado": "2026-08-31T22:45:35+00:00",
           "history": [
             [
               "2026-08-31",
@@ -497,6 +539,20 @@
           "preco_desconto": 0,
           "preco_final": 628,
           "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 628,
+          "preco_desconto": 0,
+          "preco_final": 628,
+          "atualizado": "2026-08-31T22:45:34+00:00",
           "history": [
             [
               "2026-08-31",
@@ -890,6 +946,20 @@
           "preco_desconto": 0,
           "preco_final": 938,
           "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              938
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 938,
+          "preco_desconto": 0,
+          "preco_final": 938,
+          "atualizado": "2026-08-31T22:45:34+00:00",
           "history": [
             [
               "2026-08-31",

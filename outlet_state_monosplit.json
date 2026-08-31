@@ -20,7 +20,9 @@
     "Covilha (Castelo Branco)": "2026-08-31T22:44:04+00:00",
     "Evora (Evora)": "2026-08-31T22:44:05+00:00",
     "Figueira da Foz (Coimbra)": "2026-08-31T22:44:50+00:00",
-    "Gaia (Porto)": "2026-08-31T22:44:51+00:00"
+    "Gaia (Porto)": "2026-08-31T22:44:51+00:00",
+    "Gondomar (Porto)": "2026-08-31T22:45:34+00:00",
+    "Guarda (Guarda)": "2026-08-31T22:45:35+00:00"
   },
   "products": {
     "82063484@Braganca (Braganca)": {
@@ -329,6 +331,24 @@
       "store": "Gaia (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
+    "82558714@Guarda (Guarda)": {
+      "atualizado": "2026-08-31T22:45:35+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          488
+        ]
+      ],
+      "id": "82558714",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
+      "preco_desconto": 50,
+      "preco_final": 488,
+      "preco_normal": 538,
+      "region": "Guarda",
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
+    },
     "82558726@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T22:39:54+00:00",
       "dimensao": "12000 BTU",
@@ -525,6 +545,42 @@
       "preco_normal": 628,
       "region": "Coimbra",
       "store": "Figueira da Foz (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
+    },
+    "83791801@Gondomar (Porto)": {
+      "atualizado": "2026-08-31T22:45:34+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          628
+        ]
+      ],
+      "id": "83791801",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
+      "preco_desconto": 0,
+      "preco_final": 628,
+      "preco_normal": 628,
+      "region": "Porto",
+      "store": "Gondomar (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
+    },
+    "83791801@Guarda (Guarda)": {
+      "atualizado": "2026-08-31T22:45:35+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          498
+        ]
+      ],
+      "id": "83791801",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
+      "preco_desconto": 130,
+      "preco_final": 498,
+      "preco_normal": 628,
+      "region": "Guarda",
+      "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791802@Amadora (Lisboa)": {
@@ -923,6 +979,24 @@
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
+    "86733733@Gondomar (Porto)": {
+      "atualizado": "2026-08-31T22:45:34+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          378
+        ]
+      ],
+      "id": "86733733",
+      "name": "Ar condicionado fixo (1x1) New Luso KC25YR03 WIFI 9000 BTU Hisense",
+      "preco_desconto": 81,
+      "preco_final": 378,
+      "preco_normal": 459,
+      "region": "Porto",
+      "store": "Gondomar (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
+    },
     "86733851@Colombo (Lisboa)": {
       "atualizado": "2026-08-31T22:44:03+00:00",
       "dimensao": "12000 BTU",
@@ -957,6 +1031,24 @@
       "preco_normal": 938,
       "region": "Coimbra",
       "store": "Coimbra (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-12000-btu-87421092.html"
+    },
+    "87421092@Gondomar (Porto)": {
+      "atualizado": "2026-08-31T22:45:34+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          938
+        ]
+      ],
+      "id": "87421092",
+      "name": "Ar condicionado fixo (1X1) Hisense Energy Pro R32 12000 BTU",
+      "preco_desconto": 0,
+      "preco_final": 938,
+      "preco_normal": 938,
+      "region": "Porto",
+      "store": "Gondomar (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-12000-btu-87421092.html"
     },
     "87421093@Coimbra (Coimbra)": {
