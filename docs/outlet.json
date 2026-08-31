@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T12:25:35+00:00",
+  "generated": "2026-08-31T12:26:51+00:00",
   "products": [
     {
       "id": "94150387",
@@ -295,6 +295,20 @@
           ]
         },
         {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-08-31T12:26:49+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              138
+            ]
+          ]
+        },
+        {
           "store": "Torres Novas (Santarem)",
           "region": "Santarem",
           "preco_normal": 159,
@@ -408,6 +422,29 @@
           "preco_desconto": 0,
           "preco_final": 138,
           "atualizado": "2026-08-31T12:15:54+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              138
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88672189",
+      "name": "Base de duche ardósia 140x70 cm branco Musa",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-140x70-cm-branco-musa-88672189.html",
+      "dimensao": "140x70",
+      "preco_final": 138,
+      "prices": [
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-08-31T12:26:50+00:00",
           "history": [
             [
               "2026-08-31",
@@ -727,6 +764,20 @@
           "preco_desconto": 0,
           "preco_final": 158,
           "atualizado": "2026-08-31T12:25:31+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-08-31T12:26:50+00:00",
           "history": [
             [
               "2026-08-31",
@@ -1272,12 +1323,49 @@
       ]
     },
     {
+      "id": "81900441",
+      "name": "Base de duche LEGACY 140X70CM BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-140x70cm-branco-81900441.html",
+      "dimensao": "140x70",
+      "preco_final": 248,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-08-31T12:26:49+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              248
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82002228",
       "name": "Base de duche NEO CARGA MINERAL BRANCA 120X80CM",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-branca-120x80cm-82002228.html",
       "dimensao": "120x80",
       "preco_final": 248,
       "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 248,
+          "preco_desconto": 0,
+          "preco_final": 248,
+          "atualizado": "2026-08-31T12:26:49+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              248
+            ]
+          ]
+        },
         {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
@@ -1308,6 +1396,29 @@
           "preco_desconto": 0,
           "preco_final": 268,
           "atualizado": "2026-08-31T12:22:38+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              268
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82002235",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 100X100 CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-100x100-cm-82002235.html",
+      "dimensao": "100x100",
+      "preco_final": 268,
+      "prices": [
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 268,
+          "preco_desconto": 0,
+          "preco_final": 268,
+          "atualizado": "2026-08-31T12:26:50+00:00",
           "history": [
             [
               "2026-08-31",
@@ -1460,6 +1571,29 @@
           "preco_desconto": 0,
           "preco_final": 328,
           "atualizado": "2026-08-31T12:22:37+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              328
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84834107",
+      "name": "Base de duche SENSEA NEO 70X160 GRELHA METAL",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-70x160-grelha-metal-84834107.html",
+      "dimensao": "70x160",
+      "preco_final": 328,
+      "prices": [
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 328,
+          "preco_desconto": 0,
+          "preco_final": 328,
+          "atualizado": "2026-08-31T12:26:50+00:00",
           "history": [
             [
               "2026-08-31",
