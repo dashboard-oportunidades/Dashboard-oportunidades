@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:45:35+00:00",
+  "generated": "2026-08-31T22:46:04+00:00",
   "products": [
     {
       "id": "94727281",
@@ -261,6 +261,20 @@
               468
             ]
           ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-08-31T22:46:04+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              468
+            ]
+          ]
         }
       ]
     },
@@ -460,6 +474,29 @@
           "preco_desconto": 50,
           "preco_final": 488,
           "atualizado": "2026-08-31T22:45:35+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88040809",
+      "name": "Ar condicionado DS - 12000 Btu KD Wi-Fi Daitsu Cool Pro Design",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ds-12000-btu-kd-wi-fi-daitsu-cool-pro-design-88040809.html",
+      "dimensao": "12000 BTU",
+      "preco_final": 488,
+      "prices": [
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:46:04+00:00",
           "history": [
             [
               "2026-08-31",
@@ -1076,6 +1113,20 @@
           "preco_desconto": 281,
           "preco_final": 1168,
           "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1168
+            ]
+          ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-08-31T22:46:04+00:00",
           "history": [
             [
               "2026-08-31",

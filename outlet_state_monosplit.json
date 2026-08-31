@@ -22,7 +22,8 @@
     "Figueira da Foz (Coimbra)": "2026-08-31T22:44:50+00:00",
     "Gaia (Porto)": "2026-08-31T22:44:51+00:00",
     "Gondomar (Porto)": "2026-08-31T22:45:34+00:00",
-    "Guarda (Guarda)": "2026-08-31T22:45:35+00:00"
+    "Guarda (Guarda)": "2026-08-31T22:45:35+00:00",
+    "Guimaraes (Braga)": "2026-08-31T22:46:04+00:00"
   },
   "products": {
     "82063484@Braganca (Braganca)": {
@@ -691,6 +692,24 @@
       "store": "Gaia (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
     },
+    "84567638@Guimaraes (Braga)": {
+      "atualizado": "2026-08-31T22:46:04+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          468
+        ]
+      ],
+      "id": "84567638",
+      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
+      "preco_desconto": 101,
+      "preco_final": 468,
+      "preco_normal": 569,
+      "region": "Braga",
+      "store": "Guimaraes (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
+    },
     "84567639@Chaves (Vila Real)": {
       "atualizado": "2026-08-31T22:43:20+00:00",
       "dimensao": "12000 BTU",
@@ -925,6 +944,24 @@
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
     },
+    "86733350@Guimaraes (Braga)": {
+      "atualizado": "2026-08-31T22:46:04+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          1168
+        ]
+      ],
+      "id": "86733350",
+      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 12000 BTU IONIZADOR",
+      "preco_desconto": 281,
+      "preco_final": 1168,
+      "preco_normal": 1449,
+      "region": "Braga",
+      "store": "Guimaraes (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
+    },
     "86733733@Almada (Setubal)": {
       "atualizado": "2026-08-31T22:39:10+00:00",
       "dimensao": "9000 BTU",
@@ -1068,6 +1105,24 @@
       "region": "Coimbra",
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-9000-btu-87421093.html"
+    },
+    "88040809@Guimaraes (Braga)": {
+      "atualizado": "2026-08-31T22:46:04+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          488
+        ]
+      ],
+      "id": "88040809",
+      "name": "Ar condicionado DS - 12000 Btu KD Wi-Fi Daitsu Cool Pro Design",
+      "preco_desconto": 111,
+      "preco_final": 488,
+      "preco_normal": 599,
+      "region": "Braga",
+      "store": "Guimaraes (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ds-12000-btu-kd-wi-fi-daitsu-cool-pro-design-88040809.html"
     },
     "92500112@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T22:39:54+00:00",
