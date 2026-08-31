@@ -39,7 +39,7 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 )
 
-PRICE_RE = re.compile(r"(\d{1,3}(?:\.\d{3})*(?:,\d{2})?)\s*€")
+PRICE_RE = re.compile(r"(\d{1,3}(?:\.\d{3})*)([,.]\d{2})?\s*€")
 PRODUCT_HREF_RE = re.compile(r"/produtos/(?!marcas/)[^?#]*?-(\d{6,})\.html")
 
 
@@ -111,8 +111,11 @@ def normalise(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def to_float(raw: str) -> float:
-    return float(raw.replace(".", "").replace(",", "."))
+def to_float(inteiro: str, decimais: str | None) -> float:
+    """'inteiro' pode ter pontos de milhar (ex. '1.234'); 'decimais' e ',97'
+    ou '.97' -- alguns cartoes do outlet mostram os centimos com ponto."""
+    valor = inteiro.replace(".", "")
+    return float(valor + "." + decimais[1:]) if decimais else float(valor)
 
 
 def eur(value: float) -> str:
@@ -178,7 +181,7 @@ def extract_prices(card_text: str) -> list[float]:
             j -= 1
         if j >= 0 and card_text[j] == "-":
             continue
-        prices.append(to_float(m.group(1)))
+        prices.append(to_float(m.group(1), m.group(2)))
     return prices
 
 
