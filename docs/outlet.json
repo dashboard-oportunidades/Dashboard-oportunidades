@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T12:27:55+00:00",
+  "generated": "2026-08-31T12:35:59+00:00",
   "products": [
     {
       "id": "94150387",
@@ -124,12 +124,12 @@
       "preco_final": 108,
       "prices": [
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
           "preco_normal": 129,
           "preco_desconto": 21,
           "preco_final": 108,
-          "atualizado": "2026-08-31T12:22:38+00:00",
+          "atualizado": "2026-08-31T12:27:55+00:00",
           "history": [
             [
               "2026-08-31",
@@ -138,12 +138,12 @@
           ]
         },
         {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
           "preco_normal": 129,
           "preco_desconto": 21,
           "preco_final": 108,
-          "atualizado": "2026-08-31T12:27:55+00:00",
+          "atualizado": "2026-08-31T12:22:38+00:00",
           "history": [
             [
               "2026-08-31",
@@ -217,6 +217,29 @@
             [
               "2026-08-31",
               125.99
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91835296",
+      "name": "Base de duche Resina 120x70 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x70-cm-branco-mate-sensea-easy-v2-91835296.html",
+      "dimensao": "120x70",
+      "preco_final": 128,
+      "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 128,
+          "preco_desconto": 0,
+          "preco_final": 128,
+          "atualizado": "2026-08-31T12:35:59+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              128
             ]
           ]
         }
@@ -918,6 +941,20 @@
               168
             ]
           ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-08-31T12:35:59+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              168
+            ]
+          ]
         }
       ]
     },
@@ -1401,6 +1438,20 @@
           "preco_desconto": 0,
           "preco_final": 238,
           "atualizado": "2026-08-31T12:25:35+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              238
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 238,
+          "preco_desconto": 0,
+          "preco_final": 238,
+          "atualizado": "2026-08-31T12:35:59+00:00",
           "history": [
             [
               "2026-08-31",
