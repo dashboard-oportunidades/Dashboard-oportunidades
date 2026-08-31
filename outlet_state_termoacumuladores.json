@@ -1,5 +1,6 @@
 {
   "lojas": {
+    "Albufeira (Faro)": "2026-08-31T22:19:21+00:00",
     "Alfragide (Lisboa)": "2026-08-31T21:15:06+00:00",
     "Alta de Lisboa (Lisboa)": "2026-08-31T21:58:49+00:00",
     "Alverca (Lisboa)": "2026-08-31T22:02:32+00:00",
@@ -26,6 +27,7 @@
     "Leiria (Leiria)": "2026-08-31T22:09:10+00:00",
     "Loule (Faro)": "2026-08-31T22:09:48+00:00",
     "Loures (Lisboa)": "2026-08-31T22:09:49+00:00",
+    "Matosinhos (Porto)": "2026-08-31T22:19:22+00:00",
     "Montijo (Setubal)": "2026-08-31T22:10:57+00:00",
     "Oeiras (Lisboa)": "2026-08-31T22:12:03+00:00",
     "Penafiel (Porto)": "2026-08-31T22:12:04+00:00",
@@ -36,7 +38,10 @@
     "Setubal (Setubal)": "2026-08-31T22:13:37+00:00",
     "Sintra (Lisboa)": "2026-08-31T22:14:46+00:00",
     "Telheiras (Lisboa)": "2026-08-31T22:14:47+00:00",
-    "Torres Novas (Santarem)": "2026-08-31T22:14:48+00:00"
+    "Torres Novas (Santarem)": "2026-08-31T22:14:48+00:00",
+    "Torres Vedras (Lisboa)": "2026-08-31T22:19:18+00:00",
+    "Viana do Castelo (Viana do Castelo)": "2026-08-31T22:19:19+00:00",
+    "Viseu (Viseu)": "2026-08-31T22:19:20+00:00"
   },
   "products": {
     "15840643@Amadora (Lisboa)": {
@@ -109,6 +114,24 @@
       "preco_normal": 449,
       "region": "Santarem",
       "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
+    },
+    "81940803@Torres Vedras (Lisboa)": {
+      "atualizado": "2026-08-31T22:19:18+00:00",
+      "dimensao": "60L",
+      "history": [
+        [
+          "2026-08-31",
+          368
+        ]
+      ],
+      "id": "81940803",
+      "name": "Termoacumulador indimante inox tel1500w v/h 60l",
+      "preco_desconto": 0,
+      "preco_final": 368,
+      "preco_normal": 368,
+      "region": "Lisboa",
+      "store": "Torres Vedras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
     "81940804@Alfragide (Lisboa)": {

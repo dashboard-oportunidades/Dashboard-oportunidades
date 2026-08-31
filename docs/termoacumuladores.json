@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:14:48+00:00",
+  "generated": "2026-08-31T22:19:22+00:00",
   "products": [
     {
       "id": "82005354",
@@ -250,6 +250,20 @@
           "preco_desconto": 81,
           "preco_final": 368,
           "atualizado": "2026-08-31T22:13:36+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              368
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 368,
+          "preco_desconto": 0,
+          "preco_final": 368,
+          "atualizado": "2026-08-31T22:19:18+00:00",
           "history": [
             [
               "2026-08-31",
