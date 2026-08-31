@@ -135,17 +135,6 @@ def set_store_cookies(context, store: dict) -> None:
     ])
 
 
-def accept_cookie_banner(page) -> None:
-    """So aparece na primeira visita; nas seguintes o consentimento ja fica
-    guardado no cookie OptanonConsent, por isso isto e rapido a partir daí."""
-    try:
-        botao = page.locator("#onetrust-accept-btn-handler")
-        if botao.count() > 0:
-            botao.click(timeout=3000)
-    except Exception:
-        pass
-
-
 def is_captcha(html: str) -> bool:
     return "captcha-delivery.com" in html or "DataDome CAPTCHA" in html
 
@@ -292,6 +281,12 @@ def main() -> int:
 
     state = load_state()
     stores = ordenar_por_antiguidade(stores, state)
+
+    if "--limit" in sys.argv:
+        n = int(sys.argv[sys.argv.index("--limit") + 1])
+        stores = stores[:n]
+        print(f"(--limit {n}: so vou visitar {[store_label(s) for s in stores]})")
+
     visitadas = 0
     blocked = False
 
@@ -312,7 +307,13 @@ def main() -> int:
                 print(f"> Loja: {label}")
                 page.goto(OUTLET_URL, wait_until="domcontentloaded", timeout=60000)
                 page.wait_for_timeout(2000)
-                accept_cookie_banner(page)
+
+                if page.locator("#onetrust-accept-btn-handler").count() > 0:
+                    print("\n>>> Aparece o banner de cookies -- clica em 'Aceitar' na janela do browser.\n")
+                    try:
+                        page.locator("#onetrust-accept-btn-handler").wait_for(state="hidden", timeout=60000)
+                    except Exception:
+                        pass
 
                 if is_captcha(page.content()):
                     if not wait_for_human(page):
