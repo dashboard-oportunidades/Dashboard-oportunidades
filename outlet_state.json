@@ -1,0 +1,79 @@
+{
+  "lojas": {
+    "Alta de Lisboa (Lisboa)": "2026-08-31T12:07:47+00:00"
+  },
+  "products": {
+    "81870826@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-08-31T12:07:47+00:00",
+      "dimensao": "100x70",
+      "history": [
+        [
+          "2026-08-31",
+          198
+        ]
+      ],
+      "id": "81870826",
+      "name": "Base de duche LEGACY 100X70CM BRANCO",
+      "preco_desconto": 0,
+      "preco_final": 198,
+      "preco_normal": 198,
+      "region": "Lisboa",
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-100x70cm-branco-81870826.html"
+    },
+    "82002223@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-08-31T12:07:47+00:00",
+      "dimensao": "120x70",
+      "history": [
+        [
+          "2026-08-31",
+          218
+        ]
+      ],
+      "id": "82002223",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 120X70CM",
+      "preco_desconto": 0,
+      "preco_final": 218,
+      "preco_normal": 218,
+      "region": "Lisboa",
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
+    },
+    "84227261@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-08-31T12:07:47+00:00",
+      "dimensao": "90x70",
+      "history": [
+        [
+          "2026-08-31",
+          169.97
+        ]
+      ],
+      "id": "84227261",
+      "name": "Base de duche 90x70 cm branco mate efeito ardósia Obath Greenpact",
+      "preco_desconto": 49.03,
+      "preco_final": 169.97,
+      "preco_normal": 219,
+      "region": "Lisboa",
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-90x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227261.html"
+    },
+    "86584065@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-08-31T12:07:47+00:00",
+      "dimensao": "160x80",
+      "history": [
+        [
+          "2026-08-31",
+          198
+        ]
+      ],
+      "id": "86584065",
+      "name": "Base de duche 160x80 cm branco brilhante Sensea Easy",
+      "preco_desconto": 36,
+      "preco_final": 198,
+      "preco_normal": 234,
+      "region": "Lisboa",
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x80-cm-branco-brilhante-sensea-easy-86584065.html"
+    }
+  }
+}
