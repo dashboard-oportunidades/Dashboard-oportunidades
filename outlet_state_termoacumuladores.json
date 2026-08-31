@@ -2,11 +2,35 @@
   "lojas": {
     "Alfragide (Lisboa)": "2026-08-31T21:15:06+00:00",
     "Alta de Lisboa (Lisboa)": "2026-08-31T21:58:49+00:00",
+    "Alverca (Lisboa)": "2026-08-31T22:02:32+00:00",
+    "Amadora (Lisboa)": "2026-08-31T22:02:33+00:00",
+    "Aveiro (Aveiro)": "2026-08-31T22:02:34+00:00",
+    "Barcelos (Braga)": "2026-08-31T22:02:35+00:00",
+    "Barreiro (Setubal)": "2026-08-31T22:02:36+00:00",
+    "Braga (Braga)": "2026-08-31T22:02:37+00:00",
     "Colombo (Lisboa)": "2026-08-31T15:14:32+00:00",
     "Oeiras (Lisboa)": "2026-08-31T20:46:00+00:00",
     "Sacavem (Lisboa)": "2026-08-31T20:45:44+00:00"
   },
   "products": {
+    "15840643@Amadora (Lisboa)": {
+      "atualizado": "2026-08-31T22:02:33+00:00",
+      "dimensao": "75L",
+      "history": [
+        [
+          "2026-08-31",
+          458
+        ]
+      ],
+      "id": "15840643",
+      "name": "Termoacumulador ariston fleck nilo 75l",
+      "preco_desconto": 0,
+      "preco_final": 458,
+      "preco_normal": 458,
+      "region": "Lisboa",
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-ariston-fleck-nilo-75l-15840643.html"
+    },
     "81940804@Alfragide (Lisboa)": {
       "atualizado": "2026-08-31T21:15:06+00:00",
       "dimensao": "80L",
@@ -23,6 +47,24 @@
       "preco_normal": 388,
       "region": "Lisboa",
       "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-80l-81940804.html"
+    },
+    "81940804@Amadora (Lisboa)": {
+      "atualizado": "2026-08-31T22:02:33+00:00",
+      "dimensao": "80L",
+      "history": [
+        [
+          "2026-08-31",
+          388
+        ]
+      ],
+      "id": "81940804",
+      "name": "Termoacumulador indimante inox tel1500w v/h 80l",
+      "preco_desconto": 81,
+      "preco_final": 388,
+      "preco_normal": 469,
+      "region": "Lisboa",
+      "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-80l-81940804.html"
     },
     "81940804@Colombo (Lisboa)": {
@@ -42,6 +84,24 @@
       "region": "Lisboa",
       "store": "Colombo (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-80l-81940804.html"
+    },
+    "89834463@Barreiro (Setubal)": {
+      "atualizado": "2026-08-31T22:02:36+00:00",
+      "dimensao": "100L",
+      "history": [
+        [
+          "2026-08-31",
+          228
+        ]
+      ],
+      "id": "89834463",
+      "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
+      "preco_desconto": 42,
+      "preco_final": 228,
+      "preco_normal": 270,
+      "region": "Setubal",
+      "store": "Barreiro (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html"
     }
   }
 }

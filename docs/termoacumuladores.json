@@ -1,6 +1,29 @@
 {
-  "generated": "2026-08-31T21:58:49+00:00",
+  "generated": "2026-08-31T22:02:37+00:00",
   "products": [
+    {
+      "id": "89834463",
+      "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
+      "dimensao": "100L",
+      "preco_final": 228,
+      "prices": [
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 270,
+          "preco_desconto": 42,
+          "preco_final": 228,
+          "atualizado": "2026-08-31T22:02:36+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              228
+            ]
+          ]
+        }
+      ]
+    },
     {
       "id": "81940804",
       "name": "Termoacumulador indimante inox tel1500w v/h 80l",
@@ -23,6 +46,20 @@
           ]
         },
         {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 469,
+          "preco_desconto": 81,
+          "preco_final": 388,
+          "atualizado": "2026-08-31T22:02:33+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              388
+            ]
+          ]
+        },
+        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 469,
@@ -33,6 +70,29 @@
             [
               "2026-08-31",
               388
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15840643",
+      "name": "Termoacumulador ariston fleck nilo 75l",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-ariston-fleck-nilo-75l-15840643.html",
+      "dimensao": "75L",
+      "preco_final": 458,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 458,
+          "preco_desconto": 0,
+          "preco_final": 458,
+          "atualizado": "2026-08-31T22:02:33+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              458
             ]
           ]
         }
