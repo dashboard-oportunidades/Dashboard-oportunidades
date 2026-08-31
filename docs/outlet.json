@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T12:38:06+00:00",
+  "generated": "2026-08-31T12:39:01+00:00",
   "products": [
     {
       "id": "94150387",
@@ -190,6 +190,20 @@
           "preco_desconto": 21,
           "preco_final": 118,
           "atualizado": "2026-08-31T12:16:43+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              118
+            ]
+          ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 139,
+          "preco_desconto": 21,
+          "preco_final": 118,
+          "atualizado": "2026-08-31T12:39:01+00:00",
           "history": [
             [
               "2026-08-31",
@@ -1443,6 +1457,20 @@
           "preco_desconto": 0,
           "preco_final": 218,
           "atualizado": "2026-08-31T12:38:04+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              218
+            ]
+          ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 218,
+          "preco_desconto": 0,
+          "preco_final": 218,
+          "atualizado": "2026-08-31T12:39:01+00:00",
           "history": [
             [
               "2026-08-31",

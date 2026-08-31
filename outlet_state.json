@@ -7,6 +7,7 @@
     "Amadora (Lisboa)": "2026-08-31T12:16:43+00:00",
     "Aveiro (Aveiro)": "2026-08-31T12:25:32+00:00",
     "Barcelos (Braga)": "2026-08-31T12:27:55+00:00",
+    "Barreiro (Setubal)": "2026-08-31T12:39:01+00:00",
     "Braga (Braga)": "2026-08-31T12:22:36+00:00",
     "Braganca (Braganca)": "2026-08-31T12:19:22+00:00",
     "Caldas da Rainha (Leiria)": "2026-08-31T12:22:38+00:00",
@@ -223,6 +224,24 @@
       "preco_normal": 218,
       "region": "Aveiro",
       "store": "Aveiro (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
+    },
+    "82002223@Barreiro (Setubal)": {
+      "atualizado": "2026-08-31T12:39:01+00:00",
+      "dimensao": "120x70",
+      "history": [
+        [
+          "2026-08-31",
+          218
+        ]
+      ],
+      "id": "82002223",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 120X70CM",
+      "preco_desconto": 0,
+      "preco_final": 218,
+      "preco_normal": 218,
+      "region": "Setubal",
+      "store": "Barreiro (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
     },
     "82002223@Caldas da Rainha (Leiria)": {
@@ -1789,6 +1808,24 @@
       "preco_normal": 139,
       "region": "Lisboa",
       "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835310.html"
+    },
+    "91835310@Barreiro (Setubal)": {
+      "atualizado": "2026-08-31T12:39:01+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-08-31",
+          118
+        ]
+      ],
+      "id": "91835310",
+      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
+      "preco_desconto": 21,
+      "preco_final": 118,
+      "preco_normal": 139,
+      "region": "Setubal",
+      "store": "Barreiro (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835310.html"
     },
     "91835314@Loule (Faro)": {
