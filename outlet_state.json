@@ -1,6 +1,7 @@
 {
   "lojas": {
     "Alta de Lisboa (Lisboa)": "2026-08-31T12:07:47+00:00",
+    "Carcavelos (Lisboa)": "2026-08-31T12:14:06+00:00",
     "Oeiras (Lisboa)": "2026-08-31T12:13:17+00:00"
   },
   "products": {
@@ -147,6 +148,24 @@
       "region": "Lisboa",
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html"
+    },
+    "91835309@Carcavelos (Lisboa)": {
+      "atualizado": "2026-08-31T12:14:06+00:00",
+      "dimensao": "120x80",
+      "history": [
+        [
+          "2026-08-31",
+          138
+        ]
+      ],
+      "id": "91835309",
+      "name": "Base de duche Resina 120x80 cm branco mate Sensea Easy V2",
+      "preco_desconto": 0,
+      "preco_final": 138,
+      "preco_normal": 138,
+      "region": "Lisboa",
+      "store": "Carcavelos (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x80-cm-branco-mate-sensea-easy-v2-91835309.html"
     }
   }
 }

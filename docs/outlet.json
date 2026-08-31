@@ -1,6 +1,29 @@
 {
-  "generated": "2026-08-31T12:13:17+00:00",
+  "generated": "2026-08-31T12:14:06+00:00",
   "products": [
+    {
+      "id": "91835309",
+      "name": "Base de duche Resina 120x80 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x80-cm-branco-mate-sensea-easy-v2-91835309.html",
+      "dimensao": "120x80",
+      "preco_final": 138,
+      "prices": [
+        {
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 138,
+          "preco_desconto": 0,
+          "preco_final": 138,
+          "atualizado": "2026-08-31T12:14:06+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              138
+            ]
+          ]
+        }
+      ]
+    },
     {
       "id": "86584061",
       "name": "Base de duche 160x70 cm branco mate Sensea Easy",
