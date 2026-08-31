@@ -23,12 +23,14 @@
     "Guarda (Guarda)": "2026-08-31T12:22:34+00:00",
     "Guimaraes (Braga)": "2026-08-31T12:22:35+00:00",
     "Leiria (Leiria)": "2026-08-31T12:22:39+00:00",
+    "Loule (Faro)": "2026-08-31T12:36:56+00:00",
     "Loures (Lisboa)": "2026-08-31T12:19:19+00:00",
     "Maia (Porto)": "2026-08-31T12:25:33+00:00",
     "Matosinhos (Porto)": "2026-08-31T12:25:34+00:00",
     "Montijo (Setubal)": "2026-08-31T12:22:41+00:00",
     "Oeiras (Lisboa)": "2026-08-31T12:13:17+00:00",
     "Penafiel (Porto)": "2026-08-31T12:19:23+00:00",
+    "Portimao (Faro)": "2026-08-31T12:36:57+00:00",
     "Sacavem (Lisboa)": "2026-08-31T12:19:20+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-08-31T12:26:50+00:00",
     "Santarem (Santarem)": "2026-08-31T12:22:36+00:00",
@@ -453,6 +455,24 @@
       "region": "Santarem",
       "store": "Torres Novas (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-160x90cm-82002249.html"
+    },
+    "82002252@Loule (Faro)": {
+      "atualizado": "2026-08-31T12:36:56+00:00",
+      "dimensao": "100x70",
+      "history": [
+        [
+          "2026-08-31",
+          188
+        ]
+      ],
+      "id": "82002252",
+      "name": "Base de duche NEO CARGA MINERAL PARIS 100X70CM",
+      "preco_desconto": 0,
+      "preco_final": 188,
+      "preco_normal": 188,
+      "region": "Faro",
+      "store": "Loule (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-paris-100x70cm-82002252.html"
     },
     "82002275@Alfragide (Lisboa)": {
       "atualizado": "2026-08-31T12:15:22+00:00",
@@ -1120,6 +1140,24 @@
       "store": "Braganca (Braganca)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-80x170-preto-mate-88286908.html"
     },
+    "88286911@Loule (Faro)": {
+      "atualizado": "2026-08-31T12:36:56+00:00",
+      "dimensao": "80x170",
+      "history": [
+        [
+          "2026-08-31",
+          179.98
+        ]
+      ],
+      "id": "88286911",
+      "name": "Base de duche SENSEA REMIX RESINA 80X170 CINZENTO MATE",
+      "preco_desconto": 94.02,
+      "preco_final": 179.98,
+      "preco_normal": 274,
+      "region": "Faro",
+      "store": "Loule (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-80x170-cinzento-mate-88286911.html"
+    },
     "88286913@Aveiro (Aveiro)": {
       "atualizado": "2026-08-31T12:25:32+00:00",
       "dimensao": "70x140",
@@ -1281,6 +1319,24 @@
       "region": "Viseu",
       "store": "Viseu (Viseu)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html"
+    },
+    "89149832@Loule (Faro)": {
+      "atualizado": "2026-08-31T12:36:56+00:00",
+      "dimensao": "70x150",
+      "history": [
+        [
+          "2026-08-31",
+          279.98
+        ]
+      ],
+      "id": "89149832",
+      "name": "Base de duche LEVEL UP COM VALVULA 70X150 BRANCO",
+      "preco_desconto": 84.02,
+      "preco_final": 279.98,
+      "preco_normal": 364,
+      "region": "Faro",
+      "store": "Loule (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-level-up-com-valvula-70x150-branco-89149832.html"
     },
     "89863859@Caldas da Rainha (Leiria)": {
       "atualizado": "2026-08-31T12:22:38+00:00",
@@ -1659,6 +1715,24 @@
       "region": "Lisboa",
       "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835310.html"
+    },
+    "91835314@Loule (Faro)": {
+      "atualizado": "2026-08-31T12:36:56+00:00",
+      "dimensao": "140x90",
+      "history": [
+        [
+          "2026-08-31",
+          178
+        ]
+      ],
+      "id": "91835314",
+      "name": "Base de duche Resina 140x90 cm branco mate Sensea Easy V2",
+      "preco_desconto": 35,
+      "preco_final": 178,
+      "preco_normal": 213,
+      "region": "Faro",
+      "store": "Loule (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x90-cm-branco-mate-sensea-easy-v2-91835314.html"
     },
     "94150385@Chaves (Vila Real)": {
       "atualizado": "2026-08-31T12:19:23+00:00",
