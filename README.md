@@ -209,3 +209,43 @@ vezes seguidas no mesmo dia — além de ser má prática, arriscas ser bloquead
 Confirma também os
 [Termos e Condições](https://www.leroymerlin.pt/politicas-e-condicoes/termos-e-condicoes-gerais/)
 do site, e usa isto só para uso pessoal.
+
+---
+
+## Outlet (`recolher_outlet.py`) — e o que fazer se bloquear
+
+Além do monitor acima (todas as bases de duche), há um segundo fluxo focado
+só no **outlet**, com página própria (`docs/outlet.html`) e filtros por
+medida, distrito e loja.
+
+```powershell
+./recolher_outlet.ps1
+```
+
+Abre um Chromium visível e percorre as lojas de `config.json`, uma a uma.
+Se aparecer um CAPTCHA, resolve-o na janela — o script espera e continua
+sozinho. Testa sempre primeiro com uma loja só:
+
+```powershell
+python recolher_outlet.py --limit 1
+```
+
+**Se bloquear mesmo assim** (o Datadome marca a rede inteira ao longo do dia,
+não só o pedido isolado — já aconteceu), o caminho manual funciona sempre,
+porque é navegação humana a sério, nunca automatizada:
+
+1. Abre o [outlet de bases de duche](https://www.leroymerlin.pt/produtos/promocoes/outlet/?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22%2C%22attribute-22088%22%3A%22Base%2520de%2520duche%22%7D) no Chrome normal.
+2. Muda de loja como sempre fizeste ("Escolher a minha loja").
+3. Abre a Consola (F12 → Console) e cola o conteúdo de `console_manual.js`.
+   Se pedir para escreveres "allow pasting" antes, escreve isso primeiro.
+4. Escreve o nome da loja quando pedir (ex: "Alta de Lisboa") — o resultado
+   fica copiado para a área de transferência.
+5. Guarda esse texto num ficheiro `.json` e corre:
+   ```powershell
+   python ingerir_manual.py caminho\para\ficheiro.json
+   ```
+6. Repete por loja, depois `git add outlet_state.json docs/outlet.json`,
+   commit e push.
+
+O `ingerir_manual.py` tolera acentos/maiúsculas no nome da loja (ex.
+"Sacavém" bate com "Sacavem" no `config.json`).

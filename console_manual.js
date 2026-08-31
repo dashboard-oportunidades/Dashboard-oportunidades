@@ -1,0 +1,53 @@
+// Recolha manual de outlet — cola isto na Consola do browser (F12) enquanto
+// vês a pagina do outlet numa loja, no Chrome normal (nunca e bloqueado,
+// porque e navegacao humana a serio). Depois:
+//   python ingerir_manual.py <ficheiro.json>
+// com o resultado copiado guardado num ficheiro.
+//
+// Link do outlet de bases de duche:
+// https://www.leroymerlin.pt/produtos/promocoes/outlet/?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22%2C%22attribute-22088%22%3A%22Base%2520de%2520duche%22%7D
+//
+// Le o <script class="dataTms"> de cada produto -- dados estruturados que o
+// proprio site usa para analitica, exatos e sem ambiguidade.
+
+(function () {
+  const found = {};
+  document.querySelectorAll('script.dataTms').forEach((script) => {
+    let blocos;
+    try {
+      blocos = JSON.parse(script.textContent);
+    } catch (e) {
+      return;
+    }
+    blocos.forEach((bloco) => {
+      if (bloco.name !== 'cdl_products_list') return;
+      (bloco.value || []).forEach((produto) => {
+        const pid = produto.identifier;
+        const offer = produto.offer || {};
+        const precoFinal = offer.unitprice_ati;
+        if (!pid || precoFinal == null) return;
+        const url =
+          produto.url && produto.url.startsWith('/')
+            ? location.origin + produto.url
+            : produto.url;
+        const dim = (produto.name || '').match(/(\d{2,3})\s*[xX]\s*(\d{2,3})/);
+        const entry = {
+          name: produto.name,
+          url,
+          dimensao: dim ? `${dim[1]}x${dim[2]}` : null,
+          preco_normal: offer.initial_price || precoFinal,
+          preco_desconto: offer.discount_ati || 0,
+          preco_final: precoFinal,
+        };
+        if (!found[pid] || entry.preco_final < found[pid].preco_final) {
+          found[pid] = entry;
+        }
+      });
+    });
+  });
+
+  const loja = prompt('Nome da loja atual? (ex: Alta de Lisboa)');
+  const resultado = { loja, produtos: found };
+  copy(JSON.stringify(resultado));
+  alert('Copiado! ' + Object.keys(found).length + ' produtos. Cola no chat.');
+})();
