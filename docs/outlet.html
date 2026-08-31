@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Outlet — bases de duche</title>
+<meta name="theme-color" content="#ECEFEF">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ceramica:#ECEFEF;
+  --ardosia:#23282B;
+  --betume:#8E9899;
+  --agua:#0F5468;
+  --agua-clara:#CFE0E4;
+  --descida:#2F6B4F;
+  --linha:#D3D9D9;
+  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --corpo:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;background:var(--ceramica);color:var(--ardosia);
+  font-family:var(--corpo);font-size:16px;line-height:1.45;
+}
+.envolucro{max-width:860px;margin:0 auto;padding:24px 20px 64px}
+h1{
+  font-family:var(--display);font-weight:700;font-size:28px;line-height:1.05;
+  letter-spacing:-.02em;margin:0 0 4px;
+}
+.actualizado{color:var(--betume);font-size:13px;margin:0 0 20px}
+
+.filtros{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 20px}
+.filtros button{
+  font:inherit;font-size:14px;padding:6px 13px;border-radius:999px;
+  border:1px solid var(--linha);background:transparent;color:var(--ardosia);
+  cursor:pointer;
+}
+.filtros button[aria-pressed=true]{background:var(--agua);border-color:var(--agua);color:#fff}
+.filtros button:focus-visible{outline:2px solid var(--agua);outline-offset:2px}
+
+table{width:100%;border-collapse:collapse;font-size:15px}
+thead th{
+  text-align:left;font-size:12px;text-transform:uppercase;letter-spacing:.04em;
+  color:var(--betume);font-weight:600;padding:0 10px 8px;border-bottom:1px solid var(--linha);
+  cursor:pointer;user-select:none;
+}
+thead th:hover{color:var(--ardosia)}
+thead th.ativo{color:var(--agua)}
+tbody tr{border-bottom:1px solid var(--linha)}
+tbody tr:hover{background:var(--agua-clara)}
+td{padding:12px 10px;vertical-align:top}
+.preco{
+  font-family:var(--display);font-weight:700;font-size:19px;letter-spacing:-.02em;
+  white-space:nowrap;color:var(--agua);font-variant-numeric:tabular-nums;
+}
+.nome{max-width:340px}
+.nome a{color:inherit;text-decoration:none}
+.nome a:hover{text-decoration:underline}
+.dim{
+  display:inline-block;font-size:12px;padding:1px 8px;border-radius:999px;
+  border:1px solid var(--linha);color:var(--betume);margin-left:6px;vertical-align:1px;
+}
+.lojas{font-size:13px;color:var(--betume);line-height:1.5}
+.lojas b{font-weight:600;color:var(--ardosia)}
+.vazio{padding:40px 10px;text-align:center;color:var(--betume)}
+</style>
+</head>
+<body>
+<div class="envolucro">
+  <h1>Outlet — bases de duche</h1>
+  <p class="actualizado" id="actualizado">A carregar…</p>
+
+  <div class="filtros" id="filtrosDim"></div>
+
+  <div id="conteudo"></div>
+</div>
+
+<script>
+const fmt = n => n.toLocaleString('pt-PT',{minimumFractionDigits:2,maximumFractionDigits:2}) + ' €';
+const el = id => document.getElementById(id);
+let dados = null;
+let dimensaoAtiva = 'todas';
+let ordem = { campo: 'price', asc: true };
+
+function dimensoes(produtos){
+  const s = new Set();
+  produtos.forEach(p => { if (p.dimensao) s.add(p.dimensao); });
+  return [...s].sort();
+}
+
+function montarFiltros(){
+  const dims = dimensoes(dados.products);
+  const alvo = el('filtrosDim');
+  alvo.innerHTML = '';
+  ['todas', ...dims].forEach(d => {
+    const b = document.createElement('button');
+    b.textContent = d === 'todas' ? 'Todas as medidas' : d + ' cm';
+    b.setAttribute('aria-pressed', d === dimensaoAtiva);
+    b.onclick = () => {
+      dimensaoAtiva = d;
+      [...alvo.children].forEach(c => c.setAttribute('aria-pressed', c === b));
+      desenhar();
+    };
+    alvo.appendChild(b);
+  });
+}
+
+function ordenarPor(campo){
+  if (ordem.campo === campo) ordem.asc = !ordem.asc;
+  else { ordem.campo = campo; ordem.asc = true; }
+  desenhar();
+}
+
+function desenhar(){
+  let lista = dados.products.filter(p =>
+    dimensaoAtiva === 'todas' || p.dimensao === dimensaoAtiva
+  );
+
+  lista = [...lista].sort((a, b) => {
+    let va = a[ordem.campo], vb = b[ordem.campo];
+    if (ordem.campo === 'name') { va = va.toLowerCase(); vb = vb.toLowerCase(); }
+    if (va < vb) return ordem.asc ? -1 : 1;
+    if (va > vb) return ordem.asc ? 1 : -1;
+    return 0;
+  });
+
+  if (!lista.length){
+    el('conteudo').innerHTML = '<div class="vazio">Sem produtos para esta medida.</div>';
+    return;
+  }
+
+  const linhas = lista.map(p => {
+    const mostrar = p.prices.slice(0, 3);
+    const resto = p.prices.length - mostrar.length;
+    const lojasTxt = mostrar
+      .map((x, i) => i === 0 ? `<b>${x.store} ${fmt(x.price)}</b>` : `${x.store} ${fmt(x.price)}`)
+      .join(' · ') + (resto > 0 ? ` · mais ${resto}` : '');
+    const dimBadge = p.dimensao ? `<span class="dim">${p.dimensao} cm</span>` : '';
+    return `<tr>
+      <td class="preco">${fmt(p.price)}</td>
+      <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}</td>
+      <td class="lojas">${lojasTxt}</td>
+    </tr>`;
+  }).join('');
+
+  const seta = campo => ordem.campo === campo ? (ordem.asc ? ' ▲' : ' ▼') : '';
+  el('conteudo').innerHTML = `<table>
+    <thead><tr>
+      <th class="${ordem.campo==='price'?'ativo':''}" onclick="ordenarPor('price')">Preço${seta('price')}</th>
+      <th class="${ordem.campo==='name'?'ativo':''}" onclick="ordenarPor('name')">Produto${seta('name')}</th>
+      <th>Lojas</th>
+    </tr></thead>
+    <tbody>${linhas}</tbody>
+  </table>`;
+}
+
+fetch('outlet.json?' + Date.now())
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(d => {
+    dados = d;
+    const quando = new Date(d.generated);
+    el('actualizado').textContent = 'Atualizado ' + quando.toLocaleString('pt-PT',
+      {day:'numeric', month:'long', hour:'2-digit', minute:'2-digit'}) +
+      ` · ${d.products.length} produtos`;
+    montarFiltros();
+    desenhar();
+  })
+  .catch(err => {
+    el('actualizado').textContent = '';
+    el('conteudo').innerHTML = '<div class="vazio">Ainda não há dados. Corre o recolher_outlet.py primeiro.</div>';
+    console.error(err);
+  });
+</script>
+</body>
+</html>
