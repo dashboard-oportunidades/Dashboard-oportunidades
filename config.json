@@ -6,15 +6,19 @@
 
   "_comentario_lojas": "Preenche 'cookies' com o que capturares no browser para cada loja (README, secção 3). Lojas sem cookie são saltadas, por isso podes arrancar só com uma e ir acrescentando.",
   "stores": [
-    { "name": "Alta de Lisboa", "region": "Lisboa", "cookies": {} },
-    { "name": "Colombo",        "region": "Lisboa", "cookies": {} },
-    { "name": "Alfragide",      "region": "Lisboa", "cookies": {} },
-    { "name": "Sacavem",        "region": "Lisboa", "cookies": {} },
-    { "name": "Oeiras",         "region": "Lisboa", "cookies": {} },
+    { "name": "Alta de Lisboa", "region": "Lisboa", "cookies": { "store": "store=17|dateContext=20260831", "store_id": "17", "lmpt_store_id": "17" } },
+    { "name": "Colombo",        "region": "Lisboa", "cookies": { "store": "store=39|dateContext=20260831", "store_id": "39", "lmpt_store_id": "39" } },
+    { "name": "Alfragide",      "region": "Lisboa", "cookies": { "store": "store=5|dateContext=20260831", "store_id": "5", "lmpt_store_id": "5" } },
+    { "name": "Sacavem",        "region": "Lisboa", "cookies": { "store": "store=65|dateContext=20260831", "store_id": "65", "lmpt_store_id": "65" } },
+    { "name": "Oeiras",         "region": "Lisboa", "cookies": { "store": "store=60|dateContext=20260831", "store_id": "60", "lmpt_store_id": "60" } },
+    { "name": "Loures",         "region": "Lisboa", "cookies": { "store": "store=44|dateContext=20260831", "store_id": "44", "lmpt_store_id": "44" } },
+    { "name": "Telheiras",      "region": "Lisboa", "cookies": { "store": "store=72|dateContext=20260831", "store_id": "72", "lmpt_store_id": "72" } },
+    { "name": "Amadora",        "region": "Lisboa", "cookies": { "store": "store=7|dateContext=20260831", "store_id": "7", "lmpt_store_id": "7" } },
+    { "name": "Sintra",         "region": "Lisboa", "cookies": { "store": "store=2|dateContext=20260831", "store_id": "2", "lmpt_store_id": "2" } },
 
-    { "name": "Loule",          "region": "Faro",   "cookies": {} },
-    { "name": "Albufeira",      "region": "Faro",   "cookies": {} },
-    { "name": "Portimao",       "region": "Faro",   "cookies": {} }
+    { "name": "Loule",          "region": "Faro",   "cookies": { "store": "store=12|dateContext=20260831", "store_id": "12", "lmpt_store_id": "12" } },
+    { "name": "Albufeira",      "region": "Faro",   "cookies": { "store": "store=4|dateContext=20260831", "store_id": "4", "lmpt_store_id": "4" } },
+    { "name": "Portimao",       "region": "Faro",   "cookies": { "store": "store=19|dateContext=20260831", "store_id": "19", "lmpt_store_id": "19" } }
   ],
 
   "listing_urls": [
