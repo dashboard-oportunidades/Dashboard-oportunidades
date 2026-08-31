@@ -101,12 +101,24 @@ def parse_listing(html: str) -> dict[str, dict]:
 
 
 def set_store_cookies(context, store: dict) -> None:
+    """So substitui os cookies da loja -- nao mexe no consentimento de
+    cookies nem noutros cookies de sessao ja obtidos (ex.: datadome)."""
     cookies = store.get("cookies", {})
-    context.clear_cookies()
     context.add_cookies([
         {"name": name, "value": value, "domain": ".leroymerlin.pt", "path": "/"}
         for name, value in cookies.items()
     ])
+
+
+def accept_cookie_banner(page) -> None:
+    """So aparece na primeira visita; nas seguintes o consentimento ja fica
+    guardado no cookie OptanonConsent, por isso isto e rapido a partir daí."""
+    try:
+        botao = page.locator("#onetrust-accept-btn-handler")
+        if botao.count() > 0:
+            botao.click(timeout=3000)
+    except Exception:
+        pass
 
 
 def is_captcha(html: str) -> bool:
@@ -196,6 +208,7 @@ def main() -> int:
                 print(f"> Loja: {label}")
                 page.goto(OUTLET_URL, wait_until="domcontentloaded", timeout=60000)
                 page.wait_for_timeout(2000)
+                accept_cookie_banner(page)
 
                 if is_captcha(page.content()):
                     if not wait_for_human(page):
