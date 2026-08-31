@@ -1,6 +1,7 @@
 {
   "lojas": {
-    "Alta de Lisboa (Lisboa)": "2026-08-31T12:07:47+00:00"
+    "Alta de Lisboa (Lisboa)": "2026-08-31T12:07:47+00:00",
+    "Oeiras (Lisboa)": "2026-08-31T12:13:17+00:00"
   },
   "products": {
     "81870826@Alta de Lisboa (Lisboa)": {
@@ -21,6 +22,24 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-100x70cm-branco-81870826.html"
     },
+    "81870826@Oeiras (Lisboa)": {
+      "atualizado": "2026-08-31T12:13:17+00:00",
+      "dimensao": "100x70",
+      "history": [
+        [
+          "2026-08-31",
+          198
+        ]
+      ],
+      "id": "81870826",
+      "name": "Base de duche LEGACY 100X70CM BRANCO",
+      "preco_desconto": 41,
+      "preco_final": 198,
+      "preco_normal": 239,
+      "region": "Lisboa",
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-100x70cm-branco-81870826.html"
+    },
     "82002223@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T12:07:47+00:00",
       "dimensao": "120x70",
@@ -38,6 +57,24 @@
       "region": "Lisboa",
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
+    },
+    "82002228@Oeiras (Lisboa)": {
+      "atualizado": "2026-08-31T12:13:17+00:00",
+      "dimensao": "120x80",
+      "history": [
+        [
+          "2026-08-31",
+          248
+        ]
+      ],
+      "id": "82002228",
+      "name": "Base de duche NEO CARGA MINERAL BRANCA 120X80CM",
+      "preco_desconto": 0,
+      "preco_final": 248,
+      "preco_normal": 248,
+      "region": "Lisboa",
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-branca-120x80cm-82002228.html"
     },
     "84227261@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T12:07:47+00:00",
@@ -57,6 +94,24 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-90x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227261.html"
     },
+    "86584061@Oeiras (Lisboa)": {
+      "atualizado": "2026-08-31T12:13:17+00:00",
+      "dimensao": "160x70",
+      "history": [
+        [
+          "2026-08-31",
+          148
+        ]
+      ],
+      "id": "86584061",
+      "name": "Base de duche 160x70 cm branco mate Sensea Easy",
+      "preco_desconto": 31,
+      "preco_final": 148,
+      "preco_normal": 179,
+      "region": "Lisboa",
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html"
+    },
     "86584065@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T12:07:47+00:00",
       "dimensao": "160x80",
@@ -74,6 +129,24 @@
       "region": "Lisboa",
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x80-cm-branco-brilhante-sensea-easy-86584065.html"
+    },
+    "88672190@Oeiras (Lisboa)": {
+      "atualizado": "2026-08-31T12:13:17+00:00",
+      "dimensao": "160x70",
+      "history": [
+        [
+          "2026-08-31",
+          148
+        ]
+      ],
+      "id": "88672190",
+      "name": "Base de duche ardósia 160x70 cm branco Musa",
+      "preco_desconto": 0,
+      "preco_final": 148,
+      "preco_normal": 148,
+      "region": "Lisboa",
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html"
     }
   }
 }

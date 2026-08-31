@@ -1,6 +1,52 @@
 {
-  "generated": "2026-08-31T12:07:47+00:00",
+  "generated": "2026-08-31T12:13:17+00:00",
   "products": [
+    {
+      "id": "86584061",
+      "name": "Base de duche 160x70 cm branco mate Sensea Easy",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html",
+      "dimensao": "160x70",
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 179,
+          "preco_desconto": 31,
+          "preco_final": 148,
+          "atualizado": "2026-08-31T12:13:17+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              148
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88672190",
+      "name": "Base de duche ardósia 160x70 cm branco Musa",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
+      "dimensao": "160x70",
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 148,
+          "preco_desconto": 0,
+          "preco_final": 148,
+          "atualizado": "2026-08-31T12:13:17+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              148
+            ]
+          ]
+        }
+      ]
+    },
     {
       "id": "84227261",
       "name": "Base de duche 90x70 cm branco mate efeito ardósia Obath Greenpact",
@@ -38,6 +84,20 @@
           "preco_desconto": 0,
           "preco_final": 198,
           "atualizado": "2026-08-31T12:07:47+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              198
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 239,
+          "preco_desconto": 41,
+          "preco_final": 198,
+          "atualizado": "2026-08-31T12:13:17+00:00",
           "history": [
             [
               "2026-08-31",
@@ -88,6 +148,29 @@
             [
               "2026-08-31",
               218
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82002228",
+      "name": "Base de duche NEO CARGA MINERAL BRANCA 120X80CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-branca-120x80cm-82002228.html",
+      "dimensao": "120x80",
+      "preco_final": 248,
+      "prices": [
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 248,
+          "preco_desconto": 0,
+          "preco_final": 248,
+          "atualizado": "2026-08-31T12:13:17+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              248
             ]
           ]
         }
