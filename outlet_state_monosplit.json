@@ -9,9 +9,65 @@
     "Barcelos (Braga)": "2026-08-31T22:40:52+00:00",
     "Barreiro (Setubal)": "2026-08-31T22:41:25+00:00",
     "Braga (Braga)": "2026-08-31T22:41:26+00:00",
+    "Braganca (Braganca)": "2026-08-31T22:42:06+00:00",
+    "Caldas da Rainha (Leiria)": "2026-08-31T22:42:07+00:00",
     "Colombo (Lisboa)": "2026-08-31T13:41:15+00:00"
   },
   "products": {
+    "82063484@Braganca (Braganca)": {
+      "atualizado": "2026-08-31T22:42:06+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          408
+        ]
+      ],
+      "id": "82063484",
+      "name": "Ar condicionado fixo (1X1) EQUATION 12000BTU",
+      "preco_desconto": 91,
+      "preco_final": 408,
+      "preco_normal": 499,
+      "region": "Braganca",
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000btu-82063484.html"
+    },
+    "82198934@Braganca (Braganca)": {
+      "atualizado": "2026-08-31T22:42:06+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          298
+        ]
+      ],
+      "id": "82198934",
+      "name": "Ar condicionado fixo (1X1) HTW IX39B R32 9000BTU",
+      "preco_desconto": 61,
+      "preco_final": 298,
+      "preco_normal": 359,
+      "region": "Braganca",
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39b-r32-9000btu-82198934.html"
+    },
+    "82367425@Braganca (Braganca)": {
+      "atualizado": "2026-08-31T22:42:06+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          408
+        ]
+      ],
+      "id": "82367425",
+      "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
+      "preco_desconto": 0,
+      "preco_final": 408,
+      "preco_normal": 408,
+      "region": "Braganca",
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html"
+    },
     "82548114@Colombo (Lisboa)": {
       "atualizado": "2026-08-31T13:41:15+00:00",
       "dimensao": null,
@@ -102,6 +158,42 @@
       "store": "Aveiro (Aveiro)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
+    "82558714@Braganca (Braganca)": {
+      "atualizado": "2026-08-31T22:42:06+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          488
+        ]
+      ],
+      "id": "82558714",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
+      "preco_desconto": 111,
+      "preco_final": 488,
+      "preco_normal": 599,
+      "region": "Braganca",
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
+    },
+    "82558714@Caldas da Rainha (Leiria)": {
+      "atualizado": "2026-08-31T22:42:07+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          488
+        ]
+      ],
+      "id": "82558714",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
+      "preco_desconto": 111,
+      "preco_final": 488,
+      "preco_normal": 599,
+      "region": "Leiria",
+      "store": "Caldas da Rainha (Leiria)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
+    },
     "82558714@Colombo (Lisboa)": {
       "atualizado": "2026-08-31T13:41:15+00:00",
       "dimensao": "9000 BTU",
@@ -138,6 +230,24 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
     },
+    "82558726@Braganca (Braganca)": {
+      "atualizado": "2026-08-31T22:42:06+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          528
+        ]
+      ],
+      "id": "82558726",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK12Z6L-W 12000BTU",
+      "preco_desconto": 121,
+      "preco_final": 528,
+      "preco_normal": 649,
+      "region": "Braganca",
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
+    },
     "82558730@Amadora (Lisboa)": {
       "atualizado": "2026-08-31T22:40:50+00:00",
       "dimensao": "15000 BTU",
@@ -172,6 +282,24 @@
       "preco_normal": 628,
       "region": "Setubal",
       "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
+    },
+    "83791801@Caldas da Rainha (Leiria)": {
+      "atualizado": "2026-08-31T22:42:07+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          628
+        ]
+      ],
+      "id": "83791801",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
+      "preco_desconto": 0,
+      "preco_final": 628,
+      "preco_normal": 628,
+      "region": "Leiria",
+      "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791802@Amadora (Lisboa)": {
@@ -227,6 +355,24 @@
       "region": "Braga",
       "store": "Barcelos (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-aire-td-wifi-r32-24000-btu-84229566.html"
+    },
+    "84567638@Caldas da Rainha (Leiria)": {
+      "atualizado": "2026-08-31T22:42:07+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          468
+        ]
+      ],
+      "id": "84567638",
+      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
+      "preco_desconto": 101,
+      "preco_final": 468,
+      "preco_normal": 569,
+      "region": "Leiria",
+      "store": "Caldas da Rainha (Leiria)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
     },
     "86733349@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T22:39:54+00:00",
