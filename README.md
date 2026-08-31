@@ -232,20 +232,35 @@ python recolher_outlet.py --limit 1
 
 **Se bloquear mesmo assim** (o Datadome marca a rede inteira ao longo do dia,
 não só o pedido isolado — já aconteceu), o caminho manual funciona sempre,
-porque é navegação humana a sério, nunca automatizada:
+porque é navegação humana a sério, nunca automatizada. Usa dois marcadores
+(bookmarklets) do browser, criados uma única vez:
 
-1. Abre o [outlet de bases de duche](https://www.leroymerlin.pt/produtos/promocoes/outlet/?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22%2C%22attribute-22088%22%3A%22Base%2520de%2520duche%22%7D) no Chrome normal.
-2. Muda de loja como sempre fizeste ("Escolher a minha loja").
-3. Abre a Consola (F12 → Console) e cola o conteúdo de `console_manual.js`.
-   Se pedir para escreveres "allow pasting" antes, escreve isso primeiro.
-4. Escreve o nome da loja quando pedir (ex: "Alta de Lisboa") — o resultado
-   fica copiado para a área de transferência.
-5. Guarda esse texto num ficheiro `.json` e corre:
-   ```powershell
-   python ingerir_manual.py caminho\para\ficheiro.json
-   ```
-6. Repete por loja, depois `git add outlet_state.json docs/outlet.json`,
-   commit e push.
+### Criar os marcadores (uma vez)
+
+No Chrome: **Ctrl+Shift+O** (Gestor de Marcadores) → ⋮ → **Adicionar novo
+marcador**, para cada um destes:
+
+| Nome | URL (conteúdo do ficheiro) |
+|---|---|
+| Próxima Loja | `bookmarklet_mudar_loja.txt` |
+| Recolher Outlet | `bookmarklet.txt` |
+
+### Usar, por categoria
+
+1. Abre o outlet da categoria (ex: [bases de duche](https://www.leroymerlin.pt/produtos/promocoes/outlet/?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22%2C%22attribute-22088%22%3A%22Base%2520de%2520duche%22%7D)) no Chrome normal.
+2. Clica **"Próxima Loja"** — troca de loja sozinho (sem tocar na interface
+   do site) e mostra qual é; a página recarrega já nessa loja.
+3. Clica **"Recolher Outlet"** — escreve o nome da loja que apareceu no
+   passo anterior; fica copiado para a área de transferência.
+4. Cola o resultado no chat.
+5. Repete os passos 2-4 para a loja seguinte (o marcador "Próxima Loja"
+   lembra-se de onde ficou e avança sozinho; ao fim de 45 volta ao início).
+
+Do lado de quem recebe o colado: guarda num ficheiro `.json` e corre
+```powershell
+python ingerir_manual.py caminho\para\ficheiro.json [--categoria <slug>]
+```
+depois `git add`, commit e push dos ficheiros dessa categoria.
 
 O `ingerir_manual.py` tolera acentos/maiúsculas no nome da loja (ex.
 "Sacavém" bate com "Sacavem" no `config.json`).
