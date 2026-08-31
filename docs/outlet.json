@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T12:39:01+00:00",
+  "generated": "2026-08-31T12:40:18+00:00",
   "products": [
     {
       "id": "94150387",
@@ -254,6 +254,29 @@
             [
               "2026-08-31",
               128
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81266407",
+      "name": "Base de duche STONE GEL COAT BRANCO 110X80",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-stone-gel-coat-branco-110x80-81266407.html",
+      "dimensao": "110x80",
+      "preco_final": 129,
+      "prices": [
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 199,
+          "preco_desconto": 70,
+          "preco_final": 129,
+          "atualizado": "2026-08-31T12:40:18+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              129
             ]
           ]
         }
@@ -1176,6 +1199,29 @@
       ]
     },
     {
+      "id": "83728756",
+      "name": "Base de duche 80x110 cm cinzento Stone",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x110-cm-cinzento-stone-83728756.html",
+      "dimensao": "80x110",
+      "preco_final": 189,
+      "prices": [
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 289,
+          "preco_desconto": 100,
+          "preco_final": 189,
+          "atualizado": "2026-08-31T12:40:18+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              189
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "95043609",
       "name": "Base de duche 160x70 cm preto mate Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-preto-mate-sensea-neo-95043609.html",
@@ -1423,6 +1469,20 @@
           ]
         },
         {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 218,
+          "preco_desconto": 0,
+          "preco_final": 218,
+          "atualizado": "2026-08-31T12:39:01+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              218
+            ]
+          ]
+        },
+        {
           "store": "Caldas da Rainha (Leiria)",
           "region": "Leiria",
           "preco_normal": 218,
@@ -1457,20 +1517,6 @@
           "preco_desconto": 0,
           "preco_final": 218,
           "atualizado": "2026-08-31T12:38:04+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              218
-            ]
-          ]
-        },
-        {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 218,
-          "preco_desconto": 0,
-          "preco_final": 218,
-          "atualizado": "2026-08-31T12:39:01+00:00",
           "history": [
             [
               "2026-08-31",
@@ -2019,6 +2065,29 @@
           "preco_desconto": 0,
           "preco_final": 398,
           "atualizado": "2026-08-31T12:22:40+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              398
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82307257",
+      "name": "Base de duche SENSEA NEO MARMORE TRAV 160X70CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-marmore-trav-160x70cm-82307257.html",
+      "dimensao": "160x70",
+      "preco_final": 398,
+      "prices": [
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 398,
+          "preco_desconto": 0,
+          "preco_final": 398,
+          "atualizado": "2026-08-31T12:40:18+00:00",
           "history": [
             [
               "2026-08-31",
