@@ -7,6 +7,7 @@ browser (ver README/chat). Uso:
 """
 import json
 import sys
+import unicodedata
 from pathlib import Path
 
 from recolher_outlet import (
@@ -20,6 +21,12 @@ from recolher_outlet import (
 CONFIG_FILE = Path(__file__).resolve().parent / "config.json"
 
 
+def normalizar_nome(nome: str) -> str:
+    """Ignora acentos/maiusculas ('Sacavém' == 'Sacavem')."""
+    sem_acentos = unicodedata.normalize("NFKD", nome).encode("ascii", "ignore").decode()
+    return sem_acentos.lower().strip()
+
+
 def main() -> int:
     if len(sys.argv) != 2:
         sys.exit("Uso: python ingerir_manual.py caminho/para/ficheiro.json")
@@ -29,12 +36,12 @@ def main() -> int:
     produtos = dados["produtos"]
 
     cfg = json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
-    stores = {s["name"]: s for s in cfg["stores"]}
-    if nome_loja not in stores:
-        raise SystemExit(
-            f"Loja '{nome_loja}' nao existe no config.json. Nomes validos: {sorted(stores)}"
-        )
-    store = stores[nome_loja]
+    stores = {normalizar_nome(s["name"]): s for s in cfg["stores"]}
+    chave = normalizar_nome(nome_loja)
+    if chave not in stores:
+        nomes = sorted(s["name"] for s in cfg["stores"])
+        raise SystemExit(f"Loja '{nome_loja}' nao existe no config.json. Nomes validos: {nomes}")
+    store = stores[chave]
     label = store_label(store)
 
     state = load_state()
