@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:48:14+00:00",
+  "generated": "2026-08-31T22:49:05+00:00",
   "products": [
     {
       "id": "94727281",
@@ -334,6 +334,20 @@
           "preco_desconto": 81,
           "preco_final": 378,
           "atualizado": "2026-08-31T22:48:14+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-08-31T22:49:04+00:00",
           "history": [
             [
               "2026-08-31",
@@ -804,6 +818,48 @@
               488
             ]
           ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:49:03+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:49:04+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:49:05+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
         }
       ]
     },
@@ -934,6 +990,20 @@
               628
             ]
           ]
+        },
+        {
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 769,
+          "preco_desconto": 141,
+          "preco_final": 628,
+          "atualizado": "2026-08-31T22:49:05+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              628
+            ]
+          ]
         }
       ]
     },
@@ -1034,6 +1104,20 @@
             [
               "2026-08-31",
               598
+            ]
+          ]
+        },
+        {
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 649,
+          "preco_desconto": 50,
+          "preco_final": 599,
+          "atualizado": "2026-08-31T22:49:05+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              599
             ]
           ]
         }
@@ -1322,6 +1406,20 @@
           "preco_desconto": 251,
           "preco_final": 1048,
           "atualizado": "2026-08-31T22:48:12+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-08-31T22:49:03+00:00",
           "history": [
             [
               "2026-08-31",
@@ -1738,6 +1836,52 @@
             [
               "2026-08-31",
               1078
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83791804",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 24000BTU WIFI BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-24000btu-wifi-branco-83791804.html",
+      "dimensao": "24000 BTU",
+      "preco_final": 1078,
+      "prices": [
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 1078,
+          "preco_desconto": 0,
+          "preco_final": 1078,
+          "atualizado": "2026-08-31T22:49:04+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1078
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "94395083",
+      "name": "Ar condicionado 1x1 Mitsubishi smart srk-z6l 21kbtu wifi",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-mitsubishi-smart-srk-z6l-21kbtu-wifi-94395083.html",
+      "dimensao": "21000 BTU",
+      "preco_final": 1418,
+      "prices": [
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 1759,
+          "preco_desconto": 341,
+          "preco_final": 1418,
+          "atualizado": "2026-08-31T22:49:04+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              1418
             ]
           ]
         }

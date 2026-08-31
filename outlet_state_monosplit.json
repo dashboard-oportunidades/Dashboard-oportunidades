@@ -31,7 +31,10 @@
     "Maia (Porto)": "2026-08-31T22:48:11+00:00",
     "Matosinhos (Porto)": "2026-08-31T22:48:12+00:00",
     "Montijo (Setubal)": "2026-08-31T22:48:13+00:00",
-    "Oeiras (Lisboa)": "2026-08-31T22:48:14+00:00"
+    "Oeiras (Lisboa)": "2026-08-31T22:48:14+00:00",
+    "Penafiel (Porto)": "2026-08-31T22:49:03+00:00",
+    "Portimao (Faro)": "2026-08-31T22:49:04+00:00",
+    "Sacavem (Lisboa)": "2026-08-31T22:49:05+00:00"
   },
   "products": {
     "72845777@Leiria (Leiria)": {
@@ -484,6 +487,60 @@
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
+    "82558714@Penafiel (Porto)": {
+      "atualizado": "2026-08-31T22:49:03+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          488
+        ]
+      ],
+      "id": "82558714",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
+      "preco_desconto": 111,
+      "preco_final": 488,
+      "preco_normal": 599,
+      "region": "Porto",
+      "store": "Penafiel (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
+    },
+    "82558714@Portimao (Faro)": {
+      "atualizado": "2026-08-31T22:49:04+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          488
+        ]
+      ],
+      "id": "82558714",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
+      "preco_desconto": 50,
+      "preco_final": 488,
+      "preco_normal": 538,
+      "region": "Faro",
+      "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
+    },
+    "82558714@Sacavem (Lisboa)": {
+      "atualizado": "2026-08-31T22:49:05+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          488
+        ]
+      ],
+      "id": "82558714",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
+      "preco_desconto": 50,
+      "preco_final": 488,
+      "preco_normal": 538,
+      "region": "Lisboa",
+      "store": "Sacavem (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
+    },
     "82558726@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-08-31T22:39:54+00:00",
       "dimensao": "12000 BTU",
@@ -572,6 +629,24 @@
       "preco_normal": 598,
       "region": "Porto",
       "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
+    },
+    "82558726@Sacavem (Lisboa)": {
+      "atualizado": "2026-08-31T22:49:05+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          599
+        ]
+      ],
+      "id": "82558726",
+      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK12Z6L-W 12000BTU",
+      "preco_desconto": 50,
+      "preco_final": 599,
+      "preco_normal": 649,
+      "region": "Lisboa",
+      "store": "Sacavem (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
     },
     "82558730@Amadora (Lisboa)": {
@@ -772,6 +847,24 @@
       "store": "Montijo (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
+    "83791801@Sacavem (Lisboa)": {
+      "atualizado": "2026-08-31T22:49:05+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          628
+        ]
+      ],
+      "id": "83791801",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
+      "preco_desconto": 141,
+      "preco_final": 628,
+      "preco_normal": 769,
+      "region": "Lisboa",
+      "store": "Sacavem (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
+    },
     "83791802@Amadora (Lisboa)": {
       "atualizado": "2026-08-31T22:40:50+00:00",
       "dimensao": "12000 BTU",
@@ -807,6 +900,24 @@
       "region": "Castelo Branco",
       "store": "Castelo Branco (Castelo Branco)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-12000btu-wifi-branco-83791802.html"
+    },
+    "83791804@Portimao (Faro)": {
+      "atualizado": "2026-08-31T22:49:04+00:00",
+      "dimensao": "24000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          1078
+        ]
+      ],
+      "id": "83791804",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 24000BTU WIFI BRANCO",
+      "preco_desconto": 0,
+      "preco_final": 1078,
+      "preco_normal": 1078,
+      "region": "Faro",
+      "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-24000btu-wifi-branco-83791804.html"
     },
     "83791809@Amadora (Lisboa)": {
       "atualizado": "2026-08-31T22:40:50+00:00",
@@ -1186,6 +1297,24 @@
       "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
     },
+    "86733349@Penafiel (Porto)": {
+      "atualizado": "2026-08-31T22:49:03+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          1048
+        ]
+      ],
+      "id": "86733349",
+      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
+      "preco_desconto": 251,
+      "preco_final": 1048,
+      "preco_normal": 1299,
+      "region": "Porto",
+      "store": "Penafiel (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
+    },
     "86733350@Almada (Setubal)": {
       "atualizado": "2026-08-31T22:39:10+00:00",
       "dimensao": "12000 BTU",
@@ -1528,6 +1657,24 @@
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
+    "86733733@Portimao (Faro)": {
+      "atualizado": "2026-08-31T22:49:04+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          378
+        ]
+      ],
+      "id": "86733733",
+      "name": "Ar condicionado fixo (1x1) New Luso KC25YR03 WIFI 9000 BTU Hisense",
+      "preco_desconto": 81,
+      "preco_final": 378,
+      "preco_normal": 459,
+      "region": "Faro",
+      "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
+    },
     "86733851@Colombo (Lisboa)": {
       "atualizado": "2026-08-31T22:44:03+00:00",
       "dimensao": "12000 BTU",
@@ -1779,6 +1926,24 @@
       "region": "Lisboa",
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-eluxe-amber-plus-12kbtu-93939065.html"
+    },
+    "94395083@Portimao (Faro)": {
+      "atualizado": "2026-08-31T22:49:04+00:00",
+      "dimensao": "21000 BTU",
+      "history": [
+        [
+          "2026-08-31",
+          1418
+        ]
+      ],
+      "id": "94395083",
+      "name": "Ar condicionado 1x1 Mitsubishi smart srk-z6l 21kbtu wifi",
+      "preco_desconto": 341,
+      "preco_final": 1418,
+      "preco_normal": 1759,
+      "region": "Faro",
+      "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-mitsubishi-smart-srk-z6l-21kbtu-wifi-94395083.html"
     },
     "94727281@Colombo (Lisboa)": {
       "atualizado": "2026-08-31T22:44:03+00:00",
