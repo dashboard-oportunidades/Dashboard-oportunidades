@@ -103,6 +103,7 @@ select.loja{
   <div class="tabs" id="tabs">
     <button class="tab-ativo" data-tab="base-duche">Base Duche</button>
     <button data-tab="monosplit">Ar Condicionado</button>
+    <button data-tab="termoacumuladores">Termoacumuladores</button>
   </div>
 
   <div class="tab-painel" id="tab-base-duche">
@@ -128,6 +129,7 @@ const el = id => document.getElementById(id);
 const TABS = [
   { id: 'base-duche', file: 'outlet.json' },
   { id: 'monosplit', file: 'monosplit.json' },
+  { id: 'termoacumuladores', file: 'termoacumuladores.json' },
 ];
 
 let abaAtiva = 'base-duche';

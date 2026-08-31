@@ -50,16 +50,29 @@ CATEGORIAS = {
         "state_file": "outlet_state_monosplit.json",
         "out_file": "docs/monosplit.json",
     },
+    "termoacumuladores": {
+        "label": "Termoacumuladores",
+        "url": (
+            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
+            "?filters=%7B%22breadcrumb-1-label%22%3A%22Aquecimento%2520e%2520Climatiza"
+            "%25C3%25A7%25C3%25A3o%22%2C%22attribute-22088%22%3A%22Aquecedor%2520de%2520"
+            "%25C3%25A1gua%2520el%25C3%25A9trico%2520acumulado%22%7D"
+        ),
+        "state_file": "outlet_state_termoacumuladores.json",
+        "out_file": "docs/termoacumuladores.json",
+    },
 }
 
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
 BTU_RE = re.compile(r"(\d{4,5})\s*\.?\s*BTU", re.IGNORECASE)
+LITROS_RE = re.compile(r"(\d{2,4})\s*[lL](?:itros?)?\b")
 
 
 def extrair_atributo(name: str) -> str | None:
     """Etiqueta usada nos filtros da tabela -- medida (AxB) para bases de
-    duche, capacidade (BTU) para ar condicionado. None se nao reconhecer
-    nenhum dos dois padroes (o produto so nao aparece nesse filtro)."""
+    duche, capacidade (BTU) para ar condicionado, litros para
+    termoacumuladores. None se nao reconhecer nenhum padrao (o produto so
+    nao aparece nesse filtro)."""
     dim_match = DIM_RE.search(name)
     if dim_match:
         a, b = int(dim_match.group(1)), int(dim_match.group(2))
@@ -67,6 +80,9 @@ def extrair_atributo(name: str) -> str | None:
     btu_match = BTU_RE.search(name)
     if btu_match:
         return f"{btu_match.group(1)} BTU"
+    litros_match = LITROS_RE.search(name)
+    if litros_match:
+        return f"{litros_match.group(1)}L"
     return None
 
 USER_AGENT = (
