@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:44:05+00:00",
+  "generated": "2026-08-31T22:44:51+00:00",
   "products": [
     {
       "id": "94727281",
@@ -233,6 +233,20 @@
               468
             ]
           ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-08-31T22:44:51+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              468
+            ]
+          ]
         }
       ]
     },
@@ -396,6 +410,99 @@
               488
             ]
           ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:44:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:44:51+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83791801",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html",
+      "dimensao": "9000 BTU",
+      "preco_final": 498,
+      "prices": [
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 628,
+          "preco_desconto": 130,
+          "preco_final": 498,
+          "atualizado": "2026-08-31T22:44:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              498
+            ]
+          ]
+        },
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 628,
+          "preco_desconto": 0,
+          "preco_final": 628,
+          "atualizado": "2026-08-31T22:39:10+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 628,
+          "preco_desconto": 0,
+          "preco_final": 628,
+          "atualizado": "2026-08-31T22:42:07+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 628,
+          "preco_desconto": 0,
+          "preco_final": 628,
+          "atualizado": "2026-08-31T22:43:21+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              628
+            ]
+          ]
         }
       ]
     },
@@ -484,6 +591,20 @@
               528
             ]
           ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 598,
+          "preco_desconto": 0,
+          "preco_final": 598,
+          "atualizado": "2026-08-31T22:44:51+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              598
+            ]
+          ]
         }
       ]
     },
@@ -551,57 +672,6 @@
             [
               "2026-08-31",
               588
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "83791801",
-      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html",
-      "dimensao": "9000 BTU",
-      "preco_final": 628,
-      "prices": [
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 628,
-          "preco_desconto": 0,
-          "preco_final": 628,
-          "atualizado": "2026-08-31T22:39:10+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 628,
-          "preco_desconto": 0,
-          "preco_final": 628,
-          "atualizado": "2026-08-31T22:42:07+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 628,
-          "preco_desconto": 0,
-          "preco_final": 628,
-          "atualizado": "2026-08-31T22:43:21+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              628
             ]
           ]
         }
@@ -704,6 +774,20 @@
           "preco_desconto": 211,
           "preco_final": 888,
           "atualizado": "2026-08-31T22:40:50+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              888
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 1099,
+          "preco_desconto": 211,
+          "preco_final": 888,
+          "atualizado": "2026-08-31T22:44:51+00:00",
           "history": [
             [
               "2026-08-31",
