@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:39:10+00:00",
+  "generated": "2026-08-31T22:39:56+00:00",
   "products": [
     {
       "id": "94727281",
@@ -74,7 +74,7 @@
       "id": "82558714",
       "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html",
-      "dimensao": null,
+      "dimensao": "9000 BTU",
       "preco_final": 488,
       "prices": [
         {
@@ -83,7 +83,7 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-08-31T13:37:35+00:00",
+          "atualizado": "2026-08-31T22:39:54+00:00",
           "history": [
             [
               "2026-08-31",
@@ -104,6 +104,20 @@
               488
             ]
           ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-08-31T22:39:56+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              488
+            ]
+          ]
         }
       ]
     },
@@ -111,7 +125,7 @@
       "id": "82558726",
       "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK12Z6L-W 12000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html",
-      "dimensao": null,
+      "dimensao": "12000 BTU",
       "preco_final": 528,
       "prices": [
         {
@@ -120,7 +134,7 @@
           "preco_normal": 649,
           "preco_desconto": 121,
           "preco_final": 528,
-          "atualizado": "2026-08-31T13:37:35+00:00",
+          "atualizado": "2026-08-31T22:39:54+00:00",
           "history": [
             [
               "2026-08-31",
@@ -143,7 +157,7 @@
           "preco_normal": 719,
           "preco_desconto": 131,
           "preco_final": 588,
-          "atualizado": "2026-08-31T13:37:35+00:00",
+          "atualizado": "2026-08-31T22:39:54+00:00",
           "history": [
             [
               "2026-08-31",
@@ -203,16 +217,16 @@
       "id": "86733349",
       "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html",
-      "dimensao": null,
+      "dimensao": "9000 BTU",
       "preco_final": 1048,
       "prices": [
         {
           "store": "Alta de Lisboa (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1048,
-          "preco_desconto": 0.0,
+          "preco_desconto": 0,
           "preco_final": 1048,
-          "atualizado": "2026-08-31T13:37:35+00:00",
+          "atualizado": "2026-08-31T22:39:54+00:00",
           "history": [
             [
               "2026-08-31",
@@ -226,16 +240,16 @@
       "id": "86733350",
       "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 12000 BTU IONIZADOR",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html",
-      "dimensao": null,
+      "dimensao": "12000 BTU",
       "preco_final": 1168,
       "prices": [
         {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1168,
-          "preco_desconto": 0.0,
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-08-31T13:37:35+00:00",
+          "atualizado": "2026-08-31T22:39:10+00:00",
           "history": [
             [
               "2026-08-31",
@@ -244,12 +258,12 @@
           ]
         },
         {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 1449,
-          "preco_desconto": 281,
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1168,
+          "preco_desconto": 0,
           "preco_final": 1168,
-          "atualizado": "2026-08-31T22:39:10+00:00",
+          "atualizado": "2026-08-31T22:39:54+00:00",
           "history": [
             [
               "2026-08-31",
