@@ -20,6 +20,9 @@
     "Evora (Evora)": "2026-08-31T22:06:56+00:00",
     "Figueira da Foz (Coimbra)": "2026-08-31T22:07:40+00:00",
     "Gaia (Porto)": "2026-08-31T22:07:41+00:00",
+    "Gondomar (Porto)": "2026-08-31T22:08:31+00:00",
+    "Guarda (Guarda)": "2026-08-31T22:08:32+00:00",
+    "Guimaraes (Braga)": "2026-08-31T22:08:33+00:00",
     "Oeiras (Lisboa)": "2026-08-31T20:46:00+00:00",
     "Sacavem (Lisboa)": "2026-08-31T20:45:44+00:00"
   },
@@ -130,6 +133,24 @@
       "preco_normal": 158,
       "region": "Castelo Branco",
       "store": "Castelo Branco (Castelo Branco)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-50l-82005350.html"
+    },
+    "82005350@Guarda (Guarda)": {
+      "atualizado": "2026-08-31T22:08:32+00:00",
+      "dimensao": "50L",
+      "history": [
+        [
+          "2026-08-31",
+          158
+        ]
+      ],
+      "id": "82005350",
+      "name": "Termoacumulador EQUATION Q2 50L",
+      "preco_desconto": 0,
+      "preco_final": 158,
+      "preco_normal": 158,
+      "region": "Guarda",
+      "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-50l-82005350.html"
     },
     "82246625@Chaves (Vila Real)": {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:07:41+00:00",
+  "generated": "2026-08-31T22:08:33+00:00",
   "products": [
     {
       "id": "75347816",
@@ -38,6 +38,20 @@
           "preco_desconto": 0,
           "preco_final": 158,
           "atualizado": "2026-08-31T22:05:11+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 158,
+          "preco_desconto": 0,
+          "preco_final": 158,
+          "atualizado": "2026-08-31T22:08:32+00:00",
           "history": [
             [
               "2026-08-31",
