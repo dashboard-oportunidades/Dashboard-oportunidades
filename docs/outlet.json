@@ -1,6 +1,52 @@
 {
-  "generated": "2026-08-31T12:14:06+00:00",
+  "generated": "2026-08-31T12:15:54+00:00",
   "products": [
+    {
+      "id": "17757411",
+      "name": "Base de duche EVOLUTION 120X70CM RETANGULAR",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-evolution-120x70cm-retangular-17757411.html",
+      "dimensao": "120x70",
+      "preco_final": 93.36,
+      "prices": [
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 169,
+          "preco_desconto": 75.64,
+          "preco_final": 93.36,
+          "atualizado": "2026-08-31T12:15:24+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              93.36
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84227538",
+      "name": "Base de duche 150x70 cm bege mate efeito ardósia Obath Greenpact",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-150x70-cm-bege-mate-efeito-ardosia-obath-greenpact-84227538.html",
+      "dimensao": "150x70",
+      "preco_final": 125.99,
+      "prices": [
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 153.01,
+          "preco_final": 125.99,
+          "atualizado": "2026-08-31T12:15:24+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              125.99
+            ]
+          ]
+        }
+      ]
+    },
     {
       "id": "91835309",
       "name": "Base de duche Resina 120x80 cm branco mate Sensea Easy V2",
@@ -9,12 +55,54 @@
       "preco_final": 138,
       "prices": [
         {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 138,
+          "preco_desconto": 0,
+          "preco_final": 138,
+          "atualizado": "2026-08-31T12:15:22+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              138
+            ]
+          ]
+        },
+        {
           "store": "Carcavelos (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 138,
           "preco_desconto": 0,
           "preco_final": 138,
           "atualizado": "2026-08-31T12:14:06+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 138,
+          "preco_desconto": 0,
+          "preco_final": 138,
+          "atualizado": "2026-08-31T12:15:24+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 138,
+          "preco_desconto": 0,
+          "preco_final": 138,
+          "atualizado": "2026-08-31T12:15:54+00:00",
           "history": [
             [
               "2026-08-31",
@@ -88,6 +176,29 @@
             [
               "2026-08-31",
               169.97
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "95043609",
+      "name": "Base de duche 160x70 cm preto mate Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-preto-mate-sensea-neo-95043609.html",
+      "dimensao": "160x70",
+      "preco_final": 190,
+      "prices": [
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 109,
+          "preco_final": 190,
+          "atualizado": "2026-08-31T12:15:24+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              190
             ]
           ]
         }
@@ -177,6 +288,52 @@
       ]
     },
     {
+      "id": "16872240",
+      "name": "Base de duche à medida KIOTO",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-a-medida-kioto-16872240.html",
+      "dimensao": null,
+      "preco_final": 225,
+      "prices": [
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 509,
+          "preco_desconto": 284,
+          "preco_final": 225,
+          "atualizado": "2026-08-31T12:15:24+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              225
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82002246",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 90X90CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-90x90cm-82002246.html",
+      "dimensao": "90x90",
+      "preco_final": 238,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 238,
+          "preco_desconto": 0,
+          "preco_final": 238,
+          "atualizado": "2026-08-31T12:15:22+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              238
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82002228",
       "name": "Base de duche NEO CARGA MINERAL BRANCA 120X80CM",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-branca-120x80cm-82002228.html",
@@ -194,6 +351,29 @@
             [
               "2026-08-31",
               248
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82002275",
+      "name": "Base de duche NEO CARGA MINERAL CINZA 160X80CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-cinza-160x80cm-82002275.html",
+      "dimensao": "160x80",
+      "preco_final": 308,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 308,
+          "preco_desconto": 0,
+          "preco_final": 308,
+          "atualizado": "2026-08-31T12:15:22+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              308
             ]
           ]
         }
