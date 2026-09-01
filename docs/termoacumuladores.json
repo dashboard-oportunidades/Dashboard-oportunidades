@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T22:20:54+00:00",
+  "generated": "2026-09-01T12:27:52+00:00",
   "products": [
     {
       "id": "82005354",
@@ -364,34 +364,6 @@
       "preco_final": 388,
       "prices": [
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 388,
-          "preco_desconto": 0,
-          "preco_final": 388,
-          "atualizado": "2026-08-31T21:15:06+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 469,
-          "preco_desconto": 81,
-          "preco_final": 388,
-          "atualizado": "2026-08-31T22:02:33+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 469,
@@ -418,6 +390,34 @@
               388
             ]
           ]
+        },
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-09-01T12:21:07+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 469,
+          "preco_desconto": 81,
+          "preco_final": 388,
+          "atualizado": "2026-09-01T12:26:07+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              388
+            ]
+          ]
         }
       ]
     },
@@ -432,12 +432,12 @@
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 458,
-          "preco_desconto": 0,
+          "preco_desconto": 0.0,
           "preco_final": 458,
-          "atualizado": "2026-08-31T22:02:33+00:00",
+          "atualizado": "2026-09-01T12:26:07+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               458
             ]
           ]
