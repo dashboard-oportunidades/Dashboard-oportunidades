@@ -10,12 +10,12 @@
     "Barcelos (Braga)": "2026-08-31T12:27:55+00:00",
     "Barreiro (Setubal)": "2026-08-31T12:39:01+00:00",
     "Braga (Braga)": "2026-08-31T12:22:36+00:00",
-    "Braganca (Braganca)": "2026-08-31T12:19:22+00:00",
+    "Braganca (Braganca)": "2026-09-01T09:34:33+00:00",
     "Caldas da Rainha (Leiria)": "2026-08-31T12:22:38+00:00",
     "Carcavelos (Lisboa)": "2026-09-01T09:15:21+00:00",
     "Cascais (Lisboa)": "2026-09-01T09:21:09+00:00",
     "Castelo Branco (Castelo Branco)": "2026-08-31T12:22:41+00:00",
-    "Chaves (Vila Real)": "2026-08-31T12:19:23+00:00",
+    "Chaves (Vila Real)": "2026-09-01T09:36:13+00:00",
     "Coimbra (Coimbra)": "2026-08-31T12:25:30+00:00",
     "Colombo (Lisboa)": "2026-09-01T09:16:51+00:00",
     "Covilha (Castelo Branco)": "2026-08-31T12:23:44+00:00",
@@ -27,15 +27,15 @@
     "Guimaraes (Braga)": "2026-08-31T12:22:35+00:00",
     "Leiria (Leiria)": "2026-08-31T12:22:39+00:00",
     "Loule (Faro)": "2026-08-31T12:36:56+00:00",
-    "Loures (Lisboa)": "2026-08-31T12:19:19+00:00",
+    "Loures (Lisboa)": "2026-09-01T09:31:09+00:00",
     "Mafra (Lisboa)": "2026-08-31T12:38:06+00:00",
     "Maia (Porto)": "2026-08-31T12:25:33+00:00",
     "Matosinhos (Porto)": "2026-08-31T12:25:34+00:00",
     "Montijo (Setubal)": "2026-08-31T12:22:41+00:00",
     "Oeiras (Lisboa)": "2026-09-01T09:14:09+00:00",
-    "Penafiel (Porto)": "2026-08-31T12:19:23+00:00",
+    "Penafiel (Porto)": "2026-09-01T09:37:52+00:00",
     "Portimao (Faro)": "2026-08-31T12:36:57+00:00",
-    "Sacavem (Lisboa)": "2026-08-31T12:19:20+00:00",
+    "Sacavem (Lisboa)": "2026-09-01T09:32:50+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-08-31T12:26:50+00:00",
     "Santarem (Santarem)": "2026-08-31T12:22:36+00:00",
     "Setubal (Setubal)": "2026-08-31T12:38:04+00:00",
@@ -84,17 +84,17 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-evolution-120x70cm-retangular-17757411.html"
     },
     "18349163@Sacavem (Lisboa)": {
-      "atualizado": "2026-08-31T12:19:20+00:00",
+      "atualizado": "2026-09-01T09:32:50+00:00",
       "dimensao": "160x70",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           199
         ]
       ],
       "id": "18349163",
       "name": "Base de duche BOSTON PRETA 160X70CM RETANGULAR",
-      "preco_desconto": 0,
+      "preco_desconto": 0.0,
       "preco_final": 199,
       "preco_normal": 199,
       "region": "Lisboa",
@@ -156,11 +156,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-100x70cm-branco-81870826.html"
     },
     "81870827@Loures (Lisboa)": {
-      "atualizado": "2026-08-31T12:19:19+00:00",
+      "atualizado": "2026-09-01T09:31:09+00:00",
       "dimensao": "120x70",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           218
         ]
       ],
@@ -190,24 +190,6 @@
       "region": "Porto",
       "store": "Gaia (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-140x70cm-branco-81900441.html"
-    },
-    "81976033@Braganca (Braganca)": {
-      "atualizado": "2026-08-31T12:19:22+00:00",
-      "dimensao": "100x80",
-      "history": [
-        [
-          "2026-08-31",
-          99.98
-        ]
-      ],
-      "id": "81976033",
-      "name": "Base de duche SENSEA ESSENTIAL BRANCA 100X80 CM RETANGULAR",
-      "preco_desconto": 15.02,
-      "preco_final": 99.98,
-      "preco_normal": 115,
-      "region": "Braganca",
-      "store": "Braganca (Braganca)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-essential-branca-100x80-cm-retangular-81976033.html"
     },
     "82002223@Aveiro (Aveiro)": {
       "atualizado": "2026-08-31T12:25:32+00:00",
@@ -261,24 +243,6 @@
       "preco_normal": 218,
       "region": "Leiria",
       "store": "Caldas da Rainha (Leiria)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
-    },
-    "82002223@Chaves (Vila Real)": {
-      "atualizado": "2026-08-31T12:19:23+00:00",
-      "dimensao": "120x70",
-      "history": [
-        [
-          "2026-08-31",
-          218
-        ]
-      ],
-      "id": "82002223",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 120X70CM",
-      "preco_desconto": 0,
-      "preco_final": 218,
-      "preco_normal": 218,
-      "region": "Vila Real",
-      "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
     },
     "82002223@Setubal (Setubal)": {
@@ -876,11 +840,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-70x120cm-grelha-metal-branco-mate-84834090.html"
     },
     "84834102@Penafiel (Porto)": {
-      "atualizado": "2026-08-31T12:19:23+00:00",
-      "dimensao": "80x120",
+      "atualizado": "2026-09-01T09:37:52+00:00",
+      "dimensao": "120x80",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           198
         ]
       ],
@@ -1145,24 +1109,6 @@
       "store": "Montijo (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-120x70-cm-branco-roca-new-legacy-87569585.html"
     },
-    "88286908@Braganca (Braganca)": {
-      "atualizado": "2026-08-31T12:19:22+00:00",
-      "dimensao": "80x170",
-      "history": [
-        [
-          "2026-08-31",
-          199.98
-        ]
-      ],
-      "id": "88286908",
-      "name": "Base de duche SENSEA REMIX RESINA 80X170 PRETO MATE",
-      "preco_desconto": 74.02,
-      "preco_final": 199.98,
-      "preco_normal": 274,
-      "region": "Braganca",
-      "store": "Braganca (Braganca)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-80x170-preto-mate-88286908.html"
-    },
     "88286911@Loule (Faro)": {
       "atualizado": "2026-08-31T12:36:56+00:00",
       "dimensao": "80x170",
@@ -1236,11 +1182,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-70x140-cinzento-mate-88286913.html"
     },
     "88286913@Penafiel (Porto)": {
-      "atualizado": "2026-08-31T12:19:23+00:00",
-      "dimensao": "70x140",
+      "atualizado": "2026-09-01T09:37:52+00:00",
+      "dimensao": "140x70",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           137
         ]
       ],
@@ -1271,23 +1217,23 @@
       "store": "Covilha (Castelo Branco)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-80x120-branco-mate-88286915.html"
     },
-    "88286943@Braganca (Braganca)": {
-      "atualizado": "2026-08-31T12:19:22+00:00",
-      "dimensao": "90x90",
+    "88672189@Loures (Lisboa)": {
+      "atualizado": "2026-09-01T09:31:09+00:00",
+      "dimensao": "140x70",
       "history": [
         [
-          "2026-08-31",
-          159.98
+          "2026-09-01",
+          138
         ]
       ],
-      "id": "88286943",
-      "name": "Base de duche SENSEA REMIX RESINA 90X90 PRETO MATE",
-      "preco_desconto": 42.02,
-      "preco_final": 159.98,
-      "preco_normal": 202,
-      "region": "Braganca",
-      "store": "Braganca (Braganca)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-90x90-preto-mate-88286943.html"
+      "id": "88672189",
+      "name": "Base de duche ardósia 140x70 cm branco Musa",
+      "preco_desconto": 21,
+      "preco_final": 138,
+      "preco_normal": 159,
+      "region": "Lisboa",
+      "store": "Loures (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-140x70-cm-branco-musa-88672189.html"
     },
     "88672189@Santa Maria da Feira (Aveiro)": {
       "atualizado": "2026-08-31T12:26:50+00:00",
@@ -1488,11 +1434,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
     },
     "91835297@Loures (Lisboa)": {
-      "atualizado": "2026-08-31T12:19:19+00:00",
+      "atualizado": "2026-09-01T09:31:09+00:00",
       "dimensao": "140x80",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           158
         ]
       ],
@@ -1721,24 +1667,6 @@
       "store": "Castelo Branco (Castelo Branco)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x80-cm-branco-mate-sensea-easy-v2-91835309.html"
     },
-    "91835309@Sacavem (Lisboa)": {
-      "atualizado": "2026-08-31T12:19:20+00:00",
-      "dimensao": "120x80",
-      "history": [
-        [
-          "2026-08-31",
-          138
-        ]
-      ],
-      "id": "91835309",
-      "name": "Base de duche Resina 120x80 cm branco mate Sensea Easy V2",
-      "preco_desconto": 0,
-      "preco_final": 138,
-      "preco_normal": 138,
-      "region": "Lisboa",
-      "store": "Sacavem (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x80-cm-branco-mate-sensea-easy-v2-91835309.html"
-    },
     "91835309@Telheiras (Lisboa)": {
       "atualizado": "2026-09-01T09:22:47+00:00",
       "dimensao": "120x80",
@@ -1812,11 +1740,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x90-cm-branco-mate-sensea-easy-v2-91835314.html"
     },
     "94150385@Chaves (Vila Real)": {
-      "atualizado": "2026-08-31T12:19:23+00:00",
-      "dimensao": "80x160",
+      "atualizado": "2026-09-01T09:36:13+00:00",
+      "dimensao": "160x80",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           149
         ]
       ],
