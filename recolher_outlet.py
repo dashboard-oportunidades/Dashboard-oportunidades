@@ -337,46 +337,54 @@ def main() -> int:
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=False)
-        context = browser.new_context(user_agent=USER_AGENT, locale="pt-PT")
-        page = context.new_page()
 
         try:
             for i, store in enumerate(stores):
                 if i > 0:
-                    pausa = random.uniform(10, 15)
+                    pausa = random.uniform(30, 45)
                     print(f"  (pausa de {pausa:.0f}s antes da proxima loja)")
                     time.sleep(pausa)
 
                 label = store_label(store)
-                set_store_cookies(context, store)
-                print(f"> Loja: {label}")
-                page.goto(outlet_url, wait_until="domcontentloaded", timeout=60000)
-                page.wait_for_timeout(2000)
-
-                if page.locator("#onetrust-accept-btn-handler").count() > 0:
-                    print("\n>>> Aparece o banner de cookies -- clica em 'Aceitar' na janela do browser.\n")
-                    try:
-                        page.locator("#onetrust-accept-btn-handler").wait_for(state="hidden", timeout=60000)
-                    except Exception:
-                        pass
-
-                if is_captcha(page.content()):
-                    if not wait_for_human(page):
-                        print(f"  ! {label}: desisti de esperar pelo CAPTCHA -- "
-                              f"fica para a proxima corrida.", file=sys.stderr)
-                        continue
+                # Contexto novo por loja -- equivalente a um Incognito novo:
+                # o cookie 'store' so aceita ser injetado numa sessao que
+                # nunca teve loja nenhuma escolhida (fica HttpOnly a partir
+                # da primeira navegacao real, e um contexto reaproveitado
+                # entre lojas fica preso na primeira que visitou).
+                context = browser.new_context(user_agent=USER_AGENT, locale="pt-PT")
+                page = context.new_page()
+                try:
+                    set_store_cookies(context, store)
+                    print(f"> Loja: {label}")
                     page.goto(outlet_url, wait_until="domcontentloaded", timeout=60000)
                     page.wait_for_timeout(2000)
 
-                html = page.content()
-                products = parse_listing(html)
-                print(f"  {len(products)} produtos")
+                    if page.locator("#onetrust-accept-btn-handler").count() > 0:
+                        print("\n>>> Aparece o banner de cookies -- clica em 'Aceitar' na janela do browser.\n")
+                        try:
+                            page.locator("#onetrust-accept-btn-handler").wait_for(state="hidden", timeout=60000)
+                        except Exception:
+                            pass
 
-                # Visita valida mesmo com 0 produtos -- pode ser mesmo que
-                # esta loja nao tenha outlet de bases de duche agora.
-                update_store_in_state(state, label, store.get("region", ""), products)
-                save_state(state, state_file)
-                visitadas += 1
+                    if is_captcha(page.content()):
+                        if not wait_for_human(page):
+                            print(f"  ! {label}: desisti de esperar pelo CAPTCHA -- "
+                                  f"fica para a proxima corrida.", file=sys.stderr)
+                            continue
+                        page.goto(outlet_url, wait_until="domcontentloaded", timeout=60000)
+                        page.wait_for_timeout(2000)
+
+                    html = page.content()
+                    products = parse_listing(html)
+                    print(f"  {len(products)} produtos")
+
+                    # Visita valida mesmo com 0 produtos -- pode ser mesmo que
+                    # esta loja nao tenha outlet de bases de duche agora.
+                    update_store_in_state(state, label, store.get("region", ""), products)
+                    save_state(state, state_file)
+                    visitadas += 1
+                finally:
+                    context.close()
         except BlockedError as exc:
             blocked = True
             print(f"\n!!! {exc}", file=sys.stderr)

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T12:40:18+00:00",
+  "generated": "2026-09-01T09:16:52+00:00",
   "products": [
     {
       "id": "94150387",
@@ -429,40 +429,12 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 138,
-          "preco_desconto": 0,
-          "preco_final": 138,
-          "atualizado": "2026-08-31T12:15:22+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Braga (Braga)",
           "region": "Braga",
           "preco_normal": 138,
           "preco_desconto": 0,
           "preco_final": 138,
           "atualizado": "2026-08-31T12:22:36+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              138
-            ]
-          ]
-        },
-        {
-          "store": "Carcavelos (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 138,
-          "preco_desconto": 0,
-          "preco_final": 138,
-          "atualizado": "2026-08-31T12:14:06+00:00",
           "history": [
             [
               "2026-08-31",
@@ -522,6 +494,20 @@
           "history": [
             [
               "2026-08-31",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 138,
+          "preco_desconto": 0.0,
+          "preco_final": 138,
+          "atualizado": "2026-09-01T09:15:21+00:00",
+          "history": [
+            [
+              "2026-09-01",
               138
             ]
           ]
@@ -621,6 +607,43 @@
       ]
     },
     {
+      "id": "88672190",
+      "name": "Base de duche ardósia 160x70 cm branco Musa",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
+      "dimensao": "160x70",
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 148,
+          "preco_desconto": 0,
+          "preco_final": 148,
+          "atualizado": "2026-08-31T12:25:31+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-01T09:14:09+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              148
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "86584061",
       "name": "Base de duche 160x70 cm branco mate Sensea Easy",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html",
@@ -633,47 +656,10 @@
           "preco_normal": 179,
           "preco_desconto": 31,
           "preco_final": 148,
-          "atualizado": "2026-08-31T12:13:17+00:00",
+          "atualizado": "2026-09-01T09:14:09+00:00",
           "history": [
             [
-              "2026-08-31",
-              148
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "88672190",
-      "name": "Base de duche ardósia 160x70 cm branco Musa",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
-      "dimensao": "160x70",
-      "preco_final": 148,
-      "prices": [
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 148,
-          "preco_desconto": 0,
-          "preco_final": 148,
-          "atualizado": "2026-08-31T12:13:17+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              148
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 148,
-          "preco_desconto": 0,
-          "preco_final": 148,
-          "atualizado": "2026-08-31T12:25:31+00:00",
-          "history": [
-            [
-              "2026-08-31",
+              "2026-09-01",
               148
             ]
           ]
@@ -721,20 +707,6 @@
             [
               "2026-08-31",
               157
-            ]
-          ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 219,
-          "preco_desconto": 49.03,
-          "preco_final": 169.97,
-          "atualizado": "2026-08-31T12:07:47+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              169.97
             ]
           ]
         }
@@ -1245,43 +1217,6 @@
       ]
     },
     {
-      "id": "81870826",
-      "name": "Base de duche LEGACY 100X70CM BRANCO",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-100x70cm-branco-81870826.html",
-      "dimensao": "100x70",
-      "preco_final": 198,
-      "prices": [
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 198,
-          "preco_desconto": 0,
-          "preco_final": 198,
-          "atualizado": "2026-08-31T12:07:47+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              198
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 239,
-          "preco_desconto": 41,
-          "preco_final": 198,
-          "atualizado": "2026-08-31T12:13:17+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              198
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "84834102",
       "name": "Base de duche NEO 80X120CM GRELHA METAL PRETO MATE",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x120cm-grelha-metal-preto-mate-84834102.html",
@@ -1319,6 +1254,43 @@
       ]
     },
     {
+      "id": "81870826",
+      "name": "Base de duche LEGACY 100X70CM BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-100x70cm-branco-81870826.html",
+      "dimensao": "100x70",
+      "preco_final": 198,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 198,
+          "preco_desconto": 0.0,
+          "preco_final": 198,
+          "atualizado": "2026-09-01T09:13:22+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              198
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 239,
+          "preco_desconto": 41,
+          "preco_final": 198,
+          "atualizado": "2026-09-01T09:14:09+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              198
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "86584065",
       "name": "Base de duche 160x80 cm branco brilhante Sensea Easy",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x80-cm-branco-brilhante-sensea-easy-86584065.html",
@@ -1331,10 +1303,10 @@
           "preco_normal": 234,
           "preco_desconto": 36,
           "preco_final": 198,
-          "atualizado": "2026-08-31T12:07:47+00:00",
+          "atualizado": "2026-09-01T09:13:22+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               198
             ]
           ]
@@ -1382,6 +1354,29 @@
             [
               "2026-08-31",
               199
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84227266",
+      "name": "Base de duche 140x70 cm branco mate efeito ardósia Obath Greenpact",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227266.html",
+      "dimensao": "140x70",
+      "preco_final": 199.97,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 269,
+          "preco_desconto": 69.03,
+          "preco_final": 199.97,
+          "atualizado": "2026-09-01T09:13:22+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              199.97
             ]
           ]
         }
@@ -1440,20 +1435,6 @@
       "dimensao": "120x70",
       "preco_final": 218,
       "prices": [
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 218,
-          "preco_desconto": 0,
-          "preco_final": 218,
-          "atualizado": "2026-08-31T12:07:47+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              218
-            ]
-          ]
-        },
         {
           "store": "Aveiro (Aveiro)",
           "region": "Aveiro",
@@ -1580,20 +1561,6 @@
       "preco_final": 238,
       "prices": [
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 238,
-          "preco_desconto": 0,
-          "preco_final": 238,
-          "atualizado": "2026-08-31T12:15:22+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              238
-            ]
-          ]
-        },
-        {
           "store": "Mafra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 238,
@@ -1712,20 +1679,6 @@
               248
             ]
           ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 248,
-          "preco_desconto": 0,
-          "preco_final": 248,
-          "atualizado": "2026-08-31T12:13:17+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              248
-            ]
-          ]
         }
       ]
     },
@@ -1747,6 +1700,29 @@
             [
               "2026-08-31",
               248
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82307263",
+      "name": "Base de duche SENSEA NEO MARMORE TRAV 120X80CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-marmore-trav-120x80cm-82307263.html",
+      "dimensao": "120x80",
+      "preco_final": 249.98,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 441,
+          "preco_desconto": 191.02,
+          "preco_final": 249.98,
+          "atualizado": "2026-09-01T09:13:22+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              249.98
             ]
           ]
         }
@@ -1862,29 +1838,6 @@
             [
               "2026-08-31",
               297
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82002275",
-      "name": "Base de duche NEO CARGA MINERAL CINZA 160X80CM",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-cinza-160x80cm-82002275.html",
-      "dimensao": "160x80",
-      "preco_final": 308,
-      "prices": [
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 308,
-          "preco_desconto": 0,
-          "preco_final": 308,
-          "atualizado": "2026-08-31T12:15:22+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              308
             ]
           ]
         }
