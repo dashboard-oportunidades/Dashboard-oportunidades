@@ -4,11 +4,11 @@
     "Alfragide (Lisboa)": "2026-09-01T09:16:11+00:00",
     "Almada (Setubal)": "2026-09-01T09:27:52+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-01T09:13:22+00:00",
-    "Alverca (Lisboa)": "2026-08-31T12:40:18+00:00",
+    "Alverca (Lisboa)": "2026-09-01T10:37:57+00:00",
     "Amadora (Lisboa)": "2026-09-01T09:26:07+00:00",
     "Aveiro (Aveiro)": "2026-09-01T10:08:00+00:00",
     "Barcelos (Braga)": "2026-09-01T10:21:55+00:00",
-    "Barreiro (Setubal)": "2026-08-31T12:39:01+00:00",
+    "Barreiro (Setubal)": "2026-09-01T10:36:21+00:00",
     "Braga (Braga)": "2026-09-01T09:44:05+00:00",
     "Braganca (Braganca)": "2026-09-01T09:34:33+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-01T09:50:10+00:00",
@@ -19,7 +19,7 @@
     "Coimbra (Coimbra)": "2026-09-01T10:02:46+00:00",
     "Colombo (Lisboa)": "2026-09-01T09:16:51+00:00",
     "Covilha (Castelo Branco)": "2026-09-01T10:01:07+00:00",
-    "Evora (Evora)": "2026-08-31T12:38:03+00:00",
+    "Evora (Evora)": "2026-09-01T10:31:06+00:00",
     "Figueira da Foz (Coimbra)": "2026-09-01T10:06:19+00:00",
     "Gaia (Porto)": "2026-09-01T10:16:29+00:00",
     "Gondomar (Porto)": "2026-09-01T10:14:41+00:00",
@@ -28,7 +28,7 @@
     "Leiria (Leiria)": "2026-09-01T09:50:47+00:00",
     "Loule (Faro)": "2026-09-01T10:25:16+00:00",
     "Loures (Lisboa)": "2026-09-01T09:31:09+00:00",
-    "Mafra (Lisboa)": "2026-08-31T12:38:06+00:00",
+    "Mafra (Lisboa)": "2026-09-01T10:34:39+00:00",
     "Maia (Porto)": "2026-09-01T10:11:09+00:00",
     "Matosinhos (Porto)": "2026-09-01T10:12:55+00:00",
     "Montijo (Setubal)": "2026-09-01T09:54:21+00:00",
@@ -38,7 +38,7 @@
     "Sacavem (Lisboa)": "2026-09-01T09:32:50+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-01T10:18:09+00:00",
     "Santarem (Santarem)": "2026-09-01T09:42:16+00:00",
-    "Setubal (Setubal)": "2026-08-31T12:38:04+00:00",
+    "Setubal (Setubal)": "2026-09-01T10:32:51+00:00",
     "Sintra (Lisboa)": "2026-09-01T09:24:34+00:00",
     "Telheiras (Lisboa)": "2026-09-01T09:22:47+00:00",
     "Torres Novas (Santarem)": "2026-09-01T09:45:43+00:00",
@@ -102,11 +102,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-boston-preta-160x70cm-retangular-18349163.html"
     },
     "81266407@Alverca (Lisboa)": {
-      "atualizado": "2026-08-31T12:40:18+00:00",
+      "atualizado": "2026-09-01T10:37:57+00:00",
       "dimensao": "110x80",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           129
         ]
       ],
@@ -209,42 +209,6 @@
       "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-italia-70x70-81992803.html"
     },
-    "82002223@Barreiro (Setubal)": {
-      "atualizado": "2026-08-31T12:39:01+00:00",
-      "dimensao": "120x70",
-      "history": [
-        [
-          "2026-08-31",
-          218
-        ]
-      ],
-      "id": "82002223",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 120X70CM",
-      "preco_desconto": 0,
-      "preco_final": 218,
-      "preco_normal": 218,
-      "region": "Setubal",
-      "store": "Barreiro (Setubal)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
-    },
-    "82002223@Setubal (Setubal)": {
-      "atualizado": "2026-08-31T12:38:04+00:00",
-      "dimensao": "120x70",
-      "history": [
-        [
-          "2026-08-31",
-          218
-        ]
-      ],
-      "id": "82002223",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 120X70CM",
-      "preco_desconto": 0,
-      "preco_final": 218,
-      "preco_normal": 218,
-      "region": "Setubal",
-      "store": "Setubal (Setubal)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html"
-    },
     "82002225@Barcelos (Braga)": {
       "atualizado": "2026-09-01T10:21:55+00:00",
       "dimensao": "160x70",
@@ -298,24 +262,6 @@
       "region": "Setubal",
       "store": "Montijo (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-120x70cm-82002238.html"
-    },
-    "82002246@Mafra (Lisboa)": {
-      "atualizado": "2026-08-31T12:38:06+00:00",
-      "dimensao": "90x90",
-      "history": [
-        [
-          "2026-08-31",
-          238
-        ]
-      ],
-      "id": "82002246",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 90X90CM",
-      "preco_desconto": 0,
-      "preco_final": 238,
-      "preco_normal": 238,
-      "region": "Lisboa",
-      "store": "Mafra (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-90x90cm-82002246.html"
     },
     "82097259@Guarda (Guarda)": {
       "atualizado": "2026-09-01T09:40:49+00:00",
@@ -371,24 +317,6 @@
       "store": "Viana do Castelo (Viana do Castelo)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-valvula-rebaixada-160x70-cm-branco-pietra-82271969.html"
     },
-    "82307257@Alverca (Lisboa)": {
-      "atualizado": "2026-08-31T12:40:18+00:00",
-      "dimensao": "160x70",
-      "history": [
-        [
-          "2026-08-31",
-          398
-        ]
-      ],
-      "id": "82307257",
-      "name": "Base de duche SENSEA NEO MARMORE TRAV 160X70CM",
-      "preco_desconto": 0,
-      "preco_final": 398,
-      "preco_normal": 398,
-      "region": "Lisboa",
-      "store": "Alverca (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-marmore-trav-160x70cm-82307257.html"
-    },
     "82307263@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-01T09:13:22+00:00",
       "dimensao": "120x80",
@@ -426,11 +354,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x150-cm-antricite-stone-83728706.html"
     },
     "83728756@Alverca (Lisboa)": {
-      "atualizado": "2026-08-31T12:40:18+00:00",
-      "dimensao": "80x110",
+      "atualizado": "2026-09-01T10:37:57+00:00",
+      "dimensao": "110x80",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           189
         ]
       ],
@@ -984,17 +912,17 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-100x70-cm-bege-musa-89863859.html"
     },
     "89863865@Setubal (Setubal)": {
-      "atualizado": "2026-08-31T12:38:04+00:00",
+      "atualizado": "2026-09-01T10:32:51+00:00",
       "dimensao": "160x80",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           178
         ]
       ],
       "id": "89863865",
       "name": "Base de duche ardósia 160x80 cm preto Musa",
-      "preco_desconto": 0,
+      "preco_desconto": 0.0,
       "preco_final": 178,
       "preco_normal": 178,
       "region": "Setubal",
@@ -1146,11 +1074,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
     },
     "91835297@Setubal (Setubal)": {
-      "atualizado": "2026-08-31T12:38:04+00:00",
+      "atualizado": "2026-09-01T10:32:51+00:00",
       "dimensao": "140x80",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           158
         ]
       ],
@@ -1344,11 +1272,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835310.html"
     },
     "91835310@Barreiro (Setubal)": {
-      "atualizado": "2026-08-31T12:39:01+00:00",
+      "atualizado": "2026-09-01T10:36:21+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           118
         ]
       ],

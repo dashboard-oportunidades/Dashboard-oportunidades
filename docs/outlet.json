@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T10:27:03+00:00",
+  "generated": "2026-09-01T10:37:58+00:00",
   "products": [
     {
       "id": "81992803",
@@ -124,12 +124,12 @@
       "preco_final": 108,
       "prices": [
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
           "preco_normal": 129,
           "preco_desconto": 21,
           "preco_final": 108,
-          "atualizado": "2026-09-01T09:50:10+00:00",
+          "atualizado": "2026-09-01T10:21:55+00:00",
           "history": [
             [
               "2026-09-01",
@@ -138,12 +138,12 @@
           ]
         },
         {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
           "preco_normal": 129,
           "preco_desconto": 21,
           "preco_final": 108,
-          "atualizado": "2026-09-01T10:21:55+00:00",
+          "atualizado": "2026-09-01T09:50:10+00:00",
           "history": [
             [
               "2026-09-01",
@@ -180,10 +180,10 @@
           "preco_normal": 139,
           "preco_desconto": 21,
           "preco_final": 118,
-          "atualizado": "2026-08-31T12:39:01+00:00",
+          "atualizado": "2026-09-01T10:36:21+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               118
             ]
           ]
@@ -249,10 +249,10 @@
           "preco_normal": 199,
           "preco_desconto": 70,
           "preco_final": 129,
-          "atualizado": "2026-08-31T12:40:18+00:00",
+          "atualizado": "2026-09-01T10:37:57+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               129
             ]
           ]
@@ -683,6 +683,20 @@
           ]
         },
         {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
+          "preco_final": 158,
+          "atualizado": "2026-09-01T10:25:16+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              158
+            ]
+          ]
+        },
+        {
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 192,
@@ -739,20 +753,6 @@
           ]
         },
         {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-08-31T12:38:04+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 158,
@@ -781,12 +781,12 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 158,
-          "preco_desconto": 0.0,
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 192,
+          "preco_desconto": 34,
           "preco_final": 158,
-          "atualizado": "2026-09-01T10:25:16+00:00",
+          "atualizado": "2026-09-01T10:32:51+00:00",
           "history": [
             [
               "2026-09-01",
@@ -803,6 +803,20 @@
       "dimensao": "140x80",
       "preco_final": 168,
       "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-09-01T10:23:39+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              168
+            ]
+          ]
+        },
         {
           "store": "Braga (Braga)",
           "region": "Braga",
@@ -852,20 +866,6 @@
           "preco_desconto": 31,
           "preco_final": 168,
           "atualizado": "2026-09-01T10:11:09+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              168
-            ]
-          ]
-        },
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-09-01T10:23:39+00:00",
           "history": [
             [
               "2026-09-01",
@@ -923,12 +923,12 @@
           "store": "Setubal (Setubal)",
           "region": "Setubal",
           "preco_normal": 178,
-          "preco_desconto": 0,
+          "preco_desconto": 0.0,
           "preco_final": 178,
-          "atualizado": "2026-08-31T12:38:04+00:00",
+          "atualizado": "2026-09-01T10:32:51+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               178
             ]
           ]
@@ -1008,7 +1008,7 @@
       "id": "83728756",
       "name": "Base de duche 80x110 cm cinzento Stone",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x110-cm-cinzento-stone-83728756.html",
-      "dimensao": "80x110",
+      "dimensao": "110x80",
       "preco_final": 189,
       "prices": [
         {
@@ -1017,10 +1017,10 @@
           "preco_normal": 289,
           "preco_desconto": 100,
           "preco_final": 189,
-          "atualizado": "2026-08-31T12:40:18+00:00",
+          "atualizado": "2026-09-01T10:37:57+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               189
             ]
           ]
@@ -1203,43 +1203,6 @@
       ]
     },
     {
-      "id": "82002223",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 120X70CM",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-120x70cm-82002223.html",
-      "dimensao": "120x70",
-      "preco_final": 218,
-      "prices": [
-        {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 218,
-          "preco_desconto": 0,
-          "preco_final": 218,
-          "atualizado": "2026-08-31T12:39:01+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              218
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 218,
-          "preco_desconto": 0,
-          "preco_final": 218,
-          "atualizado": "2026-08-31T12:38:04+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              218
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "16872240",
       "name": "Base de duche à medida KIOTO",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-a-medida-kioto-16872240.html",
@@ -1280,29 +1243,6 @@
             [
               "2026-09-01",
               229
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82002246",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 90X90CM",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-90x90cm-82002246.html",
-      "dimensao": "90x90",
-      "preco_final": 238,
-      "prices": [
-        {
-          "store": "Mafra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 238,
-          "preco_desconto": 0,
-          "preco_final": 238,
-          "atualizado": "2026-08-31T12:38:06+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              238
             ]
           ]
         }
@@ -1464,29 +1404,6 @@
             [
               "2026-09-01",
               379
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82307257",
-      "name": "Base de duche SENSEA NEO MARMORE TRAV 160X70CM",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-marmore-trav-160x70cm-82307257.html",
-      "dimensao": "160x70",
-      "preco_final": 398,
-      "prices": [
-        {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 398,
-          "preco_desconto": 0,
-          "preco_final": 398,
-          "atualizado": "2026-08-31T12:40:18+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              398
             ]
           ]
         }
