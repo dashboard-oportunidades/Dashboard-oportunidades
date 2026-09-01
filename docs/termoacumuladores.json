@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T13:07:55+00:00",
+  "generated": "2026-09-01T13:18:05+00:00",
   "products": [
     {
       "id": "82005354",
@@ -131,29 +131,6 @@
       ]
     },
     {
-      "id": "81988416",
-      "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html",
-      "dimensao": "100L",
-      "preco_final": 228,
-      "prices": [
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 274,
-          "preco_desconto": 46,
-          "preco_final": 228,
-          "atualizado": "2026-08-31T22:09:49+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              228
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "89834463",
       "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
@@ -167,6 +144,29 @@
           "preco_desconto": 42,
           "preco_final": 228,
           "atualizado": "2026-09-01T12:32:44+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              228
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81988416",
+      "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html",
+      "dimensao": "100L",
+      "preco_final": 228,
+      "prices": [
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 274,
+          "preco_desconto": 46,
+          "preco_final": 228,
+          "atualizado": "2026-09-01T13:11:09+00:00",
           "history": [
             [
               "2026-09-01",
@@ -212,10 +212,10 @@
           "preco_normal": 449,
           "preco_desconto": 151,
           "preco_final": 298,
-          "atualizado": "2026-08-31T22:10:57+00:00",
+          "atualizado": "2026-09-01T13:12:56+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               298
             ]
           ]
@@ -321,12 +321,12 @@
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 349,
-          "preco_desconto": 0,
+          "preco_desconto": 0.0,
           "preco_final": 349,
-          "atualizado": "2026-08-31T22:09:49+00:00",
+          "atualizado": "2026-09-01T13:11:09+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               349
             ]
           ]
@@ -388,10 +388,10 @@
           "preco_normal": 469,
           "preco_desconto": 81,
           "preco_final": 388,
-          "atualizado": "2026-08-31T22:09:49+00:00",
+          "atualizado": "2026-09-01T13:11:09+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               388
             ]
           ]
