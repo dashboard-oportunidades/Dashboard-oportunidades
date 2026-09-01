@@ -117,6 +117,8 @@ select.loja{
     <button class="filtros-toggle" id="filtrosToggle">Filtros ▾</button>
     <div class="filtros-painel" id="filtrosPainel" hidden>
       <div class="filtros" id="filtrosDim"></div>
+      <div class="filtros" id="filtrosMarca"></div>
+      <div class="filtros" id="filtrosRetificado"></div>
       <div class="filtros" id="filtrosDistrito"></div>
       <div class="filtros">
         <select class="loja" id="filtroLoja"><option value="todas">Todas as lojas</option></select>
@@ -146,6 +148,8 @@ function novoEstado(){
   return {
     dados: null,
     dimensoesAtivas: new Set(),
+    marcasAtivas: new Set(),
+    retificadoAtivo: false,
     lojaAtiva: 'todas',
     distritosAtivos: new Set(),
     ordem: { campo: 'preco_final', asc: true },
@@ -222,6 +226,16 @@ function distritos(produtos){
   return [...s].sort();
 }
 
+function marcas(produtos){
+  const s = new Set();
+  produtos.forEach(p => { if (p.marca) s.add(p.marca); });
+  return [...s].sort();
+}
+
+function temRetificado(produtos){
+  return produtos.some(p => p.retificado);
+}
+
 function montarFiltros(){
   const e = estadoAtual();
   const dims = dimensoes(e.dados.products);
@@ -239,6 +253,35 @@ function montarFiltros(){
     };
     alvo.appendChild(b);
   });
+
+  const alvoMarca = el('filtrosMarca');
+  alvoMarca.innerHTML = '';
+  marcas(e.dados.products).forEach(m => {
+    const b = document.createElement('button');
+    b.textContent = m;
+    b.setAttribute('aria-pressed', e.marcasAtivas.has(m));
+    b.onclick = () => {
+      if (e.marcasAtivas.has(m)) e.marcasAtivas.delete(m);
+      else e.marcasAtivas.add(m);
+      b.setAttribute('aria-pressed', e.marcasAtivas.has(m));
+      desenhar();
+    };
+    alvoMarca.appendChild(b);
+  });
+
+  const alvoRet = el('filtrosRetificado');
+  alvoRet.innerHTML = '';
+  if (temRetificado(e.dados.products)){
+    const b = document.createElement('button');
+    b.textContent = 'Retificado';
+    b.setAttribute('aria-pressed', e.retificadoAtivo);
+    b.onclick = () => {
+      e.retificadoAtivo = !e.retificadoAtivo;
+      b.setAttribute('aria-pressed', e.retificadoAtivo);
+      desenhar();
+    };
+    alvoRet.appendChild(b);
+  }
 
   const alvoDist = el('filtrosDistrito');
   alvoDist.innerHTML = '';
@@ -264,7 +307,8 @@ function montarFiltros(){
 
 function atualizarBotaoFiltros(){
   const e = estadoAtual();
-  const ativos = e.dimensoesAtivas.size + e.distritosAtivos.size + (e.lojaAtiva !== 'todas' ? 1 : 0);
+  const ativos = e.dimensoesAtivas.size + e.marcasAtivas.size + e.distritosAtivos.size
+    + (e.retificadoAtivo ? 1 : 0) + (e.lojaAtiva !== 'todas' ? 1 : 0);
   const painel = el('filtrosPainel');
   const rotulo = ativos > 0 ? `Filtros (${ativos})` : 'Filtros';
   el('filtrosToggle').textContent = rotulo + (painel.hidden ? ' ▾' : ' ▴');
@@ -307,6 +351,8 @@ function desenhar(){
   const e = estadoAtual();
   let lista = e.dados.products
     .filter(p => e.dimensoesAtivas.size === 0 || e.dimensoesAtivas.has(dimCanonica(p.dimensao)))
+    .filter(p => e.marcasAtivas.size === 0 || e.marcasAtivas.has(p.marca))
+    .filter(p => !e.retificadoAtivo || p.retificado)
     .map(p => {
       let precos = p.prices;
       if (e.distritosAtivos.size > 0) precos = precos.filter(x => e.distritosAtivos.has(x.region));
@@ -352,12 +398,14 @@ function desenhar(){
       .map((x, i) => i === 0 ? `<b>${linhaLoja(x)}</b>` : linhaLoja(x))
       .join(' · ') + (resto > 0 ? ` · mais ${resto}` : '');
     const dimBadge = p.dimensao ? `<span class="dim">${dimCanonica(p.dimensao)}</span>` : '';
+    const marcaBadge = p.marca ? `<span class="dim">${p.marca}</span>` : '';
+    const retBadge = p.retificado ? `<span class="dim">Retificado</span>` : '';
     const melhor = p.prices[0];
     const descontoTxt = p.preco_desconto > 0 ? `-${fmt(p.preco_desconto)}` : '—';
     return `<tr>
       <td class="preco">${fmt(p.preco_final)}</td>
       <td class="desconto-col">${descontoTxt}</td>
-      <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}
+      <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}${marcaBadge}${retBadge}
         ${evolucao(melhor.history)}</td>
       <td class="lojas">${lojasTxt}</td>
       <td class="quando">${dataCurta(melhor.atualizado)}</td>

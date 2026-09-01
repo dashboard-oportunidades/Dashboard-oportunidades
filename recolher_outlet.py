@@ -92,6 +92,7 @@ BTU_K_RE = re.compile(r"(\d{1,2})\s*K\s*\.?\s*BTU", re.IGNORECASE)
 BTU_DOT_RE = re.compile(r"(\d{1,2})\.\s*BTU", re.IGNORECASE)
 BTU_BARE_RE = re.compile(r"(?<![\d.])(\d{1,2})\s*BTU", re.IGNORECASE)
 LITROS_RE = re.compile(r"(\d{2,4})\s*[lL](?:itros?)?\b")
+RETIFICADO_RE = re.compile(r"retifi", re.IGNORECASE)
 
 
 def extrair_atributo(name: str) -> str | None:
@@ -162,6 +163,8 @@ def parse_listing(html: str) -> dict[str, dict]:
 
                 name = produto.get("name", "")
                 dimensao = extrair_atributo(name)
+                marca = produto.get("brand") or None
+                retificado = bool(RETIFICADO_RE.search(name))
 
                 url = produto.get("url", "")
                 if url.startswith("/"):
@@ -171,6 +174,8 @@ def parse_listing(html: str) -> dict[str, dict]:
                     "name": name,
                     "url": url,
                     "dimensao": dimensao,
+                    "marca": marca,
+                    "retificado": retificado,
                     "preco_normal": offer.get("initial_price") or preco_final,
                     "preco_desconto": offer.get("discount_ati") or 0.0,
                     "preco_final": preco_final,
@@ -283,6 +288,8 @@ def update_store_in_state(state: dict, store_label: str, region: str, products: 
             "name": data["name"],
             "url": data["url"],
             "dimensao": data["dimensao"],
+            "marca": data.get("marca"),
+            "retificado": data.get("retificado", False),
             "preco_normal": data["preco_normal"],
             "preco_desconto": data["preco_desconto"],
             "preco_final": preco,
@@ -295,7 +302,8 @@ def export_outlet_json(state: dict, out_file: Path) -> int:
     por_produto: dict[str, dict] = {}
     for entry in state["products"].values():
         grupo = por_produto.setdefault(entry["id"], {
-            "name": entry["name"], "url": entry["url"], "dimensao": entry["dimensao"], "prices": [],
+            "name": entry["name"], "url": entry["url"], "dimensao": entry["dimensao"],
+            "marca": entry.get("marca"), "retificado": entry.get("retificado", False), "prices": [],
         })
         grupo["prices"].append({
             "store": entry["store"],
@@ -315,6 +323,8 @@ def export_outlet_json(state: dict, out_file: Path) -> int:
             "name": data["name"],
             "url": data["url"],
             "dimensao": data["dimensao"],
+            "marca": data.get("marca"),
+            "retificado": data.get("retificado", False),
             "preco_final": prices[0]["preco_final"],
             "prices": prices,
         })
