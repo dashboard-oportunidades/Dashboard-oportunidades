@@ -12,11 +12,11 @@
     "Braga (Braga)": "2026-09-01T12:34:29+00:00",
     "Braganca (Braganca)": "2026-09-01T12:36:10+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-01T12:37:51+00:00",
-    "Carcavelos (Lisboa)": "2026-08-31T22:03:58+00:00",
-    "Cascais (Lisboa)": "2026-08-31T22:04:24+00:00",
-    "Castelo Branco (Castelo Branco)": "2026-08-31T22:05:11+00:00",
-    "Chaves (Vila Real)": "2026-08-31T22:05:12+00:00",
-    "Coimbra (Coimbra)": "2026-08-31T22:05:47+00:00",
+    "Carcavelos (Lisboa)": "2026-09-01T12:41:07+00:00",
+    "Cascais (Lisboa)": "2026-09-01T12:42:43+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-01T12:44:21+00:00",
+    "Chaves (Vila Real)": "2026-09-01T12:46:00+00:00",
+    "Coimbra (Coimbra)": "2026-09-01T12:47:45+00:00",
     "Colombo (Lisboa)": "2026-08-31T22:06:14+00:00",
     "Covilha (Castelo Branco)": "2026-08-31T22:06:55+00:00",
     "Evora (Evora)": "2026-08-31T22:06:56+00:00",
@@ -66,11 +66,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-ariston-fleck-nilo-75l-15840643.html"
     },
     "75347816@Coimbra (Coimbra)": {
-      "atualizado": "2026-08-31T22:05:47+00:00",
+      "atualizado": "2026-09-01T12:47:45+00:00",
       "dimensao": "80L",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           149
         ]
       ],
@@ -246,17 +246,17 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html"
     },
     "82005350@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-08-31T22:05:11+00:00",
+      "atualizado": "2026-09-01T12:44:21+00:00",
       "dimensao": "50L",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           158
         ]
       ],
       "id": "82005350",
       "name": "Termoacumulador EQUATION Q2 50L",
-      "preco_desconto": 0,
+      "preco_desconto": 0.0,
       "preco_final": 158,
       "preco_normal": 158,
       "region": "Castelo Branco",
@@ -300,11 +300,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-100l-82005354.html"
     },
     "82246625@Chaves (Vila Real)": {
-      "atualizado": "2026-08-31T22:05:12+00:00",
+      "atualizado": "2026-09-01T12:46:00+00:00",
       "dimensao": "150L",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           328
         ]
       ],
@@ -316,24 +316,6 @@
       "region": "Vila Real",
       "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-150l-82246625.html"
-    },
-    "84434192@Chaves (Vila Real)": {
-      "atualizado": "2026-08-31T22:05:12+00:00",
-      "dimensao": "80L",
-      "history": [
-        [
-          "2026-08-31",
-          219.98
-        ]
-      ],
-      "id": "84434192",
-      "name": "Termoacumulador HTW SMART PLUS WIFI 80L",
-      "preco_desconto": 39.02,
-      "preco_final": 219.98,
-      "preco_normal": 259,
-      "region": "Vila Real",
-      "store": "Chaves (Vila Real)",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-plus-wifi-80l-84434192.html"
     },
     "84801327@Caldas da Rainha (Leiria)": {
       "atualizado": "2026-09-01T12:37:51+00:00",
@@ -370,24 +352,6 @@
       "region": "Setubal",
       "store": "Almada (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-multiposicao-flat-es80-tf7-80l-haier-87542649.html"
-    },
-    "87695267@Chaves (Vila Real)": {
-      "atualizado": "2026-08-31T22:05:12+00:00",
-      "dimensao": "80L",
-      "history": [
-        [
-          "2026-08-31",
-          239.98
-        ]
-      ],
-      "id": "87695267",
-      "name": "Termoacumulador 80L HTW Koi",
-      "preco_desconto": 39.02,
-      "preco_final": 239.98,
-      "preco_normal": 279,
-      "region": "Vila Real",
-      "store": "Chaves (Vila Real)",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-80l-htw-koi-87695267.html"
     },
     "89834463@Barreiro (Setubal)": {
       "atualizado": "2026-09-01T12:32:44+00:00",
