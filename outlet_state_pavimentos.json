@@ -1,0 +1,414 @@
+{
+  "lojas": {
+    "Alfragide (Lisboa)": "2026-09-01T22:05:38+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-09-01T22:04:11+00:00",
+    "Amadora (Lisboa)": "2026-09-01T22:11:02+00:00",
+    "Colombo (Lisboa)": "2026-09-01T22:04:54+00:00",
+    "Loures (Lisboa)": "2026-09-01T22:07:53+00:00",
+    "Oeiras (Lisboa)": "2026-09-01T22:07:05+00:00",
+    "Sacavem (Lisboa)": "2026-09-01T22:06:19+00:00",
+    "Telheiras (Lisboa)": "2026-09-01T22:09:13+00:00"
+  },
+  "products": {
+    "17606400@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-01T22:04:11+00:00",
+      "dimensao": "33x33",
+      "history": [
+        [
+          "2026-09-01",
+          13.98
+        ]
+      ],
+      "id": "17606400",
+      "marca": "GRESART",
+      "name": "Pavimento cerâmico Matrix Estanho 33x33 cm Antiderrapante",
+      "preco_desconto": 7.86,
+      "preco_final": 13.98,
+      "preco_normal": 21.84,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-estanho-33x33-cm-antiderrapante-17606400.html"
+    },
+    "17816680@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-01T22:04:11+00:00",
+      "dimensao": "45x45",
+      "history": [
+        [
+          "2026-09-01",
+          17.98
+        ]
+      ],
+      "id": "17816680",
+      "marca": "GEOTILES",
+      "name": "Pavimento cerâmico Boulevard Negro 45x45 cm",
+      "preco_desconto": 10.41,
+      "preco_final": 17.98,
+      "preco_normal": 28.39,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-boulevard-negro-45x45-cm-17816680.html"
+    },
+    "17985072@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-01T22:05:38+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          21.98
+        ]
+      ],
+      "id": "17985072",
+      "marca": "ARTENS",
+      "name": "Pavimento cerâmico Artens Tribeca branco 20.2x66.2 cm",
+      "preco_desconto": 2.37,
+      "preco_final": 21.98,
+      "preco_normal": 24.35,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-tribeca-branco-20-2x66-2-cm-17985072.html"
+    },
+    "81970162@Colombo (Lisboa)": {
+      "atualizado": "2026-09-01T22:04:54+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          19.98
+        ]
+      ],
+      "id": "81970162",
+      "marca": "ARTENS",
+      "name": "Pavimento cerâmico Artens Windsor Grey 60x60 cm",
+      "preco_desconto": 4.85,
+      "preco_final": 19.98,
+      "preco_normal": 24.83,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Colombo (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-windsor-grey-60x60-cm-81970162.html"
+    },
+    "81970168@Amadora (Lisboa)": {
+      "atualizado": "2026-09-01T22:11:02+00:00",
+      "dimensao": "60x30",
+      "history": [
+        [
+          "2026-09-01",
+          15.98
+        ]
+      ],
+      "id": "81970168",
+      "marca": "ARTENS",
+      "name": "Revestimento cerâmico Artens Windsor 3D Grey 30x60 cm",
+      "preco_desconto": 9.59,
+      "preco_final": 15.98,
+      "preco_normal": 25.57,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-windsor-3d-grey-30x60-cm-81970168.html"
+    },
+    "82220345@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-01T22:04:11+00:00",
+      "dimensao": "91x34",
+      "history": [
+        [
+          "2026-09-01",
+          23.98
+        ]
+      ],
+      "id": "82220345",
+      "marca": "DOMINO",
+      "name": "Revestimento cerâmico branco 34x91,5 cm Pura",
+      "preco_desconto": 5.77,
+      "preco_final": 23.98,
+      "preco_normal": 29.75,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-branco-34x91-5-cm-pura-82220345.html"
+    },
+    "82478675@Amadora (Lisboa)": {
+      "atualizado": "2026-09-01T22:11:02+00:00",
+      "dimensao": "90x30",
+      "history": [
+        [
+          "2026-09-01",
+          18.98
+        ]
+      ],
+      "id": "82478675",
+      "marca": "ARTENS",
+      "name": "Revestimento cerâmico Artens Serena branco 30x90 cm",
+      "preco_desconto": 0.0,
+      "preco_final": 18.98,
+      "preco_normal": 18.98,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-serena-branco-30x90-cm-82478675.html"
+    },
+    "82996845@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-01T22:05:38+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          31.98
+        ]
+      ],
+      "id": "82996845",
+      "marca": "GEOTILES",
+      "name": "Pavimento cerâmico Crash bege 60x60 cm",
+      "preco_desconto": 8.33,
+      "preco_final": 31.98,
+      "preco_normal": 40.31,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-crash-bege-60x60-cm-82996845.html"
+    },
+    "83304960@Oeiras (Lisboa)": {
+      "atualizado": "2026-09-01T22:07:05+00:00",
+      "dimensao": "75x20",
+      "history": [
+        [
+          "2026-09-01",
+          15.98
+        ]
+      ],
+      "id": "83304960",
+      "marca": "ECOCERAMIC",
+      "name": "Pavimento cerâmico Bestley Gris 20x75 cm Antiderrapante",
+      "preco_desconto": 9.21,
+      "preco_final": 15.98,
+      "preco_normal": 25.19,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bestley-gris-20x75-cm-antiderrapante-83304960.html"
+    },
+    "84241288@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-01T22:05:38+00:00",
+      "dimensao": "120x25",
+      "history": [
+        [
+          "2026-09-01",
+          25.98
+        ]
+      ],
+      "id": "84241288",
+      "marca": "GRESART",
+      "name": "Pavimento cerâmico Nordika escuro 25x120 cm retificado",
+      "preco_desconto": 16.61,
+      "preco_final": 25.98,
+      "preco_normal": 42.59,
+      "region": "Lisboa",
+      "retificado": true,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-nordika-escuro-25x120-cm-retificado-84241288.html"
+    },
+    "84736862@Colombo (Lisboa)": {
+      "atualizado": "2026-09-01T22:04:54+00:00",
+      "dimensao": "120x60",
+      "history": [
+        [
+          "2026-09-01",
+          17.98
+        ]
+      ],
+      "id": "84736862",
+      "marca": "ARTENS",
+      "name": "Pavimento cerâmico branco 60x120 cm Artens Storm",
+      "preco_desconto": 5.71,
+      "preco_final": 17.98,
+      "preco_normal": 23.69,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Colombo (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-branco-60x120-cm-artens-storm-84736862.html"
+    },
+    "85105569@Amadora (Lisboa)": {
+      "atualizado": "2026-09-01T22:11:02+00:00",
+      "dimensao": "60x10",
+      "history": [
+        [
+          "2026-09-01",
+          2.98
+        ]
+      ],
+      "id": "85105569",
+      "marca": "REVIGRES",
+      "name": "Revestimento cerâmico REVIGRES LIMESTONE ANTIQUE SAND 10X60CM",
+      "preco_desconto": 3.01,
+      "preco_final": 2.98,
+      "preco_normal": 5.99,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-revigres-limestone-antique-sand-10x60cm-85105569.html"
+    },
+    "85105820@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-01T22:04:11+00:00",
+      "dimensao": "43x36",
+      "history": [
+        [
+          "2026-09-01",
+          3.98
+        ]
+      ],
+      "id": "85105820",
+      "marca": "REVIGRES",
+      "name": "Revestimento cerâmico Grid Honey 36x43 cm",
+      "preco_desconto": 0.87,
+      "preco_final": 3.98,
+      "preco_normal": 4.85,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-honey-36x43-cm-85105820.html"
+    },
+    "86757696@Amadora (Lisboa)": {
+      "atualizado": "2026-09-01T22:11:02+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          17.98
+        ]
+      ],
+      "id": "86757696",
+      "marca": "ALELUIA",
+      "name": "Pavimento cerâmico Muse Coal Satin 60x60 cm",
+      "preco_desconto": 11.17,
+      "preco_final": 17.98,
+      "preco_normal": 29.15,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-muse-coal-satin-60x60-cm-86757696.html"
+    },
+    "87683787@Amadora (Lisboa)": {
+      "atualizado": "2026-09-01T22:11:02+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          18.98
+        ]
+      ],
+      "id": "87683787",
+      "marca": "ARTENS",
+      "name": "Pavimento cerâmico Artens Shala light grey 60x60cm",
+      "preco_desconto": 11.05,
+      "preco_final": 18.98,
+      "preco_normal": 30.03,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-shala-light-grey-60x60cm-87683787.html"
+    },
+    "89168665@Oeiras (Lisboa)": {
+      "atualizado": "2026-09-01T22:07:05+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          13.98
+        ]
+      ],
+      "id": "89168665",
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Urban Prata 60x60 cm",
+      "preco_desconto": 9.12,
+      "preco_final": 13.98,
+      "preco_normal": 23.1,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-60x60-cm-89168665.html"
+    },
+    "89168666@Oeiras (Lisboa)": {
+      "atualizado": "2026-09-01T22:07:05+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          14.98
+        ]
+      ],
+      "id": "89168666",
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Urban Prata 60x60 cm Antiderrapante",
+      "preco_desconto": 9.2,
+      "preco_final": 14.98,
+      "preco_normal": 24.18,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-60x60-cm-antiderrapante-89168666.html"
+    },
+    "89168667@Amadora (Lisboa)": {
+      "atualizado": "2026-09-01T22:11:02+00:00",
+      "dimensao": "60x30",
+      "history": [
+        [
+          "2026-09-01",
+          14.98
+        ]
+      ],
+      "id": "89168667",
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Urban Prata 30x60 cm",
+      "preco_desconto": 9.2,
+      "preco_final": 14.98,
+      "preco_normal": 24.18,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-30x60-cm-89168667.html"
+    },
+    "89168671@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-01T22:04:11+00:00",
+      "dimensao": "60x30",
+      "history": [
+        [
+          "2026-09-01",
+          14.98
+        ]
+      ],
+      "id": "89168671",
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Urban Perla 30x60 cm",
+      "preco_desconto": 9.2,
+      "preco_final": 14.98,
+      "preco_normal": 24.18,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-perla-30x60-cm-89168671.html"
+    },
+    "93927947@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-01T22:04:11+00:00",
+      "dimensao": "75x15",
+      "history": [
+        [
+          "2026-09-01",
+          18.98
+        ]
+      ],
+      "id": "93927947",
+      "marca": "GRESART",
+      "name": "Pavimento cerâmico Deck bege mate 15x75 cm Gresart",
+      "preco_desconto": 2.47,
+      "preco_final": 18.98,
+      "preco_normal": 21.45,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-deck-bege-mate-15x75-cm-gresart-93927947.html"
+    }
+  }
+}
