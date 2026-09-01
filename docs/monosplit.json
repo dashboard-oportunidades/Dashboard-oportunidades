@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T10:57:54+00:00",
+  "generated": "2026-09-01T11:07:47+00:00",
   "products": [
     {
       "id": "89876291",
@@ -94,29 +94,6 @@
       ]
     },
     {
-      "id": "82198934",
-      "name": "Ar condicionado fixo (1X1) HTW IX39B R32 9000BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39b-r32-9000btu-82198934.html",
-      "dimensao": "9000 BTU",
-      "preco_final": 298,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 359,
-          "preco_desconto": 61,
-          "preco_final": 298,
-          "atualizado": "2026-08-31T22:42:06+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              298
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86918508",
       "name": "Ar condicionado fixo (1X1) HTW IX39B4 9000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39b4-9000-btu-86918508.html",
@@ -147,6 +124,29 @@
           "history": [
             [
               "2026-08-31",
+              298
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82198934",
+      "name": "Ar condicionado fixo (1X1) HTW IX39B R32 9000BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39b-r32-9000btu-82198934.html",
+      "dimensao": "9000 BTU",
+      "preco_final": 298,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 359,
+          "preco_desconto": 61,
+          "preco_final": 298,
+          "atualizado": "2026-09-01T11:07:46+00:00",
+          "history": [
+            [
+              "2026-09-01",
               298
             ]
           ]
@@ -189,10 +189,24 @@
           "preco_normal": 326.62,
           "preco_desconto": 18.62,
           "preco_final": 308,
-          "atualizado": "2026-08-31T22:41:25+00:00",
+          "atualizado": "2026-09-01T11:04:21+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
+              308
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 379,
+          "preco_desconto": 71,
+          "preco_final": 308,
+          "atualizado": "2026-09-01T11:06:02+00:00",
+          "history": [
+            [
+              "2026-09-01",
               308
             ]
           ]
@@ -217,6 +231,20 @@
             [
               "2026-08-31",
               328
+            ]
+          ]
+        },
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 468,
+          "preco_desconto": 0.0,
+          "preco_final": 468,
+          "atualizado": "2026-09-01T10:51:08+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              468
             ]
           ]
         },
@@ -272,20 +300,6 @@
           "history": [
             [
               "2026-08-31",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 468,
-          "preco_desconto": 0.0,
-          "preco_final": 468,
-          "atualizado": "2026-09-01T10:51:08+00:00",
-          "history": [
-            [
-              "2026-09-01",
               468
             ]
           ]
@@ -405,6 +419,48 @@
       "dimensao": "9000 BTU",
       "preco_final": 378,
       "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-09-01T10:51:08+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-09-01T10:52:50+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 429,
+          "preco_desconto": 51,
+          "preco_final": 378,
+          "atualizado": "2026-09-01T10:57:54+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              378
+            ]
+          ]
+        },
         {
           "store": "Coimbra (Coimbra)",
           "region": "Coimbra",
@@ -532,40 +588,12 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 459,
-          "preco_desconto": 81,
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 378,
+          "preco_desconto": 0.0,
           "preco_final": 378,
-          "atualizado": "2026-09-01T10:51:08+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              378
-            ]
-          ]
-        },
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-09-01T10:52:50+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              378
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 429,
-          "preco_desconto": 51,
-          "preco_final": 378,
-          "atualizado": "2026-09-01T10:57:54+00:00",
+          "atualizado": "2026-09-01T11:01:06+00:00",
           "history": [
             [
               "2026-09-01",
@@ -613,29 +641,6 @@
       ]
     },
     {
-      "id": "82063484",
-      "name": "Ar condicionado fixo (1X1) EQUATION 12000BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000btu-82063484.html",
-      "dimensao": "12000 BTU",
-      "preco_final": 408,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 499,
-          "preco_desconto": 91,
-          "preco_final": 408,
-          "atualizado": "2026-08-31T22:42:06+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              408
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82204387",
       "name": "Ar condicionado fixo (1X1) FUJITSU ASY25UI-KP R32 9000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-fujitsu-asy25ui-kp-r32-9000btu-82204387.html",
@@ -659,29 +664,6 @@
       ]
     },
     {
-      "id": "82367425",
-      "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html",
-      "dimensao": "12000 BTU",
-      "preco_final": 408,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 408,
-          "preco_desconto": 0,
-          "preco_final": 408,
-          "atualizado": "2026-08-31T22:42:06+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              408
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "83791822",
       "name": "Ar condicionado fixo (1x1) HAIER TIDE 12000BTU WIFI BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-tide-12000btu-wifi-branco-83791822.html",
@@ -695,6 +677,52 @@
           "preco_desconto": 0.0,
           "preco_final": 408,
           "atualizado": "2026-09-01T10:51:08+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              408
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82367425",
+      "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html",
+      "dimensao": "12000 BTU",
+      "preco_final": 408,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-01T11:07:46+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              408
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82063484",
+      "name": "Ar condicionado fixo (1X1) EQUATION 12000BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000btu-82063484.html",
+      "dimensao": "12000 BTU",
+      "preco_final": 408,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 499,
+          "preco_desconto": 91,
+          "preco_final": 408,
+          "atualizado": "2026-09-01T11:07:46+00:00",
           "history": [
             [
               "2026-09-01",
@@ -795,29 +823,57 @@
       "preco_final": 488,
       "prices": [
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 538,
-          "preco_desconto": 50,
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-08-31T22:40:51+00:00",
+          "atualizado": "2026-09-01T10:51:08+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               488
             ]
           ]
         },
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-08-31T22:42:06+00:00",
+          "atualizado": "2026-09-01T10:54:34+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-09-01T10:56:13+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-09-01T10:57:54+00:00",
+          "history": [
+            [
+              "2026-09-01",
               488
             ]
           ]
@@ -1089,40 +1145,12 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
-          "preco_final": 488,
-          "atualizado": "2026-09-01T10:51:08+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
-          "preco_final": 488,
-          "atualizado": "2026-09-01T10:54:34+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 538,
           "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-09-01T10:56:13+00:00",
+          "atualizado": "2026-09-01T11:01:06+00:00",
           "history": [
             [
               "2026-09-01",
@@ -1131,12 +1159,12 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 538,
-          "preco_desconto": 50,
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 599,
+          "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-01T10:57:54+00:00",
+          "atualizado": "2026-09-01T11:07:46+00:00",
           "history": [
             [
               "2026-09-01",
@@ -1247,6 +1275,20 @@
           ]
         },
         {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-09-01T10:52:50+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              628
+            ]
+          ]
+        },
+        {
           "store": "Caldas da Rainha (Leiria)",
           "region": "Leiria",
           "preco_normal": 628,
@@ -1343,20 +1385,6 @@
               628
             ]
           ]
-        },
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-01T10:52:50+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              628
-            ]
-          ]
         }
       ]
     },
@@ -1405,15 +1433,15 @@
       "preco_final": 528,
       "prices": [
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 649,
           "preco_desconto": 121,
           "preco_final": 528,
-          "atualizado": "2026-08-31T22:42:06+00:00",
+          "atualizado": "2026-09-01T10:54:34+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               528
             ]
           ]
@@ -1475,12 +1503,12 @@
           ]
         },
         {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
           "preco_normal": 649,
           "preco_desconto": 121,
           "preco_final": 528,
-          "atualizado": "2026-09-01T10:54:34+00:00",
+          "atualizado": "2026-09-01T11:07:46+00:00",
           "history": [
             [
               "2026-09-01",
@@ -1526,6 +1554,20 @@
       "preco_final": 568,
       "prices": [
         {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 568,
+          "preco_desconto": 0.0,
+          "preco_final": 568,
+          "atualizado": "2026-09-01T10:57:54+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              568
+            ]
+          ]
+        },
+        {
           "store": "Matosinhos (Porto)",
           "region": "Porto",
           "preco_normal": 568,
@@ -1549,20 +1591,6 @@
           "history": [
             [
               "2026-08-31",
-              568
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 568,
-          "preco_desconto": 0.0,
-          "preco_final": 568,
-          "atualizado": "2026-09-01T10:57:54+00:00",
-          "history": [
-            [
-              "2026-09-01",
               568
             ]
           ]
@@ -1600,6 +1628,20 @@
       "preco_final": 588,
       "prices": [
         {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 719,
+          "preco_desconto": 131,
+          "preco_final": 588,
+          "atualizado": "2026-09-01T10:54:34+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              588
+            ]
+          ]
+        },
+        {
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 719,
@@ -1623,20 +1665,6 @@
           "history": [
             [
               "2026-08-31",
-              588
-            ]
-          ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 719,
-          "preco_desconto": 131,
-          "preco_final": 588,
-          "atualizado": "2026-09-01T10:54:34+00:00",
-          "history": [
-            [
-              "2026-09-01",
               588
             ]
           ]
@@ -1697,20 +1725,6 @@
       "preco_final": 658,
       "prices": [
         {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 658,
-          "preco_desconto": 0,
-          "preco_final": 658,
-          "atualizado": "2026-08-31T22:43:19+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              658
-            ]
-          ]
-        },
-        {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 658,
@@ -1720,6 +1734,20 @@
           "history": [
             [
               "2026-09-01",
+              658
+            ]
+          ]
+        },
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 658,
+          "preco_desconto": 0,
+          "preco_final": 658,
+          "atualizado": "2026-08-31T22:43:19+00:00",
+          "history": [
+            [
+              "2026-08-31",
               658
             ]
           ]
@@ -1799,24 +1827,52 @@
           "preco_normal": 1299,
           "preco_desconto": 401,
           "preco_final": 898,
-          "atualizado": "2026-08-31T22:40:51+00:00",
+          "atualizado": "2026-09-01T11:01:06+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               898
             ]
           ]
         },
         {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 1299,
           "preco_desconto": 251,
           "preco_final": 1048,
-          "atualizado": "2026-08-31T22:40:52+00:00",
+          "atualizado": "2026-09-01T10:51:08+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1048,
+          "preco_desconto": 0.0,
+          "preco_final": 1048,
+          "atualizado": "2026-09-01T10:54:34+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-09-01T10:57:54+00:00",
+          "history": [
+            [
+              "2026-09-01",
               1048
             ]
           ]
@@ -1906,40 +1962,12 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
           "preco_normal": 1299,
           "preco_desconto": 251,
           "preco_final": 1048,
-          "atualizado": "2026-09-01T10:51:08+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1048,
-          "preco_desconto": 0.0,
-          "preco_final": 1048,
-          "atualizado": "2026-09-01T10:54:34+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-09-01T10:57:54+00:00",
+          "atualizado": "2026-09-01T11:02:41+00:00",
           "history": [
             [
               "2026-09-01",
@@ -1987,35 +2015,26 @@
       ]
     },
     {
-      "id": "84229566",
-      "name": "Ar condicionado fixo (1X1) Aire+ TD-WIFI R32 24000 BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-aire-td-wifi-r32-24000-btu-84229566.html",
-      "dimensao": "24000 BTU",
-      "preco_final": 878,
-      "prices": [
-        {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 878,
-          "preco_desconto": 0,
-          "preco_final": 878,
-          "atualizado": "2026-08-31T22:40:52+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              878
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82558730",
       "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK15Z6L-W 15000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk15z6l-w-15000btu-82558730.html",
       "dimensao": "15000 BTU",
       "preco_final": 888,
       "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1099,
+          "preco_desconto": 211,
+          "preco_final": 888,
+          "atualizado": "2026-09-01T10:57:54+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              888
+            ]
+          ]
+        },
         {
           "store": "Gaia (Porto)",
           "region": "Porto",
@@ -2040,20 +2059,6 @@
           "history": [
             [
               "2026-08-31",
-              888
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1099,
-          "preco_desconto": 211,
-          "preco_final": 888,
-          "atualizado": "2026-09-01T10:57:54+00:00",
-          "history": [
-            [
-              "2026-09-01",
               888
             ]
           ]
@@ -2082,29 +2087,57 @@
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-08-31T22:40:51+00:00",
+          "atualizado": "2026-09-01T10:51:08+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               1168
             ]
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-08-31T22:41:26+00:00",
+          "atualizado": "2026-09-01T10:52:50+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
+              1168
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1168,
+          "preco_desconto": 0.0,
+          "preco_final": 1168,
+          "atualizado": "2026-09-01T10:54:34+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              1168
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-09-01T10:57:54+00:00",
+          "history": [
+            [
+              "2026-09-01",
               1168
             ]
           ]
@@ -2180,12 +2213,12 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-09-01T10:51:08+00:00",
+          "atualizado": "2026-09-01T11:01:06+00:00",
           "history": [
             [
               "2026-09-01",
@@ -2194,40 +2227,12 @@
           ]
         },
         {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-09-01T10:52:50+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              1168
-            ]
-          ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1168,
-          "preco_desconto": 0.0,
-          "preco_final": 1168,
-          "atualizado": "2026-09-01T10:54:34+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              1168
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1449,
-          "preco_desconto": 281,
-          "preco_final": 1168,
-          "atualizado": "2026-09-01T10:57:54+00:00",
+          "atualizado": "2026-09-01T11:06:02+00:00",
           "history": [
             [
               "2026-09-01",
@@ -2425,6 +2430,20 @@
       "preco_final": 1078,
       "prices": [
         {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1078,
+          "preco_desconto": 0.0,
+          "preco_final": 1078,
+          "atualizado": "2026-09-01T10:51:08+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              1078
+            ]
+          ]
+        },
+        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1334,
@@ -2448,20 +2467,6 @@
           "history": [
             [
               "2026-08-31",
-              1078
-            ]
-          ]
-        },
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1078,
-          "preco_desconto": 0.0,
-          "preco_final": 1078,
-          "atualizado": "2026-09-01T10:51:08+00:00",
-          "history": [
-            [
-              "2026-09-01",
               1078
             ]
           ]
