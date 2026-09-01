@@ -11,11 +11,11 @@
     "Barreiro (Setubal)": "2026-09-01T11:04:21+00:00",
     "Braga (Braga)": "2026-09-01T11:06:02+00:00",
     "Braganca (Braganca)": "2026-09-01T11:07:46+00:00",
-    "Caldas da Rainha (Leiria)": "2026-08-31T22:42:07+00:00",
-    "Carcavelos (Lisboa)": "2026-08-31T22:42:36+00:00",
-    "Cascais (Lisboa)": "2026-08-31T22:42:37+00:00",
-    "Castelo Branco (Castelo Branco)": "2026-08-31T22:43:19+00:00",
-    "Chaves (Vila Real)": "2026-08-31T22:43:20+00:00",
+    "Caldas da Rainha (Leiria)": "2026-09-01T11:11:08+00:00",
+    "Carcavelos (Lisboa)": "2026-09-01T11:12:52+00:00",
+    "Cascais (Lisboa)": "2026-09-01T11:14:33+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-01T11:16:11+00:00",
+    "Chaves (Vila Real)": "2026-09-01T11:17:56+00:00",
     "Coimbra (Coimbra)": "2026-08-31T22:43:21+00:00",
     "Colombo (Lisboa)": "2026-08-31T22:44:03+00:00",
     "Covilha (Castelo Branco)": "2026-08-31T22:44:04+00:00",
@@ -372,11 +372,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-08-31T22:42:07+00:00",
+      "atualizado": "2026-09-01T11:11:08+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           488
         ]
       ],
@@ -390,11 +390,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Carcavelos (Lisboa)": {
-      "atualizado": "2026-08-31T22:42:36+00:00",
+      "atualizado": "2026-09-01T11:12:52+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           488
         ]
       ],
@@ -408,11 +408,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Cascais (Lisboa)": {
-      "atualizado": "2026-08-31T22:42:37+00:00",
+      "atualizado": "2026-09-01T11:14:33+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           488
         ]
       ],
@@ -426,11 +426,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Chaves (Vila Real)": {
-      "atualizado": "2026-08-31T22:43:20+00:00",
+      "atualizado": "2026-09-01T11:17:56+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           488
         ]
       ],
@@ -786,11 +786,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
     },
     "82558726@Cascais (Lisboa)": {
-      "atualizado": "2026-08-31T22:42:37+00:00",
+      "atualizado": "2026-09-01T11:14:33+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           528
         ]
       ],
@@ -1020,17 +1020,17 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791801@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-08-31T22:42:07+00:00",
+      "atualizado": "2026-09-01T11:11:08+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           628
         ]
       ],
       "id": "83791801",
       "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
-      "preco_desconto": 0,
+      "preco_desconto": 0.0,
       "preco_final": 628,
       "preco_normal": 628,
       "region": "Leiria",
@@ -1218,17 +1218,17 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-12000btu-wifi-branco-83791802.html"
     },
     "83791802@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-08-31T22:43:19+00:00",
+      "atualizado": "2026-09-01T11:16:11+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           658
         ]
       ],
       "id": "83791802",
       "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 12000BTU WIFI BRANCO",
-      "preco_desconto": 0,
+      "preco_desconto": 0.0,
       "preco_final": 658,
       "preco_normal": 658,
       "region": "Castelo Branco",
@@ -1362,11 +1362,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
     },
     "84567638@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-08-31T22:42:07+00:00",
+      "atualizado": "2026-09-01T11:11:08+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           468
         ]
       ],
@@ -1452,11 +1452,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
     },
     "84567639@Chaves (Vila Real)": {
-      "atualizado": "2026-08-31T22:43:20+00:00",
+      "atualizado": "2026-09-01T11:17:56+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           518
         ]
       ],
@@ -1488,17 +1488,17 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-12000btu-r32-84567639.html"
     },
     "85280679@Chaves (Vila Real)": {
-      "atualizado": "2026-08-31T22:43:20+00:00",
+      "atualizado": "2026-09-01T11:17:56+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-08-31",
+          "2026-09-01",
           368
         ]
       ],
       "id": "85280679",
       "name": "Ar condicionado fixo (1X1)  EQUATION ENKI WIFI 9000 BTU",
-      "preco_desconto": 0,
+      "preco_desconto": 0.0,
       "preco_final": 368,
       "preco_normal": 368,
       "region": "Vila Real",
