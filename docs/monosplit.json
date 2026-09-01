@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T11:37:57+00:00",
+  "generated": "2026-09-01T11:47:50+00:00",
   "products": [
     {
       "id": "89876291",
@@ -83,10 +83,10 @@
           "preco_normal": 299,
           "preco_desconto": 30,
           "preco_final": 269,
-          "atualizado": "2026-08-31T22:48:09+00:00",
+          "atualizado": "2026-09-01T11:42:46+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               269
             ]
           ]
@@ -124,20 +124,6 @@
       "preco_final": 298,
       "prices": [
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 298,
-          "preco_desconto": 0,
-          "preco_final": 298,
-          "atualizado": "2026-08-31T22:48:08+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              298
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 359,
@@ -147,6 +133,20 @@
           "history": [
             [
               "2026-08-31",
+              298
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 298,
+          "preco_desconto": 0.0,
+          "preco_final": 298,
+          "atualizado": "2026-09-01T11:41:07+00:00",
+          "history": [
+            [
+              "2026-09-01",
               298
             ]
           ]
@@ -166,10 +166,10 @@
           "preco_normal": 359,
           "preco_desconto": 60,
           "preco_final": 299,
-          "atualizado": "2026-08-31T22:48:09+00:00",
+          "atualizado": "2026-09-01T11:42:46+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               299
             ]
           ]
@@ -221,20 +221,6 @@
       "preco_final": 328,
       "prices": [
         {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 569,
-          "preco_desconto": 241,
-          "preco_final": 328,
-          "atualizado": "2026-08-31T22:50:38+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              328
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 569,
@@ -244,6 +230,20 @@
           "history": [
             [
               "2026-09-01",
+              328
+            ]
+          ]
+        },
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 569,
+          "preco_desconto": 241,
+          "preco_final": 328,
+          "atualizado": "2026-08-31T22:50:38+00:00",
+          "history": [
+            [
+              "2026-08-31",
               328
             ]
           ]
@@ -277,20 +277,6 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 468,
-          "preco_desconto": 0,
-          "preco_final": 468,
-          "atualizado": "2026-08-31T22:51:32+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              468
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 569,
@@ -317,6 +303,20 @@
               468
             ]
           ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 468,
+          "preco_desconto": 0,
+          "preco_final": 468,
+          "atualizado": "2026-08-31T22:51:32+00:00",
+          "history": [
+            [
+              "2026-08-31",
+              468
+            ]
+          ]
         }
       ]
     },
@@ -333,10 +333,10 @@
           "preco_normal": 379,
           "preco_desconto": 40,
           "preco_final": 339,
-          "atualizado": "2026-08-31T22:48:09+00:00",
+          "atualizado": "2026-09-01T11:42:46+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               339
             ]
           ]
@@ -518,43 +518,15 @@
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-08-31T22:48:09+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              378
-            ]
-          ]
-        },
-        {
-          "store": "Maia (Porto)",
+          "store": "Gondomar (Porto)",
           "region": "Porto",
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-08-31T22:48:11+00:00",
+          "atualizado": "2026-09-01T11:32:44+00:00",
           "history": [
             [
-              "2026-08-31",
-              378
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-08-31T22:48:12+00:00",
-          "history": [
-            [
-              "2026-08-31",
+              "2026-09-01",
               378
             ]
           ]
@@ -616,12 +588,40 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-09-01T11:42:46+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
           "region": "Porto",
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-09-01T11:32:44+00:00",
+          "atualizado": "2026-09-01T11:46:11+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-09-01T11:47:50+00:00",
           "history": [
             [
               "2026-09-01",
@@ -747,29 +747,6 @@
       ]
     },
     {
-      "id": "83791819",
-      "name": "Ar condicionado fixo (1x1) HAIER PERLA 9000BTU WIFI BRANCO",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-perla-9000btu-wifi-branco-83791819.html",
-      "dimensao": "9000 BTU",
-      "preco_final": 418,
-      "prices": [
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 418,
-          "preco_desconto": 0,
-          "preco_final": 418,
-          "atualizado": "2026-08-31T22:48:09+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              418
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86733851",
       "name": "Ar condicionado fixo (1x1) HISENSE KC35YR03 WIFI 12000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-kc35yr03-wifi-12000-btu-86733851.html",
@@ -800,6 +777,29 @@
           "history": [
             [
               "2026-08-31",
+              418
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83791819",
+      "name": "Ar condicionado fixo (1x1) HAIER PERLA 9000BTU WIFI BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-perla-9000btu-wifi-branco-83791819.html",
+      "dimensao": "9000 BTU",
+      "preco_final": 418,
+      "prices": [
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 418,
+          "preco_desconto": 0.0,
+          "preco_final": 418,
+          "atualizado": "2026-09-01T11:42:46+00:00",
+          "history": [
+            [
+              "2026-09-01",
               418
             ]
           ]
@@ -1019,29 +1019,29 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 599,
-          "preco_desconto": 111,
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 538,
+          "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-08-31T22:48:08+00:00",
+          "atualizado": "2026-09-01T11:31:06+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               488
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 538,
+          "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-08-31T22:48:09+00:00",
+          "atualizado": "2026-09-01T11:34:25+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               488
             ]
           ]
@@ -1159,12 +1159,12 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 538,
-          "preco_desconto": 50,
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 599,
+          "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-01T11:31:06+00:00",
+          "atualizado": "2026-09-01T11:41:07+00:00",
           "history": [
             [
               "2026-09-01",
@@ -1173,12 +1173,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 538,
-          "preco_desconto": 50,
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-01T11:34:25+00:00",
+          "atualizado": "2026-09-01T11:42:46+00:00",
           "history": [
             [
               "2026-09-01",
@@ -1261,20 +1261,6 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 628,
-          "preco_desconto": 130,
-          "preco_final": 498,
-          "atualizado": "2026-08-31T22:48:13+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              498
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 628,
@@ -1284,6 +1270,20 @@
           "history": [
             [
               "2026-09-01",
+              498
+            ]
+          ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 628,
+          "preco_desconto": 130,
+          "preco_final": 498,
+          "atualizado": "2026-08-31T22:48:13+00:00",
+          "history": [
+            [
+              "2026-08-31",
               498
             ]
           ]
@@ -1323,6 +1323,20 @@
           "preco_desconto": 0.0,
           "preco_final": 628,
           "atualizado": "2026-09-01T11:21:07+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-09-01T11:32:44+00:00",
           "history": [
             [
               "2026-09-01",
@@ -1382,20 +1396,6 @@
           "history": [
             [
               "2026-08-31",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-01T11:32:44+00:00",
-          "history": [
-            [
-              "2026-09-01",
               628
             ]
           ]
@@ -1582,20 +1582,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 568,
-          "preco_desconto": 0,
-          "preco_final": 568,
-          "atualizado": "2026-08-31T22:48:12+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              568
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 568,
@@ -1605,6 +1591,20 @@
           "history": [
             [
               "2026-08-31",
+              568
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 568,
+          "preco_desconto": 0.0,
+          "preco_final": 568,
+          "atualizado": "2026-09-01T11:47:50+00:00",
+          "history": [
+            [
+              "2026-09-01",
               568
             ]
           ]
@@ -1656,20 +1656,6 @@
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 719,
-          "preco_desconto": 131,
-          "preco_final": 588,
-          "atualizado": "2026-08-31T22:48:09+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              588
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 588,
@@ -1679,6 +1665,20 @@
           "history": [
             [
               "2026-08-31",
+              588
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 719,
+          "preco_desconto": 131,
+          "preco_final": 588,
+          "atualizado": "2026-09-01T11:42:46+00:00",
+          "history": [
+            [
+              "2026-09-01",
               588
             ]
           ]
@@ -1920,48 +1920,6 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-08-31T22:48:08+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-08-31T22:48:11+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-08-31T22:48:12+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              1048
-            ]
-          ]
-        },
-        {
           "store": "Penafiel (Porto)",
           "region": "Porto",
           "preco_normal": 1299,
@@ -1985,6 +1943,48 @@
           "history": [
             [
               "2026-08-31",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-09-01T11:41:07+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-09-01T11:46:11+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-09-01T11:47:50+00:00",
+          "history": [
+            [
+              "2026-09-01",
               1048
             ]
           ]
@@ -2050,26 +2050,26 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1099,
-          "preco_desconto": 211,
-          "preco_final": 888,
-          "atualizado": "2026-08-31T22:48:12+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              888
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 1099,
           "preco_desconto": 211,
           "preco_final": 888,
           "atualizado": "2026-09-01T11:31:06+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              888
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 1099,
+          "preco_desconto": 211,
+          "preco_final": 888,
+          "atualizado": "2026-09-01T11:47:50+00:00",
           "history": [
             [
               "2026-09-01",
@@ -2199,29 +2199,15 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-08-31T22:48:08+00:00",
+          "atualizado": "2026-09-01T11:36:14+00:00",
           "history": [
             [
-              "2026-08-31",
-              1168
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1449,
-          "preco_desconto": 281,
-          "preco_final": 1168,
-          "atualizado": "2026-08-31T22:48:12+00:00",
-          "history": [
-            [
-              "2026-08-31",
+              "2026-09-01",
               1168
             ]
           ]
@@ -2241,12 +2227,26 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Loule (Faro)",
+          "region": "Faro",
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-09-01T11:36:14+00:00",
+          "atualizado": "2026-09-01T11:41:07+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              1168
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-09-01T11:47:50+00:00",
           "history": [
             [
               "2026-09-01",
@@ -2278,20 +2278,6 @@
           ]
         },
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1159,
-          "preco_desconto": 221,
-          "preco_final": 938,
-          "atualizado": "2026-08-31T22:48:14+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              938
-            ]
-          ]
-        },
-        {
           "store": "Gondomar (Porto)",
           "region": "Porto",
           "preco_normal": 938,
@@ -2301,6 +2287,20 @@
           "history": [
             [
               "2026-09-01",
+              938
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1159,
+          "preco_desconto": 221,
+          "preco_final": 938,
+          "atualizado": "2026-08-31T22:48:14+00:00",
+          "history": [
+            [
+              "2026-08-31",
               938
             ]
           ]
@@ -2403,34 +2403,11 @@
           "preco_normal": 1099,
           "preco_desconto": 100,
           "preco_final": 999,
-          "atualizado": "2026-08-31T22:48:12+00:00",
+          "atualizado": "2026-09-01T11:47:50+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               999
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86584992",
-      "name": "Ar condicionado fixo (1X1) Mitsubishi Premium-WIFI branco R32 12000 BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-premium-wifi-branco-r32-12000-btu-86584992.html",
-      "dimensao": "12000 BTU",
-      "preco_final": 1049,
-      "prices": [
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1149,
-          "preco_desconto": 100,
-          "preco_final": 1049,
-          "atualizado": "2026-08-31T22:48:12+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              1049
             ]
           ]
         }
@@ -2534,23 +2511,23 @@
       ]
     },
     {
-      "id": "86584994",
-      "name": "Ar condicionado fixo (1X1) Mitsubishi Premium-WIFI branco R32 18000 BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-premium-wifi-branco-r32-18000-btu-86584994.html",
-      "dimensao": "18000 BTU",
-      "preco_final": 1601.11,
+      "id": "86584981",
+      "name": "Ar condicionado fixo (1X1) Mitsubishi LMK-Global R32 24000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk-global-r32-24000-btu-86584981.html",
+      "dimensao": "24000 BTU",
+      "preco_final": 1899,
       "prices": [
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1799,
-          "preco_desconto": 197.89,
-          "preco_final": 1601.11,
-          "atualizado": "2026-08-31T22:48:09+00:00",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 1999,
+          "preco_desconto": 100,
+          "preco_final": 1899,
+          "atualizado": "2026-09-01T11:47:50+00:00",
           "history": [
             [
-              "2026-08-31",
-              1601.11
+              "2026-09-01",
+              1899
             ]
           ]
         }
