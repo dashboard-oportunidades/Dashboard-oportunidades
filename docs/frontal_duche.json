@@ -1,6 +1,98 @@
 {
-  "generated": "2026-09-01T13:57:14+00:00",
+  "generated": "2026-09-01T14:15:14+00:00",
   "products": [
+    {
+      "id": "87870113",
+      "name": "Porta de duche 90x200 cm transparente Produto sem perfil Italbox Leci A",
+      "url": "https://www.leroymerlin.pt/produtos/porta-e-painel-para-cabine-90cm-transparente-cromado-leci-a-87870113.html",
+      "dimensao": "200x90",
+      "preco_final": 119.99,
+      "prices": [
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 229,
+          "preco_desconto": 109.01,
+          "preco_final": 119.99,
+          "atualizado": "2026-09-01T14:07:54+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              119.99
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87870009",
+      "name": "Porta de duche 100x200 cm transparente Italbox Leci A",
+      "url": "https://www.leroymerlin.pt/produtos/porta-e-painel-para-cabine-100cm-transparente-cromado-leci-a-87870009.html",
+      "dimensao": "200x100",
+      "preco_final": 119.99,
+      "prices": [
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 229,
+          "preco_desconto": 109.01,
+          "preco_final": 119.99,
+          "atualizado": "2026-09-01T14:07:54+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              119.99
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19318593",
+      "name": "Lateral de duche cromado Sensea Quad",
+      "url": "https://www.leroymerlin.pt/produtos/lateral-de-duche-cromado-sensea-quad-19318593.html",
+      "dimensao": null,
+      "preco_final": 128,
+      "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 144,
+          "preco_desconto": 16,
+          "preco_final": 128,
+          "atualizado": "2026-09-01T14:15:14+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              128
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209755",
+      "name": "Porta de duche transparente cromado 100x195 cm Sensea Remix",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-100x195-cm-sensea-remix-82209755.html",
+      "dimensao": "195x100",
+      "preco_final": 228,
+      "prices": [
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
+          "preco_final": 228,
+          "atualizado": "2026-09-01T14:12:50+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              228
+            ]
+          ]
+        }
+      ]
+    },
     {
       "id": "82209762",
       "name": "Porta de duche serigrafada cromado 140x195 cm Sensea Remix",
@@ -67,6 +159,34 @@
               358
             ]
           ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-01T14:13:36+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-01T14:15:14+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              358
+            ]
+          ]
         }
       ]
     },
@@ -88,6 +208,52 @@
             [
               "2026-09-01",
               388
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82281795",
+      "name": "Porta de duche + porta de correr cromado 116x200 cm Cool Free",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-porta-de-correr-cromado-116x200-cm-cool-free-82281795.html",
+      "dimensao": "200x116",
+      "preco_final": 418,
+      "prices": [
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 509,
+          "preco_desconto": 91,
+          "preco_final": 418,
+          "atualizado": "2026-09-01T14:13:36+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              418
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242437",
+      "name": "Porta de duche + 2 portas transparente cromado 140x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-140x200-cm-sensea-neo-82242437.html",
+      "dimensao": "200x140",
+      "preco_final": 418,
+      "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 509,
+          "preco_desconto": 91,
+          "preco_final": 418,
+          "atualizado": "2026-09-01T14:15:14+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              418
             ]
           ]
         }

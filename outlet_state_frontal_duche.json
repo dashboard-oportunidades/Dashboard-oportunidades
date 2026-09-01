@@ -1,15 +1,59 @@
 {
   "lojas": {
+    "Albufeira (Faro)": "2026-09-01T14:15:14+00:00",
     "Alfragide (Lisboa)": "2026-09-01T13:48:34+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-01T13:47:08+00:00",
+    "Alverca (Lisboa)": "2026-09-01T14:12:50+00:00",
     "Amadora (Lisboa)": "2026-09-01T13:57:14+00:00",
+    "Carcavelos (Lisboa)": "2026-09-01T14:08:37+00:00",
+    "Cascais (Lisboa)": "2026-09-01T14:07:54+00:00",
     "Colombo (Lisboa)": "2026-09-01T13:47:46+00:00",
+    "Loule (Faro)": "2026-09-01T14:13:36+00:00",
     "Loures (Lisboa)": "2026-09-01T13:53:51+00:00",
+    "Mafra (Lisboa)": "2026-09-01T14:09:19+00:00",
     "Oeiras (Lisboa)": "2026-09-01T13:52:12+00:00",
     "Sacavem (Lisboa)": "2026-09-01T13:50:30+00:00",
-    "Telheiras (Lisboa)": "2026-09-01T13:55:27+00:00"
+    "Sintra (Lisboa)": "2026-09-01T14:06:09+00:00",
+    "Telheiras (Lisboa)": "2026-09-01T13:55:27+00:00",
+    "Torres Vedras (Lisboa)": "2026-09-01T14:11:04+00:00"
   },
   "products": {
+    "19318593@Albufeira (Faro)": {
+      "atualizado": "2026-09-01T14:15:14+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          128
+        ]
+      ],
+      "id": "19318593",
+      "name": "Lateral de duche cromado Sensea Quad",
+      "preco_desconto": 16,
+      "preco_final": 128,
+      "preco_normal": 144,
+      "region": "Faro",
+      "store": "Albufeira (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/lateral-de-duche-cromado-sensea-quad-19318593.html"
+    },
+    "82209755@Alverca (Lisboa)": {
+      "atualizado": "2026-09-01T14:12:50+00:00",
+      "dimensao": "195x100",
+      "history": [
+        [
+          "2026-09-01",
+          228
+        ]
+      ],
+      "id": "82209755",
+      "name": "Porta de duche transparente cromado 100x195 cm Sensea Remix",
+      "preco_desconto": 0.0,
+      "preco_final": 228,
+      "preco_normal": 228,
+      "region": "Lisboa",
+      "store": "Alverca (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-100x195-cm-sensea-remix-82209755.html"
+    },
     "82209762@Colombo (Lisboa)": {
       "atualizado": "2026-09-01T13:47:46+00:00",
       "dimensao": "195x140",
@@ -64,6 +108,24 @@
       "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-120x200-cm-sensea-neo-82242433.html"
     },
+    "82242437@Albufeira (Faro)": {
+      "atualizado": "2026-09-01T14:15:14+00:00",
+      "dimensao": "200x140",
+      "history": [
+        [
+          "2026-09-01",
+          418
+        ]
+      ],
+      "id": "82242437",
+      "name": "Porta de duche + 2 portas transparente cromado 140x200 cm Sensea Neo",
+      "preco_desconto": 91,
+      "preco_final": 418,
+      "preco_normal": 509,
+      "region": "Faro",
+      "store": "Albufeira (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-140x200-cm-sensea-neo-82242437.html"
+    },
     "82242455@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-01T13:47:08+00:00",
       "dimensao": "200x80",
@@ -99,6 +161,24 @@
       "region": "Lisboa",
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
+    },
+    "82281795@Loule (Faro)": {
+      "atualizado": "2026-09-01T14:13:36+00:00",
+      "dimensao": "200x116",
+      "history": [
+        [
+          "2026-09-01",
+          418
+        ]
+      ],
+      "id": "82281795",
+      "name": "Porta de duche + porta de correr cromado 116x200 cm Cool Free",
+      "preco_desconto": 91,
+      "preco_final": 418,
+      "preco_normal": 509,
+      "region": "Faro",
+      "store": "Loule (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-porta-de-correr-cromado-116x200-cm-cool-free-82281795.html"
     },
     "82281996@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-01T13:47:08+00:00",
@@ -136,6 +216,24 @@
       "store": "Alfragide (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-victoria-160x195-82391559.html"
     },
+    "87274291@Albufeira (Faro)": {
+      "atualizado": "2026-09-01T14:15:14+00:00",
+      "dimensao": "200x120",
+      "history": [
+        [
+          "2026-09-01",
+          358
+        ]
+      ],
+      "id": "87274291",
+      "name": "Porta de duche 2 folhas 120x200 cm cromado transparente Roca Apolo",
+      "preco_desconto": 78,
+      "preco_final": 358,
+      "preco_normal": 436,
+      "region": "Faro",
+      "store": "Albufeira (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
+    },
     "87274291@Amadora (Lisboa)": {
       "atualizado": "2026-09-01T13:57:14+00:00",
       "dimensao": "200x120",
@@ -153,6 +251,60 @@
       "region": "Lisboa",
       "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
+    },
+    "87274291@Loule (Faro)": {
+      "atualizado": "2026-09-01T14:13:36+00:00",
+      "dimensao": "200x120",
+      "history": [
+        [
+          "2026-09-01",
+          358
+        ]
+      ],
+      "id": "87274291",
+      "name": "Porta de duche 2 folhas 120x200 cm cromado transparente Roca Apolo",
+      "preco_desconto": 78,
+      "preco_final": 358,
+      "preco_normal": 436,
+      "region": "Faro",
+      "store": "Loule (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
+    },
+    "87870009@Cascais (Lisboa)": {
+      "atualizado": "2026-09-01T14:07:54+00:00",
+      "dimensao": "200x100",
+      "history": [
+        [
+          "2026-09-01",
+          119.99
+        ]
+      ],
+      "id": "87870009",
+      "name": "Porta de duche 100x200 cm transparente Italbox Leci A",
+      "preco_desconto": 109.01,
+      "preco_final": 119.99,
+      "preco_normal": 229,
+      "region": "Lisboa",
+      "store": "Cascais (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-e-painel-para-cabine-100cm-transparente-cromado-leci-a-87870009.html"
+    },
+    "87870113@Cascais (Lisboa)": {
+      "atualizado": "2026-09-01T14:07:54+00:00",
+      "dimensao": "200x90",
+      "history": [
+        [
+          "2026-09-01",
+          119.99
+        ]
+      ],
+      "id": "87870113",
+      "name": "Porta de duche 90x200 cm transparente Produto sem perfil Italbox Leci A",
+      "preco_desconto": 109.01,
+      "preco_final": 119.99,
+      "preco_normal": 229,
+      "region": "Lisboa",
+      "store": "Cascais (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-e-painel-para-cabine-90cm-transparente-cromado-leci-a-87870113.html"
     }
   }
 }
