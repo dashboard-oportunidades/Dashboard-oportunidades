@@ -1,0 +1,11 @@
+{
+  "name": "Dashboard de Oportunidades",
+  "short_name": "Oportunidades",
+  "start_url": "outlet.html",
+  "display": "standalone",
+  "background_color": "#ECEFEF",
+  "theme_color": "#0F5468",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
