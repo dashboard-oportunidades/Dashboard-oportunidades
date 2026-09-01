@@ -2,19 +2,27 @@
   "lojas": {
     "Albufeira (Faro)": "2026-09-01T22:20:52+00:00",
     "Alfragide (Lisboa)": "2026-09-01T22:05:38+00:00",
+    "Almada (Setubal)": "2026-09-01T22:25:03+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-01T22:04:11+00:00",
     "Alverca (Lisboa)": "2026-09-01T22:18:31+00:00",
     "Amadora (Lisboa)": "2026-09-01T22:11:02+00:00",
+    "Barreiro (Setubal)": "2026-09-01T22:23:19+00:00",
     "Carcavelos (Lisboa)": "2026-09-01T22:14:10+00:00",
     "Cascais (Lisboa)": "2026-09-01T22:13:25+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-01T22:30:20+00:00",
     "Colombo (Lisboa)": "2026-09-01T22:04:54+00:00",
+    "Covilha (Castelo Branco)": "2026-09-01T22:32:07+00:00",
     "Loule (Faro)": "2026-09-01T22:19:10+00:00",
     "Loures (Lisboa)": "2026-09-01T22:07:53+00:00",
     "Mafra (Lisboa)": "2026-09-01T22:15:00+00:00",
+    "Montijo (Setubal)": "2026-09-01T22:26:49+00:00",
     "Oeiras (Lisboa)": "2026-09-01T22:07:05+00:00",
+    "Portimao (Faro)": "2026-09-01T22:22:37+00:00",
     "Sacavem (Lisboa)": "2026-09-01T22:06:19+00:00",
+    "Setubal (Setubal)": "2026-09-01T22:28:34+00:00",
     "Sintra (Lisboa)": "2026-09-01T22:12:48+00:00",
     "Telheiras (Lisboa)": "2026-09-01T22:09:13+00:00",
+    "Torres Novas (Santarem)": "2026-09-01T22:32:48+00:00",
     "Torres Vedras (Lisboa)": "2026-09-01T22:16:46+00:00"
   },
   "products": {
@@ -78,6 +86,46 @@
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-ardosia-cinza-30x60-cm-17074771.html"
     },
+    "17195696@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "15x15",
+      "history": [
+        [
+          "2026-09-01",
+          11.98
+        ]
+      ],
+      "id": "17195696",
+      "marca": "PRIMUS VITORIA",
+      "name": "Revestimento cerâmico bege 15x15 cm brilho",
+      "preco_desconto": 7.51,
+      "preco_final": 11.98,
+      "preco_normal": 19.49,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-bege-15x15-cm-brilho-17195696.html"
+    },
+    "17581053@Castelo Branco (Castelo Branco)": {
+      "atualizado": "2026-09-01T22:30:20+00:00",
+      "dimensao": "60x20",
+      "history": [
+        [
+          "2026-09-01",
+          10.98
+        ]
+      ],
+      "id": "17581053",
+      "marca": "ECOCERAMIC",
+      "name": "Pavimento cerâmico Tibet Moka 20x60 cm",
+      "preco_desconto": 4.13,
+      "preco_final": 10.98,
+      "preco_normal": 15.11,
+      "region": "Castelo Branco",
+      "retificado": false,
+      "store": "Castelo Branco (Castelo Branco)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-tibet-moka-20x60-cm-17581053.html"
+    },
     "17603635@Sintra (Lisboa)": {
       "atualizado": "2026-09-01T22:12:48+00:00",
       "dimensao": "60x60",
@@ -117,6 +165,26 @@
       "retificado": false,
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-estanho-33x33-cm-antiderrapante-17606400.html"
+    },
+    "17816680@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "45x45",
+      "history": [
+        [
+          "2026-09-01",
+          17.98
+        ]
+      ],
+      "id": "17816680",
+      "marca": "GEOTILES",
+      "name": "Pavimento cerâmico Boulevard Negro 45x45 cm",
+      "preco_desconto": 10.41,
+      "preco_final": 17.98,
+      "preco_normal": 28.39,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-boulevard-negro-45x45-cm-17816680.html"
     },
     "17816680@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-01T22:04:11+00:00",
@@ -178,6 +246,46 @@
       "store": "Alfragide (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-tribeca-branco-20-2x66-2-cm-17985072.html"
     },
+    "18962412@Montijo (Setubal)": {
+      "atualizado": "2026-09-01T22:26:49+00:00",
+      "dimensao": "60x30",
+      "history": [
+        [
+          "2026-09-01",
+          18.98
+        ]
+      ],
+      "id": "18962412",
+      "marca": "RECER",
+      "name": "Revestimento cerâmico Trace Black 30x60 cm retificado",
+      "preco_desconto": 12.04,
+      "preco_final": 18.98,
+      "preco_normal": 31.02,
+      "region": "Setubal",
+      "retificado": true,
+      "store": "Montijo (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-trace-black-30x60-cm-retificado-18962412.html"
+    },
+    "18966766@Montijo (Setubal)": {
+      "atualizado": "2026-09-01T22:26:49+00:00",
+      "dimensao": "60x30",
+      "history": [
+        [
+          "2026-09-01",
+          14.98
+        ]
+      ],
+      "id": "18966766",
+      "marca": "RECER",
+      "name": "Revestimento cerâmico Recer branco 30x60 cm brilho",
+      "preco_desconto": 8.74,
+      "preco_final": 14.98,
+      "preco_normal": 23.72,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Montijo (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-recer-branco-30x60-cm-brilho-18966766.html"
+    },
     "19206012@Sintra (Lisboa)": {
       "atualizado": "2026-09-01T22:12:48+00:00",
       "dimensao": null,
@@ -218,6 +326,26 @@
       "store": "Albufeira (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-globe-antracite-60x60-cm-19901875.html"
     },
+    "81904150@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          20.98
+        ]
+      ],
+      "id": "81904150",
+      "marca": "ARTENS",
+      "name": "Revestimento cerâmico Artens New Spazio Relieve Taupe 31.6x60.8 cm",
+      "preco_desconto": 0.0,
+      "preco_final": 20.98,
+      "preco_normal": 20.98,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-new-spazio-relieve-taupe-31-6x60-8-cm-81904150.html"
+    },
     "81970162@Colombo (Lisboa)": {
       "atualizado": "2026-09-01T22:04:54+00:00",
       "dimensao": "60x60",
@@ -237,6 +365,26 @@
       "retificado": false,
       "store": "Colombo (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-windsor-grey-60x60-cm-81970162.html"
+    },
+    "81970168@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "60x30",
+      "history": [
+        [
+          "2026-09-01",
+          15.98
+        ]
+      ],
+      "id": "81970168",
+      "marca": "ARTENS",
+      "name": "Revestimento cerâmico Artens Windsor 3D Grey 30x60 cm",
+      "preco_desconto": 9.59,
+      "preco_final": 15.98,
+      "preco_normal": 25.57,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-windsor-3d-grey-30x60-cm-81970168.html"
     },
     "81970168@Amadora (Lisboa)": {
       "atualizado": "2026-09-01T22:11:02+00:00",
@@ -298,6 +446,46 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-branco-34x91-5-cm-pura-82220345.html"
     },
+    "82222337@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "90x30",
+      "history": [
+        [
+          "2026-09-01",
+          19.98
+        ]
+      ],
+      "id": "82222337",
+      "marca": "ARTENS",
+      "name": "Revestimento cerâmico Artens Arctic branco mate 30x90 cm",
+      "preco_desconto": 2.69,
+      "preco_final": 19.98,
+      "preco_normal": 22.67,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-arctic-branco-mate-30x90-cm-82222337.html"
+    },
+    "82258373@Castelo Branco (Castelo Branco)": {
+      "atualizado": "2026-09-01T22:30:20+00:00",
+      "dimensao": "45x45",
+      "history": [
+        [
+          "2026-09-01",
+          13.98
+        ]
+      ],
+      "id": "82258373",
+      "marca": "GRESCO",
+      "name": "Pavimento cerâmico bege 45x45 cm Aleluia Studio",
+      "preco_desconto": 8.33,
+      "preco_final": 13.98,
+      "preco_normal": 22.31,
+      "region": "Castelo Branco",
+      "retificado": false,
+      "store": "Castelo Branco (Castelo Branco)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bege-45x45-cm-aleluia-studio-82258373.html"
+    },
     "82430179@Sintra (Lisboa)": {
       "atualizado": "2026-09-01T22:12:48+00:00",
       "dimensao": null,
@@ -317,6 +505,26 @@
       "retificado": false,
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-branco-75-5x25-cm-82430179.html"
+    },
+    "82430607@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "120x23",
+      "history": [
+        [
+          "2026-09-01",
+          18.98
+        ]
+      ],
+      "id": "82430607",
+      "marca": "STN CERAMICA",
+      "name": "Pavimento cerâmico Kimberley Blanco 23x120 cm",
+      "preco_desconto": 12.37,
+      "preco_final": 18.98,
+      "preco_normal": 31.35,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-kimberley-blanco-23x120-cm-82430607.html"
     },
     "82478675@Amadora (Lisboa)": {
       "atualizado": "2026-09-01T22:11:02+00:00",
@@ -358,6 +566,26 @@
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-serena-branco-30x90-cm-82478675.html"
     },
+    "82481572@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "120x60",
+      "history": [
+        [
+          "2026-09-01",
+          36.98
+        ]
+      ],
+      "id": "82481572",
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Marmi Marengo 60x120 cm",
+      "preco_desconto": 0.0,
+      "preco_final": 36.98,
+      "preco_normal": 36.98,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-marmi-marengo-60x120-cm-82481572.html"
+    },
     "82539709@Sintra (Lisboa)": {
       "atualizado": "2026-09-01T22:12:48+00:00",
       "dimensao": "10x10",
@@ -397,6 +625,26 @@
       "retificado": false,
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-branco-20x120-cm-gresart-oak-82545115.html"
+    },
+    "82635252@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          22.98
+        ]
+      ],
+      "id": "82635252",
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Quartzite cinza 60.8x60.8 cm",
+      "preco_desconto": 14.01,
+      "preco_final": 22.98,
+      "preco_normal": 36.99,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-quartzite-cinza-60-8x60-8-cm-82635252.html"
     },
     "82809725@Albufeira (Faro)": {
       "atualizado": "2026-09-01T22:20:52+00:00",
@@ -578,6 +826,26 @@
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-verde-claro-mate-7-5x15-cm-artens-metro-84306266.html"
     },
+    "84463945@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "120x60",
+      "history": [
+        [
+          "2026-09-01",
+          31.98
+        ]
+      ],
+      "id": "84463945",
+      "marca": "GAYA FORES",
+      "name": "Pavimento cerâmico Gayafores Calacatta Gold 60x120 cm",
+      "preco_desconto": 19.86,
+      "preco_final": 31.98,
+      "preco_normal": 51.84,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-gayafores-calacatta-gold-60x120-cm-84463945.html"
+    },
     "84734402@Sintra (Lisboa)": {
       "atualizado": "2026-09-01T22:12:48+00:00",
       "dimensao": "60x60",
@@ -637,6 +905,46 @@
       "retificado": false,
       "store": "Colombo (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-branco-60x120-cm-artens-storm-84736862.html"
+    },
+    "84994641@Montijo (Setubal)": {
+      "atualizado": "2026-09-01T22:26:49+00:00",
+      "dimensao": "120x60",
+      "history": [
+        [
+          "2026-09-01",
+          24.99
+        ]
+      ],
+      "id": "84994641",
+      "marca": "ARTENS",
+      "name": "Revestimento cerâmico 60x120 cm Artens Amazonia",
+      "preco_desconto": 11,
+      "preco_final": 24.99,
+      "preco_normal": 35.99,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Montijo (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-60x120-cm-artens-amazonia-84994641.html"
+    },
+    "85050333@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "13x13",
+      "history": [
+        [
+          "2026-09-01",
+          22.74
+        ]
+      ],
+      "id": "85050333",
+      "marca": "ALELUIA",
+      "name": "Revestimento cerâmico New Zellige Glaciar 13x13 cm",
+      "preco_desconto": 4.01,
+      "preco_final": 22.74,
+      "preco_normal": 26.75,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-new-zellige-glaciar-13x13-cm-85050333.html"
     },
     "85105569@Amadora (Lisboa)": {
       "atualizado": "2026-09-01T22:11:02+00:00",
@@ -718,6 +1026,26 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-honey-36x43-cm-85105820.html"
     },
+    "86393171@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "75x25",
+      "history": [
+        [
+          "2026-09-01",
+          19.98
+        ]
+      ],
+      "id": "86393171",
+      "marca": "PERONDA",
+      "name": "Revestimento cerâmico 25x75 cm New Apolo",
+      "preco_desconto": 4.89,
+      "preco_final": 19.98,
+      "preco_normal": 24.87,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-25x75-cm-new-apolo-86393171.html"
+    },
     "86393171@Loule (Faro)": {
       "atualizado": "2026-09-01T22:19:10+00:00",
       "dimensao": "75x25",
@@ -738,6 +1066,26 @@
       "store": "Loule (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-25x75-cm-new-apolo-86393171.html"
     },
+    "86757696@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          17.98
+        ]
+      ],
+      "id": "86757696",
+      "marca": "ALELUIA",
+      "name": "Pavimento cerâmico Muse Coal Satin 60x60 cm",
+      "preco_desconto": 11.17,
+      "preco_final": 17.98,
+      "preco_normal": 29.15,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-muse-coal-satin-60x60-cm-86757696.html"
+    },
     "86757696@Amadora (Lisboa)": {
       "atualizado": "2026-09-01T22:11:02+00:00",
       "dimensao": "60x60",
@@ -757,6 +1105,26 @@
       "retificado": false,
       "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-muse-coal-satin-60x60-cm-86757696.html"
+    },
+    "87072261@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          26.98
+        ]
+      ],
+      "id": "87072261",
+      "marca": "GEOTILES",
+      "name": "Pavimento cerâmico 60.8x60.8 cm Admes Gold 6Mm",
+      "preco_desconto": 8.15,
+      "preco_final": 26.98,
+      "preco_normal": 35.13,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-60-8x60-8-cm-admes-gold-6mm-87072261.html"
     },
     "87274617@Albufeira (Faro)": {
       "atualizado": "2026-09-01T22:20:52+00:00",
@@ -798,6 +1166,26 @@
       "store": "Loule (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-60x120-cm-casablanca-gold-87274617.html"
     },
+    "87506287@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "60x20",
+      "history": [
+        [
+          "2026-09-01",
+          14.98
+        ]
+      ],
+      "id": "87506287",
+      "marca": "ECOCERAMIC",
+      "name": "Pavimento cerâmico 20x60 cm cinza Brits Kala",
+      "preco_desconto": 8.4,
+      "preco_final": 14.98,
+      "preco_normal": 23.38,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-20x60-cm-cinza-brits-kala-87506287.html"
+    },
     "87506287@Sintra (Lisboa)": {
       "atualizado": "2026-09-01T22:12:48+00:00",
       "dimensao": "60x20",
@@ -837,6 +1225,26 @@
       "retificado": false,
       "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-shala-light-grey-60x60cm-87683787.html"
+    },
+    "88484018@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          14.98
+        ]
+      ],
+      "id": "88484018",
+      "marca": "GRESART",
+      "name": "Pavimento cerâmico 22,5x90cm Gresart Nordika cream",
+      "preco_desconto": 9.32,
+      "preco_final": 14.98,
+      "preco_normal": 24.3,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-22-5x90cm-gresart-nordika-cream-88484018.html"
     },
     "88484019@Torres Vedras (Lisboa)": {
       "atualizado": "2026-09-01T22:16:46+00:00",
@@ -936,6 +1344,26 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Alverca (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-branco-45x45-cm-corinto-88805198.html"
+    },
+    "88805198@Portimao (Faro)": {
+      "atualizado": "2026-09-01T22:22:37+00:00",
+      "dimensao": "45x45",
+      "history": [
+        [
+          "2026-09-01",
+          17.98
+        ]
+      ],
+      "id": "88805198",
+      "marca": "SALONI",
+      "name": "Pavimento cerâmico branco 45x45 cm Corinto",
+      "preco_desconto": 5.41,
+      "preco_final": 17.98,
+      "preco_normal": 23.39,
+      "region": "Faro",
+      "retificado": false,
+      "store": "Portimao (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-branco-45x45-cm-corinto-88805198.html"
     },
     "89161409@Sintra (Lisboa)": {
@@ -1058,6 +1486,26 @@
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-30x60-cm-89168667.html"
     },
+    "89168669@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          14.98
+        ]
+      ],
+      "id": "89168669",
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Urban Perla 60x60 cm",
+      "preco_desconto": 0.0,
+      "preco_final": 14.98,
+      "preco_normal": 14.98,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-perla-60x60-cm-89168669.html"
+    },
     "89168671@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-01T22:04:11+00:00",
       "dimensao": "60x30",
@@ -1098,6 +1546,26 @@
       "store": "Albufeira (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-island-bege-30x60-cm-antiderrapante-89176829.html"
     },
+    "89490061@Torres Novas (Santarem)": {
+      "atualizado": "2026-09-01T22:32:48+00:00",
+      "dimensao": "40x20",
+      "history": [
+        [
+          "2026-09-01",
+          8.98
+        ]
+      ],
+      "id": "89490061",
+      "marca": "REVIGRES",
+      "name": "Revestimento cerâmico Retro Aqua brilhante natural 20X40CM",
+      "preco_desconto": 3.25,
+      "preco_final": 8.98,
+      "preco_normal": 12.23,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Torres Novas (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-retro-aqua-brilhante-natural-20x40cm-89490061.html"
+    },
     "93428964@Alverca (Lisboa)": {
       "atualizado": "2026-09-01T22:18:31+00:00",
       "dimensao": "60x60",
@@ -1118,6 +1586,26 @@
       "store": "Alverca (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-camile-gold-satin-60x60-cm-stn-ceramica-93428964.html"
     },
+    "93927947@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "75x15",
+      "history": [
+        [
+          "2026-09-01",
+          18.98
+        ]
+      ],
+      "id": "93927947",
+      "marca": "GRESART",
+      "name": "Pavimento cerâmico Deck bege mate 15x75 cm Gresart",
+      "preco_desconto": 2.47,
+      "preco_final": 18.98,
+      "preco_normal": 21.45,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-deck-bege-mate-15x75-cm-gresart-93927947.html"
+    },
     "93927947@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-01T22:04:11+00:00",
       "dimensao": "75x15",
@@ -1137,6 +1625,46 @@
       "retificado": false,
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-deck-bege-mate-15x75-cm-gresart-93927947.html"
+    },
+    "93927966@Portimao (Faro)": {
+      "atualizado": "2026-09-01T22:22:37+00:00",
+      "dimensao": "75x15",
+      "history": [
+        [
+          "2026-09-01",
+          15.98
+        ]
+      ],
+      "id": "93927966",
+      "marca": "GRESART",
+      "name": "Pavimento cerâmico 15X75cm Oak honey",
+      "preco_desconto": 5.47,
+      "preco_final": 15.98,
+      "preco_normal": 21.45,
+      "region": "Faro",
+      "retificado": false,
+      "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-15x75cm-oak-honey-93927966.html"
+    },
+    "93995400@Almada (Setubal)": {
+      "atualizado": "2026-09-01T22:25:03+00:00",
+      "dimensao": "90x30",
+      "history": [
+        [
+          "2026-09-01",
+          22.98
+        ]
+      ],
+      "id": "93995400",
+      "marca": "ALELUIA",
+      "name": "Revestimento cerâmico Bliss branco 30x90 cm Aleluia",
+      "preco_desconto": 4.01,
+      "preco_final": 22.98,
+      "preco_normal": 26.99,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-bliss-branco-30x90-cm-aleluia-93995400.html"
     },
     "93995400@Alverca (Lisboa)": {
       "atualizado": "2026-09-01T22:18:31+00:00",
