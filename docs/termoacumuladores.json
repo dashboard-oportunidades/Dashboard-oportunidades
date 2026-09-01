@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T12:47:45+00:00",
+  "generated": "2026-09-01T12:57:05+00:00",
   "products": [
     {
       "id": "82005354",
@@ -55,20 +55,6 @@
       "preco_final": 158,
       "prices": [
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 158,
-          "preco_desconto": 0,
-          "preco_final": 158,
-          "atualizado": "2026-08-31T22:08:32+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Castelo Branco (Castelo Branco)",
           "region": "Castelo Branco",
           "preco_normal": 158,
@@ -78,6 +64,20 @@
           "history": [
             [
               "2026-09-01",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 158,
+          "preco_desconto": 0,
+          "preco_final": 158,
+          "atualizado": "2026-08-31T22:08:32+00:00",
+          "history": [
+            [
+              "2026-08-31",
               158
             ]
           ]
@@ -346,20 +346,6 @@
           ]
         },
         {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 469,
-          "preco_desconto": 81,
-          "preco_final": 388,
-          "atualizado": "2026-08-31T22:06:14+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 469,
@@ -369,6 +355,20 @@
           "history": [
             [
               "2026-08-31",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 469,
+          "preco_desconto": 81,
+          "preco_final": 388,
+          "atualizado": "2026-09-01T12:51:06+00:00",
+          "history": [
+            [
+              "2026-09-01",
               388
             ]
           ]
