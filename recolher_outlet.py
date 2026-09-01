@@ -73,6 +73,17 @@ CATEGORIAS = {
         "state_file": "outlet_state_frontal_duche.json",
         "out_file": "docs/frontal_duche.json",
     },
+    "pavimentos": {
+        "label": "Pavimentos",
+        "url": (
+            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
+            "?filters=%7B%22breadcrumb-1-label%22%3A%22Pavimentos%2520e%2520Revestimentos%22"
+            "%2C%22attribute-22088%22%3A%22Pavimento%2520e%252Fou%2520Revestimento%2520cer"
+            "%25C3%25A2mico%22%7D"
+        ),
+        "state_file": "outlet_state_pavimentos.json",
+        "out_file": "docs/pavimentos.json",
+    },
 }
 
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
