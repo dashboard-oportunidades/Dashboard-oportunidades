@@ -6,6 +6,8 @@
     "Alta de Lisboa (Lisboa)": "2026-09-01T22:04:11+00:00",
     "Alverca (Lisboa)": "2026-09-01T22:18:31+00:00",
     "Amadora (Lisboa)": "2026-09-01T22:11:02+00:00",
+    "Aveiro (Aveiro)": "2026-09-01T22:49:15+00:00",
+    "Barcelos (Braga)": "2026-09-01T22:46:45+00:00",
     "Barreiro (Setubal)": "2026-09-01T22:23:19+00:00",
     "Braga (Braga)": "2026-09-01T22:44:56+00:00",
     "Braganca (Braganca)": "2026-09-01T22:44:06+00:00",
@@ -18,14 +20,20 @@
     "Colombo (Lisboa)": "2026-09-01T22:04:54+00:00",
     "Covilha (Castelo Branco)": "2026-09-01T22:32:07+00:00",
     "Figueira da Foz (Coimbra)": "2026-09-01T22:38:11+00:00",
+    "Gaia (Porto)": "2026-09-01T22:54:02+00:00",
+    "Gondomar (Porto)": "2026-09-01T22:52:20+00:00",
+    "Guarda (Guarda)": "2026-09-01T22:51:40+00:00",
+    "Guimaraes (Braga)": "2026-09-01T22:48:32+00:00",
     "Leiria (Leiria)": "2026-09-01T22:42:20+00:00",
     "Loule (Faro)": "2026-09-01T22:19:10+00:00",
     "Loures (Lisboa)": "2026-09-01T22:07:53+00:00",
     "Mafra (Lisboa)": "2026-09-01T22:15:00+00:00",
     "Montijo (Setubal)": "2026-09-01T22:26:49+00:00",
     "Oeiras (Lisboa)": "2026-09-01T22:07:05+00:00",
+    "Penafiel (Porto)": "2026-09-01T22:54:48+00:00",
     "Portimao (Faro)": "2026-09-01T22:22:37+00:00",
     "Sacavem (Lisboa)": "2026-09-01T22:06:19+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-01T22:50:54+00:00",
     "Santarem (Santarem)": "2026-09-01T22:34:41+00:00",
     "Setubal (Setubal)": "2026-09-01T22:28:34+00:00",
     "Sintra (Lisboa)": "2026-09-01T22:12:48+00:00",
@@ -133,6 +141,26 @@
       "retificado": false,
       "store": "Almada (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-bege-15x15-cm-brilho-17195696.html"
+    },
+    "17326351@Aveiro (Aveiro)": {
+      "atualizado": "2026-09-01T22:49:15+00:00",
+      "dimensao": "33x33",
+      "history": [
+        [
+          "2026-09-01",
+          19.98
+        ]
+      ],
+      "id": "17326351",
+      "marca": "DOMINO",
+      "name": "Pavimento cerâmico Vidago cinza 33x33 cm",
+      "preco_desconto": 4.23,
+      "preco_final": 19.98,
+      "preco_normal": 24.21,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Aveiro (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-vidago-cinza-33x33-cm-17326351.html"
     },
     "17516401@Santarem (Santarem)": {
       "atualizado": "2026-09-01T22:34:41+00:00",
@@ -494,6 +522,26 @@
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-bronx-azul-7-5x30-cm-19206012.html"
     },
+    "19548872@Gaia (Porto)": {
+      "atualizado": "2026-09-01T22:54:02+00:00",
+      "dimensao": "90x30",
+      "history": [
+        [
+          "2026-09-01",
+          14.98
+        ]
+      ],
+      "id": "19548872",
+      "marca": "AZULEJOS BENADRESA",
+      "name": "Revestimento cerâmico azulejos Benadresa Cascais 30x90 cm",
+      "preco_desconto": 8.77,
+      "preco_final": 14.98,
+      "preco_normal": 23.75,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-azulejos-benadresa-cascais-30x90-cm-19548872.html"
+    },
     "19713400@Leiria (Leiria)": {
       "atualizado": "2026-09-01T22:42:20+00:00",
       "dimensao": "90x30",
@@ -533,6 +581,26 @@
       "retificado": false,
       "store": "Albufeira (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-globe-antracite-60x60-cm-19901875.html"
+    },
+    "81883737@Guarda (Guarda)": {
+      "atualizado": "2026-09-01T22:51:40+00:00",
+      "dimensao": "60x15",
+      "history": [
+        [
+          "2026-09-01",
+          14.98
+        ]
+      ],
+      "id": "81883737",
+      "marca": "GRESCO",
+      "name": "Pavimento cerâmico cream 15x60 cm Gresco Tempus",
+      "preco_desconto": 8.81,
+      "preco_final": 14.98,
+      "preco_normal": 23.79,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-cream-15x60-cm-gresco-tempus-81883737.html"
     },
     "81903320@Coimbra (Coimbra)": {
       "atualizado": "2026-09-01T22:36:31+00:00",
@@ -574,6 +642,26 @@
       "store": "Almada (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-new-spazio-relieve-taupe-31-6x60-8-cm-81904150.html"
     },
+    "81958302@Guarda (Guarda)": {
+      "atualizado": "2026-09-01T22:51:40+00:00",
+      "dimensao": "100x25",
+      "history": [
+        [
+          "2026-09-01",
+          22.98
+        ]
+      ],
+      "id": "81958302",
+      "marca": "GEOTILES",
+      "name": "Pavimento cerâmico Freya Gris 25x100 cm",
+      "preco_desconto": 14.51,
+      "preco_final": 22.98,
+      "preco_normal": 37.49,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-freya-gris-25x100-cm-81958302.html"
+    },
     "81970162@Colombo (Lisboa)": {
       "atualizado": "2026-09-01T22:04:54+00:00",
       "dimensao": "60x60",
@@ -592,6 +680,26 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Colombo (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-windsor-grey-60x60-cm-81970162.html"
+    },
+    "81970162@Guimaraes (Braga)": {
+      "atualizado": "2026-09-01T22:48:32+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          19.98
+        ]
+      ],
+      "id": "81970162",
+      "marca": "ARTENS",
+      "name": "Pavimento cerâmico Artens Windsor Grey 60x60 cm",
+      "preco_desconto": 4.85,
+      "preco_final": 19.98,
+      "preco_normal": 24.83,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Guimaraes (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-windsor-grey-60x60-cm-81970162.html"
     },
     "81970162@Santarem (Santarem)": {
@@ -673,6 +781,26 @@
       "retificado": false,
       "store": "Loule (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-harmony-aveiro-in-22-5x90-cm-82000982.html"
+    },
+    "82070047@Gaia (Porto)": {
+      "atualizado": "2026-09-01T22:54:02+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          24.98
+        ]
+      ],
+      "id": "82070047",
+      "marca": "GAYA FORES",
+      "name": "Taco cerâmico VELVET GRIS 16.5CMX16.5CM",
+      "preco_desconto": 15.71,
+      "preco_final": 24.98,
+      "preco_normal": 40.69,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/taco-ceramico-velvet-gris-16-5cmx16-5cm-82070047.html"
     },
     "82109353@Braga (Braga)": {
       "atualizado": "2026-09-01T22:44:56+00:00",
@@ -1114,6 +1242,26 @@
       "store": "Albufeira (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-retificado-cinzento-59x119-cm-corinto-83022905.html"
     },
+    "83304959@Guarda (Guarda)": {
+      "atualizado": "2026-09-01T22:51:40+00:00",
+      "dimensao": "75x20",
+      "history": [
+        [
+          "2026-09-01",
+          10.98
+        ]
+      ],
+      "id": "83304959",
+      "marca": "ECOCERAMIC",
+      "name": "Pavimento cerâmico Bestley Gris 20x75 cm",
+      "preco_desconto": 4.76,
+      "preco_final": 10.98,
+      "preco_normal": 15.74,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bestley-gris-20x75-cm-83304959.html"
+    },
     "83304960@Oeiras (Lisboa)": {
       "atualizado": "2026-09-01T22:07:05+00:00",
       "dimensao": "75x20",
@@ -1354,6 +1502,26 @@
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-branco-60x120-cm-artens-storm-84736862.html"
     },
+    "84738275@Guimaraes (Braga)": {
+      "atualizado": "2026-09-01T22:48:32+00:00",
+      "dimensao": "120x60",
+      "history": [
+        [
+          "2026-09-01",
+          58.98
+        ]
+      ],
+      "id": "84738275",
+      "marca": "RUBICER",
+      "name": "Pavimento cerâmico Esperda Grey 60x120 cm",
+      "preco_desconto": 38.91,
+      "preco_final": 58.98,
+      "preco_normal": 97.89,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Guimaraes (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-esperda-grey-60x120-cm-84738275.html"
+    },
     "84994641@Montijo (Setubal)": {
       "atualizado": "2026-09-01T22:26:49+00:00",
       "dimensao": "120x60",
@@ -1393,6 +1561,26 @@
       "retificado": false,
       "store": "Almada (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-new-zellige-glaciar-13x13-cm-85050333.html"
+    },
+    "85063924@Penafiel (Porto)": {
+      "atualizado": "2026-09-01T22:54:48+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          21.98
+        ]
+      ],
+      "id": "85063924",
+      "marca": "ARTENS",
+      "name": "Pavimento cerâmico Artens Ar.Pizarra branco 30.3x61.3 cm",
+      "preco_desconto": 13.63,
+      "preco_final": 21.98,
+      "preco_normal": 35.61,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-ar-pizarra-branco-30-3x61-3-cm-85063924.html"
     },
     "85105569@Amadora (Lisboa)": {
       "atualizado": "2026-09-01T22:11:02+00:00",
@@ -1474,6 +1662,26 @@
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-taupe-7x29-cm-revigres-85105819.html"
     },
+    "85105819@Penafiel (Porto)": {
+      "atualizado": "2026-09-01T22:54:48+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          3.98
+        ]
+      ],
+      "id": "85105819",
+      "marca": "REVIGRES",
+      "name": "Revestimento cerâmico Grid Taupe 7x29 cm Revigres",
+      "preco_desconto": 0.87,
+      "preco_final": 3.98,
+      "preco_normal": 4.85,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-taupe-7x29-cm-revigres-85105819.html"
+    },
     "85105819@Torres Vedras (Lisboa)": {
       "atualizado": "2026-09-01T22:16:46+00:00",
       "dimensao": null,
@@ -1514,6 +1722,26 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-honey-36x43-cm-85105820.html"
     },
+    "85105822@Aveiro (Aveiro)": {
+      "atualizado": "2026-09-01T22:49:15+00:00",
+      "dimensao": "43x36",
+      "history": [
+        [
+          "2026-09-01",
+          3.98
+        ]
+      ],
+      "id": "85105822",
+      "marca": "REVIGRES",
+      "name": "Revestimento cerâmico Grid Almond 36x43 cm",
+      "preco_desconto": 0.87,
+      "preco_final": 3.98,
+      "preco_normal": 4.85,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Aveiro (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-almond-36x43-cm-85105822.html"
+    },
     "85172033@Coimbra (Coimbra)": {
       "atualizado": "2026-09-01T22:36:31+00:00",
       "dimensao": "44x44",
@@ -1533,6 +1761,26 @@
       "retificado": false,
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-44x44-cm-absolute-universe-85172033.html"
+    },
+    "86156118@Penafiel (Porto)": {
+      "atualizado": "2026-09-01T22:54:48+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          15.98
+        ]
+      ],
+      "id": "86156118",
+      "marca": "PERONDA",
+      "name": "Revestimento cerâmico porto white C3 45,6X67,5CM",
+      "preco_desconto": 3.33,
+      "preco_final": 15.98,
+      "preco_normal": 19.31,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-porto-white-c3-45-6x67-5cm-86156118.html"
     },
     "86393171@Almada (Setubal)": {
       "atualizado": "2026-09-01T22:25:03+00:00",
@@ -1633,6 +1881,26 @@
       "retificado": false,
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-muse-coal-satin-60x60-cm-86757696.html"
+    },
+    "87071653@Guarda (Guarda)": {
+      "atualizado": "2026-09-01T22:51:40+00:00",
+      "dimensao": "60x20",
+      "history": [
+        [
+          "2026-09-01",
+          18.98
+        ]
+      ],
+      "id": "87071653",
+      "marca": "GEOTILES",
+      "name": "Pavimento cerâmico Ada Miel 20x60 cm 6mm GEOTILES",
+      "preco_desconto": 4.4,
+      "preco_final": 18.98,
+      "preco_normal": 23.38,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-ada-miel-20x60-cm-6mm-geotiles-87071653.html"
     },
     "87071654@Santarem (Santarem)": {
       "atualizado": "2026-09-01T22:34:41+00:00",
@@ -2034,6 +2302,26 @@
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-brooklyn-branco-brilho-7-5x30-cm-89161409.html"
     },
+    "89161410@Guimaraes (Braga)": {
+      "atualizado": "2026-09-01T22:48:32+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-01",
+          10.98
+        ]
+      ],
+      "id": "89161410",
+      "marca": "ARTENS",
+      "name": "Revestimento cerâmico Artens Brooklyn branco mate 7.5x30 cm",
+      "preco_desconto": 3.8,
+      "preco_final": 10.98,
+      "preco_normal": 14.78,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Guimaraes (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-brooklyn-branco-mate-7-5x30-cm-89161410.html"
+    },
     "89168604@Sintra (Lisboa)": {
       "atualizado": "2026-09-01T22:12:48+00:00",
       "dimensao": "120x20",
@@ -2053,6 +2341,26 @@
       "retificado": false,
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-living-light-20x120-cm-in-89168604.html"
+    },
+    "89168665@Gaia (Porto)": {
+      "atualizado": "2026-09-01T22:54:02+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          13.98
+        ]
+      ],
+      "id": "89168665",
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Urban Prata 60x60 cm",
+      "preco_desconto": 9.12,
+      "preco_final": 13.98,
+      "preco_normal": 23.1,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-60x60-cm-89168665.html"
     },
     "89168665@Oeiras (Lisboa)": {
       "atualizado": "2026-09-01T22:07:05+00:00",
@@ -2313,6 +2621,46 @@
       "retificado": false,
       "store": "Alverca (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-camile-gold-satin-60x60-cm-stn-ceramica-93428964.html"
+    },
+    "93521174@Guimaraes (Braga)": {
+      "atualizado": "2026-09-01T22:48:32+00:00",
+      "dimensao": "90x30",
+      "history": [
+        [
+          "2026-09-01",
+          15.98
+        ]
+      ],
+      "id": "93521174",
+      "marca": "ALELUIA",
+      "name": "Revestimento cerâmico Oslo Reed bege 30x90 cm Aleluia",
+      "preco_desconto": 14.25,
+      "preco_final": 15.98,
+      "preco_normal": 30.23,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Guimaraes (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-oslo-reed-bege-30x90-cm-aleluia-93521174.html"
+    },
+    "93862457@Guarda (Guarda)": {
+      "atualizado": "2026-09-01T22:51:40+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-01",
+          21.98
+        ]
+      ],
+      "id": "93862457",
+      "marca": "GRESART",
+      "name": "Pavimento cerâmico Downtown bege anti-slip 60x60 cm Gresart",
+      "preco_desconto": 5.37,
+      "preco_final": 21.98,
+      "preco_normal": 27.35,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-downtown-bege-anti-slip-60x60-cm-gresart-93862457.html"
     },
     "93927947@Almada (Setubal)": {
       "atualizado": "2026-09-01T22:25:03+00:00",
