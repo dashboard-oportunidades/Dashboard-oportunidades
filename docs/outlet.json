@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-01T09:16:52+00:00",
+  "generated": "2026-09-01T09:27:53+00:00",
   "products": [
     {
       "id": "94150387",
       "name": "Base de duche 80x100xcm bege Resina",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x100xcm-bege-resina-94150387.html",
-      "dimensao": "80x100",
+      "dimensao": "100x80",
       "preco_final": 87.98,
       "prices": [
         {
@@ -14,10 +14,10 @@
           "preco_normal": 109,
           "preco_desconto": 21.02,
           "preco_final": 87.98,
-          "atualizado": "2026-08-31T12:17:18+00:00",
+          "atualizado": "2026-09-01T09:27:52+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               87.98
             ]
           ]
@@ -37,10 +37,10 @@
           "preco_normal": 169,
           "preco_desconto": 75.64,
           "preco_final": 93.36,
-          "atualizado": "2026-08-31T12:15:24+00:00",
+          "atualizado": "2026-09-01T09:21:09+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               93.36
             ]
           ]
@@ -184,20 +184,6 @@
       "preco_final": 118,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 139,
-          "preco_desconto": 21,
-          "preco_final": 118,
-          "atualizado": "2026-08-31T12:16:43+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              118
-            ]
-          ]
-        },
-        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 139,
@@ -207,6 +193,20 @@
           "history": [
             [
               "2026-08-31",
+              118
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 139,
+          "preco_desconto": 21,
+          "preco_final": 118,
+          "atualizado": "2026-09-01T09:26:07+00:00",
+          "history": [
+            [
+              "2026-09-01",
               118
             ]
           ]
@@ -226,10 +226,10 @@
           "preco_normal": 279,
           "preco_desconto": 153.01,
           "preco_final": 125.99,
-          "atualizado": "2026-08-31T12:15:24+00:00",
+          "atualizado": "2026-09-01T09:21:09+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               125.99
             ]
           ]
@@ -355,20 +355,6 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-08-31T12:16:43+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 159,
@@ -392,6 +378,20 @@
           "history": [
             [
               "2026-08-31",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-01T09:26:07+00:00",
+          "history": [
+            [
+              "2026-09-01",
               138
             ]
           ]
@@ -443,15 +443,15 @@
           ]
         },
         {
-          "store": "Cascais (Lisboa)",
+          "store": "Carcavelos (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 138,
-          "preco_desconto": 0,
+          "preco_desconto": 0.0,
           "preco_final": 138,
-          "atualizado": "2026-08-31T12:15:24+00:00",
+          "atualizado": "2026-09-01T09:15:21+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               138
             ]
           ]
@@ -485,26 +485,26 @@
           ]
         },
         {
-          "store": "Telheiras (Lisboa)",
+          "store": "Cascais (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 138,
-          "preco_desconto": 0,
+          "preco_desconto": 0.0,
           "preco_final": 138,
-          "atualizado": "2026-08-31T12:15:54+00:00",
+          "atualizado": "2026-09-01T09:21:09+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               138
             ]
           ]
         },
         {
-          "store": "Carcavelos (Lisboa)",
+          "store": "Telheiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 138,
           "preco_desconto": 0.0,
           "preco_final": 138,
-          "atualizado": "2026-09-01T09:15:21+00:00",
+          "atualizado": "2026-09-01T09:22:47+00:00",
           "history": [
             [
               "2026-09-01",
@@ -607,43 +607,6 @@
       ]
     },
     {
-      "id": "88672190",
-      "name": "Base de duche ardósia 160x70 cm branco Musa",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
-      "dimensao": "160x70",
-      "preco_final": 148,
-      "prices": [
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 148,
-          "preco_desconto": 0,
-          "preco_final": 148,
-          "atualizado": "2026-08-31T12:25:31+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              148
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-01T09:14:09+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              148
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86584061",
       "name": "Base de duche 160x70 cm branco mate Sensea Easy",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html",
@@ -660,6 +623,43 @@
           "history": [
             [
               "2026-09-01",
+              148
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88672190",
+      "name": "Base de duche ardósia 160x70 cm branco Musa",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
+      "dimensao": "160x70",
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-01T09:14:09+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 148,
+          "preco_desconto": 0,
+          "preco_final": 148,
+          "atualizado": "2026-08-31T12:25:31+00:00",
+          "history": [
+            [
+              "2026-08-31",
               148
             ]
           ]
@@ -757,20 +757,6 @@
       "preco_final": 158,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-08-31T12:16:43+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 192,
@@ -864,6 +850,34 @@
           "history": [
             [
               "2026-08-31",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
+          "preco_final": 158,
+          "atualizado": "2026-09-01T09:24:34+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-01T09:26:07+00:00",
+          "history": [
+            [
+              "2026-09-01",
               158
             ]
           ]
@@ -1206,48 +1220,11 @@
           "preco_normal": 299,
           "preco_desconto": 109,
           "preco_final": 190,
-          "atualizado": "2026-08-31T12:15:24+00:00",
+          "atualizado": "2026-09-01T09:21:09+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               190
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "84834102",
-      "name": "Base de duche NEO 80X120CM GRELHA METAL PRETO MATE",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x120cm-grelha-metal-preto-mate-84834102.html",
-      "dimensao": "80x120",
-      "preco_final": 198,
-      "prices": [
-        {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
-          "preco_normal": 238,
-          "preco_desconto": 40,
-          "preco_final": 198,
-          "atualizado": "2026-08-31T12:19:23+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              198
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 278,
-          "preco_desconto": 0,
-          "preco_final": 278,
-          "atualizado": "2026-08-31T12:16:43+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              278
             ]
           ]
         }
@@ -1284,6 +1261,29 @@
           "history": [
             [
               "2026-09-01",
+              198
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84834102",
+      "name": "Base de duche NEO 80X120CM GRELHA METAL PRETO MATE",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x120cm-grelha-metal-preto-mate-84834102.html",
+      "dimensao": "80x120",
+      "preco_final": 198,
+      "prices": [
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 238,
+          "preco_desconto": 40,
+          "preco_final": 198,
+          "atualizado": "2026-08-31T12:19:23+00:00",
+          "history": [
+            [
+              "2026-08-31",
               198
             ]
           ]
@@ -1520,10 +1520,10 @@
           "preco_normal": 509,
           "preco_desconto": 284,
           "preco_final": 225,
-          "atualizado": "2026-08-31T12:15:24+00:00",
+          "atualizado": "2026-09-01T09:21:09+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               225
             ]
           ]
@@ -1857,29 +1857,6 @@
           "preco_desconto": 0,
           "preco_final": 318,
           "atualizado": "2026-08-31T12:22:39+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              318
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "84834105",
-      "name": "Base de duche NEO 80X140CM GRELHA METAL PRETO MATE",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x140cm-grelha-metal-preto-mate-84834105.html",
-      "dimensao": "80x140",
-      "preco_final": 318,
-      "prices": [
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 318,
-          "preco_desconto": 0,
-          "preco_final": 318,
-          "atualizado": "2026-08-31T12:17:18+00:00",
           "history": [
             [
               "2026-08-31",
