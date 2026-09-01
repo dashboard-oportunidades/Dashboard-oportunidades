@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T10:18:10+00:00",
+  "generated": "2026-09-01T10:27:03+00:00",
   "products": [
     {
       "id": "81992803",
@@ -124,26 +124,26 @@
       "preco_final": 108,
       "prices": [
         {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 129,
-          "preco_desconto": 21,
-          "preco_final": 108,
-          "atualizado": "2026-08-31T12:27:55+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              108
-            ]
-          ]
-        },
-        {
           "store": "Caldas da Rainha (Leiria)",
           "region": "Leiria",
           "preco_normal": 129,
           "preco_desconto": 21,
           "preco_final": 108,
           "atualizado": "2026-09-01T09:50:10+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              108
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 129,
+          "preco_desconto": 21,
+          "preco_final": 108,
+          "atualizado": "2026-09-01T10:21:55+00:00",
           "history": [
             [
               "2026-09-01",
@@ -214,29 +214,6 @@
       ]
     },
     {
-      "id": "91835296",
-      "name": "Base de duche Resina 120x70 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x70-cm-branco-mate-sensea-easy-v2-91835296.html",
-      "dimensao": "120x70",
-      "preco_final": 128,
-      "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 128,
-          "preco_desconto": 0,
-          "preco_final": 128,
-          "atualizado": "2026-08-31T12:35:59+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              128
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "91835305",
       "name": "Base de duche Resina 100x80 cm branco mate Sensea Easy V2",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-100x80-cm-branco-mate-sensea-easy-v2-91835305.html",
@@ -290,12 +267,12 @@
       "preco_final": 137,
       "prices": [
         {
-          "store": "Penafiel (Porto)",
+          "store": "Matosinhos (Porto)",
           "region": "Porto",
           "preco_normal": 181,
           "preco_desconto": 44,
           "preco_final": 137,
-          "atualizado": "2026-09-01T09:37:52+00:00",
+          "atualizado": "2026-09-01T10:12:55+00:00",
           "history": [
             [
               "2026-09-01",
@@ -304,12 +281,12 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
+          "store": "Penafiel (Porto)",
           "region": "Porto",
           "preco_normal": 181,
           "preco_desconto": 44,
           "preco_final": 137,
-          "atualizado": "2026-09-01T10:12:55+00:00",
+          "atualizado": "2026-09-01T09:37:52+00:00",
           "history": [
             [
               "2026-09-01",
@@ -519,29 +496,6 @@
       ]
     },
     {
-      "id": "82307262",
-      "name": "Base de duche SENSEA NEO MARMORE TRAV 100X80CM",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-marmore-trav-100x80cm-82307262.html",
-      "dimensao": "100x80",
-      "preco_final": 148,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 273,
-          "preco_desconto": 125,
-          "preco_final": 148,
-          "atualizado": "2026-08-31T12:27:53+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              148
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86584060",
       "name": "Base de duche 140x70 cm branco mate Sensea Easy",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x70-cm-branco-mate-sensea-easy-86584060.html",
@@ -743,12 +697,40 @@
           ]
         },
         {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-01T10:11:09+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              158
+            ]
+          ]
+        },
+        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 192,
           "preco_desconto": 34,
           "preco_final": 158,
           "atualizado": "2026-09-01T09:54:21+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-01T10:18:09+00:00",
           "history": [
             [
               "2026-09-01",
@@ -799,26 +781,12 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 192,
-          "preco_desconto": 34,
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
           "preco_final": 158,
-          "atualizado": "2026-09-01T10:11:09+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-01T10:18:09+00:00",
+          "atualizado": "2026-09-01T10:25:16+00:00",
           "history": [
             [
               "2026-09-01",
@@ -836,26 +804,26 @@
       "preco_final": 168,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-08-31T12:35:59+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              168
-            ]
-          ]
-        },
-        {
           "store": "Braga (Braga)",
           "region": "Braga",
           "preco_normal": 199,
           "preco_desconto": 31,
           "preco_final": 168,
           "atualizado": "2026-09-01T09:44:05+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              168
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-09-01T10:16:29+00:00",
           "history": [
             [
               "2026-09-01",
@@ -892,12 +860,12 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
           "preco_normal": 199,
           "preco_desconto": 31,
           "preco_final": 168,
-          "atualizado": "2026-09-01T10:16:29+00:00",
+          "atualizado": "2026-09-01T10:23:39+00:00",
           "history": [
             [
               "2026-09-01",
@@ -920,10 +888,10 @@
           "preco_normal": 334,
           "preco_desconto": 156,
           "preco_final": 178,
-          "atualizado": "2026-08-31T12:27:55+00:00",
+          "atualizado": "2026-09-01T10:21:55+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               178
             ]
           ]
@@ -968,29 +936,6 @@
       ]
     },
     {
-      "id": "91835314",
-      "name": "Base de duche Resina 140x90 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x90-cm-branco-mate-sensea-easy-v2-91835314.html",
-      "dimensao": "140x90",
-      "preco_final": 178,
-      "prices": [
-        {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 213,
-          "preco_desconto": 35,
-          "preco_final": 178,
-          "atualizado": "2026-08-31T12:36:56+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              178
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "84834096",
       "name": "Base de duche NEO 80X120CM GRELHA METAL BRANCO MATE",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x120cm-grelha-metal-branco-mate-84834096.html",
@@ -1017,7 +962,7 @@
       "id": "88286911",
       "name": "Base de duche SENSEA REMIX RESINA 80X170 CINZENTO MATE",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-80x170-cinzento-mate-88286911.html",
-      "dimensao": "80x170",
+      "dimensao": "170x80",
       "preco_final": 179.98,
       "prices": [
         {
@@ -1026,10 +971,10 @@
           "preco_normal": 274,
           "preco_desconto": 94.02,
           "preco_final": 179.98,
-          "atualizado": "2026-08-31T12:36:56+00:00",
+          "atualizado": "2026-09-01T10:25:16+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               179.98
             ]
           ]
@@ -1054,29 +999,6 @@
             [
               "2026-09-01",
               187.97
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82002252",
-      "name": "Base de duche NEO CARGA MINERAL PARIS 100X70CM",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-paris-100x70cm-82002252.html",
-      "dimensao": "100x70",
-      "preco_final": 188,
-      "prices": [
-        {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 188,
-          "preco_desconto": 0,
-          "preco_final": 188,
-          "atualizado": "2026-08-31T12:36:56+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              188
             ]
           ]
         }
@@ -1387,23 +1309,23 @@
       ]
     },
     {
-      "id": "84834124",
-      "name": "Base de duche NEO 70X120CM GRELHA METAL PRETO MATE",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-70x120cm-grelha-metal-preto-mate-84834124.html",
-      "dimensao": "70x120",
-      "preco_final": 238,
+      "id": "81900441",
+      "name": "Base de duche LEGACY 140X70CM BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-140x70cm-branco-81900441.html",
+      "dimensao": "140x70",
+      "preco_final": 248,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 238,
-          "preco_desconto": 0,
-          "preco_final": 238,
-          "atualizado": "2026-08-31T12:35:59+00:00",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-01T10:16:29+00:00",
           "history": [
             [
-              "2026-08-31",
-              238
+              "2026-09-01",
+              248
             ]
           ]
         }
@@ -1422,30 +1344,7 @@
           "preco_normal": 339,
           "preco_desconto": 91,
           "preco_final": 248,
-          "atualizado": "2026-08-31T12:27:53+00:00",
-          "history": [
-            [
-              "2026-08-31",
-              248
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "81900441",
-      "name": "Base de duche LEGACY 140X70CM BRANCO",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-140x70cm-branco-81900441.html",
-      "dimensao": "140x70",
-      "preco_final": 248,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-01T10:16:29+00:00",
+          "atualizado": "2026-09-01T10:21:06+00:00",
           "history": [
             [
               "2026-09-01",
@@ -1482,7 +1381,7 @@
       "id": "83728706",
       "name": "Base de duche  80X150 cm antricite Stone",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x150-cm-antricite-stone-83728706.html",
-      "dimensao": "80x150",
+      "dimensao": "150x80",
       "preco_final": 279,
       "prices": [
         {
@@ -1491,10 +1390,10 @@
           "preco_normal": 349,
           "preco_desconto": 70,
           "preco_final": 279,
-          "atualizado": "2026-08-31T12:27:53+00:00",
+          "atualizado": "2026-09-01T10:21:06+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               279
             ]
           ]
@@ -1505,7 +1404,7 @@
       "id": "89149832",
       "name": "Base de duche LEVEL UP COM VALVULA 70X150 BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-level-up-com-valvula-70x150-branco-89149832.html",
-      "dimensao": "70x150",
+      "dimensao": "150x70",
       "preco_final": 279.98,
       "prices": [
         {
@@ -1514,10 +1413,10 @@
           "preco_normal": 364,
           "preco_desconto": 84.02,
           "preco_final": 279.98,
-          "atualizado": "2026-08-31T12:36:56+00:00",
+          "atualizado": "2026-09-01T10:25:16+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               279.98
             ]
           ]
@@ -1560,10 +1459,10 @@
           "preco_normal": 489,
           "preco_desconto": 110,
           "preco_final": 379,
-          "atualizado": "2026-08-31T12:27:53+00:00",
+          "atualizado": "2026-09-01T10:21:06+00:00",
           "history": [
             [
-              "2026-08-31",
+              "2026-09-01",
               379
             ]
           ]
