@@ -61,6 +61,18 @@ CATEGORIAS = {
         "state_file": "outlet_state_termoacumuladores.json",
         "out_file": "docs/termoacumuladores.json",
     },
+    "frontal-duche": {
+        "label": "Frontal Duche",
+        "url": (
+            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
+            "?origin=redirection&query=outlet&src=cat"
+            "&filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22"
+            "%2C%22attribute-22088%22%3A%22Porta%2520de%2520duche%2520com%2520entrada"
+            "%2520frontal%22%7D"
+        ),
+        "state_file": "outlet_state_frontal_duche.json",
+        "out_file": "docs/frontal_duche.json",
+    },
 }
 
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
