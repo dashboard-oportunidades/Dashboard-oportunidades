@@ -23,7 +23,9 @@ from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent
 CONFIG_FILE = ROOT / "config.json"
+M2_CAIXA_FILE = ROOT / "m2_por_caixa.json"
 HISTORY_LIMIT = 180
+M2_CAIXA_RE = re.compile(r"Conte[uú]do da embalagem \(em m[²2]\)\s*\n?\s*([\d]+[.,]\d+)")
 
 # Cada categoria e um separador ("tab") no dashboard. Para acrescentar uma
 # nova, basta adicionar uma entrada aqui com o URL do outlet ja filtrado
@@ -234,6 +236,32 @@ def wait_for_human(page, timeout_s: int = 300) -> bool:
     return False
 
 
+def load_m2_cache() -> dict[str, float]:
+    if not M2_CAIXA_FILE.exists():
+        return {}
+    try:
+        return json.loads(M2_CAIXA_FILE.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+
+
+def save_m2_cache(cache: dict[str, float]) -> None:
+    M2_CAIXA_FILE.write_text(
+        json.dumps(cache, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8"
+    )
+
+
+def obter_m2_por_caixa(html: str) -> float | None:
+    """'Conteudo da embalagem (em m2)' -- caracteristica fixa do produto
+    (nao muda por loja/preco), usada para converter preco/caixa em preco/m2
+    nos pavimentos. So existe na pagina do proprio produto, nao na listagem."""
+    texto = BeautifulSoup(html, "html.parser").get_text("\n")
+    m = M2_CAIXA_RE.search(texto)
+    if not m:
+        return None
+    return float(m.group(1).replace(",", "."))
+
+
 def load_state(state_file: Path) -> dict:
     if not state_file.exists():
         return {"products": {}}
@@ -290,6 +318,7 @@ def update_store_in_state(state: dict, store_label: str, region: str, products: 
             "dimensao": data["dimensao"],
             "marca": data.get("marca"),
             "retificado": data.get("retificado", False),
+            "m2_caixa": data.get("m2_caixa"),
             "preco_normal": data["preco_normal"],
             "preco_desconto": data["preco_desconto"],
             "preco_final": preco,
@@ -303,8 +332,11 @@ def export_outlet_json(state: dict, out_file: Path) -> int:
     for entry in state["products"].values():
         grupo = por_produto.setdefault(entry["id"], {
             "name": entry["name"], "url": entry["url"], "dimensao": entry["dimensao"],
-            "marca": entry.get("marca"), "retificado": entry.get("retificado", False), "prices": [],
+            "marca": entry.get("marca"), "retificado": entry.get("retificado", False),
+            "m2_caixa": None, "prices": [],
         })
+        if grupo["m2_caixa"] is None and entry.get("m2_caixa") is not None:
+            grupo["m2_caixa"] = entry["m2_caixa"]
         grupo["prices"].append({
             "store": entry["store"],
             "region": entry.get("region", ""),
@@ -325,6 +357,7 @@ def export_outlet_json(state: dict, out_file: Path) -> int:
             "dimensao": data["dimensao"],
             "marca": data.get("marca"),
             "retificado": data.get("retificado", False),
+            "m2_caixa": data.get("m2_caixa"),
             "preco_final": prices[0]["preco_final"],
             "prices": prices,
         })
@@ -359,6 +392,7 @@ def main() -> int:
 
     state = load_state(state_file)
     stores = ordenar_por_antiguidade(stores, state)
+    m2_cache = load_m2_cache() if categoria_slug == "pavimentos" else {}
 
     if "--limit" in sys.argv:
         n = int(sys.argv[sys.argv.index("--limit") + 1])
@@ -410,6 +444,24 @@ def main() -> int:
                     html = page.content()
                     products = parse_listing(html)
                     print(f"  {len(products)} produtos")
+
+                    if categoria_slug == "pavimentos":
+                        novos = [pid for pid in products if pid not in m2_cache]
+                        if novos:
+                            print(f"  a ir buscar m2/caixa a {len(novos)} produtos novos...")
+                        for pid in novos:
+                            try:
+                                page.goto(products[pid]["url"], wait_until="domcontentloaded", timeout=30000)
+                                page.wait_for_timeout(1200)
+                                valor = obter_m2_por_caixa(page.content())
+                                if valor:
+                                    m2_cache[pid] = valor
+                                    save_m2_cache(m2_cache)
+                            except Exception:
+                                pass
+                            time.sleep(random.uniform(4, 8))
+                        for pid, data in products.items():
+                            data["m2_caixa"] = m2_cache.get(pid)
 
                     # Visita valida mesmo com 0 produtos -- pode ser mesmo que
                     # esta loja nao tenha outlet de bases de duche agora.

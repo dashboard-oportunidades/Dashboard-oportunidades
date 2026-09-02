@@ -358,6 +358,14 @@ function desenhar(){
       if (e.distritosAtivos.size > 0) precos = precos.filter(x => e.distritosAtivos.has(x.region));
       if (e.lojaAtiva !== 'todas') precos = precos.filter(x => x.store === e.lojaAtiva);
       if (!precos.length) return null;
+      if (p.m2_caixa){
+        precos = precos.map(x => ({
+          ...x,
+          preco_normal: x.preco_normal / p.m2_caixa,
+          preco_desconto: x.preco_desconto / p.m2_caixa,
+          preco_final: x.preco_final / p.m2_caixa,
+        }));
+      }
       precos = [...precos].sort((a, b) => a.preco_final - b.preco_final);
       return {
         ...p,
@@ -381,31 +389,33 @@ function desenhar(){
     return;
   }
 
-  const linhaLoja = x => {
+  const linhaLoja = (x, unidade) => {
     const temDesconto = x.preco_desconto > 0;
     const detalhe = temDesconto
-      ? `${fmt(x.preco_final)} <span class="antes">(era ${fmt(x.preco_normal)}, -${fmt(x.preco_desconto)})</span>`
-      : fmt(x.preco_final);
+      ? `${fmt(x.preco_final)}${unidade} <span class="antes">(era ${fmt(x.preco_normal)}${unidade}, -${fmt(x.preco_desconto)}${unidade})</span>`
+      : `${fmt(x.preco_final)}${unidade}`;
     return `${x.store}: ${detalhe}`;
   };
 
   const dataCurta = iso => new Date(iso).toLocaleDateString('pt-PT', {day:'numeric', month:'short'});
 
   const linhas = lista.map(p => {
+    const unidade = p.m2_caixa ? '/m²' : '';
     const mostrar = p.prices.slice(0, 3);
     const resto = p.prices.length - mostrar.length;
     const lojasTxt = mostrar
-      .map((x, i) => i === 0 ? `<b>${linhaLoja(x)}</b>` : linhaLoja(x))
+      .map((x, i) => i === 0 ? `<b>${linhaLoja(x, unidade)}</b>` : linhaLoja(x, unidade))
       .join(' · ') + (resto > 0 ? ` · mais ${resto}` : '');
     const dimBadge = p.dimensao ? `<span class="dim">${p.dimensao}</span>` : '';
     const marcaBadge = p.marca ? `<span class="dim">${p.marca}</span>` : '';
     const retBadge = p.retificado ? `<span class="dim">Retificado</span>` : '';
+    const m2Badge = p.m2_caixa ? `<span class="dim">${p.m2_caixa.toLocaleString('pt-PT')} m²/caixa</span>` : '';
     const melhor = p.prices[0];
     const descontoTxt = p.preco_desconto > 0 ? `-${fmt(p.preco_desconto)}` : '—';
     return `<tr>
-      <td class="preco">${fmt(p.preco_final)}</td>
-      <td class="desconto-col">${descontoTxt}</td>
-      <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}${marcaBadge}${retBadge}
+      <td class="preco">${fmt(p.preco_final)}${unidade}</td>
+      <td class="desconto-col">${descontoTxt}${unidade}</td>
+      <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}${marcaBadge}${retBadge}${m2Badge}
         ${evolucao(melhor.history)}</td>
       <td class="lojas">${lojasTxt}</td>
       <td class="quando">${dataCurta(melhor.atualizado)}</td>
