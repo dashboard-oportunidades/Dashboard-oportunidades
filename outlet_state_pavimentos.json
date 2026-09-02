@@ -14,13 +14,13 @@
     "Caldas da Rainha (Leiria)": "2026-09-01T22:40:36+00:00",
     "Carcavelos (Lisboa)": "2026-09-02T15:53:00+00:00",
     "Cascais (Lisboa)": "2026-09-02T15:52:23+00:00",
-    "Castelo Branco (Castelo Branco)": "2026-09-01T22:30:20+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-02T16:12:04+00:00",
     "Chaves (Vila Real)": "2026-09-01T22:38:48+00:00",
-    "Coimbra (Coimbra)": "2026-09-01T22:36:31+00:00",
+    "Coimbra (Coimbra)": "2026-09-02T16:19:42+00:00",
     "Colombo (Lisboa)": "2026-09-01T23:02:55+00:00",
-    "Covilha (Castelo Branco)": "2026-09-01T22:32:07+00:00",
+    "Covilha (Castelo Branco)": "2026-09-02T16:12:49+00:00",
     "Evora (Evora)": "2026-09-01T22:58:07+00:00",
-    "Figueira da Foz (Coimbra)": "2026-09-01T22:38:11+00:00",
+    "Figueira da Foz (Coimbra)": "2026-09-02T16:20:23+00:00",
     "Gaia (Porto)": "2026-09-01T22:54:02+00:00",
     "Gondomar (Porto)": "2026-09-01T22:52:20+00:00",
     "Guarda (Guarda)": "2026-09-01T22:51:40+00:00",
@@ -31,17 +31,17 @@
     "Mafra (Lisboa)": "2026-09-02T15:54:11+00:00",
     "Maia (Porto)": "2026-09-01T22:57:19+00:00",
     "Matosinhos (Porto)": "2026-09-01T22:56:36+00:00",
-    "Montijo (Setubal)": "2026-09-01T22:26:49+00:00",
+    "Montijo (Setubal)": "2026-09-02T16:09:21+00:00",
     "Oeiras (Lisboa)": "2026-09-02T15:43:35+00:00",
     "Penafiel (Porto)": "2026-09-01T22:54:48+00:00",
     "Portimao (Faro)": "2026-09-02T16:04:09+00:00",
     "Sacavem (Lisboa)": "2026-09-02T15:41:28+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-01T22:50:54+00:00",
-    "Santarem (Santarem)": "2026-09-01T22:34:41+00:00",
-    "Setubal (Setubal)": "2026-09-01T22:28:34+00:00",
+    "Santarem (Santarem)": "2026-09-02T16:17:06+00:00",
+    "Setubal (Setubal)": "2026-09-02T16:10:00+00:00",
     "Sintra (Lisboa)": "2026-09-02T15:51:40+00:00",
     "Telheiras (Lisboa)": "2026-09-02T15:47:05+00:00",
-    "Torres Novas (Santarem)": "2026-09-01T22:32:48+00:00",
+    "Torres Novas (Santarem)": "2026-09-02T16:14:44+00:00",
     "Torres Vedras (Lisboa)": "2026-09-02T15:56:08+00:00",
     "Viana do Castelo (Viana do Castelo)": "2026-09-01T23:00:32+00:00",
     "Viseu (Viseu)": "2026-09-01T22:58:55+00:00"
@@ -172,15 +172,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-vidago-cinza-33x33-cm-17326351.html"
     },
     "17516401@Santarem (Santarem)": {
-      "atualizado": "2026-09-01T22:34:41+00:00",
+      "atualizado": "2026-09-02T16:17:06+00:00",
       "dimensao": "25x40",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           10.98
         ]
       ],
       "id": "17516401",
+      "m2_caixa": null,
       "marca": "RECER",
       "name": "Revestimento cerâmico Everlane White 25x40 cm",
       "preco_desconto": 7.01,
@@ -212,15 +213,16 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-everlane-grey-30x60-cm-17516884.html"
     },
     "17581053@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-01T22:30:20+00:00",
+      "atualizado": "2026-09-02T16:12:04+00:00",
       "dimensao": "20x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           10.98
         ]
       ],
       "id": "17581053",
+      "m2_caixa": 1.08,
       "marca": "ECOCERAMIC",
       "name": "Pavimento cerâmico Tibet Moka 20x60 cm",
       "preco_desconto": 4.13,
@@ -312,15 +314,16 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-linea-multicolor-33x47-cm-17607191.html"
     },
     "17607345@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T22:36:31+00:00",
+      "atualizado": "2026-09-02T16:19:42+00:00",
       "dimensao": "33x33",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           10.98
         ]
       ],
       "id": "17607345",
+      "m2_caixa": null,
       "marca": "GRESART",
       "name": "Pavimento cerâmico Matrix bege 33x33 cm Antiderrapante",
       "preco_desconto": 6.26,
@@ -454,15 +457,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-tribeca-branco-20-2x66-2-cm-17985072.html"
     },
     "17985072@Santarem (Santarem)": {
-      "atualizado": "2026-09-01T22:34:41+00:00",
+      "atualizado": "2026-09-02T16:17:06+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           18.98
         ]
       ],
       "id": "17985072",
+      "m2_caixa": 1.2,
       "marca": "ARTENS",
       "name": "Pavimento cerâmico Artens Tribeca branco 20.2x66.2 cm",
       "preco_desconto": 5.37,
@@ -474,15 +478,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-tribeca-branco-20-2x66-2-cm-17985072.html"
     },
     "18962412@Montijo (Setubal)": {
-      "atualizado": "2026-09-01T22:26:49+00:00",
+      "atualizado": "2026-09-02T16:09:21+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           18.98
         ]
       ],
       "id": "18962412",
+      "m2_caixa": 1.07,
       "marca": "RECER",
       "name": "Revestimento cerâmico Trace Black 30x60 cm retificado",
       "preco_desconto": 12.04,
@@ -494,15 +499,16 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-trace-black-30x60-cm-retificado-18962412.html"
     },
     "18966766@Montijo (Setubal)": {
-      "atualizado": "2026-09-01T22:26:49+00:00",
+      "atualizado": "2026-09-02T16:09:21+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           14.98
         ]
       ],
       "id": "18966766",
+      "m2_caixa": 1.13,
       "marca": "RECER",
       "name": "Revestimento cerâmico Recer branco 30x60 cm brilho",
       "preco_desconto": 8.74,
@@ -697,15 +703,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-village-cinza-20x120-cm-81903281.html"
     },
     "81903320@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T22:36:31+00:00",
+      "atualizado": "2026-09-02T16:19:42+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           16.62
         ]
       ],
       "id": "81903320",
+      "m2_caixa": 1.08,
       "marca": "ARTENS",
       "name": "Pavimento / Revestimento cerâmico Artens Mineral Grey 60x60 cm",
       "preco_desconto": 0.0,
@@ -798,15 +805,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-windsor-grey-60x60-cm-81970162.html"
     },
     "81970162@Santarem (Santarem)": {
-      "atualizado": "2026-09-01T22:34:41+00:00",
+      "atualizado": "2026-09-02T16:17:06+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           18.98
         ]
       ],
       "id": "81970162",
+      "m2_caixa": 1.08,
       "marca": "ARTENS",
       "name": "Pavimento cerâmico Artens Windsor Grey 60x60 cm",
       "preco_desconto": 5.85,
@@ -1021,15 +1029,16 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-branco-34x91-5-cm-pura-82220345.html"
     },
     "82222335@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T22:36:31+00:00",
+      "atualizado": "2026-09-02T16:19:42+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           22.97
         ]
       ],
       "id": "82222335",
+      "m2_caixa": 1.26,
       "marca": "ARTENS",
       "name": "Revestimento cerâmico Artens Arctic branco mate 30x60 cm",
       "preco_desconto": 6.5,
@@ -1062,15 +1071,16 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-arctic-branco-mate-30x90-cm-82222337.html"
     },
     "82258373@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-01T22:30:20+00:00",
+      "atualizado": "2026-09-02T16:12:04+00:00",
       "dimensao": "45x45",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           13.98
         ]
       ],
       "id": "82258373",
+      "m2_caixa": 1.24,
       "marca": "GRESCO",
       "name": "Pavimento cerâmico bege 45x45 cm Aleluia Studio",
       "preco_desconto": 8.33,
@@ -1578,15 +1588,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-gayafores-calacatta-gold-60x120-cm-84463945.html"
     },
     "84463945@Figueira da Foz (Coimbra)": {
-      "atualizado": "2026-09-01T22:38:11+00:00",
+      "atualizado": "2026-09-02T16:20:23+00:00",
       "dimensao": "60x120",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           31.98
         ]
       ],
       "id": "84463945",
+      "m2_caixa": 1.44,
       "marca": "GAYA FORES",
       "name": "Pavimento cerâmico Gayafores Calacatta Gold 60x120 cm",
       "preco_desconto": 0.0,
@@ -1780,15 +1791,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-esperda-grey-60x120-cm-84738275.html"
     },
     "84994641@Montijo (Setubal)": {
-      "atualizado": "2026-09-01T22:26:49+00:00",
+      "atualizado": "2026-09-02T16:09:21+00:00",
       "dimensao": "60x120",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           24.99
         ]
       ],
       "id": "84994641",
+      "m2_caixa": 1.44,
       "marca": "ARTENS",
       "name": "Revestimento cerâmico 60x120 cm Artens Amazonia",
       "preco_desconto": 11,
@@ -1862,15 +1874,16 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-revigres-limestone-antique-sand-10x60cm-85105569.html"
     },
     "85105569@Santarem (Santarem)": {
-      "atualizado": "2026-09-01T22:34:41+00:00",
+      "atualizado": "2026-09-02T16:17:06+00:00",
       "dimensao": "10x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           2.98
         ]
       ],
       "id": "85105569",
+      "m2_caixa": null,
       "marca": "REVIGRES",
       "name": "Revestimento cerâmico REVIGRES LIMESTONE ANTIQUE SAND 10X60CM",
       "preco_desconto": 3.01,
@@ -2064,15 +2077,16 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-almond-36x43-cm-85105822.html"
     },
     "85172033@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T22:36:31+00:00",
+      "atualizado": "2026-09-02T16:19:42+00:00",
       "dimensao": "44x44",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           19.98
         ]
       ],
       "id": "85172033",
+      "m2_caixa": 1.16,
       "marca": "DOMINO",
       "name": "Pavimento cerâmico 44x44 cm Absolute Universe",
       "preco_desconto": 12.49,
@@ -2228,15 +2242,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-muse-coal-satin-60x60-cm-86757696.html"
     },
     "86757696@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T22:36:31+00:00",
+      "atualizado": "2026-09-02T16:19:42+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           17.98
         ]
       ],
       "id": "86757696",
+      "m2_caixa": 1.08,
       "marca": "ALELUIA",
       "name": "Pavimento cerâmico Muse Coal Satin 60x60 cm",
       "preco_desconto": 11.17,
@@ -2268,15 +2283,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-ada-miel-20x60-cm-6mm-geotiles-87071653.html"
     },
     "87071654@Santarem (Santarem)": {
-      "atualizado": "2026-09-01T22:34:41+00:00",
+      "atualizado": "2026-09-02T16:17:06+00:00",
       "dimensao": "20x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           20.98
         ]
       ],
       "id": "87071654",
+      "m2_caixa": 1.56,
       "marca": "GEOTILES",
       "name": "Pavimento cerâmico Ada Tan 20x60 cm GEOTILES",
       "preco_desconto": 13.32,
@@ -3049,15 +3065,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-tello-20x120-cm-89176836.html"
     },
     "89490061@Torres Novas (Santarem)": {
-      "atualizado": "2026-09-01T22:32:48+00:00",
+      "atualizado": "2026-09-02T16:14:44+00:00",
       "dimensao": "20x40",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           8.98
         ]
       ],
       "id": "89490061",
+      "m2_caixa": null,
       "marca": "REVIGRES",
       "name": "Revestimento cerâmico Retro Aqua brilhante natural 20X40CM",
       "preco_desconto": 3.25,
@@ -3129,15 +3146,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-time-2-0-snow-60x60-cm-natural-retificado-margres-90492244.html"
     },
     "90492245@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T22:36:31+00:00",
+      "atualizado": "2026-09-02T16:19:42+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           39.97
         ]
       ],
       "id": "90492245",
+      "m2_caixa": null,
       "marca": "GRESPANIA",
       "name": "Pavimento cerâmico Time 2.0 snow 60x60 cm polido retificado Margres",
       "preco_desconto": 3,
@@ -3149,15 +3167,16 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-time-2-0-snow-60x60-cm-polido-retificado-margres-90492245.html"
     },
     "90787360@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T22:36:31+00:00",
+      "atualizado": "2026-09-02T16:19:42+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-02",
           24.97
         ]
       ],
       "id": "90787360",
+      "m2_caixa": 1.44,
       "marca": "GRESART",
       "name": "Pavimento cerâmico 60X60CM Avant cinza anti-slip",
       "preco_desconto": 0.0,
