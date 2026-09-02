@@ -397,7 +397,7 @@ function desenhar(){
     const lojasTxt = mostrar
       .map((x, i) => i === 0 ? `<b>${linhaLoja(x)}</b>` : linhaLoja(x))
       .join(' · ') + (resto > 0 ? ` · mais ${resto}` : '');
-    const dimBadge = p.dimensao ? `<span class="dim">${dimCanonica(p.dimensao)}</span>` : '';
+    const dimBadge = p.dimensao ? `<span class="dim">${p.dimensao}</span>` : '';
     const marcaBadge = p.marca ? `<span class="dim">${p.marca}</span>` : '';
     const retBadge = p.retificado ? `<span class="dim">Retificado</span>` : '';
     const melhor = p.prices[0];

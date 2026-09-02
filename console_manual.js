@@ -43,7 +43,7 @@
         const btuBare = nome.match(/(?<![\d.])(\d{1,2})\s*BTU/i);
         const lit = nome.match(/(\d{2,4})\s*[lL](?:itros?)?\b/);
         let dimensao = null;
-        if (dim) dimensao = `${Math.max(+dim[1], +dim[2])}x${Math.min(+dim[1], +dim[2])}`;
+        if (dim) dimensao = `${dim[1]}x${dim[2]}`;
         else if (btu) dimensao = `${btu[1]} BTU`;
         else if (btuK) dimensao = `${+btuK[1] * 1000} BTU`;
         else if (btuDot) dimensao = `${+btuDot[1] * 1000} BTU`;

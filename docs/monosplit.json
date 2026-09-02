@@ -1,11 +1,13 @@
 {
-  "generated": "2026-09-01T12:17:59+00:00",
+  "generated": "2026-09-02T07:54:41+00:00",
   "products": [
     {
       "id": "89876291",
       "name": "Ar Condicionado 1x1 ELUXE 4.0 2.6kW 9000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-eluxe-4-0-2-6kw-9000btu-89876291.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 188,
       "prices": [
         {
@@ -29,6 +31,8 @@
       "name": "Ar condicionado 1x1 WIND WD25-RD1 9 KBTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-wind-wd25-rd1-9-kbtu-94727281.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 198,
       "prices": [
         {
@@ -52,6 +56,8 @@
       "name": "Ar condicionado fixo (1X1) ELUXE AMBER 12000 BTU R32",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber-12000-btu-r32-82143593.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 248,
       "prices": [
         {
@@ -75,6 +81,8 @@
       "name": "Ar Condicionado 1X1 ELUXE AMBER PLUS 12KBTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-eluxe-amber-plus-12kbtu-93939065.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 269,
       "prices": [
         {
@@ -98,6 +106,8 @@
       "name": "Ar condicionado fixo (1X1) HTW IX39B R32 9000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39b-r32-9000btu-82198934.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 298,
       "prices": [
         {
@@ -121,6 +131,8 @@
       "name": "Ar condicionado fixo (1X1) HTW IX39B4 9000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39b4-9000-btu-86918508.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 298,
       "prices": [
         {
@@ -158,6 +170,8 @@
       "name": "Ar condicionado (1X1) 9KBTU IX39B5 HTW",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-9kbtu-ix39b5-htw-89876293.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 299,
       "prices": [
         {
@@ -181,6 +195,8 @@
       "name": "Ar condicionado fixo (1x1) HTW IX39 Plus 12 KBTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39-plus-12-kbtu-98196849.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 308,
       "prices": [
         {
@@ -218,6 +234,8 @@
       "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 328,
       "prices": [
         {
@@ -325,6 +343,8 @@
       "name": "Ar condicionado (1X1) 12KBTU IX39B5 HTW",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-12kbtu-ix39b5-htw-89876294.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 339,
       "prices": [
         {
@@ -348,6 +368,8 @@
       "name": "Ar condicionado fixo (1X1) INDESIT 12 KBTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-indesit-12-kbtu-72845777.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 359,
       "prices": [
         {
@@ -381,10 +403,37 @@
       ]
     },
     {
+      "id": "82367424",
+      "name": "Ar condicionado fixo (1X1) EQUATION 9000 BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-9000-btu-r32-82367424.html",
+      "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
+      "preco_final": 368,
+      "prices": [
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 368,
+          "preco_desconto": 0.0,
+          "preco_final": 368,
+          "atualizado": "2026-09-01T12:14:27+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              368
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "85280679",
       "name": "Ar condicionado fixo (1X1)  EQUATION ENKI WIFI 9000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-enki-wifi-9000-btu-85280679.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 368,
       "prices": [
         {
@@ -418,33 +467,12 @@
       ]
     },
     {
-      "id": "82367424",
-      "name": "Ar condicionado fixo (1X1) EQUATION 9000 BTU R32",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-9000-btu-r32-82367424.html",
-      "dimensao": "9000 BTU",
-      "preco_final": 368,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 368,
-          "preco_desconto": 0.0,
-          "preco_final": 368,
-          "atualizado": "2026-09-01T12:14:27+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              368
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86733733",
       "name": "Ar condicionado fixo (1x1) New Luso KC25YR03 WIFI 9000 BTU Hisense",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 378,
       "prices": [
         {
@@ -636,6 +664,8 @@
       "name": "Ar condicionado fixo (1x1) HAIER TIDE 9000BTU WIFI BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-tide-9000btu-wifi-branco-83791821.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 388,
       "prices": [
         {
@@ -659,6 +689,8 @@
       "name": "Ar condicionado fixo (1X1) EQUATION 12000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000btu-82063484.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 408,
       "prices": [
         {
@@ -678,10 +710,37 @@
       ]
     },
     {
+      "id": "82204387",
+      "name": "Ar condicionado fixo (1X1) FUJITSU ASY25UI-KP R32 9000BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-fujitsu-asy25ui-kp-r32-9000btu-82204387.html",
+      "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
+      "preco_final": 408,
+      "prices": [
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-01T12:14:27+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              408
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82367425",
       "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 408,
       "prices": [
         {
@@ -705,6 +764,8 @@
       "name": "Ar condicionado fixo (1x1) HAIER TIDE 12000BTU WIFI BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-tide-12000btu-wifi-branco-83791822.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 408,
       "prices": [
         {
@@ -724,33 +785,12 @@
       ]
     },
     {
-      "id": "82204387",
-      "name": "Ar condicionado fixo (1X1) FUJITSU ASY25UI-KP R32 9000BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-fujitsu-asy25ui-kp-r32-9000btu-82204387.html",
-      "dimensao": "9000 BTU",
-      "preco_final": 408,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-09-01T12:14:27+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              408
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "83791819",
       "name": "Ar condicionado fixo (1x1) HAIER PERLA 9000BTU WIFI BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-perla-9000btu-wifi-branco-83791819.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 418,
       "prices": [
         {
@@ -774,6 +814,8 @@
       "name": "Ar condicionado fixo (1x1) HISENSE KC35YR03 WIFI 12000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-kc35yr03-wifi-12000-btu-86733851.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 418,
       "prices": [
         {
@@ -811,6 +853,8 @@
       "name": "Ar condicionado monosplit 12000 BTU Alys Ariston",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-monosplit-12000-btu-alys-ariston-90690401.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 438,
       "prices": [
         {
@@ -834,6 +878,8 @@
       "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 488,
       "prices": [
         {
@@ -1221,6 +1267,8 @@
       "name": "Ar condicionado DS - 12000 Btu KD Wi-Fi Daitsu Cool Pro Design",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ds-12000-btu-kd-wi-fi-daitsu-cool-pro-design-88040809.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 488,
       "prices": [
         {
@@ -1244,6 +1292,8 @@
       "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 498,
       "prices": [
         {
@@ -1407,6 +1457,8 @@
       "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 12000BTU R32",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-12000btu-r32-84567639.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 518,
       "prices": [
         {
@@ -1444,6 +1496,8 @@
       "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK12Z6L-W 12000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 528,
       "prices": [
         {
@@ -1565,6 +1619,8 @@
       "name": "Ar condicionado fixo (1X1) ELUXE Amber3 24KBTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber3-24kbtu-98196845.html",
       "dimensao": "24000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 568,
       "prices": [
         {
@@ -1616,6 +1672,8 @@
       "name": "Pack ar condicionado fixo + unidade exterior HAIER FLEXIS 12000BTU WIFI PRETO",
       "url": "https://www.leroymerlin.pt/produtos/pack-ar-condicionado-fixo-unidade-exterior-haier-flexis-12000btu-wifi-preto-83791809.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 578,
       "prices": [
         {
@@ -1639,6 +1697,8 @@
       "name": "MONOSPLIT MURAL  HISENSE COMFORT 9.BTU WIFI",
       "url": "https://www.leroymerlin.pt/produtos/monosplit-mural-hisense-comfort-9-btu-wifi-92500112.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 588,
       "prices": [
         {
@@ -1690,6 +1750,8 @@
       "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI PRETO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-preto-83791808.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 618,
       "prices": [
         {
@@ -1713,6 +1775,8 @@
       "name": "Monosplit mural HISENSE CONFORT 12 KBTU",
       "url": "https://www.leroymerlin.pt/produtos/monosplit-mural-hisense-confort-12-kbtu-92500113.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 628,
       "prices": [
         {
@@ -1736,6 +1800,8 @@
       "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 12000BTU WIFI BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-12000btu-wifi-branco-83791802.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 658,
       "prices": [
         {
@@ -1773,6 +1839,8 @@
       "name": "Ar condicionado fixo (1X1) SAMSUNG AVANT 9 BTU WF R32",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-samsung-avant-9-btu-wf-r32-82568726.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 728,
       "prices": [
         {
@@ -1796,6 +1864,8 @@
       "name": "Ar condicionado fixo (1X1) MITSUBISHI PREMIUM 9000BTU TITÂNIO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-premium-9000btu-titanio-82156855.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 748,
       "prices": [
         {
@@ -1819,6 +1889,8 @@
       "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 798,
       "prices": [
         {
@@ -1996,6 +2068,8 @@
       "name": "Ar condicionado fixo (1X1) Hisense Energy Pro R32 9000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-9000-btu-87421093.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 828,
       "prices": [
         {
@@ -2033,6 +2107,8 @@
       "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK15Z6L-W 15000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk15z6l-w-15000btu-82558730.html",
       "dimensao": "15000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 888,
       "prices": [
         {
@@ -2084,6 +2160,8 @@
       "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 12000 BTU IONIZADOR",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 898,
       "prices": [
         {
@@ -2261,6 +2339,8 @@
       "name": "Ar condicionado fixo (1X1) Hisense Energy Pro R32 12000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-12000-btu-87421092.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 938,
       "prices": [
         {
@@ -2312,6 +2392,8 @@
       "name": "Ar Condicionado 1X1 HISENSE ENERGY PRO X 12KBTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-hisense-energy-pro-x-12kbtu-94199510.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 938,
       "prices": [
         {
@@ -2335,6 +2417,8 @@
       "name": "Ar condicionado fixo (1X1) HAIER CHAO/TECTO 12KBTU WIFI A++/A+",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-chao-tecto-12kbtu-wifi-a-a-82548114.html",
       "dimensao": "12000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 959,
       "prices": [
         {
@@ -2358,6 +2442,8 @@
       "name": "Ar condicionado fixo (1X1) Mitsubishi Premium-WIFI branco R32 9000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-premium-wifi-branco-r32-9000-btu-86584991.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 999,
       "prices": [
         {
@@ -2381,6 +2467,8 @@
       "name": "Ar condicionado fixo (1X1) MITSUBISHI DIAMOND SRK25ZSX-W 9000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-diamond-srk25zsx-w-9000btu-82156863.html",
       "dimensao": "9000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 1078,
       "prices": [
         {
@@ -2432,6 +2520,8 @@
       "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 24000BTU WIFI BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-24000btu-wifi-branco-83791804.html",
       "dimensao": "24000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 1078,
       "prices": [
         {
@@ -2455,6 +2545,8 @@
       "name": "Ar condicionado fixo (1X1) HISENSE MURAL COMFORT 24000 BTU WI FI",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-mural-comfort-24000-btu-wi-fi-82577669.html",
       "dimensao": "24000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 1328,
       "prices": [
         {
@@ -2478,6 +2570,8 @@
       "name": "Ar condicionado 1x1 Mitsubishi smart srk-z6l 21kbtu wifi",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-mitsubishi-smart-srk-z6l-21kbtu-wifi-94395083.html",
       "dimensao": "21000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 1418,
       "prices": [
         {
@@ -2501,6 +2595,8 @@
       "name": "Ar condicionado fixo (1X1) Mitsubishi LMK-Global R32 24000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk-global-r32-24000-btu-86584981.html",
       "dimensao": "24000 BTU",
+      "marca": null,
+      "retificado": false,
       "preco_final": 1899,
       "prices": [
         {

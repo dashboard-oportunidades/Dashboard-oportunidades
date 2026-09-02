@@ -103,7 +103,7 @@ def extrair_atributo(name: str) -> str | None:
     dim_match = DIM_RE.search(name)
     if dim_match:
         a, b = int(dim_match.group(1)), int(dim_match.group(2))
-        return f"{max(a, b)}x{min(a, b)}"
+        return f"{a}x{b}"
     btu_match = BTU_RE.search(name)
     if btu_match:
         return f"{btu_match.group(1)} BTU"

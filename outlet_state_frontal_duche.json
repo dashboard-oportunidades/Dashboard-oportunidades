@@ -1,7 +1,7 @@
 {
   "lojas": {
     "Albufeira (Faro)": "2026-09-01T14:15:14+00:00",
-    "Alfragide (Lisboa)": "2026-09-01T13:48:34+00:00",
+    "Alfragide (Lisboa)": "2026-09-01T15:08:08+00:00",
     "Almada (Setubal)": "2026-09-01T14:19:38+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-01T15:05:18+00:00",
     "Alverca (Lisboa)": "2026-09-01T14:12:50+00:00",
@@ -49,7 +49,7 @@
   "products": {
     "16954273@Gaia (Porto)": {
       "atualizado": "2026-09-01T14:53:16+00:00",
-      "dimensao": "91x87",
+      "dimensao": "87x91",
       "history": [
         [
           "2026-09-01",
@@ -85,7 +85,7 @@
     },
     "16954595@Leiria (Leiria)": {
       "atualizado": "2026-09-01T14:38:42+00:00",
-      "dimensao": "129x124",
+      "dimensao": "124x129",
       "history": [
         [
           "2026-09-01",
@@ -211,7 +211,7 @@
     },
     "82209755@Alverca (Lisboa)": {
       "atualizado": "2026-09-01T14:12:50+00:00",
-      "dimensao": "195x100",
+      "dimensao": "100x195",
       "history": [
         [
           "2026-09-01",
@@ -229,7 +229,7 @@
     },
     "82209759@Aveiro (Aveiro)": {
       "atualizado": "2026-09-01T14:47:11+00:00",
-      "dimensao": "195x120",
+      "dimensao": "120x195",
       "history": [
         [
           "2026-09-01",
@@ -247,7 +247,7 @@
     },
     "82209759@Evora (Evora)": {
       "atualizado": "2026-09-01T15:00:03+00:00",
-      "dimensao": "195x120",
+      "dimensao": "120x195",
       "history": [
         [
           "2026-09-01",
@@ -265,7 +265,7 @@
     },
     "82209759@Gondomar (Porto)": {
       "atualizado": "2026-09-01T14:51:27+00:00",
-      "dimensao": "195x120",
+      "dimensao": "120x195",
       "history": [
         [
           "2026-09-01",
@@ -283,7 +283,7 @@
     },
     "82209761@Gaia (Porto)": {
       "atualizado": "2026-09-01T14:53:16+00:00",
-      "dimensao": "195x140",
+      "dimensao": "140x195",
       "history": [
         [
           "2026-09-01",
@@ -301,7 +301,7 @@
     },
     "82209762@Colombo (Lisboa)": {
       "atualizado": "2026-09-01T15:06:55+00:00",
-      "dimensao": "195x140",
+      "dimensao": "140x195",
       "history": [
         [
           "2026-09-01",
@@ -318,8 +318,8 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-140x195-cm-sensea-remix-82209762.html"
     },
     "82209764@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-01T13:48:34+00:00",
-      "dimensao": "195x160",
+      "atualizado": "2026-09-01T15:08:08+00:00",
+      "dimensao": "160x195",
       "history": [
         [
           "2026-09-01",
@@ -337,7 +337,7 @@
     },
     "82209765@Guarda (Guarda)": {
       "atualizado": "2026-09-01T14:50:32+00:00",
-      "dimensao": "195x160",
+      "dimensao": "160x195",
       "history": [
         [
           "2026-09-01",
@@ -355,7 +355,7 @@
     },
     "82209765@Leiria (Leiria)": {
       "atualizado": "2026-09-01T14:38:42+00:00",
-      "dimensao": "195x160",
+      "dimensao": "160x195",
       "history": [
         [
           "2026-09-01",
@@ -373,7 +373,7 @@
     },
     "82209770@Evora (Evora)": {
       "atualizado": "2026-09-01T15:00:03+00:00",
-      "dimensao": "195x80",
+      "dimensao": "80x195",
       "history": [
         [
           "2026-09-01",
@@ -391,7 +391,7 @@
     },
     "82209770@Maia (Porto)": {
       "atualizado": "2026-09-01T14:58:17+00:00",
-      "dimensao": "195x80",
+      "dimensao": "80x195",
       "history": [
         [
           "2026-09-01",
@@ -409,7 +409,7 @@
     },
     "82209771@Almada (Setubal)": {
       "atualizado": "2026-09-01T14:19:38+00:00",
-      "dimensao": "195x80",
+      "dimensao": "80x195",
       "history": [
         [
           "2026-09-01",
@@ -427,7 +427,7 @@
     },
     "82209771@Aveiro (Aveiro)": {
       "atualizado": "2026-09-01T14:47:11+00:00",
-      "dimensao": "195x80",
+      "dimensao": "80x195",
       "history": [
         [
           "2026-09-01",
@@ -445,7 +445,7 @@
     },
     "82209771@Portimao (Faro)": {
       "atualizado": "2026-09-01T14:17:05+00:00",
-      "dimensao": "195x80",
+      "dimensao": "80x195",
       "history": [
         [
           "2026-09-01",
@@ -463,7 +463,7 @@
     },
     "82209771@Santarem (Santarem)": {
       "atualizado": "2026-09-01T14:30:09+00:00",
-      "dimensao": "195x80",
+      "dimensao": "80x195",
       "history": [
         [
           "2026-09-01",
@@ -481,7 +481,7 @@
     },
     "82209773@Gaia (Porto)": {
       "atualizado": "2026-09-01T14:53:16+00:00",
-      "dimensao": "195x90",
+      "dimensao": "90x195",
       "history": [
         [
           "2026-09-01",
@@ -499,7 +499,7 @@
     },
     "82209785@Castelo Branco (Castelo Branco)": {
       "atualizado": "2026-09-01T14:25:01+00:00",
-      "dimensao": "195x90",
+      "dimensao": "90x195",
       "history": [
         [
           "2026-09-01",
@@ -517,7 +517,7 @@
     },
     "82209796@Guarda (Guarda)": {
       "atualizado": "2026-09-01T14:50:32+00:00",
-      "dimensao": "195x80",
+      "dimensao": "80x195",
       "history": [
         [
           "2026-09-01",
@@ -535,7 +535,7 @@
     },
     "82242429@Coimbra (Coimbra)": {
       "atualizado": "2026-09-01T14:31:51+00:00",
-      "dimensao": "200x100",
+      "dimensao": "100x200",
       "history": [
         [
           "2026-09-01",
@@ -553,7 +553,7 @@
     },
     "82242433@Amadora (Lisboa)": {
       "atualizado": "2026-09-01T13:57:14+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -571,7 +571,7 @@
     },
     "82242433@Gaia (Porto)": {
       "atualizado": "2026-09-01T14:53:16+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -589,7 +589,7 @@
     },
     "82242434@Portimao (Faro)": {
       "atualizado": "2026-09-01T14:17:05+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -607,7 +607,7 @@
     },
     "82242437@Albufeira (Faro)": {
       "atualizado": "2026-09-01T14:15:14+00:00",
-      "dimensao": "200x140",
+      "dimensao": "140x200",
       "history": [
         [
           "2026-09-01",
@@ -625,7 +625,7 @@
     },
     "82242437@Aveiro (Aveiro)": {
       "atualizado": "2026-09-01T14:47:11+00:00",
-      "dimensao": "200x140",
+      "dimensao": "140x200",
       "history": [
         [
           "2026-09-01",
@@ -643,7 +643,7 @@
     },
     "82242437@Braga (Braga)": {
       "atualizado": "2026-09-01T14:42:13+00:00",
-      "dimensao": "200x140",
+      "dimensao": "140x200",
       "history": [
         [
           "2026-09-01",
@@ -661,7 +661,7 @@
     },
     "82242437@Leiria (Leiria)": {
       "atualizado": "2026-09-01T14:38:42+00:00",
-      "dimensao": "200x140",
+      "dimensao": "140x200",
       "history": [
         [
           "2026-09-01",
@@ -679,7 +679,7 @@
     },
     "82242437@Matosinhos (Porto)": {
       "atualizado": "2026-09-01T14:56:38+00:00",
-      "dimensao": "200x140",
+      "dimensao": "140x200",
       "history": [
         [
           "2026-09-01",
@@ -697,7 +697,7 @@
     },
     "82242441@Gaia (Porto)": {
       "atualizado": "2026-09-01T14:53:16+00:00",
-      "dimensao": "200x160",
+      "dimensao": "160x200",
       "history": [
         [
           "2026-09-01",
@@ -715,7 +715,7 @@
     },
     "82242446@Braganca (Braganca)": {
       "atualizado": "2026-09-01T14:40:27+00:00",
-      "dimensao": "200x170",
+      "dimensao": "170x200",
       "history": [
         [
           "2026-09-01",
@@ -733,7 +733,7 @@
     },
     "82242449@Viseu (Viseu)": {
       "atualizado": "2026-09-01T15:01:49+00:00",
-      "dimensao": "200x180",
+      "dimensao": "180x200",
       "history": [
         [
           "2026-09-01",
@@ -751,7 +751,7 @@
     },
     "82242454@Matosinhos (Porto)": {
       "atualizado": "2026-09-01T14:56:38+00:00",
-      "dimensao": "200x80",
+      "dimensao": "80x200",
       "history": [
         [
           "2026-09-01",
@@ -769,7 +769,7 @@
     },
     "82242461@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-01T15:05:18+00:00",
-      "dimensao": "200x100",
+      "dimensao": "100x200",
       "history": [
         [
           "2026-09-01",
@@ -787,7 +787,7 @@
     },
     "82242462@Caldas da Rainha (Leiria)": {
       "atualizado": "2026-09-01T14:37:05+00:00",
-      "dimensao": "200x100",
+      "dimensao": "100x200",
       "history": [
         [
           "2026-09-01",
@@ -805,7 +805,7 @@
     },
     "82242470@Castelo Branco (Castelo Branco)": {
       "atualizado": "2026-09-01T14:25:01+00:00",
-      "dimensao": "200x140",
+      "dimensao": "140x200",
       "history": [
         [
           "2026-09-01",
@@ -823,7 +823,7 @@
     },
     "82242473@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-01T15:05:18+00:00",
-      "dimensao": "200x160",
+      "dimensao": "160x200",
       "history": [
         [
           "2026-09-01",
@@ -841,7 +841,7 @@
     },
     "82281795@Loule (Faro)": {
       "atualizado": "2026-09-01T14:13:36+00:00",
-      "dimensao": "200x116",
+      "dimensao": "116x200",
       "history": [
         [
           "2026-09-01",
@@ -859,7 +859,7 @@
     },
     "82281996@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-01T15:05:18+00:00",
-      "dimensao": "200x116",
+      "dimensao": "116x200",
       "history": [
         [
           "2026-09-01",
@@ -877,7 +877,7 @@
     },
     "82351891@Viana do Castelo (Viana do Castelo)": {
       "atualizado": "2026-09-01T15:03:29+00:00",
-      "dimensao": "200x170",
+      "dimensao": "170x200",
       "history": [
         [
           "2026-09-01",
@@ -912,8 +912,8 @@
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-serigrafado-preto-200x200-cm-tala-3-82352333.html"
     },
     "82391559@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-01T13:48:34+00:00",
-      "dimensao": "195x160",
+      "atualizado": "2026-09-01T15:08:08+00:00",
+      "dimensao": "160x195",
       "history": [
         [
           "2026-09-01",
@@ -949,7 +949,7 @@
     },
     "84659294@Maia (Porto)": {
       "atualizado": "2026-09-01T14:58:17+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -967,7 +967,7 @@
     },
     "85868111@Viana do Castelo (Viana do Castelo)": {
       "atualizado": "2026-09-01T15:03:29+00:00",
-      "dimensao": "198x110",
+      "dimensao": "110x198",
       "history": [
         [
           "2026-09-01",
@@ -985,7 +985,7 @@
     },
     "87274291@Albufeira (Faro)": {
       "atualizado": "2026-09-01T14:15:14+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1003,7 +1003,7 @@
     },
     "87274291@Almada (Setubal)": {
       "atualizado": "2026-09-01T14:19:38+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1021,7 +1021,7 @@
     },
     "87274291@Amadora (Lisboa)": {
       "atualizado": "2026-09-01T13:57:14+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1039,7 +1039,7 @@
     },
     "87274291@Aveiro (Aveiro)": {
       "atualizado": "2026-09-01T14:47:11+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1057,7 +1057,7 @@
     },
     "87274291@Braga (Braga)": {
       "atualizado": "2026-09-01T14:42:13+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1075,7 +1075,7 @@
     },
     "87274291@Gaia (Porto)": {
       "atualizado": "2026-09-01T14:53:16+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1093,7 +1093,7 @@
     },
     "87274291@Leiria (Leiria)": {
       "atualizado": "2026-09-01T14:38:42+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1111,7 +1111,7 @@
     },
     "87274291@Loule (Faro)": {
       "atualizado": "2026-09-01T14:13:36+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1129,7 +1129,7 @@
     },
     "87274291@Maia (Porto)": {
       "atualizado": "2026-09-01T14:58:17+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1147,7 +1147,7 @@
     },
     "87274291@Matosinhos (Porto)": {
       "atualizado": "2026-09-01T14:56:38+00:00",
-      "dimensao": "200x120",
+      "dimensao": "120x200",
       "history": [
         [
           "2026-09-01",
@@ -1165,7 +1165,7 @@
     },
     "87274339@Montijo (Setubal)": {
       "atualizado": "2026-09-01T14:21:37+00:00",
-      "dimensao": "200x150",
+      "dimensao": "150x200",
       "history": [
         [
           "2026-09-01",
@@ -1183,7 +1183,7 @@
     },
     "87870009@Cascais (Lisboa)": {
       "atualizado": "2026-09-01T14:07:54+00:00",
-      "dimensao": "200x100",
+      "dimensao": "100x200",
       "history": [
         [
           "2026-09-01",
@@ -1201,7 +1201,7 @@
     },
     "87870113@Cascais (Lisboa)": {
       "atualizado": "2026-09-01T14:07:54+00:00",
-      "dimensao": "200x90",
+      "dimensao": "90x200",
       "history": [
         [
           "2026-09-01",
@@ -1219,7 +1219,7 @@
     },
     "89153200@Almada (Setubal)": {
       "atualizado": "2026-09-01T14:19:38+00:00",
-      "dimensao": "200x130",
+      "dimensao": "130x200",
       "history": [
         [
           "2026-09-01",
@@ -1237,7 +1237,7 @@
     },
     "93403497@Matosinhos (Porto)": {
       "atualizado": "2026-09-01T14:56:38+00:00",
-      "dimensao": "200x140",
+      "dimensao": "140x200",
       "history": [
         [
           "2026-09-01",
@@ -1255,7 +1255,7 @@
     },
     "93403719@Matosinhos (Porto)": {
       "atualizado": "2026-09-01T14:56:38+00:00",
-      "dimensao": "200x160",
+      "dimensao": "160x200",
       "history": [
         [
           "2026-09-01",
