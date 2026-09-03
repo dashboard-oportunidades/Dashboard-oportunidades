@@ -9,13 +9,13 @@
     "Aveiro (Aveiro)": "2026-09-02T19:05:46+00:00",
     "Barcelos (Braga)": "2026-09-02T19:13:37+00:00",
     "Barreiro (Setubal)": "2026-09-02T19:22:52+00:00",
-    "Braga (Braga)": "2026-09-02T18:46:54+00:00",
-    "Braganca (Braganca)": "2026-09-02T18:38:55+00:00",
+    "Braga (Braga)": "2026-09-03T15:39:06+00:00",
+    "Braganca (Braganca)": "2026-09-03T15:34:54+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-02T18:50:21+00:00",
     "Carcavelos (Lisboa)": "2026-09-02T19:26:47+00:00",
     "Cascais (Lisboa)": "2026-09-03T15:28:10+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-02T18:57:09+00:00",
-    "Chaves (Vila Real)": "2026-09-02T18:40:33+00:00",
+    "Chaves (Vila Real)": "2026-09-03T15:35:38+00:00",
     "Coimbra (Coimbra)": "2026-09-02T19:00:34+00:00",
     "Colombo (Lisboa)": "2026-09-03T15:27:35+00:00",
     "Covilha (Castelo Branco)": "2026-09-02T18:58:50+00:00",
@@ -23,8 +23,8 @@
     "Figueira da Foz (Coimbra)": "2026-09-02T19:04:01+00:00",
     "Gaia (Porto)": "2026-09-02T19:09:49+00:00",
     "Gondomar (Porto)": "2026-09-02T19:08:05+00:00",
-    "Guarda (Guarda)": "2026-09-02T18:42:58+00:00",
-    "Guimaraes (Braga)": "2026-09-02T18:43:39+00:00",
+    "Guarda (Guarda)": "2026-09-03T15:36:54+00:00",
+    "Guimaraes (Braga)": "2026-09-03T15:37:36+00:00",
     "Leiria (Leiria)": "2026-09-02T18:51:58+00:00",
     "Loule (Faro)": "2026-09-02T19:16:10+00:00",
     "Loures (Lisboa)": "2026-09-03T15:32:31+00:00",
@@ -33,11 +33,11 @@
     "Matosinhos (Porto)": "2026-09-02T19:07:20+00:00",
     "Montijo (Setubal)": "2026-09-02T18:55:25+00:00",
     "Oeiras (Lisboa)": "2026-09-02T19:26:03+00:00",
-    "Penafiel (Porto)": "2026-09-02T18:42:20+00:00",
+    "Penafiel (Porto)": "2026-09-03T15:36:12+00:00",
     "Portimao (Faro)": "2026-09-02T19:17:54+00:00",
-    "Sacavem (Lisboa)": "2026-09-02T18:37:16+00:00",
+    "Sacavem (Lisboa)": "2026-09-03T15:34:17+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-02T19:11:24+00:00",
-    "Santarem (Santarem)": "2026-09-02T18:45:15+00:00",
+    "Santarem (Santarem)": "2026-09-03T15:38:21+00:00",
     "Setubal (Setubal)": "2026-09-02T19:20:19+00:00",
     "Sintra (Lisboa)": "2026-09-03T15:30:37+00:00",
     "Telheiras (Lisboa)": "2026-09-03T15:29:50+00:00",
@@ -90,11 +90,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-evolution-120x70cm-retangular-17757411.html"
     },
     "18349163@Sacavem (Lisboa)": {
-      "atualizado": "2026-09-02T18:37:16+00:00",
+      "atualizado": "2026-09-03T15:34:17+00:00",
       "dimensao": "160x70",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           199
         ]
       ],
@@ -258,11 +258,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-160x70cm-82002225.html"
     },
     "82002225@Braga (Braga)": {
-      "atualizado": "2026-09-02T18:46:54+00:00",
+      "atualizado": "2026-09-03T15:39:06+00:00",
       "dimensao": "160x70",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           278
         ]
       ],
@@ -277,6 +277,27 @@
       "retificado": false,
       "store": "Braga (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-160x70cm-82002225.html"
+    },
+    "82002236@Santarem (Santarem)": {
+      "atualizado": "2026-09-03T15:38:21+00:00",
+      "dimensao": "90x70",
+      "history": [
+        [
+          "2026-09-03",
+          129.99
+        ]
+      ],
+      "id": "82002236",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 90X70CM",
+      "preco_desconto": 58.01,
+      "preco_final": 129.99,
+      "preco_normal": 188,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-90x70cm-82002236.html"
     },
     "82002238@Montijo (Setubal)": {
       "atualizado": "2026-09-02T18:55:25+00:00",
@@ -300,11 +321,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-120x70cm-82002238.html"
     },
     "82097259@Guarda (Guarda)": {
-      "atualizado": "2026-09-02T18:42:58+00:00",
+      "atualizado": "2026-09-03T15:36:54+00:00",
       "dimensao": "160x70",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           668
         ]
       ],
@@ -321,11 +342,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-preto-maya-pedra-82097259.html"
     },
     "82271967@Braga (Braga)": {
-      "atualizado": "2026-09-02T18:46:54+00:00",
+      "atualizado": "2026-09-03T15:39:06+00:00",
       "dimensao": "120x70",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           297
         ]
       ],
@@ -531,11 +552,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-150x80-cm-moka-mate-efeito-ardosia-obath-greenpact-84227562.html"
     },
     "84834089@Guarda (Guarda)": {
-      "atualizado": "2026-09-02T18:42:58+00:00",
+      "atualizado": "2026-09-03T15:36:54+00:00",
       "dimensao": "70x100",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           142.98
         ]
       ],
@@ -573,11 +594,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x120cm-grelha-metal-branco-mate-84834096.html"
     },
     "84834102@Penafiel (Porto)": {
-      "atualizado": "2026-09-02T18:42:20+00:00",
+      "atualizado": "2026-09-03T15:36:12+00:00",
       "dimensao": "80x120",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           198
         ]
       ],
@@ -594,11 +615,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x120cm-grelha-metal-preto-mate-84834102.html"
     },
     "86584060@Santarem (Santarem)": {
-      "atualizado": "2026-09-02T18:45:15+00:00",
+      "atualizado": "2026-09-03T15:38:21+00:00",
       "dimensao": "140x70",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           148
         ]
       ],
@@ -720,11 +741,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x80-cm-branco-mate-sensea-easy-86584064.html"
     },
     "86584064@Braga (Braga)": {
-      "atualizado": "2026-09-02T18:46:54+00:00",
+      "atualizado": "2026-09-03T15:39:06+00:00",
       "dimensao": "140x80",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           168
         ]
       ],
@@ -741,11 +762,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x80-cm-branco-mate-sensea-easy-86584064.html"
     },
     "86584064@Guarda (Guarda)": {
-      "atualizado": "2026-09-02T18:42:58+00:00",
+      "atualizado": "2026-09-03T15:36:54+00:00",
       "dimensao": "140x80",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           168
         ]
       ],
@@ -867,11 +888,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-70x140-cinzento-mate-88286913.html"
     },
     "88286913@Penafiel (Porto)": {
-      "atualizado": "2026-09-02T18:42:20+00:00",
+      "atualizado": "2026-09-03T15:36:12+00:00",
       "dimensao": "70x140",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           137
         ]
       ],
@@ -1329,11 +1350,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-90x70-cm-branco-mate-sensea-easy-v2-91835298.html"
     },
     "91835305@Braga (Braga)": {
-      "atualizado": "2026-09-02T18:46:54+00:00",
+      "atualizado": "2026-09-03T15:39:06+00:00",
       "dimensao": "100x80",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           128
         ]
       ],
@@ -1497,11 +1518,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x180xcm-bege-resina-94150382.html"
     },
     "94150385@Chaves (Vila Real)": {
-      "atualizado": "2026-09-02T18:40:33+00:00",
+      "atualizado": "2026-09-03T15:35:38+00:00",
       "dimensao": "80x160",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-03",
           149
         ]
       ],
