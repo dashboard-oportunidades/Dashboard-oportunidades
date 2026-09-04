@@ -367,11 +367,13 @@ function desenhar(){
         }));
       }
       precos = [...precos].sort((a, b) => a.preco_final - b.preco_final);
+      const melhor = precos[0];
       return {
         ...p,
         prices: precos,
-        preco_final: precos[0].preco_final,
-        preco_desconto: precos[0].preco_desconto,
+        preco_final: melhor.preco_final,
+        preco_desconto: melhor.preco_desconto,
+        pct_desconto: melhor.preco_normal > 0 ? (melhor.preco_desconto / melhor.preco_normal) * 100 : 0,
       };
     })
     .filter(Boolean);
@@ -412,9 +414,11 @@ function desenhar(){
     const m2Badge = p.m2_caixa ? `<span class="dim">${p.m2_caixa.toLocaleString('pt-PT')} m²/caixa</span>` : '';
     const melhor = p.prices[0];
     const descontoTxt = p.preco_desconto > 0 ? `-${fmt(p.preco_desconto)}` : '—';
+    const pctTxt = p.pct_desconto > 0 ? `-${Math.round(p.pct_desconto)}%` : '—';
     return `<tr>
       <td class="preco">${fmt(p.preco_final)}${unidade}</td>
       <td class="desconto-col">${descontoTxt}${unidade}</td>
+      <td class="desconto-col">${pctTxt}</td>
       <td class="nome"><a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>${dimBadge}${marcaBadge}${retBadge}${m2Badge}
         ${evolucao(melhor.history)}</td>
       <td class="lojas">${lojasTxt}</td>
@@ -427,6 +431,7 @@ function desenhar(){
     <thead><tr>
       <th class="${e.ordem.campo==='preco_final'?'ativo':''}" onclick="ordenarPor('preco_final')">Preço${seta('preco_final')}</th>
       <th class="${e.ordem.campo==='preco_desconto'?'ativo':''}" onclick="ordenarPor('preco_desconto')">Desconto${seta('preco_desconto')}</th>
+      <th class="${e.ordem.campo==='pct_desconto'?'ativo':''}" onclick="ordenarPor('pct_desconto')">%${seta('pct_desconto')}</th>
       <th class="${e.ordem.campo==='name'?'ativo':''}" onclick="ordenarPor('name')">Produto${seta('name')}</th>
       <th>Lojas</th>
       <th>Visto em</th>
