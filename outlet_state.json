@@ -9,9 +9,9 @@
     "Aveiro (Aveiro)": "2026-09-03T15:48:50+00:00",
     "Barcelos (Braga)": "2026-09-03T15:55:37+00:00",
     "Barreiro (Setubal)": "2026-09-03T16:01:29+00:00",
-    "Braga (Braga)": "2026-09-03T15:39:06+00:00",
+    "Braga (Braga)": "2026-09-05T08:49:46+00:00",
     "Braganca (Braganca)": "2026-09-05T08:44:13+00:00",
-    "Caldas da Rainha (Leiria)": "2026-09-03T15:41:18+00:00",
+    "Caldas da Rainha (Leiria)": "2026-09-05T08:51:10+00:00",
     "Carcavelos (Lisboa)": "2026-09-03T16:06:29+00:00",
     "Cascais (Lisboa)": "2026-09-03T16:09:26+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-03T15:45:00+00:00",
@@ -23,9 +23,9 @@
     "Figueira da Foz (Coimbra)": "2026-09-03T15:48:01+00:00",
     "Gaia (Porto)": "2026-09-03T15:52:32+00:00",
     "Gondomar (Porto)": "2026-09-03T15:51:56+00:00",
-    "Guarda (Guarda)": "2026-09-03T15:36:54+00:00",
-    "Guimaraes (Braga)": "2026-09-03T15:37:36+00:00",
-    "Leiria (Leiria)": "2026-09-03T15:41:56+00:00",
+    "Guarda (Guarda)": "2026-09-05T08:46:29+00:00",
+    "Guimaraes (Braga)": "2026-09-05T08:48:12+00:00",
+    "Leiria (Leiria)": "2026-09-05T08:51:52+00:00",
     "Loule (Faro)": "2026-09-03T15:56:56+00:00",
     "Loures (Lisboa)": "2026-09-05T08:41:48+00:00",
     "Mafra (Lisboa)": "2026-09-03T16:00:33+00:00",
@@ -33,15 +33,15 @@
     "Matosinhos (Porto)": "2026-09-03T15:50:19+00:00",
     "Montijo (Setubal)": "2026-09-03T15:44:20+00:00",
     "Oeiras (Lisboa)": "2026-09-03T16:04:43+00:00",
-    "Penafiel (Porto)": "2026-09-03T15:36:12+00:00",
+    "Penafiel (Porto)": "2026-09-05T08:45:44+00:00",
     "Portimao (Faro)": "2026-09-03T15:57:37+00:00",
     "Sacavem (Lisboa)": "2026-09-05T08:43:36+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-03T15:53:12+00:00",
-    "Santarem (Santarem)": "2026-09-03T15:38:21+00:00",
+    "Santarem (Santarem)": "2026-09-05T08:48:56+00:00",
     "Setubal (Setubal)": "2026-09-03T15:58:58+00:00",
     "Sintra (Lisboa)": "2026-09-05T08:39:42+00:00",
     "Telheiras (Lisboa)": "2026-09-05T08:39:04+00:00",
-    "Torres Novas (Santarem)": "2026-09-03T15:40:40+00:00",
+    "Torres Novas (Santarem)": "2026-09-05T08:50:27+00:00",
     "Torres Vedras (Lisboa)": "2026-09-03T15:42:41+00:00",
     "Viana do Castelo (Viana do Castelo)": "2026-09-03T15:54:54+00:00",
     "Viseu (Viseu)": "2026-09-03T15:47:14+00:00"
@@ -216,11 +216,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-140x70cm-branco-81900441.html"
     },
     "81992803@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-03T15:41:18+00:00",
+      "atualizado": "2026-09-05T08:51:10+00:00",
       "dimensao": "70x70",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           59.98
         ]
       ],
@@ -258,11 +258,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-160x70cm-82002225.html"
     },
     "82002225@Braga (Braga)": {
-      "atualizado": "2026-09-03T15:39:06+00:00",
+      "atualizado": "2026-09-05T08:49:46+00:00",
       "dimensao": "160x70",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           278
         ]
       ],
@@ -278,26 +278,26 @@
       "store": "Braga (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-160x70cm-82002225.html"
     },
-    "82002236@Santarem (Santarem)": {
-      "atualizado": "2026-09-03T15:38:21+00:00",
-      "dimensao": "90x70",
+    "82002225@Santarem (Santarem)": {
+      "atualizado": "2026-09-05T08:48:56+00:00",
+      "dimensao": "160x70",
       "history": [
         [
-          "2026-09-03",
-          129.99
+          "2026-09-05",
+          199
         ]
       ],
-      "id": "82002236",
+      "id": "82002225",
       "m2_caixa": null,
       "marca": "SENSEA",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 90X70CM",
-      "preco_desconto": 58.01,
-      "preco_final": 129.99,
-      "preco_normal": 188,
+      "name": "Base de duche SENSEA NEO CARGA MINERAL BRANCA 160X70CM",
+      "preco_desconto": 135,
+      "preco_final": 199,
+      "preco_normal": 334,
       "region": "Santarem",
       "retificado": false,
       "store": "Santarem (Santarem)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-90x70cm-82002236.html"
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-branca-160x70cm-82002225.html"
     },
     "82002238@Montijo (Setubal)": {
       "atualizado": "2026-09-03T15:44:20+00:00",
@@ -363,11 +363,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-retangular-cinza-120x80-cm-neo-carga-mineral-82002273.html"
     },
     "82097259@Guarda (Guarda)": {
-      "atualizado": "2026-09-03T15:36:54+00:00",
+      "atualizado": "2026-09-05T08:46:29+00:00",
       "dimensao": "160x70",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           668
         ]
       ],
@@ -384,11 +384,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-preto-maya-pedra-82097259.html"
     },
     "82271967@Braga (Braga)": {
-      "atualizado": "2026-09-03T15:39:06+00:00",
+      "atualizado": "2026-09-05T08:49:46+00:00",
       "dimensao": "120x70",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           297
         ]
       ],
@@ -594,11 +594,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-150x80-cm-moka-mate-efeito-ardosia-obath-greenpact-84227562.html"
     },
     "84834089@Guarda (Guarda)": {
-      "atualizado": "2026-09-03T15:36:54+00:00",
+      "atualizado": "2026-09-05T08:46:29+00:00",
       "dimensao": "70x100",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           142.98
         ]
       ],
@@ -615,11 +615,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-70x100cm-grelha-metal-branco-mate-84834089.html"
     },
     "84834102@Penafiel (Porto)": {
-      "atualizado": "2026-09-03T15:36:12+00:00",
+      "atualizado": "2026-09-05T08:45:44+00:00",
       "dimensao": "80x120",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           198
         ]
       ],
@@ -636,11 +636,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x120cm-grelha-metal-preto-mate-84834102.html"
     },
     "86584060@Santarem (Santarem)": {
-      "atualizado": "2026-09-03T15:38:21+00:00",
+      "atualizado": "2026-09-05T08:48:56+00:00",
       "dimensao": "140x70",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           148
         ]
       ],
@@ -720,11 +720,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-100x80-cm-branco-mate-sensea-easy-86584062.html"
     },
     "86584062@Torres Novas (Santarem)": {
-      "atualizado": "2026-09-03T15:40:40+00:00",
+      "atualizado": "2026-09-05T08:50:27+00:00",
       "dimensao": "100x80",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           138
         ]
       ],
@@ -762,11 +762,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x80-cm-branco-mate-sensea-easy-86584064.html"
     },
     "86584064@Braga (Braga)": {
-      "atualizado": "2026-09-03T15:39:06+00:00",
+      "atualizado": "2026-09-05T08:49:46+00:00",
       "dimensao": "140x80",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           168
         ]
       ],
@@ -783,11 +783,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x80-cm-branco-mate-sensea-easy-86584064.html"
     },
     "86584064@Guarda (Guarda)": {
-      "atualizado": "2026-09-03T15:36:54+00:00",
+      "atualizado": "2026-09-05T08:46:29+00:00",
       "dimensao": "140x80",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           168
         ]
       ],
@@ -888,11 +888,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-70x140-cinzento-mate-88286913.html"
     },
     "88286913@Penafiel (Porto)": {
-      "atualizado": "2026-09-03T15:36:12+00:00",
+      "atualizado": "2026-09-05T08:45:44+00:00",
       "dimensao": "70x140",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           137
         ]
       ],
@@ -1035,11 +1035,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-level-up-com-valvula-70x150-branco-89149832.html"
     },
     "89863859@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-03T15:41:18+00:00",
+      "atualizado": "2026-09-05T08:51:10+00:00",
       "dimensao": "100x70",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           95.98
         ]
       ],
@@ -1140,11 +1140,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
     },
     "91835297@Leiria (Leiria)": {
-      "atualizado": "2026-09-03T15:41:56+00:00",
+      "atualizado": "2026-09-05T08:51:52+00:00",
       "dimensao": "140x80",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           158
         ]
       ],
@@ -1329,11 +1329,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
     },
     "91835298@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-03T15:41:18+00:00",
+      "atualizado": "2026-09-05T08:51:10+00:00",
       "dimensao": "90x70",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           108
         ]
       ],
@@ -1350,11 +1350,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-90x70-cm-branco-mate-sensea-easy-v2-91835298.html"
     },
     "91835305@Braga (Braga)": {
-      "atualizado": "2026-09-03T15:39:06+00:00",
+      "atualizado": "2026-09-05T08:49:46+00:00",
       "dimensao": "100x80",
       "history": [
         [
-          "2026-09-03",
+          "2026-09-05",
           128
         ]
       ],
