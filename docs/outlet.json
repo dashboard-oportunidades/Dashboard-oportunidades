@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T16:09:26+00:00",
+  "generated": "2026-09-05T08:44:54+00:00",
   "products": [
     {
       "id": "81992803",
@@ -168,20 +168,6 @@
       "preco_final": 118,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 139,
-          "preco_desconto": 21,
-          "preco_final": 118,
-          "atualizado": "2026-09-03T15:31:13+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              118
-            ]
-          ]
-        },
-        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 139,
@@ -191,6 +177,20 @@
           "history": [
             [
               "2026-09-03",
+              118
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 139,
+          "preco_desconto": 21,
+          "preco_final": 118,
+          "atualizado": "2026-09-05T08:40:18+00:00",
+          "history": [
+            [
+              "2026-09-05",
               118
             ]
           ]
@@ -366,20 +366,6 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-09-03T15:31:13+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 159,
@@ -406,6 +392,20 @@
               138
             ]
           ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-05T08:40:18+00:00",
+          "history": [
+            [
+              "2026-09-05",
+              138
+            ]
+          ]
         }
       ]
     },
@@ -420,20 +420,6 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-09-03T15:32:31+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Santa Maria da Feira (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 159,
@@ -443,6 +429,20 @@
           "history": [
             [
               "2026-09-03",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-05T08:41:48+00:00",
+          "history": [
+            [
+              "2026-09-05",
               138
             ]
           ]
@@ -459,34 +459,6 @@
       "m2_caixa": null,
       "preco_final": 138,
       "prices": [
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 138,
-          "preco_desconto": 0.0,
-          "preco_final": 138,
-          "atualizado": "2026-09-03T15:45:00+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              138
-            ]
-          ]
-        },
-        {
-          "store": "Telheiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 138,
-          "preco_desconto": 0.0,
-          "preco_final": 138,
-          "atualizado": "2026-09-03T15:29:50+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              138
-            ]
-          ]
-        },
         {
           "store": "Carcavelos (Lisboa)",
           "region": "Lisboa",
@@ -511,6 +483,34 @@
           "history": [
             [
               "2026-09-03",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 138,
+          "preco_desconto": 0.0,
+          "preco_final": 138,
+          "atualizado": "2026-09-03T15:45:00+00:00",
+          "history": [
+            [
+              "2026-09-03",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 138,
+          "preco_desconto": 0.0,
+          "preco_final": 138,
+          "atualizado": "2026-09-05T08:39:04+00:00",
+          "history": [
+            [
+              "2026-09-05",
               138
             ]
           ]
@@ -596,46 +596,6 @@
       ]
     },
     {
-      "id": "88672190",
-      "name": "Base de duche ardósia 160x70 cm branco Musa",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
-      "dimensao": "160x70",
-      "marca": "RESINBATH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 148,
-      "prices": [
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-03T15:47:14+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              148
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-03T16:04:43+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              148
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86584061",
       "name": "Base de duche 160x70 cm branco mate Sensea Easy",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html",
@@ -662,6 +622,46 @@
       ]
     },
     {
+      "id": "88672190",
+      "name": "Base de duche ardósia 160x70 cm branco Musa",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
+      "dimensao": "160x70",
+      "marca": "RESINBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-03T16:04:43+00:00",
+          "history": [
+            [
+              "2026-09-03",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-03T15:47:14+00:00",
+          "history": [
+            [
+              "2026-09-03",
+              148
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "94150385",
       "name": "Base de duche 80x160xcm branco Resina",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x160xcm-branco-resina-94150385.html",
@@ -677,10 +677,10 @@
           "preco_normal": 174,
           "preco_desconto": 25,
           "preco_final": 149,
-          "atualizado": "2026-09-03T15:35:38+00:00",
+          "atualizado": "2026-09-05T08:44:53+00:00",
           "history": [
             [
-              "2026-09-03",
+              "2026-09-05",
               149
             ]
           ]
@@ -764,20 +764,6 @@
       "preco_final": 158,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-03T15:31:13+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 192,
@@ -798,20 +784,6 @@
           "preco_desconto": 0.0,
           "preco_final": 158,
           "atualizado": "2026-09-03T15:56:56+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-03T15:32:31+00:00",
           "history": [
             [
               "2026-09-03",
@@ -876,20 +848,6 @@
           ]
         },
         {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 158,
-          "preco_desconto": 0.0,
-          "preco_final": 158,
-          "atualizado": "2026-09-03T15:30:37+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Viseu (Viseu)",
           "region": "Viseu",
           "preco_normal": 158,
@@ -899,6 +857,48 @@
           "history": [
             [
               "2026-09-03",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
+          "preco_final": 158,
+          "atualizado": "2026-09-05T08:39:42+00:00",
+          "history": [
+            [
+              "2026-09-05",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-05T08:40:18+00:00",
+          "history": [
+            [
+              "2026-09-05",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-05T08:41:48+00:00",
+          "history": [
+            [
+              "2026-09-05",
               158
             ]
           ]
@@ -1170,6 +1170,46 @@
       ]
     },
     {
+      "id": "81870826",
+      "name": "Base de duche LEGACY 100X70CM BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-100x70cm-branco-81870826.html",
+      "dimensao": "100x70",
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 198,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 198,
+          "preco_desconto": 0.0,
+          "preco_final": 198,
+          "atualizado": "2026-09-03T16:03:55+00:00",
+          "history": [
+            [
+              "2026-09-03",
+              198
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 239,
+          "preco_desconto": 41,
+          "preco_final": 198,
+          "atualizado": "2026-09-03T16:04:43+00:00",
+          "history": [
+            [
+              "2026-09-03",
+              198
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "84834102",
       "name": "Base de duche NEO 80X120CM GRELHA METAL PRETO MATE",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x120cm-grelha-metal-preto-mate-84834102.html",
@@ -1211,50 +1251,10 @@
           "preco_normal": 235,
           "preco_desconto": 37,
           "preco_final": 198,
-          "atualizado": "2026-09-03T15:31:55+00:00",
+          "atualizado": "2026-09-05T08:41:05+00:00",
           "history": [
             [
-              "2026-09-03",
-              198
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "81870826",
-      "name": "Base de duche LEGACY 100X70CM BRANCO",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-100x70cm-branco-81870826.html",
-      "dimensao": "100x70",
-      "marca": "ROCA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 198,
-      "prices": [
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 198,
-          "preco_desconto": 0.0,
-          "preco_final": 198,
-          "atualizado": "2026-09-03T16:03:55+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              198
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 239,
-          "preco_desconto": 41,
-          "preco_final": 198,
-          "atualizado": "2026-09-03T16:04:43+00:00",
-          "history": [
-            [
-              "2026-09-03",
+              "2026-09-05",
               198
             ]
           ]
@@ -1277,10 +1277,10 @@
           "preco_normal": 199,
           "preco_desconto": 0.0,
           "preco_final": 199,
-          "atualizado": "2026-09-03T15:34:17+00:00",
+          "atualizado": "2026-09-05T08:43:36+00:00",
           "history": [
             [
-              "2026-09-03",
+              "2026-09-05",
               199
             ]
           ]
@@ -1329,10 +1329,10 @@
           "preco_normal": 259,
           "preco_desconto": 41,
           "preco_final": 218,
-          "atualizado": "2026-09-03T15:32:31+00:00",
+          "atualizado": "2026-09-05T08:41:48+00:00",
           "history": [
             [
-              "2026-09-03",
+              "2026-09-05",
               218
             ]
           ]
