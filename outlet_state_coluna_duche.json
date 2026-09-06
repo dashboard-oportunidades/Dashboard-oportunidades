@@ -1,0 +1,224 @@
+{
+  "lojas": {
+    "Alfragide (Lisboa)": "2026-09-06T18:27:43+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-09-06T18:24:12+00:00",
+    "Amadora (Lisboa)": "2026-09-06T18:35:57+00:00",
+    "Colombo (Lisboa)": "2026-09-06T18:25:58+00:00",
+    "Loures (Lisboa)": "2026-09-06T18:32:41+00:00",
+    "Oeiras (Lisboa)": "2026-09-06T18:30:58+00:00",
+    "Sacavem (Lisboa)": "2026-09-06T18:29:17+00:00",
+    "Telheiras (Lisboa)": "2026-09-06T18:34:16+00:00"
+  },
+  "products": {
+    "17364851@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-06T18:27:43+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          87.98
+        ]
+      ],
+      "id": "17364851",
+      "m2_caixa": null,
+      "marca": null,
+      "name": "Conjunto de duche NEREA",
+      "preco_desconto": 21.02,
+      "preco_final": 87.98,
+      "preco_normal": 109,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-nerea-17364851.html"
+    },
+    "17364851@Oeiras (Lisboa)": {
+      "atualizado": "2026-09-06T18:30:58+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          87.98
+        ]
+      ],
+      "id": "17364851",
+      "m2_caixa": null,
+      "marca": null,
+      "name": "Conjunto de duche NEREA",
+      "preco_desconto": 0.0,
+      "preco_final": 87.98,
+      "preco_normal": 87.98,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-nerea-17364851.html"
+    },
+    "81895990@Loures (Lisboa)": {
+      "atualizado": "2026-09-06T18:32:41+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          468
+        ]
+      ],
+      "id": "81895990",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche COM TORNEIRA TT VITALIO JOY 260",
+      "preco_desconto": 111,
+      "preco_final": 468,
+      "preco_normal": 579,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Loures (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-vitalio-joy-260-81895990.html"
+    },
+    "81896491@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-06T18:24:12+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          348
+        ]
+      ],
+      "id": "81896491",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA LEVITY PRETO",
+      "preco_desconto": 81,
+      "preco_final": 348,
+      "preco_normal": 429,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html"
+    },
+    "81896503@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-06T18:24:12+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          348
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 0.0,
+      "preco_final": 348,
+      "preco_normal": 348,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "83596589@Loures (Lisboa)": {
+      "atualizado": "2026-09-06T18:32:41+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          248
+        ]
+      ],
+      "id": "83596589",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO START CLOVA 210 CROMADO",
+      "preco_desconto": 51,
+      "preco_final": 248,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Loures (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
+    },
+    "86523842@Oeiras (Lisboa)": {
+      "atualizado": "2026-09-06T18:30:58+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          468
+        ]
+      ],
+      "id": "86523842",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche com torneira termostática preto 175 cm Grohe Vitalio",
+      "preco_desconto": 101,
+      "preco_final": 468,
+      "preco_normal": 569,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
+    },
+    "86600587@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-06T18:27:43+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          388
+        ]
+      ],
+      "id": "86600587",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche MONOCOMANDO GROHE VITALIO START 250",
+      "preco_desconto": 91,
+      "preco_final": 388,
+      "preco_normal": 479,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
+    },
+    "86600587@Amadora (Lisboa)": {
+      "atualizado": "2026-09-06T18:35:57+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          388
+        ]
+      ],
+      "id": "86600587",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche MONOCOMANDO GROHE VITALIO START 250",
+      "preco_desconto": 91,
+      "preco_final": 388,
+      "preco_normal": 479,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
+    },
+    "89128698@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-06T18:24:12+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          408
+        ]
+      ],
+      "id": "89128698",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Coluna para duche hidromassagem com torneira   GROHE Vitalio Start 250",
+      "preco_desconto": 0.0,
+      "preco_final": 408,
+      "preco_normal": 408,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
+    }
+  }
+}
