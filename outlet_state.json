@@ -2,10 +2,10 @@
   "lojas": {
     "Albufeira (Faro)": "2026-09-06T17:47:11+00:00",
     "Alfragide (Lisboa)": "2026-09-06T18:04:37+00:00",
-    "Almada (Setubal)": "2026-09-06T17:04:21+00:00",
+    "Almada (Setubal)": "2026-09-06T18:14:26+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-06T17:59:37+00:00",
     "Alverca (Lisboa)": "2026-09-06T17:57:52+00:00",
-    "Amadora (Lisboa)": "2026-09-05T09:21:19+00:00",
+    "Amadora (Lisboa)": "2026-09-06T18:13:00+00:00",
     "Aveiro (Aveiro)": "2026-09-06T17:33:20+00:00",
     "Barcelos (Braga)": "2026-09-06T17:45:31+00:00",
     "Barreiro (Setubal)": "2026-09-06T17:56:08+00:00",
@@ -13,11 +13,11 @@
     "Braganca (Braganca)": "2026-09-06T17:08:57+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-06T17:19:13+00:00",
     "Carcavelos (Lisboa)": "2026-09-06T18:02:57+00:00",
-    "Cascais (Lisboa)": "2026-09-05T09:16:05+00:00",
+    "Cascais (Lisboa)": "2026-09-06T18:08:03+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-06T17:24:51+00:00",
     "Chaves (Vila Real)": "2026-09-06T17:10:37+00:00",
     "Coimbra (Coimbra)": "2026-09-06T17:28:26+00:00",
-    "Colombo (Lisboa)": "2026-09-05T09:15:24+00:00",
+    "Colombo (Lisboa)": "2026-09-06T18:06:24+00:00",
     "Covilha (Castelo Branco)": "2026-09-06T17:26:39+00:00",
     "Evora (Evora)": "2026-09-06T17:52:01+00:00",
     "Figueira da Foz (Coimbra)": "2026-09-06T17:31:44+00:00",
@@ -27,7 +27,7 @@
     "Guimaraes (Braga)": "2026-09-06T17:15:36+00:00",
     "Leiria (Leiria)": "2026-09-06T17:20:52+00:00",
     "Loule (Faro)": "2026-09-06T17:48:49+00:00",
-    "Loures (Lisboa)": "2026-09-06T17:05:39+00:00",
+    "Loures (Lisboa)": "2026-09-06T18:15:06+00:00",
     "Mafra (Lisboa)": "2026-09-06T17:55:31+00:00",
     "Maia (Porto)": "2026-09-06T17:34:56+00:00",
     "Matosinhos (Porto)": "2026-09-06T17:36:42+00:00",
@@ -35,12 +35,12 @@
     "Oeiras (Lisboa)": "2026-09-06T18:01:17+00:00",
     "Penafiel (Porto)": "2026-09-06T17:12:11+00:00",
     "Portimao (Faro)": "2026-09-06T17:50:16+00:00",
-    "Sacavem (Lisboa)": "2026-09-06T17:07:21+00:00",
+    "Sacavem (Lisboa)": "2026-09-06T18:15:55+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-06T17:42:08+00:00",
     "Santarem (Santarem)": "2026-09-06T17:16:29+00:00",
     "Setubal (Setubal)": "2026-09-06T17:53:49+00:00",
-    "Sintra (Lisboa)": "2026-09-05T09:19:40+00:00",
-    "Telheiras (Lisboa)": "2026-09-05T09:17:52+00:00",
+    "Sintra (Lisboa)": "2026-09-06T18:11:12+00:00",
+    "Telheiras (Lisboa)": "2026-09-06T18:09:37+00:00",
     "Torres Novas (Santarem)": "2026-09-06T17:18:27+00:00",
     "Torres Vedras (Lisboa)": "2026-09-06T17:22:32+00:00",
     "Viana do Castelo (Viana do Castelo)": "2026-09-06T17:43:56+00:00",
@@ -48,11 +48,11 @@
   },
   "products": {
     "16872240@Cascais (Lisboa)": {
-      "atualizado": "2026-09-05T09:16:05+00:00",
+      "atualizado": "2026-09-06T18:08:03+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           225
         ]
       ],
@@ -69,11 +69,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-a-medida-kioto-16872240.html"
     },
     "17757411@Cascais (Lisboa)": {
-      "atualizado": "2026-09-05T09:16:05+00:00",
+      "atualizado": "2026-09-06T18:08:03+00:00",
       "dimensao": "120x70",
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           93.36
         ]
       ],
@@ -90,7 +90,7 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-evolution-120x70cm-retangular-17757411.html"
     },
     "18349163@Sacavem (Lisboa)": {
-      "atualizado": "2026-09-06T17:07:21+00:00",
+      "atualizado": "2026-09-06T18:15:55+00:00",
       "dimensao": "160x70",
       "history": [
         [
@@ -174,7 +174,7 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-100x70cm-branco-81870826.html"
     },
     "81870827@Loures (Lisboa)": {
-      "atualizado": "2026-09-06T17:05:39+00:00",
+      "atualizado": "2026-09-06T18:15:06+00:00",
       "dimensao": "120x70",
       "history": [
         [
@@ -531,11 +531,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x80-cm-creme-mate-efeito-ardosia-obath-greenpact-84227384.html"
     },
     "84227538@Cascais (Lisboa)": {
-      "atualizado": "2026-09-05T09:16:05+00:00",
+      "atualizado": "2026-09-06T18:08:03+00:00",
       "dimensao": "150x70",
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           125.99
         ]
       ],
@@ -699,11 +699,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html"
     },
     "86584062@Amadora (Lisboa)": {
-      "atualizado": "2026-09-05T09:21:19+00:00",
+      "atualizado": "2026-09-06T18:13:00+00:00",
       "dimensao": "100x80",
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           138
         ]
       ],
@@ -930,7 +930,7 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-80x120-branco-mate-88286915.html"
     },
     "88672189@Loures (Lisboa)": {
-      "atualizado": "2026-09-06T17:05:39+00:00",
+      "atualizado": "2026-09-06T18:15:06+00:00",
       "dimensao": "140x70",
       "history": [
         [
@@ -1119,11 +1119,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x70-cm-branco-mate-sensea-easy-v2-91835296.html"
     },
     "91835297@Amadora (Lisboa)": {
-      "atualizado": "2026-09-05T09:21:19+00:00",
+      "atualizado": "2026-09-06T18:13:00+00:00",
       "dimensao": "140x80",
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           158
         ]
       ],
@@ -1161,7 +1161,7 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
     },
     "91835297@Loures (Lisboa)": {
-      "atualizado": "2026-09-06T17:05:39+00:00",
+      "atualizado": "2026-09-06T18:15:06+00:00",
       "dimensao": "140x80",
       "history": [
         [
@@ -1245,11 +1245,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html"
     },
     "91835297@Sintra (Lisboa)": {
-      "atualizado": "2026-09-05T09:19:40+00:00",
+      "atualizado": "2026-09-06T18:11:12+00:00",
       "dimensao": "140x80",
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           158
         ]
       ],
@@ -1371,11 +1371,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x80-cm-branco-mate-sensea-easy-v2-91835309.html"
     },
     "91835309@Cascais (Lisboa)": {
-      "atualizado": "2026-09-05T09:16:05+00:00",
+      "atualizado": "2026-09-06T18:08:03+00:00",
       "dimensao": "120x80",
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           138
         ]
       ],
@@ -1413,11 +1413,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x80-cm-branco-mate-sensea-easy-v2-91835309.html"
     },
     "91835309@Telheiras (Lisboa)": {
-      "atualizado": "2026-09-05T09:17:52+00:00",
+      "atualizado": "2026-09-06T18:09:37+00:00",
       "dimensao": "120x80",
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           138
         ]
       ],
@@ -1434,11 +1434,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x80-cm-branco-mate-sensea-easy-v2-91835309.html"
     },
     "91835310@Amadora (Lisboa)": {
-      "atualizado": "2026-09-05T09:21:19+00:00",
+      "atualizado": "2026-09-06T18:13:00+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           118
         ]
       ],
@@ -1497,7 +1497,7 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x90-cm-branco-mate-sensea-easy-v2-91835314.html"
     },
     "94150382@Almada (Setubal)": {
-      "atualizado": "2026-09-06T17:04:21+00:00",
+      "atualizado": "2026-09-06T18:14:26+00:00",
       "dimensao": "80x180",
       "history": [
         [
@@ -1539,11 +1539,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x160xcm-branco-resina-94150385.html"
     },
     "95043688@Cascais (Lisboa)": {
-      "atualizado": "2026-09-05T09:16:05+00:00",
+      "atualizado": "2026-09-06T18:08:03+00:00",
       "dimensao": "160x70",
       "history": [
         [
-          "2026-09-05",
+          "2026-09-06",
           160.34
         ]
       ],
