@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T20:12:57+00:00",
+  "generated": "2026-09-06T20:26:22+00:00",
   "products": [
     {
       "id": "17364851",
@@ -56,6 +56,102 @@
       ]
     },
     {
+      "id": "91776117",
+      "name": "Conjunto de duche 20 cm cromado Mitos-LeColuna",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html",
+      "dimensao": null,
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 128,
+      "prices": [
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 179,
+          "preco_desconto": 51,
+          "preco_final": 128,
+          "atualizado": "2026-09-06T20:26:21+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              128
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 179,
+          "preco_desconto": 31,
+          "preco_final": 148,
+          "atualizado": "2026-09-06T20:07:56+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 179,
+          "preco_desconto": 31,
+          "preco_final": 148,
+          "atualizado": "2026-09-06T18:44:34+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 179,
+          "preco_desconto": 31,
+          "preco_final": 148,
+          "atualizado": "2026-09-06T20:16:21+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 179,
+          "preco_desconto": 31,
+          "preco_final": 148,
+          "atualizado": "2026-09-06T20:21:32+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 179,
+          "preco_desconto": 31,
+          "preco_final": 148,
+          "atualizado": "2026-09-06T20:23:08+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              148
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "81882134",
       "name": "Conjunto de duche BYRON",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-byron-81882134.html",
@@ -63,8 +159,22 @@
       "marca": "EDOUARD ROUSSEAU",
       "retificado": false,
       "m2_caixa": null,
-      "preco_final": 139,
+      "preco_final": 135.97,
       "prices": [
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 162,
+          "preco_desconto": 26.03,
+          "preco_final": 135.97,
+          "atualizado": "2026-09-06T20:26:21+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              135.97
+            ]
+          ]
+        },
         {
           "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
@@ -108,46 +218,6 @@
       ]
     },
     {
-      "id": "91776117",
-      "name": "Conjunto de duche 20 cm cromado Mitos-LeColuna",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html",
-      "dimensao": null,
-      "marca": "ROCA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 148,
-      "prices": [
-        {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 179,
-          "preco_desconto": 31,
-          "preco_final": 148,
-          "atualizado": "2026-09-06T18:44:34+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              148
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 179,
-          "preco_desconto": 31,
-          "preco_final": 148,
-          "atualizado": "2026-09-06T20:07:56+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              148
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82360350",
       "name": "Conjunto de duche PARIS CROMADO",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-82360350.html",
@@ -174,6 +244,198 @@
       ]
     },
     {
+      "id": "83596589",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO START CLOVA 210 CROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html",
+      "dimensao": null,
+      "marca": "GROHE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 158,
+      "prices": [
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 299,
+          "preco_desconto": 141,
+          "preco_final": 158,
+          "atualizado": "2026-09-06T20:14:44+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 249,
+          "preco_desconto": 50,
+          "preco_final": 199,
+          "atualizado": "2026-09-06T20:21:32+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              199
+            ]
+          ]
+        },
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T19:53:22+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 248,
+          "preco_desconto": 0.0,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T20:12:55+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T20:07:56+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 248,
+          "preco_desconto": 0.0,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T20:06:09+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 248,
+          "preco_desconto": 0.0,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T20:03:43+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 248,
+          "preco_desconto": 0.0,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T20:04:32+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T18:32:41+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T20:18:07+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T20:24:44+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88103666",
+      "name": "Conjunto de duche STUDIO COM TORNEIRA TERMOSTÁTICA CROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-studio-com-torneira-termostatica-cromado-88103666.html",
+      "dimensao": null,
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 158,
+      "prices": [
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 189,
+          "preco_desconto": 31,
+          "preco_final": 158,
+          "atualizado": "2026-09-06T20:23:08+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              158
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82559325",
       "name": "Conjunto de duche com torneira TERMOSTÁTICA START CLOVA 210 CROMADA",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-start-clova-210-cromada-82559325.html",
@@ -183,6 +445,20 @@
       "m2_caixa": null,
       "preco_final": 198,
       "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 198,
+          "preco_desconto": 0.0,
+          "preco_final": 198,
+          "atualizado": "2026-09-06T20:11:14+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              198
+            ]
+          ]
+        },
         {
           "store": "Chaves (Vila Real)",
           "region": "Vila Real",
@@ -198,16 +474,16 @@
           ]
         },
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 198,
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 288,
           "preco_desconto": 0.0,
-          "preco_final": 198,
-          "atualizado": "2026-09-06T20:11:14+00:00",
+          "preco_final": 288,
+          "atualizado": "2026-09-06T20:09:39+00:00",
           "history": [
             [
               "2026-09-06",
-              198
+              288
             ]
           ]
         },
@@ -232,20 +508,6 @@
           "preco_desconto": 61,
           "preco_final": 288,
           "atualizado": "2026-09-06T20:00:13+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              288
-            ]
-          ]
-        },
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 288,
-          "preco_desconto": 0.0,
-          "preco_final": 288,
-          "atualizado": "2026-09-06T20:09:39+00:00",
           "history": [
             [
               "2026-09-06",
@@ -292,6 +554,20 @@
               218
             ]
           ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 259,
+          "preco_desconto": 41,
+          "preco_final": 218,
+          "atualizado": "2026-09-06T20:24:44+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              218
+            ]
+          ]
         }
       ]
     },
@@ -332,114 +608,44 @@
               228
             ]
           ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 279,
+          "preco_desconto": 51,
+          "preco_final": 228,
+          "atualizado": "2026-09-06T20:21:32+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              228
+            ]
+          ]
         }
       ]
     },
     {
-      "id": "83596589",
-      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO START CLOVA 210 CROMADO",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html",
+      "id": "82023074",
+      "name": "Conjunto de duche TEMPESTA 210 CROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-tempesta-210-cromado-82023074.html",
       "dimensao": null,
       "marca": "GROHE",
       "retificado": false,
       "m2_caixa": null,
-      "preco_final": 248,
+      "preco_final": 279,
       "prices": [
         {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-06T19:53:22+00:00",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 311.4,
+          "preco_desconto": 32.4,
+          "preco_final": 279,
+          "atualizado": "2026-09-06T20:21:32+00:00",
           "history": [
             [
               "2026-09-06",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-06T18:32:41+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 248,
-          "preco_desconto": 0.0,
-          "preco_final": 248,
-          "atualizado": "2026-09-06T20:03:43+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 248,
-          "preco_desconto": 0.0,
-          "preco_final": 248,
-          "atualizado": "2026-09-06T20:04:32+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 248,
-          "preco_desconto": 0.0,
-          "preco_final": 248,
-          "atualizado": "2026-09-06T20:06:09+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-06T20:07:56+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 248,
-          "preco_desconto": 0.0,
-          "preco_final": 248,
-          "atualizado": "2026-09-06T20:12:55+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              248
+              279
             ]
           ]
         }
@@ -472,6 +678,46 @@
       ]
     },
     {
+      "id": "81895990",
+      "name": "Conjunto de duche COM TORNEIRA TT VITALIO JOY 260",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-vitalio-joy-260-81895990.html",
+      "dimensao": null,
+      "marca": "GROHE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 298,
+      "prices": [
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 579,
+          "preco_desconto": 281,
+          "preco_final": 298,
+          "atualizado": "2026-09-06T20:14:44+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              298
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 579,
+          "preco_desconto": 111,
+          "preco_final": 468,
+          "atualizado": "2026-09-06T18:32:41+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              468
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "86600587",
       "name": "Conjunto de duche MONOCOMANDO GROHE VITALIO START 250",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html",
@@ -492,6 +738,20 @@
             [
               "2026-09-06",
               298
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 479,
+          "preco_desconto": 121,
+          "preco_final": 358,
+          "atualizado": "2026-09-06T20:26:21+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              358
             ]
           ]
         },
@@ -544,6 +804,34 @@
           "preco_desconto": 91,
           "preco_final": 388,
           "atualizado": "2026-09-06T19:51:51+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T20:12:55+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T20:07:56+00:00",
           "history": [
             [
               "2026-09-06",
@@ -608,12 +896,12 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 479,
           "preco_desconto": 91,
           "preco_final": 388,
-          "atualizado": "2026-09-06T20:07:56+00:00",
+          "atualizado": "2026-09-06T20:21:32+00:00",
           "history": [
             [
               "2026-09-06",
@@ -622,110 +910,16 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 479,
-          "preco_desconto": 91,
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
           "preco_final": 388,
-          "atualizado": "2026-09-06T20:12:55+00:00",
+          "atualizado": "2026-09-06T20:23:08+00:00",
           "history": [
             [
               "2026-09-06",
               388
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "81896491",
-      "name": "Conjunto de duche COM TORNEIRA LEVITY PRETO",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html",
-      "dimensao": null,
-      "marca": "HUBER",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 348,
-      "prices": [
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 429,
-          "preco_desconto": 81,
-          "preco_final": 348,
-          "atualizado": "2026-09-06T18:24:12+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              348
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 429,
-          "preco_desconto": 81,
-          "preco_final": 348,
-          "atualizado": "2026-09-06T20:02:06+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              348
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "81896503",
-      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html",
-      "dimensao": null,
-      "marca": "HUBER",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 348,
-      "prices": [
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 348,
-          "preco_desconto": 0.0,
-          "preco_final": 348,
-          "atualizado": "2026-09-06T18:24:12+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              348
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 348,
-          "preco_desconto": 0.0,
-          "preco_final": 348,
-          "atualizado": "2026-09-06T19:55:03+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              348
-            ]
-          ]
-        },
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 348,
-          "preco_desconto": 0.0,
-          "preco_final": 348,
-          "atualizado": "2026-09-06T20:12:55+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              348
             ]
           ]
         }
@@ -739,8 +933,22 @@
       "marca": "GROHE",
       "retificado": false,
       "m2_caixa": null,
-      "preco_final": 408,
+      "preco_final": 319,
       "prices": [
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 349,
+          "preco_desconto": 30,
+          "preco_final": 319,
+          "atualizado": "2026-09-06T20:14:44+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              319
+            ]
+          ]
+        },
         {
           "store": "Almada (Setubal)",
           "region": "Setubal",
@@ -798,12 +1006,12 @@
           ]
         },
         {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-06T19:55:03+00:00",
+          "atualizado": "2026-09-06T20:12:55+00:00",
           "history": [
             [
               "2026-09-06",
@@ -826,42 +1034,30 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-06T20:12:55+00:00",
+          "atualizado": "2026-09-06T19:55:03+00:00",
           "history": [
             [
               "2026-09-06",
               408
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "81895990",
-      "name": "Conjunto de duche COM TORNEIRA TT VITALIO JOY 260",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-vitalio-joy-260-81895990.html",
-      "dimensao": null,
-      "marca": "GROHE",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 468,
-      "prices": [
+        },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 579,
-          "preco_desconto": 111,
-          "preco_final": 468,
-          "atualizado": "2026-09-06T18:32:41+00:00",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-06T20:24:44+00:00",
           "history": [
             [
               "2026-09-06",
-              468
+              408
             ]
           ]
         }
@@ -875,8 +1071,36 @@
       "marca": "GROHE",
       "retificado": false,
       "m2_caixa": null,
-      "preco_final": 468,
+      "preco_final": 338,
       "prices": [
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 419,
+          "preco_desconto": 81,
+          "preco_final": 338,
+          "atualizado": "2026-09-06T20:26:21+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              338
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-09-06T20:07:56+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              468
+            ]
+          ]
+        },
         {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
@@ -892,16 +1116,166 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 569,
           "preco_desconto": 101,
           "preco_final": 468,
-          "atualizado": "2026-09-06T20:07:56+00:00",
+          "atualizado": "2026-09-06T20:21:32+00:00",
           "history": [
             [
               "2026-09-06",
               468
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81896491",
+      "name": "Conjunto de duche COM TORNEIRA LEVITY PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html",
+      "dimensao": null,
+      "marca": "HUBER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 348,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 429,
+          "preco_desconto": 81,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T18:24:12+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 429,
+          "preco_desconto": 81,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T20:02:06+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 429,
+          "preco_desconto": 81,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T20:23:08+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 429,
+          "preco_desconto": 81,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T20:24:44+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81896503",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html",
+      "dimensao": null,
+      "marca": "HUBER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 348,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 348,
+          "preco_desconto": 0.0,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T18:24:12+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 348,
+          "preco_desconto": 0.0,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T20:12:55+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 348,
+          "preco_desconto": 0.0,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T19:55:03+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 348,
+          "preco_desconto": 0.0,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T20:23:08+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 348,
+          "preco_desconto": 0.0,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T20:24:44+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
             ]
           ]
         }

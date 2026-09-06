@@ -6,6 +6,8 @@
     "Alta de Lisboa (Lisboa)": "2026-09-06T18:24:12+00:00",
     "Alverca (Lisboa)": "2026-09-06T18:46:09+00:00",
     "Amadora (Lisboa)": "2026-09-06T18:35:57+00:00",
+    "Aveiro (Aveiro)": "2026-09-06T20:18:07+00:00",
+    "Barcelos (Braga)": "2026-09-06T20:14:44+00:00",
     "Barreiro (Setubal)": "2026-09-06T19:51:51+00:00",
     "Braga (Braga)": "2026-09-06T20:12:55+00:00",
     "Braganca (Braganca)": "2026-09-06T20:11:14+00:00",
@@ -18,14 +20,20 @@
     "Colombo (Lisboa)": "2026-09-06T18:25:58+00:00",
     "Covilha (Castelo Branco)": "2026-09-06T19:58:37+00:00",
     "Figueira da Foz (Coimbra)": "2026-09-06T20:04:32+00:00",
+    "Gaia (Porto)": "2026-09-06T20:24:44+00:00",
+    "Gondomar (Porto)": "2026-09-06T20:23:08+00:00",
+    "Guarda (Guarda)": "2026-09-06T20:21:32+00:00",
+    "Guimaraes (Braga)": "2026-09-06T20:16:21+00:00",
     "Leiria (Leiria)": "2026-09-06T20:09:39+00:00",
     "Loule (Faro)": "2026-09-06T18:47:51+00:00",
     "Loures (Lisboa)": "2026-09-06T18:32:41+00:00",
     "Mafra (Lisboa)": "2026-09-06T18:42:47+00:00",
     "Montijo (Setubal)": "2026-09-06T19:54:03+00:00",
     "Oeiras (Lisboa)": "2026-09-06T18:30:58+00:00",
+    "Penafiel (Porto)": "2026-09-06T20:26:21+00:00",
     "Portimao (Faro)": "2026-09-06T19:50:52+00:00",
     "Sacavem (Lisboa)": "2026-09-06T18:29:17+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-06T20:19:45+00:00",
     "Santarem (Santarem)": "2026-09-06T20:02:06+00:00",
     "Setubal (Setubal)": "2026-09-06T19:55:03+00:00",
     "Sintra (Lisboa)": "2026-09-06T18:37:38+00:00",
@@ -97,6 +105,27 @@
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-nerea-17364851.html"
     },
+    "81882134@Penafiel (Porto)": {
+      "atualizado": "2026-09-06T20:26:21+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          135.97
+        ]
+      ],
+      "id": "81882134",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche BYRON",
+      "preco_desconto": 26.03,
+      "preco_final": 135.97,
+      "preco_normal": 162,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-byron-81882134.html"
+    },
     "81882134@Torres Vedras (Lisboa)": {
       "atualizado": "2026-09-06T18:44:34+00:00",
       "dimensao": null,
@@ -139,6 +168,27 @@
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-new-caro-81882846.html"
     },
+    "81895990@Barcelos (Braga)": {
+      "atualizado": "2026-09-06T20:14:44+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          298
+        ]
+      ],
+      "id": "81895990",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche COM TORNEIRA TT VITALIO JOY 260",
+      "preco_desconto": 281,
+      "preco_final": 298,
+      "preco_normal": 579,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Barcelos (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-vitalio-joy-260-81895990.html"
+    },
     "81895990@Loures (Lisboa)": {
       "atualizado": "2026-09-06T18:32:41+00:00",
       "dimensao": null,
@@ -179,6 +229,48 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html"
+    },
+    "81896491@Gaia (Porto)": {
+      "atualizado": "2026-09-06T20:24:44+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          348
+        ]
+      ],
+      "id": "81896491",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA LEVITY PRETO",
+      "preco_desconto": 81,
+      "preco_final": 348,
+      "preco_normal": 429,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html"
+    },
+    "81896491@Gondomar (Porto)": {
+      "atualizado": "2026-09-06T20:23:08+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          348
+        ]
+      ],
+      "id": "81896491",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA LEVITY PRETO",
+      "preco_desconto": 81,
+      "preco_final": 348,
+      "preco_normal": 429,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gondomar (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html"
     },
     "81896491@Santarem (Santarem)": {
@@ -244,6 +336,48 @@
       "store": "Braga (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
     },
+    "81896503@Gaia (Porto)": {
+      "atualizado": "2026-09-06T20:24:44+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          348
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 0.0,
+      "preco_final": 348,
+      "preco_normal": 348,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81896503@Gondomar (Porto)": {
+      "atualizado": "2026-09-06T20:23:08+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          348
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 0.0,
+      "preco_final": 348,
+      "preco_normal": 348,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gondomar (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
     "81896503@Setubal (Setubal)": {
       "atualizado": "2026-09-06T19:55:03+00:00",
       "dimensao": null,
@@ -264,6 +398,27 @@
       "retificado": false,
       "store": "Setubal (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "82023074@Guarda (Guarda)": {
+      "atualizado": "2026-09-06T20:21:32+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          279
+        ]
+      ],
+      "id": "82023074",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche TEMPESTA 210 CROMADO",
+      "preco_desconto": 32.4,
+      "preco_final": 279,
+      "preco_normal": 311.4,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-tempesta-210-cromado-82023074.html"
     },
     "82360350@Leiria (Leiria)": {
       "atualizado": "2026-09-06T20:09:39+00:00",
@@ -412,6 +567,48 @@
       "store": "Almada (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
     },
+    "83596589@Aveiro (Aveiro)": {
+      "atualizado": "2026-09-06T20:18:07+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          248
+        ]
+      ],
+      "id": "83596589",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO START CLOVA 210 CROMADO",
+      "preco_desconto": 51,
+      "preco_final": 248,
+      "preco_normal": 299,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Aveiro (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
+    },
+    "83596589@Barcelos (Braga)": {
+      "atualizado": "2026-09-06T20:14:44+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          158
+        ]
+      ],
+      "id": "83596589",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO START CLOVA 210 CROMADO",
+      "preco_desconto": 141,
+      "preco_final": 158,
+      "preco_normal": 299,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Barcelos (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
+    },
     "83596589@Braga (Braga)": {
       "atualizado": "2026-09-06T20:12:55+00:00",
       "dimensao": null,
@@ -517,6 +714,48 @@
       "store": "Figueira da Foz (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
     },
+    "83596589@Gaia (Porto)": {
+      "atualizado": "2026-09-06T20:24:44+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          248
+        ]
+      ],
+      "id": "83596589",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO START CLOVA 210 CROMADO",
+      "preco_desconto": 51,
+      "preco_final": 248,
+      "preco_normal": 299,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
+    },
+    "83596589@Guarda (Guarda)": {
+      "atualizado": "2026-09-06T20:21:32+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          199
+        ]
+      ],
+      "id": "83596589",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO START CLOVA 210 CROMADO",
+      "preco_desconto": 50,
+      "preco_final": 199,
+      "preco_normal": 249,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
+    },
     "83596589@Loures (Lisboa)": {
       "atualizado": "2026-09-06T18:32:41+00:00",
       "dimensao": null,
@@ -537,6 +776,27 @@
       "retificado": false,
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
+    },
+    "83842164@Gaia (Porto)": {
+      "atualizado": "2026-09-06T20:24:44+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          218
+        ]
+      ],
+      "id": "83842164",
+      "m2_caixa": null,
+      "marca": "ESSEBAGNO",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO INOX",
+      "preco_desconto": 41,
+      "preco_final": 218,
+      "preco_normal": 259,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-inox-83842164.html"
     },
     "83842164@Loule (Faro)": {
       "atualizado": "2026-09-06T18:47:51+00:00",
@@ -622,6 +882,27 @@
       "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
     },
+    "86523842@Guarda (Guarda)": {
+      "atualizado": "2026-09-06T20:21:32+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          468
+        ]
+      ],
+      "id": "86523842",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche com torneira termostática preto 175 cm Grohe Vitalio",
+      "preco_desconto": 101,
+      "preco_final": 468,
+      "preco_normal": 569,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
+    },
     "86523842@Oeiras (Lisboa)": {
       "atualizado": "2026-09-06T18:30:58+00:00",
       "dimensao": null,
@@ -641,6 +922,27 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
+    },
+    "86523842@Penafiel (Porto)": {
+      "atualizado": "2026-09-06T20:26:21+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          338
+        ]
+      ],
+      "id": "86523842",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche com torneira termostática preto 175 cm Grohe Vitalio",
+      "preco_desconto": 81,
+      "preco_final": 338,
+      "preco_normal": 419,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
     },
     "86600587@Albufeira (Faro)": {
@@ -790,6 +1092,48 @@
       "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
+    "86600587@Gondomar (Porto)": {
+      "atualizado": "2026-09-06T20:23:08+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          388
+        ]
+      ],
+      "id": "86600587",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche MONOCOMANDO GROHE VITALIO START 250",
+      "preco_desconto": 0.0,
+      "preco_final": 388,
+      "preco_normal": 388,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gondomar (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
+    },
+    "86600587@Guarda (Guarda)": {
+      "atualizado": "2026-09-06T20:21:32+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          388
+        ]
+      ],
+      "id": "86600587",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche MONOCOMANDO GROHE VITALIO START 250",
+      "preco_desconto": 91,
+      "preco_final": 388,
+      "preco_normal": 479,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
+    },
     "86600587@Loule (Faro)": {
       "atualizado": "2026-09-06T18:47:51+00:00",
       "dimensao": null,
@@ -830,6 +1174,27 @@
       "region": "Setubal",
       "retificado": false,
       "store": "Montijo (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
+    },
+    "86600587@Penafiel (Porto)": {
+      "atualizado": "2026-09-06T20:26:21+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          358
+        ]
+      ],
+      "id": "86600587",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Conjunto de duche MONOCOMANDO GROHE VITALIO START 250",
+      "preco_desconto": 121,
+      "preco_final": 358,
+      "preco_normal": 479,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Portimao (Faro)": {
@@ -874,6 +1239,27 @@
       "store": "Santarem (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
+    "88103666@Gondomar (Porto)": {
+      "atualizado": "2026-09-06T20:23:08+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          158
+        ]
+      ],
+      "id": "88103666",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Conjunto de duche STUDIO COM TORNEIRA TERMOSTÁTICA CROMADO",
+      "preco_desconto": 31,
+      "preco_final": 158,
+      "preco_normal": 189,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gondomar (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-studio-com-torneira-termostatica-cromado-88103666.html"
+    },
     "88483203@Coimbra (Coimbra)": {
       "atualizado": "2026-09-06T20:03:43+00:00",
       "dimensao": null,
@@ -893,6 +1279,27 @@
       "region": "Coimbra",
       "retificado": false,
       "store": "Coimbra (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-roca-88483203.html"
+    },
+    "88483203@Guarda (Guarda)": {
+      "atualizado": "2026-09-06T20:21:32+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          228
+        ]
+      ],
+      "id": "88483203",
+      "m2_caixa": null,
+      "marca": "ROCA",
+      "name": "Coluna de duche com torneira Roca",
+      "preco_desconto": 51,
+      "preco_final": 228,
+      "preco_normal": 279,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-roca-88483203.html"
     },
     "88483203@Leiria (Leiria)": {
@@ -979,6 +1386,27 @@
       "store": "Alverca (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
     },
+    "89128698@Barcelos (Braga)": {
+      "atualizado": "2026-09-06T20:14:44+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          319
+        ]
+      ],
+      "id": "89128698",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Coluna para duche hidromassagem com torneira   GROHE Vitalio Start 250",
+      "preco_desconto": 30,
+      "preco_final": 319,
+      "preco_normal": 349,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Barcelos (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
+    },
     "89128698@Barreiro (Setubal)": {
       "atualizado": "2026-09-06T19:51:51+00:00",
       "dimensao": null,
@@ -1019,6 +1447,27 @@
       "region": "Braga",
       "retificado": false,
       "store": "Braga (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
+    },
+    "89128698@Gaia (Porto)": {
+      "atualizado": "2026-09-06T20:24:44+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          408
+        ]
+      ],
+      "id": "89128698",
+      "m2_caixa": null,
+      "marca": "GROHE",
+      "name": "Coluna para duche hidromassagem com torneira   GROHE Vitalio Start 250",
+      "preco_desconto": 0.0,
+      "preco_final": 408,
+      "preco_normal": 408,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
     },
     "89128698@Leiria (Leiria)": {
@@ -1082,6 +1531,90 @@
       "region": "Leiria",
       "retificado": false,
       "store": "Caldas da Rainha (Leiria)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html"
+    },
+    "91776117@Gondomar (Porto)": {
+      "atualizado": "2026-09-06T20:23:08+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          148
+        ]
+      ],
+      "id": "91776117",
+      "m2_caixa": null,
+      "marca": "ROCA",
+      "name": "Conjunto de duche 20 cm cromado Mitos-LeColuna",
+      "preco_desconto": 31,
+      "preco_final": 148,
+      "preco_normal": 179,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gondomar (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html"
+    },
+    "91776117@Guarda (Guarda)": {
+      "atualizado": "2026-09-06T20:21:32+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          148
+        ]
+      ],
+      "id": "91776117",
+      "m2_caixa": null,
+      "marca": "ROCA",
+      "name": "Conjunto de duche 20 cm cromado Mitos-LeColuna",
+      "preco_desconto": 31,
+      "preco_final": 148,
+      "preco_normal": 179,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html"
+    },
+    "91776117@Guimaraes (Braga)": {
+      "atualizado": "2026-09-06T20:16:21+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          148
+        ]
+      ],
+      "id": "91776117",
+      "m2_caixa": null,
+      "marca": "ROCA",
+      "name": "Conjunto de duche 20 cm cromado Mitos-LeColuna",
+      "preco_desconto": 31,
+      "preco_final": 148,
+      "preco_normal": 179,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Guimaraes (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html"
+    },
+    "91776117@Penafiel (Porto)": {
+      "atualizado": "2026-09-06T20:26:21+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-06",
+          128
+        ]
+      ],
+      "id": "91776117",
+      "m2_caixa": null,
+      "marca": "ROCA",
+      "name": "Conjunto de duche 20 cm cromado Mitos-LeColuna",
+      "preco_desconto": 51,
+      "preco_final": 128,
+      "preco_normal": 179,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html"
     },
     "91776117@Torres Vedras (Lisboa)": {
