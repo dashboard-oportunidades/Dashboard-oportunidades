@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T18:35:58+00:00",
+  "generated": "2026-09-06T18:49:27+00:00",
   "products": [
     {
       "id": "17364851",
@@ -42,6 +42,84 @@
       ]
     },
     {
+      "id": "81882134",
+      "name": "Conjunto de duche BYRON",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-byron-81882134.html",
+      "dimensao": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 139,
+      "prices": [
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 162,
+          "preco_desconto": 23,
+          "preco_final": 139,
+          "atualizado": "2026-09-06T18:44:34+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              139
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91776117",
+      "name": "Conjunto de duche 20 cm cromado Mitos-LeColuna",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html",
+      "dimensao": null,
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 179,
+          "preco_desconto": 31,
+          "preco_final": 148,
+          "atualizado": "2026-09-06T18:44:34+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              148
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83842164",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO INOX",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-inox-83842164.html",
+      "dimensao": null,
+      "marca": "ESSEBAGNO",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 218,
+      "prices": [
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 259,
+          "preco_desconto": 41,
+          "preco_final": 218,
+          "atualizado": "2026-09-06T18:47:51+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              218
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "83596589",
       "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO START CLOVA 210 CROMADO",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html",
@@ -68,32 +146,6 @@
       ]
     },
     {
-      "id": "81896503",
-      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html",
-      "dimensao": null,
-      "marca": "HUBER",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 348,
-      "prices": [
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 348,
-          "preco_desconto": 0.0,
-          "preco_final": 348,
-          "atualizado": "2026-09-06T18:24:12+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              348
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "81896491",
       "name": "Conjunto de duche COM TORNEIRA LEVITY PRETO",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html",
@@ -108,6 +160,32 @@
           "region": "Lisboa",
           "preco_normal": 429,
           "preco_desconto": 81,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T18:24:12+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81896503",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html",
+      "dimensao": null,
+      "marca": "HUBER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 348,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 348,
+          "preco_desconto": 0.0,
           "preco_final": 348,
           "atualizado": "2026-09-06T18:24:12+00:00",
           "history": [
@@ -156,6 +234,34 @@
               388
             ]
           ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T18:47:51+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T18:49:26+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
         }
       ]
     },
@@ -182,30 +288,18 @@
               408
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "86523842",
-      "name": "Conjunto de duche com torneira termostática preto 175 cm Grohe Vitalio",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html",
-      "dimensao": null,
-      "marca": "GROHE",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 468,
-      "prices": [
+        },
         {
-          "store": "Oeiras (Lisboa)",
+          "store": "Alverca (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-09-06T18:30:58+00:00",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-06T18:46:09+00:00",
           "history": [
             [
               "2026-09-06",
-              468
+              408
             ]
           ]
         }
@@ -228,6 +322,32 @@
           "preco_desconto": 111,
           "preco_final": 468,
           "atualizado": "2026-09-06T18:32:41+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              468
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86523842",
+      "name": "Conjunto de duche com torneira termostática preto 175 cm Grohe Vitalio",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html",
+      "dimensao": null,
+      "marca": "GROHE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 468,
+      "prices": [
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-09-06T18:30:58+00:00",
           "history": [
             [
               "2026-09-06",
