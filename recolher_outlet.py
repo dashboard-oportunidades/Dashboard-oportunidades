@@ -86,6 +86,16 @@ CATEGORIAS = {
         "state_file": "outlet_state_pavimentos.json",
         "out_file": "docs/pavimentos.json",
     },
+    "coluna-duche": {
+        "label": "Coluna Duche",
+        "url": (
+            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
+            "?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22"
+            "%2C%22attribute-22088%22%3A%22Coluna%2520de%2520duche%22%7D&sort=price-desc"
+        ),
+        "state_file": "outlet_state_coluna_duche.json",
+        "out_file": "docs/coluna_duche.json",
+    },
 }
 
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
