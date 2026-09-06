@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T18:49:27+00:00",
+  "generated": "2026-09-06T20:00:14+00:00",
   "products": [
     {
       "id": "17364851",
@@ -32,6 +32,20 @@
           "preco_desconto": 0.0,
           "preco_final": 87.98,
           "atualizado": "2026-09-06T18:30:58+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              87.98
+            ]
+          ]
+        },
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 109,
+          "preco_desconto": 21.02,
+          "preco_final": 87.98,
+          "atualizado": "2026-09-06T19:53:22+00:00",
           "history": [
             [
               "2026-09-06",
@@ -142,6 +156,60 @@
               248
             ]
           ]
+        },
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T19:53:22+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82559325",
+      "name": "Conjunto de duche com torneira TERMOSTÁTICA START CLOVA 210 CROMADA",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-start-clova-210-cromada-82559325.html",
+      "dimensao": null,
+      "marca": "GROHE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 288,
+      "prices": [
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 349,
+          "preco_desconto": 61,
+          "preco_final": 288,
+          "atualizado": "2026-09-06T19:50:52+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              288
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 349,
+          "preco_desconto": 61,
+          "preco_final": 288,
+          "atualizado": "2026-09-06T20:00:13+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              288
+            ]
+          ]
         }
       ]
     },
@@ -194,6 +262,20 @@
               348
             ]
           ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 348,
+          "preco_desconto": 0.0,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T19:55:03+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              348
+            ]
+          ]
         }
       ]
     },
@@ -207,6 +289,20 @@
       "m2_caixa": null,
       "preco_final": 388,
       "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T18:49:26+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
+        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -250,12 +346,40 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
+          "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 479,
           "preco_desconto": 91,
           "preco_final": 388,
-          "atualizado": "2026-09-06T18:49:26+00:00",
+          "atualizado": "2026-09-06T19:50:52+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T19:51:51+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T19:54:03+00:00",
           "history": [
             [
               "2026-09-06",
@@ -296,6 +420,48 @@
           "preco_desconto": 0.0,
           "preco_final": 408,
           "atualizado": "2026-09-06T18:46:09+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              408
+            ]
+          ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-06T19:51:51+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              408
+            ]
+          ]
+        },
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-06T19:53:22+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              408
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-06T19:55:03+00:00",
           "history": [
             [
               "2026-09-06",
