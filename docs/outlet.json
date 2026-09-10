@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T21:31:18+00:00",
+  "generated": "2026-09-10T21:45:16+00:00",
   "products": [
     {
       "id": "81992803",
@@ -106,32 +106,6 @@
       ]
     },
     {
-      "id": "91835292",
-      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835292.html",
-      "dimensao": null,
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 108,
-      "prices": [
-        {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 129,
-          "preco_desconto": 21,
-          "preco_final": 108,
-          "atualizado": "2026-09-06T17:31:44+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              108
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "91835298",
       "name": "Base de duche Resina 90x70 cm branco mate Sensea Easy V2",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-90x70-cm-branco-mate-sensea-easy-v2-91835298.html",
@@ -148,6 +122,32 @@
           "preco_desconto": 21,
           "preco_final": 108,
           "atualizado": "2026-09-10T21:20:38+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              108
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91835292",
+      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835292.html",
+      "dimensao": null,
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 108,
+      "prices": [
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 129,
+          "preco_desconto": 21,
+          "preco_final": 108,
+          "atualizado": "2026-09-10T21:33:14+00:00",
           "history": [
             [
               "2026-09-10",
@@ -248,26 +248,26 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 152,
-          "preco_desconto": 24,
-          "preco_final": 128,
-          "atualizado": "2026-09-06T17:34:56+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              128
-            ]
-          ]
-        },
-        {
           "store": "Viseu (Viseu)",
           "region": "Viseu",
           "preco_normal": 128,
           "preco_desconto": 0.0,
           "preco_final": 128,
           "atualizado": "2026-09-10T21:31:17+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              128
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 152,
+          "preco_desconto": 24,
+          "preco_final": 128,
+          "atualizado": "2026-09-10T21:36:41+00:00",
           "history": [
             [
               "2026-09-10",
@@ -340,26 +340,26 @@
       "preco_final": 137,
       "prices": [
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 181,
-          "preco_desconto": 44,
-          "preco_final": 137,
-          "atualizado": "2026-09-06T17:36:42+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              137
-            ]
-          ]
-        },
-        {
           "store": "Penafiel (Porto)",
           "region": "Porto",
           "preco_normal": 181,
           "preco_desconto": 44,
           "preco_final": 137,
           "atualizado": "2026-09-10T21:11:20+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              137
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 181,
+          "preco_desconto": 44,
+          "preco_final": 137,
+          "atualizado": "2026-09-10T21:38:28+00:00",
           "history": [
             [
               "2026-09-10",
@@ -453,10 +453,10 @@
           "preco_normal": 159,
           "preco_desconto": 21,
           "preco_final": 138,
-          "atualizado": "2026-09-06T17:42:08+00:00",
+          "atualizado": "2026-09-10T21:43:32+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               138
             ]
           ]
@@ -502,20 +502,6 @@
           ]
         },
         {
-          "store": "Telheiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 138,
-          "preco_desconto": 0.0,
-          "preco_final": 138,
-          "atualizado": "2026-09-06T18:09:37+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Castelo Branco (Castelo Branco)",
           "region": "Castelo Branco",
           "preco_normal": 138,
@@ -525,6 +511,20 @@
           "history": [
             [
               "2026-09-10",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 138,
+          "preco_desconto": 0.0,
+          "preco_final": 138,
+          "atualizado": "2026-09-06T18:09:37+00:00",
+          "history": [
+            [
+              "2026-09-06",
               138
             ]
           ]
@@ -619,20 +619,6 @@
       "m2_caixa": null,
       "preco_final": 148,
       "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 179,
-          "preco_desconto": 31,
-          "preco_final": 148,
-          "atualizado": "2026-09-06T17:40:21+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              148
-            ]
-          ]
-        },
         {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
@@ -731,10 +717,10 @@
           "preco_normal": 219,
           "preco_desconto": 62,
           "preco_final": 157,
-          "atualizado": "2026-09-06T17:36:42+00:00",
+          "atualizado": "2026-09-10T21:38:28+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               157
             ]
           ]
@@ -750,6 +736,32 @@
             [
               "2026-09-06",
               169.97
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82002238",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 120X70CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-120x70cm-82002238.html",
+      "dimensao": "120x70",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 158,
+      "prices": [
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 263,
+          "preco_desconto": 105,
+          "preco_final": 158,
+          "atualizado": "2026-09-10T21:24:35+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              158
             ]
           ]
         }
@@ -780,6 +792,20 @@
           ]
         },
         {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-10T21:22:14+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              158
+            ]
+          ]
+        },
+        {
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 192,
@@ -794,15 +820,15 @@
           ]
         },
         {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
           "preco_normal": 192,
           "preco_desconto": 34,
           "preco_final": 158,
-          "atualizado": "2026-09-06T17:42:08+00:00",
+          "atualizado": "2026-09-10T21:24:35+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               158
             ]
           ]
@@ -836,52 +862,12 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 192,
           "preco_desconto": 34,
           "preco_final": 158,
-          "atualizado": "2026-09-10T21:22:14+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T21:24:35+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82002238",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 120X70CM",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-120x70cm-82002238.html",
-      "dimensao": "120x70",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 158,
-      "prices": [
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 263,
-          "preco_desconto": 105,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T21:24:35+00:00",
+          "atualizado": "2026-09-10T21:43:32+00:00",
           "history": [
             [
               "2026-09-10",
@@ -912,6 +898,32 @@
             [
               "2026-09-06",
               160.34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82002242",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 100X80CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-100x80cm-82002242.html",
+      "dimensao": "100x80",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 168,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 168,
+          "preco_desconto": 0.0,
+          "preco_final": 168,
+          "atualizado": "2026-09-10T21:29:35+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              168
             ]
           ]
         }
@@ -975,33 +987,21 @@
           "preco_normal": 199,
           "preco_desconto": 31,
           "preco_final": 168,
-          "atualizado": "2026-09-06T17:34:56+00:00",
+          "atualizado": "2026-09-10T21:36:41+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               168
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "82002242",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 100X80CM",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-100x80cm-82002242.html",
-      "dimensao": "100x80",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 168,
-      "prices": [
+        },
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 168,
-          "preco_desconto": 0.0,
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 199,
+          "preco_desconto": 31,
           "preco_final": 168,
-          "atualizado": "2026-09-10T21:29:35+00:00",
+          "atualizado": "2026-09-10T21:41:49+00:00",
           "history": [
             [
               "2026-09-10",
@@ -1159,10 +1159,10 @@
           "preco_normal": 249,
           "preco_desconto": 61.03,
           "preco_final": 187.97,
-          "atualizado": "2026-09-06T17:34:56+00:00",
+          "atualizado": "2026-09-10T21:36:41+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               187.97
             ]
           ]
@@ -1421,10 +1421,10 @@
           "preco_normal": 319,
           "preco_desconto": 90,
           "preco_final": 229,
-          "atualizado": "2026-09-06T17:31:44+00:00",
+          "atualizado": "2026-09-10T21:33:14+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               229
             ]
           ]
@@ -1447,10 +1447,10 @@
           "preco_normal": 299,
           "preco_desconto": 51,
           "preco_final": 248,
-          "atualizado": "2026-09-06T17:40:21+00:00",
+          "atualizado": "2026-09-10T21:41:49+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               248
             ]
           ]
@@ -1473,10 +1473,10 @@
           "preco_normal": 339,
           "preco_desconto": 91,
           "preco_final": 248,
-          "atualizado": "2026-09-06T17:43:56+00:00",
+          "atualizado": "2026-09-10T21:45:15+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               248
             ]
           ]
@@ -1499,10 +1499,10 @@
           "preco_normal": 349,
           "preco_desconto": 70,
           "preco_final": 279,
-          "atualizado": "2026-09-06T17:43:56+00:00",
+          "atualizado": "2026-09-10T21:45:15+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               279
             ]
           ]
@@ -1603,10 +1603,10 @@
           "preco_normal": 489,
           "preco_desconto": 110,
           "preco_final": 379,
-          "atualizado": "2026-09-06T17:43:56+00:00",
+          "atualizado": "2026-09-10T21:45:15+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               379
             ]
           ]
