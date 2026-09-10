@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T22:11:13+00:00",
+  "generated": "2026-09-10T22:25:30+00:00",
   "products": [
     {
       "id": "81992803",
@@ -168,26 +168,26 @@
       "preco_final": 118,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 139,
-          "preco_desconto": 21,
-          "preco_final": 118,
-          "atualizado": "2026-09-06T18:13:00+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              118
-            ]
-          ]
-        },
-        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 139,
           "preco_desconto": 21,
           "preco_final": 118,
           "atualizado": "2026-09-10T21:57:48+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              118
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 139,
+          "preco_desconto": 21,
+          "preco_final": 118,
+          "atualizado": "2026-09-10T22:15:02+00:00",
           "history": [
             [
               "2026-09-10",
@@ -359,7 +359,7 @@
           "preco_normal": 181,
           "preco_desconto": 44,
           "preco_final": 137,
-          "atualizado": "2026-09-10T21:11:20+00:00",
+          "atualizado": "2026-09-10T22:25:29+00:00",
           "history": [
             [
               "2026-09-10",
@@ -394,26 +394,26 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-09-06T18:13:00+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Torres Novas (Santarem)",
           "region": "Santarem",
           "preco_normal": 159,
           "preco_desconto": 21,
           "preco_final": 138,
           "atualizado": "2026-09-10T21:18:43+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-10T22:15:02+00:00",
           "history": [
             [
               "2026-09-10",
@@ -434,26 +434,26 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-09-06T18:15:06+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Santa Maria da Feira (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 159,
           "preco_desconto": 21,
           "preco_final": 138,
           "atualizado": "2026-09-10T21:43:32+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-10T22:18:25+00:00",
           "history": [
             [
               "2026-09-10",
@@ -473,20 +473,6 @@
       "m2_caixa": null,
       "preco_final": 138,
       "prices": [
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 138,
-          "preco_desconto": 0.0,
-          "preco_final": 138,
-          "atualizado": "2026-09-10T21:26:11+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              138
-            ]
-          ]
-        },
         {
           "store": "Carcavelos (Lisboa)",
           "region": "Lisboa",
@@ -516,12 +502,52 @@
           ]
         },
         {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 138,
+          "preco_desconto": 0.0,
+          "preco_final": 138,
+          "atualizado": "2026-09-10T21:26:11+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              138
+            ]
+          ]
+        },
+        {
           "store": "Telheiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 138,
           "preco_desconto": 0.0,
           "preco_final": 138,
           "atualizado": "2026-09-10T22:11:11+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              138
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "94150388",
+      "name": "Base de duche 80x140xcm bege Resina",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x140xcm-bege-resina-94150388.html",
+      "dimensao": "80x140",
+      "marca": "RESINBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 138,
+      "prices": [
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-10T22:16:43+00:00",
           "history": [
             [
               "2026-09-10",
@@ -610,46 +636,6 @@
       ]
     },
     {
-      "id": "88672190",
-      "name": "Base de duche ardósia 160x70 cm branco Musa",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
-      "dimensao": "160x70",
-      "marca": "RESINBATH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 148,
-      "prices": [
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-10T21:31:17+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              148
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-10T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              148
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86584061",
       "name": "Base de duche 160x70 cm branco mate Sensea Easy",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html",
@@ -676,6 +662,46 @@
       ]
     },
     {
+      "id": "88672190",
+      "name": "Base de duche ardósia 160x70 cm branco Musa",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
+      "dimensao": "160x70",
+      "marca": "RESINBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-10T22:02:55+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-10T21:31:17+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              148
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "94150385",
       "name": "Base de duche 80x160xcm branco Resina",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x160xcm-branco-resina-94150385.html",
@@ -691,7 +717,7 @@
           "preco_normal": 174,
           "preco_desconto": 25,
           "preco_final": 149,
-          "atualizado": "2026-09-10T21:09:40+00:00",
+          "atualizado": "2026-09-10T22:23:48+00:00",
           "history": [
             [
               "2026-09-10",
@@ -778,20 +804,6 @@
       "preco_final": 158,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-06T18:13:00+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 192,
@@ -815,20 +827,6 @@
           "history": [
             [
               "2026-09-10",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-06T18:15:06+00:00",
-          "history": [
-            [
-              "2026-09-06",
               158
             ]
           ]
@@ -881,10 +879,38 @@
           "preco_normal": 158,
           "preco_desconto": 0.0,
           "preco_final": 158,
-          "atualizado": "2026-09-06T18:11:12+00:00",
+          "atualizado": "2026-09-10T22:13:19+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-10T22:15:02+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-10T22:18:25+00:00",
+          "history": [
+            [
+              "2026-09-10",
               158
             ]
           ]
@@ -1055,7 +1081,7 @@
           "preco_normal": 258,
           "preco_desconto": 20,
           "preco_final": 238,
-          "atualizado": "2026-09-10T21:11:20+00:00",
+          "atualizado": "2026-09-10T22:25:29+00:00",
           "history": [
             [
               "2026-09-10",
@@ -1161,7 +1187,7 @@
           "preco_normal": 249,
           "preco_desconto": 52,
           "preco_final": 197,
-          "atualizado": "2026-09-10T21:11:20+00:00",
+          "atualizado": "2026-09-10T22:25:29+00:00",
           "history": [
             [
               "2026-09-10",
@@ -1213,37 +1239,11 @@
           "preco_normal": 284,
           "preco_desconto": 87,
           "preco_final": 197,
-          "atualizado": "2026-09-10T21:11:20+00:00",
+          "atualizado": "2026-09-10T22:25:29+00:00",
           "history": [
             [
               "2026-09-10",
               197
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "94150382",
-      "name": "Base de duche 80x180xcm bege Resina",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x180xcm-bege-resina-94150382.html",
-      "dimensao": "80x180",
-      "marca": "RESINBATH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 198,
-      "prices": [
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 235,
-          "preco_desconto": 37,
-          "preco_final": 198,
-          "atualizado": "2026-09-06T18:14:26+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              198
             ]
           ]
         }
@@ -1305,10 +1305,10 @@
           "preco_normal": 199,
           "preco_desconto": 0.0,
           "preco_final": 199,
-          "atualizado": "2026-09-06T18:15:55+00:00",
+          "atualizado": "2026-09-10T22:20:11+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               199
             ]
           ]
@@ -1357,10 +1357,10 @@
           "preco_normal": 259,
           "preco_desconto": 41,
           "preco_final": 218,
-          "atualizado": "2026-09-06T18:15:06+00:00",
+          "atualizado": "2026-09-10T22:18:25+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               218
             ]
           ]
@@ -1565,7 +1565,7 @@
           "preco_normal": 449,
           "preco_desconto": 112,
           "preco_final": 337,
-          "atualizado": "2026-09-10T21:11:20+00:00",
+          "atualizado": "2026-09-10T22:25:29+00:00",
           "history": [
             [
               "2026-09-10",
