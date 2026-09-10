@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T21:45:16+00:00",
+  "generated": "2026-09-10T21:57:49+00:00",
   "products": [
     {
       "id": "81992803",
@@ -80,26 +80,26 @@
       ]
     },
     {
-      "id": "91835296",
-      "name": "Base de duche Resina 120x70 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x70-cm-branco-mate-sensea-easy-v2-91835296.html",
-      "dimensao": "120x70",
+      "id": "91835292",
+      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835292.html",
+      "dimensao": null,
       "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
-      "preco_final": 98,
+      "preco_final": 108,
       "prices": [
         {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 98,
-          "preco_desconto": 0.0,
-          "preco_final": 98,
-          "atualizado": "2026-09-06T17:45:31+00:00",
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 129,
+          "preco_desconto": 21,
+          "preco_final": 108,
+          "atualizado": "2026-09-10T21:33:14+00:00",
           "history": [
             [
-              "2026-09-06",
-              98
+              "2026-09-10",
+              108
             ]
           ]
         }
@@ -122,32 +122,6 @@
           "preco_desconto": 21,
           "preco_final": 108,
           "atualizado": "2026-09-10T21:20:38+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              108
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "91835292",
-      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835292.html",
-      "dimensao": null,
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 108,
-      "prices": [
-        {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 129,
-          "preco_desconto": 21,
-          "preco_final": 108,
-          "atualizado": "2026-09-10T21:33:14+00:00",
           "history": [
             [
               "2026-09-10",
@@ -187,10 +161,36 @@
           "preco_normal": 139,
           "preco_desconto": 21,
           "preco_final": 118,
-          "atualizado": "2026-09-06T17:56:08+00:00",
+          "atualizado": "2026-09-10T21:57:48+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
+              118
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91835295",
+      "name": "Base de duche Resina 100x70 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-100x70-cm-branco-mate-sensea-easy-v2-91835295.html",
+      "dimensao": "100x70",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 118,
+      "prices": [
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 139,
+          "preco_desconto": 21,
+          "preco_final": 118,
+          "atualizado": "2026-09-10T21:46:06+00:00",
+          "history": [
+            [
+              "2026-09-10",
               118
             ]
           ]
@@ -248,12 +248,12 @@
           ]
         },
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 128,
-          "preco_desconto": 0.0,
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 152,
+          "preco_desconto": 24,
           "preco_final": 128,
-          "atualizado": "2026-09-10T21:31:17+00:00",
+          "atualizado": "2026-09-10T21:36:41+00:00",
           "history": [
             [
               "2026-09-10",
@@ -262,12 +262,12 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 152,
-          "preco_desconto": 24,
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 128,
+          "preco_desconto": 0.0,
           "preco_final": 128,
-          "atualizado": "2026-09-10T21:36:41+00:00",
+          "atualizado": "2026-09-10T21:31:17+00:00",
           "history": [
             [
               "2026-09-10",
@@ -340,12 +340,12 @@
       "preco_final": 137,
       "prices": [
         {
-          "store": "Penafiel (Porto)",
+          "store": "Matosinhos (Porto)",
           "region": "Porto",
           "preco_normal": 181,
           "preco_desconto": 44,
           "preco_final": 137,
-          "atualizado": "2026-09-10T21:11:20+00:00",
+          "atualizado": "2026-09-10T21:38:28+00:00",
           "history": [
             [
               "2026-09-10",
@@ -354,12 +354,12 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
+          "store": "Penafiel (Porto)",
           "region": "Porto",
           "preco_normal": 181,
           "preco_desconto": 44,
           "preco_final": 137,
-          "atualizado": "2026-09-10T21:38:28+00:00",
+          "atualizado": "2026-09-10T21:11:20+00:00",
           "history": [
             [
               "2026-09-10",
@@ -834,15 +834,15 @@
           ]
         },
         {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 192,
           "preco_desconto": 34,
           "preco_final": 158,
-          "atualizado": "2026-09-06T17:53:49+00:00",
+          "atualizado": "2026-09-10T21:43:32+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               158
             ]
           ]
@@ -862,12 +862,26 @@
           ]
         },
         {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
+          "preco_final": 158,
+          "atualizado": "2026-09-10T21:49:26+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
           "preco_normal": 192,
           "preco_desconto": 34,
           "preco_final": 158,
-          "atualizado": "2026-09-10T21:43:32+00:00",
+          "atualizado": "2026-09-10T21:54:20+00:00",
           "history": [
             [
               "2026-09-10",
@@ -940,26 +954,26 @@
       "preco_final": 168,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-09-06T17:47:11+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              168
-            ]
-          ]
-        },
-        {
           "store": "Braga (Braga)",
           "region": "Braga",
           "preco_normal": 199,
           "preco_desconto": 31,
           "preco_final": 168,
           "atualizado": "2026-09-10T21:17:04+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              168
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-09-10T21:41:49+00:00",
           "history": [
             [
               "2026-09-10",
@@ -996,12 +1010,12 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
           "preco_normal": 199,
           "preco_desconto": 31,
           "preco_final": 168,
-          "atualizado": "2026-09-10T21:41:49+00:00",
+          "atualizado": "2026-09-10T21:47:46+00:00",
           "history": [
             [
               "2026-09-10",
@@ -1027,10 +1041,10 @@
           "preco_normal": 334,
           "preco_desconto": 156,
           "preco_final": 178,
-          "atualizado": "2026-09-06T17:45:31+00:00",
+          "atualizado": "2026-09-10T21:46:06+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               178
             ]
           ]
@@ -1081,36 +1095,10 @@
           "preco_normal": 178,
           "preco_desconto": 0.0,
           "preco_final": 178,
-          "atualizado": "2026-09-06T17:53:49+00:00",
+          "atualizado": "2026-09-10T21:54:20+00:00",
           "history": [
             [
-              "2026-09-06",
-              178
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "91835314",
-      "name": "Base de duche Resina 140x90 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x90-cm-branco-mate-sensea-easy-v2-91835314.html",
-      "dimensao": "140x90",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 178,
-      "prices": [
-        {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 213,
-          "preco_desconto": 35,
-          "preco_final": 178,
-          "atualizado": "2026-09-06T17:48:49+00:00",
-          "history": [
-            [
-              "2026-09-06",
+              "2026-09-10",
               178
             ]
           ]
@@ -1133,10 +1121,10 @@
           "preco_normal": 274,
           "preco_desconto": 94.02,
           "preco_final": 179.98,
-          "atualizado": "2026-09-06T17:48:49+00:00",
+          "atualizado": "2026-09-10T21:49:26+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               179.98
             ]
           ]
@@ -1525,10 +1513,10 @@
           "preco_normal": 364,
           "preco_desconto": 84.02,
           "preco_final": 279.98,
-          "atualizado": "2026-09-06T17:48:49+00:00",
+          "atualizado": "2026-09-10T21:49:26+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-10",
               279.98
             ]
           ]
