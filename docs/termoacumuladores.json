@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T09:16:32+00:00",
+  "generated": "2026-09-12T09:48:32+00:00",
   "products": [
     {
       "id": "82005354",
@@ -98,7 +98,7 @@
       "name": "Termoacumulador BOSCH tronic tr 4000t 50l",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-50l-84801327.html",
       "dimensao": "50L",
-      "marca": null,
+      "marca": "BOSCH",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 178,
@@ -109,10 +109,10 @@
           "preco_normal": 214,
           "preco_desconto": 36,
           "preco_final": 178,
-          "atualizado": "2026-09-01T12:37:51+00:00",
+          "atualizado": "2026-09-12T09:48:32+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               178
             ]
           ]
@@ -176,7 +176,7 @@
       "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
       "dimensao": "100L",
-      "marca": null,
+      "marca": "BOSCH",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 228,
@@ -187,10 +187,10 @@
           "preco_normal": 270,
           "preco_desconto": 42,
           "preco_final": 228,
-          "atualizado": "2026-09-01T12:32:44+00:00",
+          "atualizado": "2026-09-12T09:24:28+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               228
             ]
           ]
@@ -202,7 +202,7 @@
       "name": "Termo Vertical HTW SMART LITE função smart e ânodo eletronico 100L",
       "url": "https://www.leroymerlin.pt/produtos/termo-vertical-htw-smart-lite-funcao-smart-e-anodo-eletronico-100l-95933346.html",
       "dimensao": "100L",
-      "marca": null,
+      "marca": "HTW",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 239.99,
@@ -213,10 +213,10 @@
           "preco_normal": 279,
           "preco_desconto": 39.01,
           "preco_final": 239.99,
-          "atualizado": "2026-09-01T12:36:10+00:00",
+          "atualizado": "2026-09-12T09:40:40+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               239.99
             ]
           ]
@@ -394,6 +394,20 @@
           ]
         },
         {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-09-12T09:00:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              388
+            ]
+          ]
+        },
+        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 469,
@@ -417,20 +431,6 @@
           "history": [
             [
               "2026-09-01",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-12T09:00:55+00:00",
-          "history": [
-            [
-              "2026-09-12",
               388
             ]
           ]

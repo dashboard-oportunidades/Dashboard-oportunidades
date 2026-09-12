@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T09:16:32+00:00",
+  "generated": "2026-09-12T09:48:32+00:00",
   "products": [
     {
       "id": "85105569",
@@ -12,20 +12,6 @@
       "preco_final": 2.98,
       "prices": [
         {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 5.99,
-          "preco_desconto": 3.01,
-          "preco_final": 2.98,
-          "atualizado": "2026-09-02T16:17:06+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              2.98
-            ]
-          ]
-        },
-        {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 5.99,
@@ -35,6 +21,20 @@
           "history": [
             [
               "2026-09-12",
+              2.98
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 5.99,
+          "preco_desconto": 3.01,
+          "preco_final": 2.98,
+          "atualizado": "2026-09-02T16:17:06+00:00",
+          "history": [
+            [
+              "2026-09-02",
               2.98
             ]
           ]
@@ -84,6 +84,20 @@
           "preco_desconto": 0.87,
           "preco_final": 3.98,
           "atualizado": "2026-09-12T08:44:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              3.98
+            ]
+          ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 4.85,
+          "preco_desconto": 0.87,
+          "preco_final": 3.98,
+          "atualizado": "2026-09-12T08:51:52+00:00",
           "history": [
             [
               "2026-09-12",
@@ -146,20 +160,6 @@
               3.98
             ]
           ]
-        },
-        {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 4.85,
-          "preco_desconto": 0.87,
-          "preco_final": 3.98,
-          "atualizado": "2026-09-12T08:51:52+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              3.98
-            ]
-          ]
         }
       ]
     },
@@ -216,32 +216,6 @@
       ]
     },
     {
-      "id": "11172490",
-      "name": "Pavimento de pedra irregular GRANDE FILITA M²",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-de-pedra-irregular-grande-filita-m2-11172490.html",
-      "dimensao": null,
-      "marca": "NATURPIEDRA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 6.98,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 11.99,
-          "preco_desconto": 5.01,
-          "preco_final": 6.98,
-          "atualizado": "2026-09-02T16:26:23+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              6.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82501407",
       "name": "Degrau cerâmico Mauna white 45x45 cm Gresco ",
       "url": "https://www.leroymerlin.pt/produtos/degrau-ceramico-mauna-white-45x45-cm-gresco-82501407.html",
@@ -261,6 +235,32 @@
           "history": [
             [
               "2026-09-02",
+              6.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11172490",
+      "name": "Pavimento de pedra irregular GRANDE FILITA M²",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-de-pedra-irregular-grande-filita-m2-11172490.html",
+      "dimensao": null,
+      "marca": "NATURPIEDRA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 6.98,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 11.99,
+          "preco_desconto": 5.01,
+          "preco_final": 6.98,
+          "atualizado": "2026-09-12T09:39:24+00:00",
+          "history": [
+            [
+              "2026-09-12",
               6.98
             ]
           ]
@@ -424,32 +424,6 @@
       ]
     },
     {
-      "id": "17607044",
-      "name": "Pavimento cerâmico Matrix cinza 33x33 cm Antiderrapante",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-cinza-33x33-cm-antiderrapante-17607044.html",
-      "dimensao": "33x33",
-      "marca": "GRESART",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 10.98,
-      "prices": [
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 10.98,
-          "preco_desconto": 0.0,
-          "preco_final": 10.98,
-          "atualizado": "2026-09-02T16:28:57+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              10.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "17607345",
       "name": "Pavimento cerâmico Matrix bege 33x33 cm Antiderrapante",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-bege-33x33-cm-antiderrapante-17607345.html",
@@ -547,6 +521,32 @@
           "history": [
             [
               "2026-09-02",
+              10.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17607044",
+      "name": "Pavimento cerâmico Matrix cinza 33x33 cm Antiderrapante",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-cinza-33x33-cm-antiderrapante-17607044.html",
+      "dimensao": "33x33",
+      "marca": "GRESART",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 10.98,
+      "prices": [
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 10.98,
+          "preco_desconto": 0.0,
+          "preco_final": 10.98,
+          "atualizado": "2026-09-12T09:31:09+00:00",
+          "history": [
+            [
+              "2026-09-12",
               10.98
             ]
           ]
@@ -923,10 +923,10 @@
           "preco_normal": 23.38,
           "preco_desconto": 8.4,
           "preco_final": 14.98,
-          "atualizado": "2026-09-02T16:22:51+00:00",
+          "atualizado": "2026-09-12T09:47:17+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               14.98
             ]
           ]
@@ -988,32 +988,6 @@
       ]
     },
     {
-      "id": "88805199",
-      "name": "Pavimento cerâmico creme mate 45x45 cm Tivoli",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-creme-mate-45x45-cm-tivoli-88805199.html",
-      "dimensao": "45x45",
-      "marca": "SALONI",
-      "retificado": false,
-      "m2_caixa": 1.22,
-      "preco_final": 14.98,
-      "prices": [
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 23.39,
-          "preco_desconto": 8.41,
-          "preco_final": 14.98,
-          "atualizado": "2026-09-02T16:28:57+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              14.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "89168666",
       "name": "Pavimento / Revestimento cerâmico Artens Urban Prata 60x60 cm Antiderrapante",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-60x60-cm-antiderrapante-89168666.html",
@@ -1050,20 +1024,6 @@
       "preco_final": 14.98,
       "prices": [
         {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 24.18,
-          "preco_desconto": 9.2,
-          "preco_final": 14.98,
-          "atualizado": "2026-09-02T15:51:40+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              14.98
-            ]
-          ]
-        },
-        {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 24.18,
@@ -1073,6 +1033,20 @@
           "history": [
             [
               "2026-09-12",
+              14.98
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 24.18,
+          "preco_desconto": 9.2,
+          "preco_final": 14.98,
+          "atualizado": "2026-09-02T15:51:40+00:00",
+          "history": [
+            [
+              "2026-09-02",
               14.98
             ]
           ]
@@ -1122,6 +1096,32 @@
           "preco_desconto": 9.2,
           "preco_final": 14.98,
           "atualizado": "2026-09-12T08:44:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              14.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88805199",
+      "name": "Pavimento cerâmico creme mate 45x45 cm Tivoli",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-creme-mate-45x45-cm-tivoli-88805199.html",
+      "dimensao": "45x45",
+      "marca": "SALONI",
+      "retificado": false,
+      "m2_caixa": 1.22,
+      "preco_final": 14.98,
+      "prices": [
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 23.39,
+          "preco_desconto": 8.41,
+          "preco_final": 14.98,
+          "atualizado": "2026-09-12T09:31:09+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1356,32 +1356,6 @@
       ]
     },
     {
-      "id": "90126582",
-      "name": "Revestimento cerâmico Artic Glace branco 30x90 cm",
-      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artic-glace-branco-30x90-cm-90126582.html",
-      "dimensao": "30x90",
-      "marca": "ARTENS",
-      "retificado": false,
-      "m2_caixa": 1.08,
-      "preco_final": 15.98,
-      "prices": [
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 25.91,
-          "preco_desconto": 9.93,
-          "preco_final": 15.98,
-          "atualizado": "2026-09-02T16:28:57+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              15.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "90787390",
       "name": "Pavimento cerâmico 15X75CM Deck nute",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-15x75cm-deck-nute-90787390.html",
@@ -1479,6 +1453,32 @@
           "history": [
             [
               "2026-09-02",
+              15.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90126582",
+      "name": "Revestimento cerâmico Artic Glace branco 30x90 cm",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artic-glace-branco-30x90-cm-90126582.html",
+      "dimensao": "30x90",
+      "marca": "ARTENS",
+      "retificado": false,
+      "m2_caixa": 1.08,
+      "preco_final": 15.98,
+      "prices": [
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 25.91,
+          "preco_desconto": 9.93,
+          "preco_final": 15.98,
+          "atualizado": "2026-09-12T09:31:09+00:00",
+          "history": [
+            [
+              "2026-09-12",
               15.98
             ]
           ]
@@ -1633,10 +1633,10 @@
           "preco_normal": 28.39,
           "preco_desconto": 10.41,
           "preco_final": 17.98,
-          "atualizado": "2026-09-02T16:28:57+00:00",
+          "atualizado": "2026-09-12T09:31:09+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               17.98
             ]
           ]
@@ -1734,20 +1734,6 @@
           ]
         },
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 29.15,
-          "preco_desconto": 11.17,
-          "preco_final": 17.98,
-          "atualizado": "2026-09-02T16:19:42+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              17.98
-            ]
-          ]
-        },
-        {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 29.15,
@@ -1757,6 +1743,20 @@
           "history": [
             [
               "2026-09-12",
+              17.98
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 29.15,
+          "preco_desconto": 11.17,
+          "preco_final": 17.98,
+          "atualizado": "2026-09-02T16:19:42+00:00",
+          "history": [
+            [
+              "2026-09-02",
               17.98
             ]
           ]
@@ -1800,20 +1800,6 @@
       "preco_final": 17.98,
       "prices": [
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
-          "preco_normal": 23.39,
-          "preco_desconto": 5.41,
-          "preco_final": 17.98,
-          "atualizado": "2026-09-02T16:04:09+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              17.98
-            ]
-          ]
-        },
-        {
           "store": "Alverca (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 23.39,
@@ -1828,15 +1814,29 @@
           ]
         },
         {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 23.39,
+          "preco_desconto": 5.41,
+          "preco_final": 17.98,
+          "atualizado": "2026-09-02T16:04:09+00:00",
+          "history": [
+            [
+              "2026-09-02",
+              17.98
+            ]
+          ]
+        },
+        {
           "store": "Braganca (Braganca)",
           "region": "Braganca",
           "preco_normal": 23.39,
           "preco_desconto": 4.41,
           "preco_final": 18.98,
-          "atualizado": "2026-09-02T16:26:23+00:00",
+          "atualizado": "2026-09-12T09:39:24+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               18.98
             ]
           ]
@@ -2092,6 +2092,20 @@
       "preco_final": 18.98,
       "prices": [
         {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 18.98,
+          "preco_desconto": 0.0,
+          "preco_final": 18.98,
+          "atualizado": "2026-09-12T08:59:42+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              18.98
+            ]
+          ]
+        },
+        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 30.23,
@@ -2104,14 +2118,26 @@
               18.98
             ]
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "84731916",
+      "name": "Pavimento cerâmico cinzento 60x60 cm Artens Manaa",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-cinzento-60x60-cm-artens-manaa-84731916.html",
+      "dimensao": "60x60",
+      "marca": "ARTENS",
+      "retificado": false,
+      "m2_caixa": 1.08,
+      "preco_final": 18.98,
+      "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 18.98,
-          "preco_desconto": 0.0,
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 23.1,
+          "preco_desconto": 4.12,
           "preco_final": 18.98,
-          "atualizado": "2026-09-12T08:59:42+00:00",
+          "atualizado": "2026-09-12T09:07:34+00:00",
           "history": [
             [
               "2026-09-12",
@@ -2141,6 +2167,32 @@
           "history": [
             [
               "2026-09-02",
+              18.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87683787",
+      "name": "Pavimento cerâmico Artens Shala light grey 60x60cm",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-shala-light-grey-60x60cm-87683787.html",
+      "dimensao": "60x60",
+      "marca": "ARTENS",
+      "retificado": false,
+      "m2_caixa": 1.48,
+      "preco_final": 18.98,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 30.03,
+          "preco_desconto": 11.05,
+          "preco_final": 18.98,
+          "atualizado": "2026-09-12T08:59:42+00:00",
+          "history": [
+            [
+              "2026-09-12",
               18.98
             ]
           ]
@@ -2266,58 +2318,6 @@
       ]
     },
     {
-      "id": "87683787",
-      "name": "Pavimento cerâmico Artens Shala light grey 60x60cm",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-shala-light-grey-60x60cm-87683787.html",
-      "dimensao": "60x60",
-      "marca": "ARTENS",
-      "retificado": false,
-      "m2_caixa": 1.48,
-      "preco_final": 18.98,
-      "prices": [
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 30.03,
-          "preco_desconto": 11.05,
-          "preco_final": 18.98,
-          "atualizado": "2026-09-12T08:59:42+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              18.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "84731916",
-      "name": "Pavimento cerâmico cinzento 60x60 cm Artens Manaa",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-cinzento-60x60-cm-artens-manaa-84731916.html",
-      "dimensao": "60x60",
-      "marca": "ARTENS",
-      "retificado": false,
-      "m2_caixa": 1.08,
-      "preco_final": 18.98,
-      "prices": [
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 23.1,
-          "preco_desconto": 4.12,
-          "preco_final": 18.98,
-          "atualizado": "2026-09-12T09:07:34+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              18.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "19212893",
       "name": "Pavimento cerâmico arizona bege 45x45 cm",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-arizona-bege-45x45-cm-19212893.html",
@@ -2344,25 +2344,25 @@
       ]
     },
     {
-      "id": "82109353",
-      "name": "Pavimento / Revestimento cerâmico Brits / Kala cinza 20x120 cm Artens",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-brits-kala-cinza-20x120-cm-artens-82109353.html",
-      "dimensao": "20x120",
-      "marca": "ARTENS",
+      "id": "17326351",
+      "name": "Pavimento cerâmico Vidago cinza 33x33 cm",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-vidago-cinza-33x33-cm-17326351.html",
+      "dimensao": "33x33",
+      "marca": "DOMINO",
       "retificado": false,
-      "m2_caixa": 1.68,
+      "m2_caixa": 1.4,
       "preco_final": 19.98,
       "prices": [
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 19.98,
-          "preco_desconto": 0.0,
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 24.21,
+          "preco_desconto": 4.23,
           "preco_final": 19.98,
-          "atualizado": "2026-09-02T16:28:57+00:00",
+          "atualizado": "2026-09-12T09:07:34+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               19.98
             ]
           ]
@@ -2554,22 +2554,22 @@
       ]
     },
     {
-      "id": "17326351",
-      "name": "Pavimento cerâmico Vidago cinza 33x33 cm",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-vidago-cinza-33x33-cm-17326351.html",
-      "dimensao": "33x33",
-      "marca": "DOMINO",
+      "id": "82109353",
+      "name": "Pavimento / Revestimento cerâmico Brits / Kala cinza 20x120 cm Artens",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-brits-kala-cinza-20x120-cm-artens-82109353.html",
+      "dimensao": "20x120",
+      "marca": "ARTENS",
       "retificado": false,
-      "m2_caixa": 1.4,
+      "m2_caixa": 1.68,
       "preco_final": 19.98,
       "prices": [
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 24.21,
-          "preco_desconto": 4.23,
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 19.98,
+          "preco_desconto": 0.0,
           "preco_final": 19.98,
-          "atualizado": "2026-09-12T09:07:34+00:00",
+          "atualizado": "2026-09-12T09:31:09+00:00",
           "history": [
             [
               "2026-09-12",
@@ -2636,32 +2636,6 @@
           "preco_desconto": 14.01,
           "preco_final": 20.98,
           "atualizado": "2026-09-02T15:51:40+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              20.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "17607191",
-      "name": "Revestimento cerâmico Linea Multicolor 33x47 cm",
-      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-linea-multicolor-33x47-cm-17607191.html",
-      "dimensao": "33x47",
-      "marca": "GRESART",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 20.98,
-      "prices": [
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 26.39,
-          "preco_desconto": 5.41,
-          "preco_final": 20.98,
-          "atualizado": "2026-09-02T16:28:57+00:00",
           "history": [
             [
               "2026-09-02",
@@ -2750,6 +2724,32 @@
       ]
     },
     {
+      "id": "17607191",
+      "name": "Revestimento cerâmico Linea Multicolor 33x47 cm",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-linea-multicolor-33x47-cm-17607191.html",
+      "dimensao": "33x47",
+      "marca": "GRESART",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 20.98,
+      "prices": [
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 26.39,
+          "preco_desconto": 5.41,
+          "preco_final": 20.98,
+          "atualizado": "2026-09-12T09:31:09+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              20.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "87683798",
       "name": "Pavimento cerâmico Artens interior Metalic bege 60x60cm",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-interior-metalic-bege-60x60cm-87683798.html",
@@ -2802,32 +2802,6 @@
       ]
     },
     {
-      "id": "88759942",
-      "name": "Pavimento cerâmico 20x90 madeira mate natural Montana",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-20x90-madeira-mate-natural-montana-88759942.html",
-      "dimensao": "20x90",
-      "marca": "REVIGRES",
-      "retificado": false,
-      "m2_caixa": 1.08,
-      "preco_final": 21.98,
-      "prices": [
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 28.07,
-          "preco_desconto": 6.09,
-          "preco_final": 21.98,
-          "atualizado": "2026-09-02T16:28:57+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              21.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "93862457",
       "name": "Pavimento cerâmico Downtown bege anti-slip 60x60 cm Gresart",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-downtown-bege-anti-slip-60x60-cm-gresart-93862457.html",
@@ -2847,6 +2821,32 @@
           "history": [
             [
               "2026-09-02",
+              21.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88759942",
+      "name": "Pavimento cerâmico 20x90 madeira mate natural Montana",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-20x90-madeira-mate-natural-montana-88759942.html",
+      "dimensao": "20x90",
+      "marca": "REVIGRES",
+      "retificado": false,
+      "m2_caixa": 1.08,
+      "preco_final": 21.98,
+      "prices": [
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 28.07,
+          "preco_desconto": 6.09,
+          "preco_final": 21.98,
+          "atualizado": "2026-09-12T09:31:09+00:00",
+          "history": [
+            [
+              "2026-09-12",
               21.98
             ]
           ]
@@ -3065,10 +3065,10 @@
           "preco_normal": 26.99,
           "preco_desconto": 4.01,
           "preco_final": 22.98,
-          "atualizado": "2026-09-02T16:28:57+00:00",
+          "atualizado": "2026-09-12T09:31:09+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               22.98
             ]
           ]
@@ -3298,6 +3298,58 @@
       ]
     },
     {
+      "id": "83497061",
+      "name": "Revestimento cerâmico Avoiro Decor Creme 32x62.5 cm",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-avoiro-decor-creme-32x62-5-cm-83497061.html",
+      "dimensao": "32x62",
+      "marca": "GAYA FORES",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 24.98,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 24.98,
+          "preco_desconto": 0.0,
+          "preco_final": 24.98,
+          "atualizado": "2026-09-12T09:39:24+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              24.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17421873",
+      "name": "Pavimento / Revestimento cerâmico Artens Kandy Pérola 30.3x61.3 cm",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-kandy-perola-30-3x61-3-cm-17421873.html",
+      "dimensao": null,
+      "marca": "ARTENS",
+      "retificado": false,
+      "m2_caixa": 1.3,
+      "preco_final": 24.98,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 24.98,
+          "preco_desconto": 0.0,
+          "preco_final": 24.98,
+          "atualizado": "2026-09-12T09:39:24+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              24.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "84994641",
       "name": "Revestimento cerâmico 60x120 cm Artens Amazonia",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-60x120-cm-artens-amazonia-84994641.html",
@@ -3509,10 +3561,10 @@
           "preco_normal": 36.88,
           "preco_desconto": 9.9,
           "preco_final": 26.98,
-          "atualizado": "2026-09-02T16:22:51+00:00",
+          "atualizado": "2026-09-12T09:47:17+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               26.98
             ]
           ]
@@ -3535,11 +3587,63 @@
           "preco_normal": 47.18,
           "preco_desconto": 18.2,
           "preco_final": 28.98,
-          "atualizado": "2026-09-02T16:28:57+00:00",
+          "atualizado": "2026-09-12T09:31:09+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               28.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90349566",
+      "name": "Revestimento cerâmico 35x70cm Calacatta",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-35x70cm-calacatta-90349566.html",
+      "dimensao": "35x70",
+      "marca": "LOVE TILES",
+      "retificado": false,
+      "m2_caixa": 1.47,
+      "preco_final": 29.98,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 29.98,
+          "preco_desconto": 0.0,
+          "preco_final": 29.98,
+          "atualizado": "2026-09-12T09:39:24+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              29.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19483485",
+      "name": "Pavimento / Revestimento cerâmico Artens Martins cinza 60x120 cm",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-martins-cinza-60x120-cm-19483485.html",
+      "dimensao": "60x120",
+      "marca": "ARTENS",
+      "retificado": false,
+      "m2_caixa": 1.44,
+      "preco_final": 29.98,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 29.98,
+          "preco_desconto": 0.0,
+          "preco_final": 29.98,
+          "atualizado": "2026-09-12T09:39:24+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              29.98
             ]
           ]
         }
@@ -3719,10 +3823,10 @@
           "preco_normal": 60.03,
           "preco_desconto": 23.05,
           "preco_final": 36.98,
-          "atualizado": "2026-09-02T16:22:51+00:00",
+          "atualizado": "2026-09-12T09:47:17+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               36.98
             ]
           ]

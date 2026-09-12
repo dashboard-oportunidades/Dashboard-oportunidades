@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T09:16:32+00:00",
+  "generated": "2026-09-12T09:48:32+00:00",
   "products": [
     {
       "id": "87870009",
@@ -198,6 +198,20 @@
           ]
         },
         {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
+          "preco_final": 228,
+          "atualizado": "2026-09-12T09:04:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              228
+            ]
+          ]
+        },
+        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 279,
@@ -221,20 +235,6 @@
           "history": [
             [
               "2026-09-01",
-              228
-            ]
-          ]
-        },
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
-          "preco_final": 228,
-          "atualizado": "2026-09-12T09:04:55+00:00",
-          "history": [
-            [
-              "2026-09-12",
               228
             ]
           ]
@@ -262,6 +262,32 @@
             [
               "2026-09-01",
               248
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19318586",
+      "name": "Porta de duche + 2 portas de correr transparente cromado 160 cm Sensea Quad",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-de-correr-transparente-cromado-160-cm-sensea-quad-19318586.html",
+      "dimensao": null,
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 258,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 258,
+          "preco_desconto": 0.0,
+          "preco_final": 258,
+          "atualizado": "2026-09-12T09:36:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              258
             ]
           ]
         }
@@ -324,11 +350,25 @@
       "name": "Porta de duche serigrafada cromado 120x195 cm Sensea Remix",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-120x195-cm-sensea-remix-82209759.html",
       "dimensao": "120x195",
-      "marca": null,
+      "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 268,
       "prices": [
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 319,
+          "preco_desconto": 51,
+          "preco_final": 268,
+          "atualizado": "2026-09-12T09:04:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              268
+            ]
+          ]
+        },
         {
           "store": "Evora (Evora)",
           "region": "Evora",
@@ -353,20 +393,6 @@
           "history": [
             [
               "2026-09-01",
-              268
-            ]
-          ]
-        },
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 319,
-          "preco_desconto": 51,
-          "preco_final": 268,
-          "atualizado": "2026-09-12T09:04:55+00:00",
-          "history": [
-            [
-              "2026-09-12",
               268
             ]
           ]
@@ -452,32 +478,6 @@
       ]
     },
     {
-      "id": "82209762",
-      "name": "Porta de duche serigrafada cromado 140x195 cm Sensea Remix",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-140x195-cm-sensea-remix-82209762.html",
-      "dimensao": "140x195",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 278,
-      "prices": [
-        {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 339,
-          "preco_desconto": 61,
-          "preco_final": 278,
-          "atualizado": "2026-09-01T15:06:55+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              278
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "81905996",
       "name": "Porta de duche106-116 cm Apolo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche106-116-cm-apolo-81905996.html",
@@ -497,6 +497,32 @@
           "history": [
             [
               "2026-09-12",
+              278
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209762",
+      "name": "Porta de duche serigrafada cromado 140x195 cm Sensea Remix",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-140x195-cm-sensea-remix-82209762.html",
+      "dimensao": "140x195",
+      "marca": null,
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 278,
+      "prices": [
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 339,
+          "preco_desconto": 61,
+          "preco_final": 278,
+          "atualizado": "2026-09-01T15:06:55+00:00",
+          "history": [
+            [
+              "2026-09-01",
               278
             ]
           ]
@@ -526,6 +552,20 @@
               288
             ]
           ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 288,
+          "preco_desconto": 0.0,
+          "preco_final": 288,
+          "atualizado": "2026-09-12T09:36:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              288
+            ]
+          ]
         }
       ]
     },
@@ -534,7 +574,7 @@
       "name": "Porta de duche + 2 portas transparente preto 170x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-preto-170x200-cm-sensea-neo-82242446.html",
       "dimensao": "170x200",
-      "marca": null,
+      "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 298,
@@ -545,10 +585,10 @@
           "preco_normal": 347.4,
           "preco_desconto": 49.4,
           "preco_final": 298,
-          "atualizado": "2026-09-01T14:40:27+00:00",
+          "atualizado": "2026-09-12T09:36:21+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               298
             ]
           ]
@@ -622,6 +662,32 @@
       ]
     },
     {
+      "id": "85868086",
+      "name": "Portas de duche 145x198,5 cm transparente/cromado Glassinox",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-145x198-5-cm-transparente-cromado-glassinox-85868086.html",
+      "dimensao": "145x198",
+      "marca": "GLASSINOX",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 348,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 348,
+          "preco_desconto": 0.0,
+          "preco_final": 348,
+          "atualizado": "2026-09-12T09:36:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              348
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82242429",
       "name": "Porta de duche + 2 portas transparente cromado 100x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-100x200-cm-sensea-neo-82242429.html",
@@ -686,15 +752,29 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 436,
           "preco_desconto": 78,
           "preco_final": 358,
-          "atualizado": "2026-09-01T14:42:13+00:00",
+          "atualizado": "2026-09-12T08:57:06+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-12T09:04:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
               358
             ]
           ]
@@ -770,26 +850,38 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 436,
           "preco_desconto": 78,
           "preco_final": 358,
-          "atualizado": "2026-09-12T08:57:06+00:00",
+          "atualizado": "2026-09-12T09:28:24+00:00",
           "history": [
             [
               "2026-09-12",
               358
             ]
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "82456171",
+      "name": "Portas de duche BILBAO 180CM 2 PORTAS DE CORRER CROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-bilbao-180cm-2-portas-de-correr-cromado-82456171.html",
+      "dimensao": null,
+      "marca": "SANYCCES",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 358,
+      "prices": [
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 436,
-          "preco_desconto": 78,
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 399.98,
+          "preco_desconto": 41.98,
           "preco_final": 358,
-          "atualizado": "2026-09-12T09:04:55+00:00",
+          "atualizado": "2026-09-12T09:36:21+00:00",
           "history": [
             [
               "2026-09-12",
@@ -856,25 +948,11 @@
       "name": "Porta de duche + 2 portas transparente cromado 120x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-120x200-cm-sensea-neo-82242433.html",
       "dimensao": "120x200",
-      "marca": null,
+      "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 388,
       "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 474,
-          "preco_desconto": 86,
-          "preco_final": 388,
-          "atualizado": "2026-09-01T14:53:16+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              388
-            ]
-          ]
-        },
         {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
@@ -885,6 +963,20 @@
           "history": [
             [
               "2026-09-12",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 474,
+          "preco_desconto": 86,
+          "preco_final": 388,
+          "atualizado": "2026-09-01T14:53:16+00:00",
+          "history": [
+            [
+              "2026-09-01",
               388
             ]
           ]
@@ -968,15 +1060,15 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 509,
-          "preco_desconto": 91,
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 418,
+          "preco_desconto": 0.0,
           "preco_final": 418,
-          "atualizado": "2026-09-01T14:42:13+00:00",
+          "atualizado": "2026-09-12T09:04:55+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               418
             ]
           ]
@@ -1010,12 +1102,12 @@
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 418,
-          "preco_desconto": 0.0,
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 509,
+          "preco_desconto": 91,
           "preco_final": 418,
-          "atualizado": "2026-09-12T09:04:55+00:00",
+          "atualizado": "2026-09-12T09:28:24+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1260,32 +1352,6 @@
       ]
     },
     {
-      "id": "82242462",
-      "name": "Porta de duche de batente transparente preto 100x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-100x200-cm-sensea-neo-82242462.html",
-      "dimensao": "100x200",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 468,
-      "prices": [
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 579,
-          "preco_desconto": 111,
-          "preco_final": 468,
-          "atualizado": "2026-09-01T14:37:05+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              468
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "89153200",
       "name": "Portas de duche 130x200 transparente preto Neo",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-130x200-transparente-preto-neo-89153200.html",
@@ -1305,6 +1371,32 @@
           "history": [
             [
               "2026-09-01",
+              468
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242462",
+      "name": "Porta de duche de batente transparente preto 100x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-100x200-cm-sensea-neo-82242462.html",
+      "dimensao": "100x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 468,
+      "prices": [
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 579,
+          "preco_desconto": 111,
+          "preco_final": 468,
+          "atualizado": "2026-09-12T09:44:39+00:00",
+          "history": [
+            [
+              "2026-09-12",
               468
             ]
           ]

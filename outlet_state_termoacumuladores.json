@@ -8,10 +8,10 @@
     "Amadora (Lisboa)": "2026-09-12T09:00:55+00:00",
     "Aveiro (Aveiro)": "2026-09-12T09:08:50+00:00",
     "Barcelos (Braga)": "2026-09-12T09:16:31+00:00",
-    "Barreiro (Setubal)": "2026-09-01T12:32:44+00:00",
-    "Braga (Braga)": "2026-09-01T12:34:29+00:00",
-    "Braganca (Braganca)": "2026-09-01T12:36:10+00:00",
-    "Caldas da Rainha (Leiria)": "2026-09-01T12:37:51+00:00",
+    "Barreiro (Setubal)": "2026-09-12T09:24:28+00:00",
+    "Braga (Braga)": "2026-09-12T09:32:26+00:00",
+    "Braganca (Braganca)": "2026-09-12T09:40:40+00:00",
+    "Caldas da Rainha (Leiria)": "2026-09-12T09:48:32+00:00",
     "Carcavelos (Lisboa)": "2026-09-01T12:41:07+00:00",
     "Cascais (Lisboa)": "2026-09-01T12:42:43+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-01T12:44:21+00:00",
@@ -345,20 +345,23 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-plus-wifi-80l-84434192.html"
     },
     "84801327@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-01T12:37:51+00:00",
+      "atualizado": "2026-09-12T09:48:32+00:00",
       "dimensao": "50L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           178
         ]
       ],
       "id": "84801327",
+      "m2_caixa": null,
+      "marca": "BOSCH",
       "name": "Termoacumulador BOSCH tronic tr 4000t 50l",
       "preco_desconto": 36,
       "preco_final": 178,
       "preco_normal": 214,
       "region": "Leiria",
+      "retificado": false,
       "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-50l-84801327.html"
     },
@@ -381,38 +384,44 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-multiposicao-flat-es80-tf7-80l-haier-87542649.html"
     },
     "89834463@Barreiro (Setubal)": {
-      "atualizado": "2026-09-01T12:32:44+00:00",
+      "atualizado": "2026-09-12T09:24:28+00:00",
       "dimensao": "100L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           228
         ]
       ],
       "id": "89834463",
+      "m2_caixa": null,
+      "marca": "BOSCH",
       "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
       "preco_desconto": 42,
       "preco_final": 228,
       "preco_normal": 270,
       "region": "Setubal",
+      "retificado": false,
       "store": "Barreiro (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html"
     },
     "95933346@Braganca (Braganca)": {
-      "atualizado": "2026-09-01T12:36:10+00:00",
+      "atualizado": "2026-09-12T09:40:40+00:00",
       "dimensao": "100L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           239.99
         ]
       ],
       "id": "95933346",
+      "m2_caixa": null,
+      "marca": "HTW",
       "name": "Termo Vertical HTW SMART LITE função smart e ânodo eletronico 100L",
       "preco_desconto": 39.01,
       "preco_final": 239.99,
       "preco_normal": 279,
       "region": "Braganca",
+      "retificado": false,
       "store": "Braganca (Braganca)",
       "url": "https://www.leroymerlin.pt/produtos/termo-vertical-htw-smart-lite-funcao-smart-e-anodo-eletronico-100l-95933346.html"
     },

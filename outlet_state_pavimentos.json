@@ -8,10 +8,10 @@
     "Amadora (Lisboa)": "2026-09-12T08:59:42+00:00",
     "Aveiro (Aveiro)": "2026-09-12T09:07:34+00:00",
     "Barcelos (Braga)": "2026-09-12T09:15:19+00:00",
-    "Barreiro (Setubal)": "2026-09-02T16:04:47+00:00",
-    "Braga (Braga)": "2026-09-02T16:28:57+00:00",
-    "Braganca (Braganca)": "2026-09-02T16:26:23+00:00",
-    "Caldas da Rainha (Leiria)": "2026-09-02T16:22:51+00:00",
+    "Barreiro (Setubal)": "2026-09-12T09:23:11+00:00",
+    "Braga (Braga)": "2026-09-12T09:31:09+00:00",
+    "Braganca (Braganca)": "2026-09-12T09:39:24+00:00",
+    "Caldas da Rainha (Leiria)": "2026-09-12T09:47:17+00:00",
     "Carcavelos (Lisboa)": "2026-09-02T15:53:00+00:00",
     "Cascais (Lisboa)": "2026-09-02T15:52:23+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-02T16:12:04+00:00",
@@ -48,11 +48,11 @@
   },
   "products": {
     "11172490@Braganca (Braganca)": {
-      "atualizado": "2026-09-02T16:26:23+00:00",
+      "atualizado": "2026-09-12T09:39:24+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           6.98
         ]
       ],
@@ -173,6 +173,27 @@
       "store": "Aveiro (Aveiro)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-vidago-cinza-33x33-cm-17326351.html"
     },
+    "17421873@Braganca (Braganca)": {
+      "atualizado": "2026-09-12T09:39:24+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          24.98
+        ]
+      ],
+      "id": "17421873",
+      "m2_caixa": 1.3,
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Kandy Pérola 30.3x61.3 cm",
+      "preco_desconto": 0.0,
+      "preco_final": 24.98,
+      "preco_normal": 24.98,
+      "region": "Braganca",
+      "retificado": false,
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-kandy-perola-30-3x61-3-cm-17421873.html"
+    },
     "17516401@Santarem (Santarem)": {
       "atualizado": "2026-09-02T16:17:06+00:00",
       "dimensao": "25x40",
@@ -279,11 +300,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-estanho-33x33-cm-antiderrapante-17606400.html"
     },
     "17607044@Braga (Braga)": {
-      "atualizado": "2026-09-02T16:28:57+00:00",
+      "atualizado": "2026-09-12T09:31:09+00:00",
       "dimensao": "33x33",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           10.98
         ]
       ],
@@ -300,11 +321,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-cinza-33x33-cm-antiderrapante-17607044.html"
     },
     "17607191@Braga (Braga)": {
-      "atualizado": "2026-09-02T16:28:57+00:00",
+      "atualizado": "2026-09-12T09:31:09+00:00",
       "dimensao": "33x47",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           20.98
         ]
       ],
@@ -342,11 +363,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-bege-33x33-cm-antiderrapante-17607345.html"
     },
     "17607471@Braga (Braga)": {
-      "atualizado": "2026-09-02T16:28:57+00:00",
+      "atualizado": "2026-09-12T09:31:09+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           28.98
         ]
       ],
@@ -405,11 +426,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-boulevard-negro-45x45-cm-17816680.html"
     },
     "17816680@Braga (Braga)": {
-      "atualizado": "2026-09-02T16:28:57+00:00",
+      "atualizado": "2026-09-12T09:31:09+00:00",
       "dimensao": "45x45",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           17.98
         ]
       ],
@@ -592,6 +613,27 @@
       "retificado": false,
       "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-arizona-bege-45x45-cm-19212893.html"
+    },
+    "19483485@Braganca (Braganca)": {
+      "atualizado": "2026-09-12T09:39:24+00:00",
+      "dimensao": "60x120",
+      "history": [
+        [
+          "2026-09-12",
+          29.98
+        ]
+      ],
+      "id": "19483485",
+      "m2_caixa": 1.44,
+      "marca": "ARTENS",
+      "name": "Pavimento / Revestimento cerâmico Artens Martins cinza 60x120 cm",
+      "preco_desconto": 0.0,
+      "preco_final": 29.98,
+      "preco_normal": 29.98,
+      "region": "Braganca",
+      "retificado": false,
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-martins-cinza-60x120-cm-19483485.html"
     },
     "19548872@Gaia (Porto)": {
       "atualizado": "2026-09-02T16:39:54+00:00",
@@ -951,11 +993,11 @@
       "url": "https://www.leroymerlin.pt/produtos/taco-ceramico-velvet-gris-16-5cmx16-5cm-82070047.html"
     },
     "82109353@Braga (Braga)": {
-      "atualizado": "2026-09-02T16:28:57+00:00",
+      "atualizado": "2026-09-12T09:31:09+00:00",
       "dimensao": "20x120",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           19.98
         ]
       ],
@@ -1245,11 +1287,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-marmi-marengo-60x120-cm-82481572.html"
     },
     "82481572@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-02T16:22:51+00:00",
+      "atualizado": "2026-09-12T09:47:17+00:00",
       "dimensao": "60x120",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           36.98
         ]
       ],
@@ -1537,6 +1579,27 @@
       "retificado": false,
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bestley-gris-20x75-cm-antiderrapante-83304960.html"
+    },
+    "83497061@Braganca (Braganca)": {
+      "atualizado": "2026-09-12T09:39:24+00:00",
+      "dimensao": "32x62",
+      "history": [
+        [
+          "2026-09-12",
+          24.98
+        ]
+      ],
+      "id": "83497061",
+      "m2_caixa": null,
+      "marca": "GAYA FORES",
+      "name": "Revestimento cerâmico Avoiro Decor Creme 32x62.5 cm",
+      "preco_desconto": 0.0,
+      "preco_final": 24.98,
+      "preco_normal": 24.98,
+      "region": "Braganca",
+      "retificado": false,
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-avoiro-decor-creme-32x62-5-cm-83497061.html"
     },
     "84241288@Alfragide (Lisboa)": {
       "atualizado": "2026-09-12T08:36:12+00:00",
@@ -2484,11 +2547,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-20x60-cm-cinza-brits-kala-87506287.html"
     },
     "87506287@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-02T16:22:51+00:00",
+      "atualizado": "2026-09-12T09:47:17+00:00",
       "dimensao": "20x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           14.98
         ]
       ],
@@ -2736,11 +2799,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-rectangular-honey-20x120-cm-gresart-oak-88485643.html"
     },
     "88759942@Braga (Braga)": {
-      "atualizado": "2026-09-02T16:28:57+00:00",
+      "atualizado": "2026-09-12T09:31:09+00:00",
       "dimensao": "20x90",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           21.98
         ]
       ],
@@ -2820,11 +2883,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-branco-45x45-cm-corinto-88805198.html"
     },
     "88805198@Braganca (Braganca)": {
-      "atualizado": "2026-09-02T16:26:23+00:00",
+      "atualizado": "2026-09-12T09:39:24+00:00",
       "dimensao": "45x45",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           18.98
         ]
       ],
@@ -2862,11 +2925,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-branco-45x45-cm-corinto-88805198.html"
     },
     "88805199@Braga (Braga)": {
-      "atualizado": "2026-09-02T16:28:57+00:00",
+      "atualizado": "2026-09-12T09:31:09+00:00",
       "dimensao": "45x45",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           14.98
         ]
       ],
@@ -3198,11 +3261,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-e-revestimento-ceramico-w-light-statuario-branco-60x120cm-89588619.html"
     },
     "90126582@Braga (Braga)": {
-      "atualizado": "2026-09-02T16:28:57+00:00",
+      "atualizado": "2026-09-12T09:31:09+00:00",
       "dimensao": "30x90",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           15.98
         ]
       ],
@@ -3218,12 +3281,33 @@
       "store": "Braga (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artic-glace-branco-30x90-cm-90126582.html"
     },
+    "90349566@Braganca (Braganca)": {
+      "atualizado": "2026-09-12T09:39:24+00:00",
+      "dimensao": "35x70",
+      "history": [
+        [
+          "2026-09-12",
+          29.98
+        ]
+      ],
+      "id": "90349566",
+      "m2_caixa": 1.47,
+      "marca": "LOVE TILES",
+      "name": "Revestimento cerâmico 35x70cm Calacatta",
+      "preco_desconto": 0.0,
+      "preco_final": 29.98,
+      "preco_normal": 29.98,
+      "region": "Braganca",
+      "retificado": false,
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-35x70cm-calacatta-90349566.html"
+    },
     "90492244@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-02T16:22:51+00:00",
+      "atualizado": "2026-09-12T09:47:17+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           26.98
         ]
       ],
@@ -3492,11 +3576,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-bliss-branco-30x90-cm-aleluia-93995400.html"
     },
     "93995400@Braga (Braga)": {
-      "atualizado": "2026-09-02T16:28:57+00:00",
+      "atualizado": "2026-09-12T09:31:09+00:00",
       "dimensao": "30x90",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           22.98
         ]
       ],
