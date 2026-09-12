@@ -7,11 +7,18 @@
     "Alverca (Lisboa)": "2026-09-12T15:23:43+00:00",
     "Amadora (Lisboa)": "2026-09-12T15:14:34+00:00",
     "Barreiro (Setubal)": "2026-09-12T15:29:48+00:00",
+    "Braga (Braga)": "2026-09-12T15:50:46+00:00",
+    "Braganca (Braganca)": "2026-09-12T15:49:18+00:00",
+    "Caldas da Rainha (Leiria)": "2026-09-12T15:46:21+00:00",
     "Carcavelos (Lisboa)": "2026-09-12T15:19:18+00:00",
     "Cascais (Lisboa)": "2026-09-12T15:17:50+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-12T15:35:43+00:00",
+    "Chaves (Vila Real)": "2026-09-12T15:44:52+00:00",
+    "Coimbra (Coimbra)": "2026-09-12T15:41:54+00:00",
     "Colombo (Lisboa)": "2026-09-12T15:06:36+00:00",
     "Covilha (Castelo Branco)": "2026-09-12T15:37:12+00:00",
+    "Figueira da Foz (Coimbra)": "2026-09-12T15:43:23+00:00",
+    "Leiria (Leiria)": "2026-09-12T15:47:49+00:00",
     "Loule (Faro)": "2026-09-12T15:25:11+00:00",
     "Loures (Lisboa)": "2026-09-12T15:12:34+00:00",
     "Mafra (Lisboa)": "2026-09-12T15:20:47+00:00",
@@ -19,6 +26,7 @@
     "Oeiras (Lisboa)": "2026-09-12T15:11:03+00:00",
     "Portimao (Faro)": "2026-09-12T15:28:20+00:00",
     "Sacavem (Lisboa)": "2026-09-12T15:09:34+00:00",
+    "Santarem (Santarem)": "2026-09-12T15:40:26+00:00",
     "Setubal (Setubal)": "2026-09-12T15:34:14+00:00",
     "Sintra (Lisboa)": "2026-09-12T15:16:20+00:00",
     "Telheiras (Lisboa)": "2026-09-12T15:14:03+00:00",
@@ -278,6 +286,27 @@
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-samsung-comfort-aj080-9000-9000-12000btu-88293343.html"
     },
+    "90402658@Figueira da Foz (Coimbra)": {
+      "atualizado": "2026-09-12T15:43:23+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          848
+        ]
+      ],
+      "id": "90402658",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (2X1) 4Kw 9000 + 12000 Btu Perla premium Haier",
+      "preco_desconto": 201,
+      "preco_final": 848,
+      "preco_normal": 1049,
+      "region": "Coimbra",
+      "retificado": false,
+      "store": "Figueira da Foz (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-4kw-9000-12000-btu-perla-premium-haier-90402658.html"
+    },
     "92041665@Alfragide (Lisboa)": {
       "atualizado": "2026-09-12T15:08:05+00:00",
       "dimensao": "12000 BTU",
@@ -318,6 +347,27 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
+    },
+    "92041665@Caldas da Rainha (Leiria)": {
+      "atualizado": "2026-09-12T15:46:21+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1008
+        ]
+      ],
+      "id": "92041665",
+      "m2_caixa": null,
+      "marca": "ARISTON",
+      "name": "Ar condicionado ARISTON ALYS MULTI-SPLIT 9000+12000 BTU",
+      "preco_desconto": 241,
+      "preco_final": 1008,
+      "preco_normal": 1249,
+      "region": "Leiria",
+      "retificado": false,
+      "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
     },
     "92041665@Colombo (Lisboa)": {

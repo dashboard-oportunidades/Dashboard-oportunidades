@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T15:38:41+00:00",
+  "generated": "2026-09-12T15:50:46+00:00",
   "products": [
     {
       "id": "82143647",
@@ -22,6 +22,32 @@
             [
               "2026-09-12",
               558
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90402658",
+      "name": "Ar condicionado fixo (2X1) 4Kw 9000 + 12000 Btu Perla premium Haier",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-4kw-9000-12000-btu-perla-premium-haier-90402658.html",
+      "dimensao": "12000 BTU",
+      "marca": "HAIER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 848,
+      "prices": [
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 1049,
+          "preco_desconto": 201,
+          "preco_final": 848,
+          "atualizado": "2026-09-12T15:43:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              848
             ]
           ]
         }
@@ -92,6 +118,20 @@
               1008
             ]
           ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 1249,
+          "preco_desconto": 241,
+          "preco_final": 1008,
+          "atualizado": "2026-09-12T15:46:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1008
+            ]
+          ]
         }
       ]
     },
@@ -106,12 +146,12 @@
       "preco_final": 1328,
       "prices": [
         {
-          "store": "Barreiro (Setubal)",
+          "store": "Almada (Setubal)",
           "region": "Setubal",
           "preco_normal": 1649,
           "preco_desconto": 321,
           "preco_final": 1328,
-          "atualizado": "2026-09-12T15:29:48+00:00",
+          "atualizado": "2026-09-12T15:31:17+00:00",
           "history": [
             [
               "2026-09-12",
@@ -120,12 +160,12 @@
           ]
         },
         {
-          "store": "Almada (Setubal)",
+          "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 1649,
           "preco_desconto": 321,
           "preco_final": 1328,
-          "atualizado": "2026-09-12T15:31:17+00:00",
+          "atualizado": "2026-09-12T15:29:48+00:00",
           "history": [
             [
               "2026-09-12",
