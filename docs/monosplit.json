@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T13:27:08+00:00",
+  "generated": "2026-09-12T13:58:33+00:00",
   "products": [
     {
       "id": "89876291",
@@ -17,10 +17,10 @@
           "preco_normal": 239,
           "preco_desconto": 51,
           "preco_final": 188,
-          "atualizado": "2026-09-04T10:43:23+00:00",
+          "atualizado": "2026-09-12T13:32:41+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               188
             ]
           ]
@@ -344,32 +344,6 @@
       ]
     },
     {
-      "id": "82367424",
-      "name": "Ar condicionado fixo (1X1) EQUATION 9000 BTU R32",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-9000-btu-r32-82367424.html",
-      "dimensao": "9000 BTU",
-      "marca": "EQUATION",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 368,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 368,
-          "preco_desconto": 0.0,
-          "preco_final": 368,
-          "atualizado": "2026-09-04T10:43:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              368
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "85280679",
       "name": "Ar condicionado fixo (1X1)  EQUATION ENKI WIFI 9000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-enki-wifi-9000-btu-85280679.html",
@@ -400,6 +374,32 @@
           "preco_desconto": 86,
           "preco_final": 368,
           "atualizado": "2026-09-12T13:24:28+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              368
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82367424",
+      "name": "Ar condicionado fixo (1X1) EQUATION 9000 BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-9000-btu-r32-82367424.html",
+      "dimensao": "9000 BTU",
+      "marca": "EQUATION",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 368,
+      "prices": [
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 368,
+          "preco_desconto": 0.0,
+          "preco_final": 368,
+          "atualizado": "2026-09-12T13:32:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -532,20 +532,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-09-03T16:36:26+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              378
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 459,
@@ -594,6 +580,20 @@
           "preco_desconto": 81,
           "preco_final": 378,
           "atualizado": "2026-09-12T13:00:31+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-09-12T13:56:01+00:00",
           "history": [
             [
               "2026-09-12",
@@ -656,32 +656,6 @@
       ]
     },
     {
-      "id": "82204387",
-      "name": "Ar condicionado fixo (1X1) FUJITSU ASY25UI-KP R32 9000BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-fujitsu-asy25ui-kp-r32-9000btu-82204387.html",
-      "dimensao": "9000 BTU",
-      "marca": "FUJITSU",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 408,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-09-04T10:43:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              408
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82367425",
       "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html",
@@ -724,6 +698,32 @@
           "preco_desconto": 0.0,
           "preco_final": 408,
           "atualizado": "2026-09-12T08:34:57+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              408
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82204387",
+      "name": "Ar condicionado fixo (1X1) FUJITSU ASY25UI-KP R32 9000BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-fujitsu-asy25ui-kp-r32-9000btu-82204387.html",
+      "dimensao": "9000 BTU",
+      "marca": "FUJITSU",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 408,
+      "prices": [
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-12T13:32:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -803,10 +803,10 @@
           "preco_normal": 509,
           "preco_desconto": 91,
           "preco_final": 418,
-          "atualizado": "2026-09-04T10:43:23+00:00",
+          "atualizado": "2026-09-12T13:32:41+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               418
             ]
           ]
@@ -898,6 +898,20 @@
           "preco_desconto": 0.0,
           "preco_final": 468,
           "atualizado": "2026-09-12T13:24:28+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              468
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 468,
+          "preco_desconto": 0.0,
+          "preco_final": 468,
+          "atualizado": "2026-09-12T13:56:01+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1212,20 +1226,6 @@
           ]
         },
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 599,
-          "preco_desconto": 111,
-          "preco_final": 488,
-          "atualizado": "2026-09-04T10:45:03+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              488
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 599,
@@ -1260,6 +1260,20 @@
           "preco_desconto": 111,
           "preco_final": 488,
           "atualizado": "2026-09-12T13:24:28+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-09-12T13:40:24+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1446,26 +1460,26 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-04T10:43:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              628
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 628,
           "preco_desconto": 0.0,
           "preco_final": 628,
           "atualizado": "2026-09-12T13:00:31+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-09-12T13:32:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1582,26 +1596,26 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 649,
-          "preco_desconto": 121,
-          "preco_final": 528,
-          "atualizado": "2026-09-04T10:43:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              528
-            ]
-          ]
-        },
-        {
           "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 649,
           "preco_desconto": 121,
           "preco_final": 528,
           "atualizado": "2026-09-12T13:24:28+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              528
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 649,
+          "preco_desconto": 121,
+          "preco_final": 528,
+          "atualizado": "2026-09-12T13:32:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1650,26 +1664,26 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 568,
-          "preco_desconto": 0.0,
-          "preco_final": 568,
-          "atualizado": "2026-09-03T16:36:26+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              568
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 568,
           "preco_desconto": 0.0,
           "preco_final": 568,
           "atualizado": "2026-09-12T13:00:31+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              568
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 568,
+          "preco_desconto": 0.0,
+          "preco_final": 568,
+          "atualizado": "2026-09-12T13:56:01+00:00",
           "history": [
             [
               "2026-09-12",
@@ -2066,20 +2080,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-09-03T16:36:26+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              1048
-            ]
-          ]
-        },
-        {
           "store": "Penafiel (Porto)",
           "region": "Porto",
           "preco_normal": 1299,
@@ -2100,6 +2100,20 @@
           "preco_desconto": 251,
           "preco_final": 1048,
           "atualizado": "2026-09-12T12:44:36+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-09-12T13:56:01+00:00",
           "history": [
             [
               "2026-09-12",
@@ -2169,20 +2183,6 @@
           "history": [
             [
               "2026-09-12",
-              888
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1099,
-          "preco_desconto": 211,
-          "preco_final": 888,
-          "atualizado": "2026-09-03T16:36:26+00:00",
-          "history": [
-            [
-              "2026-09-03",
               888
             ]
           ]
@@ -2340,26 +2340,26 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1449,
-          "preco_desconto": 281,
-          "preco_final": 1168,
-          "atualizado": "2026-09-03T16:36:26+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              1168
-            ]
-          ]
-        },
-        {
           "store": "Santarem (Santarem)",
           "region": "Santarem",
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
           "atualizado": "2026-09-12T12:44:36+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1168
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-09-12T13:56:01+00:00",
           "history": [
             [
               "2026-09-12",
@@ -2491,10 +2491,10 @@
           "preco_normal": 1099,
           "preco_desconto": 100,
           "preco_final": 999,
-          "atualizado": "2026-09-03T16:36:26+00:00",
+          "atualizado": "2026-09-12T13:56:01+00:00",
           "history": [
             [
-              "2026-09-03",
+              "2026-09-12",
               999
             ]
           ]
@@ -2663,10 +2663,10 @@
           "preco_normal": 1999,
           "preco_desconto": 100,
           "preco_final": 1899,
-          "atualizado": "2026-09-03T16:36:26+00:00",
+          "atualizado": "2026-09-12T13:56:01+00:00",
           "history": [
             [
-              "2026-09-03",
+              "2026-09-12",
               1899
             ]
           ]

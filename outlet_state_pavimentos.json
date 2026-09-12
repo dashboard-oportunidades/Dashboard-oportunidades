@@ -1,6 +1,6 @@
 {
   "lojas": {
-    "Albufeira (Faro)": "2026-09-02T16:02:16+00:00",
+    "Albufeira (Faro)": "2026-09-12T13:49:38+00:00",
     "Alfragide (Lisboa)": "2026-09-12T08:36:12+00:00",
     "Almada (Setubal)": "2026-09-02T16:07:10+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-12T08:44:03+00:00",
@@ -30,7 +30,7 @@
     "Loures (Lisboa)": "2026-09-12T11:51:52+00:00",
     "Mafra (Lisboa)": "2026-09-02T15:54:11+00:00",
     "Maia (Porto)": "2026-09-02T16:47:09+00:00",
-    "Matosinhos (Porto)": "2026-09-02T16:43:54+00:00",
+    "Matosinhos (Porto)": "2026-09-12T13:57:15+00:00",
     "Montijo (Setubal)": "2026-09-12T11:59:42+00:00",
     "Oeiras (Lisboa)": "2026-09-12T12:07:13+00:00",
     "Penafiel (Porto)": "2026-09-12T12:14:58+00:00",
@@ -43,8 +43,8 @@
     "Telheiras (Lisboa)": "2026-09-12T13:10:19+00:00",
     "Torres Novas (Santarem)": "2026-09-12T13:17:56+00:00",
     "Torres Vedras (Lisboa)": "2026-09-12T13:25:52+00:00",
-    "Viana do Castelo (Viana do Castelo)": "2026-09-02T16:51:30+00:00",
-    "Viseu (Viseu)": "2026-09-02T16:49:51+00:00"
+    "Viana do Castelo (Viana do Castelo)": "2026-09-12T13:33:58+00:00",
+    "Viseu (Viseu)": "2026-09-12T13:41:36+00:00"
   },
   "products": {
     "11172490@Braganca (Braganca)": {
@@ -594,11 +594,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-brickbold-almond-33-15x33-15-cm-19205452.html"
     },
     "19212893@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "45x45",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           19.97
         ]
       ],
@@ -678,11 +678,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-sphata-decor-branco-30x90-cm-19713400.html"
     },
     "19901875@Albufeira (Faro)": {
-      "atualizado": "2026-09-02T16:02:16+00:00",
+      "atualizado": "2026-09-12T13:49:38+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           34.98
         ]
       ],
@@ -699,11 +699,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-globe-antracite-60x60-cm-19901875.html"
     },
     "19924282@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "33x55",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           18.97
         ]
       ],
@@ -927,27 +927,6 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Oeiras (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-windsor-grey-30x60-cm-81970164.html"
-    },
-    "81970164@Viseu (Viseu)": {
-      "atualizado": "2026-09-02T16:49:51+00:00",
-      "dimensao": "30x60",
-      "history": [
-        [
-          "2026-09-02",
-          15.98
-        ]
-      ],
-      "id": "81970164",
-      "m2_caixa": 1.08,
-      "marca": "ARTENS",
-      "name": "Revestimento cerâmico Artens Windsor Grey 30x60 cm",
-      "preco_desconto": 9.59,
-      "preco_final": 15.98,
-      "preco_normal": 25.57,
-      "region": "Viseu",
-      "retificado": false,
-      "store": "Viseu (Viseu)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-windsor-grey-30x60-cm-81970164.html"
     },
     "81970168@Almada (Setubal)": {
@@ -1266,11 +1245,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-kimberley-blanco-23x120-cm-82430607.html"
     },
     "82460811@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "20x120",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           20.97
         ]
       ],
@@ -1434,11 +1413,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-quartzite-cinza-60-8x60-8-cm-82635252.html"
     },
     "82809725@Albufeira (Faro)": {
-      "atualizado": "2026-09-02T16:02:16+00:00",
+      "atualizado": "2026-09-12T13:49:38+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           16.98
         ]
       ],
@@ -1497,11 +1476,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-crash-bege-60x60-cm-82996845.html"
     },
     "83022905@Albufeira (Faro)": {
-      "atualizado": "2026-09-02T16:02:16+00:00",
+      "atualizado": "2026-09-12T13:49:38+00:00",
       "dimensao": "59x119",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           41.98
         ]
       ],
@@ -1770,11 +1749,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-cinzento-60x60-cm-artens-manaa-84731916.html"
     },
     "84732059@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "20x120",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           15.98
         ]
       ],
@@ -1875,11 +1854,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-cinzento-claro-60x60-cm-artens-manaa-84734402.html"
     },
     "84734405@Albufeira (Faro)": {
-      "atualizado": "2026-09-02T16:02:16+00:00",
+      "atualizado": "2026-09-12T13:49:38+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           19.98
         ]
       ],
@@ -2042,27 +2021,6 @@
       "store": "Santarem (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-revigres-limestone-antique-sand-10x60cm-85105569.html"
     },
-    "85105815@Viseu (Viseu)": {
-      "atualizado": "2026-09-02T16:49:51+00:00",
-      "dimensao": "36x43",
-      "history": [
-        [
-          "2026-09-02",
-          3.98
-        ]
-      ],
-      "id": "85105815",
-      "m2_caixa": 1.55,
-      "marca": "REVIGRES",
-      "name": "Revestimento cerâmico Grid White 36x43 cm",
-      "preco_desconto": 0.87,
-      "preco_final": 3.98,
-      "preco_normal": 4.85,
-      "region": "Viseu",
-      "retificado": false,
-      "store": "Viseu (Viseu)",
-      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-white-36x43-cm-85105815.html"
-    },
     "85105819@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-12T08:44:03+00:00",
       "dimensao": null,
@@ -2190,11 +2148,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-taupe-7x29-cm-revigres-85105819.html"
     },
     "85105821@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "36x43",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           3.98
         ]
       ],
@@ -2547,11 +2505,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-30x60-cm-alpe-cinza-87225233.html"
     },
     "87274617@Albufeira (Faro)": {
-      "atualizado": "2026-09-02T16:02:16+00:00",
+      "atualizado": "2026-09-12T13:49:38+00:00",
       "dimensao": "60x120",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           24.99
         ]
       ],
@@ -2694,11 +2652,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-medio-shala-antracite-60x60cm-87683793.html"
     },
     "87683798@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           21.97
         ]
       ],
@@ -2715,11 +2673,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-interior-metalic-bege-60x60cm-87683798.html"
     },
     "87948342@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           24.97
         ]
       ],
@@ -2757,11 +2715,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-branco-30x60-cm-gresart-kech-87948348.html"
     },
     "87948352@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           24.97
         ]
       ],
@@ -2883,11 +2841,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-20x90-madeira-mate-natural-montana-88759942.html"
     },
     "88771022@Albufeira (Faro)": {
-      "atualizado": "2026-09-02T16:02:16+00:00",
+      "atualizado": "2026-09-12T13:49:38+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           23.98
         ]
       ],
@@ -3156,11 +3114,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-perla-60x60-cm-89168669.html"
     },
     "89168670@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           16.98
         ]
       ],
@@ -3198,11 +3156,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-perla-30x60-cm-89168671.html"
     },
     "89176829@Albufeira (Faro)": {
-      "atualizado": "2026-09-02T16:02:16+00:00",
+      "atualizado": "2026-09-12T13:49:38+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           18.98
         ]
       ],
@@ -3261,11 +3219,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-retro-aqua-brilhante-natural-20x40cm-89490061.html"
     },
     "89588619@Matosinhos (Porto)": {
-      "atualizado": "2026-09-02T16:43:54+00:00",
+      "atualizado": "2026-09-12T13:57:15+00:00",
       "dimensao": "60x120",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           64.97
         ]
       ],
@@ -3385,6 +3343,27 @@
       "retificado": true,
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-time-2-0-snow-60x60-cm-polido-retificado-margres-90492245.html"
+    },
+    "90786987@Albufeira (Faro)": {
+      "atualizado": "2026-09-12T13:49:38+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-12",
+          22.98
+        ]
+      ],
+      "id": "90786987",
+      "m2_caixa": 1.44,
+      "marca": "GRESART",
+      "name": "Pavimento cerâmico 60X60CM Avant preto anti-slip",
+      "preco_desconto": 2.93,
+      "preco_final": 22.98,
+      "preco_normal": 25.91,
+      "region": "Faro",
+      "retificado": false,
+      "store": "Albufeira (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-60x60cm-avant-preto-anti-slip-90786987.html"
     },
     "90787360@Coimbra (Coimbra)": {
       "atualizado": "2026-09-12T10:26:27+00:00",
