@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T15:26:41+00:00",
+  "generated": "2026-09-12T15:38:41+00:00",
   "products": [
     {
       "id": "82143647",
@@ -96,6 +96,60 @@
       ]
     },
     {
+      "id": "84622735",
+      "name": "Ar condicionado fixo (2X1) HISENSE COMFORT 9000 + 12000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-12000-btu-84622735.html",
+      "dimensao": "12000 BTU",
+      "marca": "HISENSE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 1328,
+      "prices": [
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1649,
+          "preco_desconto": 321,
+          "preco_final": 1328,
+          "atualizado": "2026-09-12T15:29:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1328
+            ]
+          ]
+        },
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1649,
+          "preco_desconto": 321,
+          "preco_final": 1328,
+          "atualizado": "2026-09-12T15:31:17+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1328
+            ]
+          ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1649,
+          "preco_desconto": 321,
+          "preco_final": 1328,
+          "atualizado": "2026-09-12T15:32:45+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1328
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "87694849",
       "name": "Ar condicionado fixo (3X1)  2x9000+12000 BTU Ariston Alys",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-2x9000-12000-btu-ariston-alys-87694849.html",
@@ -182,6 +236,46 @@
             [
               "2026-09-12",
               1628
+            ]
+          ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 2029,
+          "preco_desconto": 401,
+          "preco_final": 1628,
+          "atualizado": "2026-09-12T15:29:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1628
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84622738",
+      "name": "Ar condicionado fixo (4X1) HISENSE COMFORT 3X9000 + 12000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-4x1-hisense-comfort-3x9000-12000-btu-84622738.html",
+      "dimensao": "12000 BTU",
+      "marca": "HISENSE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 2248,
+      "prices": [
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 2799,
+          "preco_desconto": 551,
+          "preco_final": 2248,
+          "atualizado": "2026-09-12T15:34:14+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              2248
             ]
           ]
         }

@@ -2,19 +2,27 @@
   "lojas": {
     "Albufeira (Faro)": "2026-09-12T15:26:40+00:00",
     "Alfragide (Lisboa)": "2026-09-12T15:08:05+00:00",
+    "Almada (Setubal)": "2026-09-12T15:31:17+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-12T15:05:07+00:00",
     "Alverca (Lisboa)": "2026-09-12T15:23:43+00:00",
     "Amadora (Lisboa)": "2026-09-12T15:14:34+00:00",
+    "Barreiro (Setubal)": "2026-09-12T15:29:48+00:00",
     "Carcavelos (Lisboa)": "2026-09-12T15:19:18+00:00",
     "Cascais (Lisboa)": "2026-09-12T15:17:50+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-12T15:35:43+00:00",
     "Colombo (Lisboa)": "2026-09-12T15:06:36+00:00",
+    "Covilha (Castelo Branco)": "2026-09-12T15:37:12+00:00",
     "Loule (Faro)": "2026-09-12T15:25:11+00:00",
     "Loures (Lisboa)": "2026-09-12T15:12:34+00:00",
     "Mafra (Lisboa)": "2026-09-12T15:20:47+00:00",
+    "Montijo (Setubal)": "2026-09-12T15:32:45+00:00",
     "Oeiras (Lisboa)": "2026-09-12T15:11:03+00:00",
+    "Portimao (Faro)": "2026-09-12T15:28:20+00:00",
     "Sacavem (Lisboa)": "2026-09-12T15:09:34+00:00",
+    "Setubal (Setubal)": "2026-09-12T15:34:14+00:00",
     "Sintra (Lisboa)": "2026-09-12T15:16:20+00:00",
     "Telheiras (Lisboa)": "2026-09-12T15:14:03+00:00",
+    "Torres Novas (Santarem)": "2026-09-12T15:38:41+00:00",
     "Torres Vedras (Lisboa)": "2026-09-12T15:22:15+00:00"
   },
   "products": {
@@ -80,6 +88,111 @@
       "retificado": false,
       "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html"
+    },
+    "83791816@Barreiro (Setubal)": {
+      "atualizado": "2026-09-12T15:29:48+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1628
+        ]
+      ],
+      "id": "83791816",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (3x1) HAIER FLEXIS 9000BTU + 9000BTU + 12000BTU WIFI PRETO",
+      "preco_desconto": 401,
+      "preco_final": 1628,
+      "preco_normal": 2029,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Barreiro (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html"
+    },
+    "84622735@Almada (Setubal)": {
+      "atualizado": "2026-09-12T15:31:17+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1328
+        ]
+      ],
+      "id": "84622735",
+      "m2_caixa": null,
+      "marca": "HISENSE",
+      "name": "Ar condicionado fixo (2X1) HISENSE COMFORT 9000 + 12000 BTU",
+      "preco_desconto": 321,
+      "preco_final": 1328,
+      "preco_normal": 1649,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Almada (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-12000-btu-84622735.html"
+    },
+    "84622735@Barreiro (Setubal)": {
+      "atualizado": "2026-09-12T15:29:48+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1328
+        ]
+      ],
+      "id": "84622735",
+      "m2_caixa": null,
+      "marca": "HISENSE",
+      "name": "Ar condicionado fixo (2X1) HISENSE COMFORT 9000 + 12000 BTU",
+      "preco_desconto": 321,
+      "preco_final": 1328,
+      "preco_normal": 1649,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Barreiro (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-12000-btu-84622735.html"
+    },
+    "84622735@Montijo (Setubal)": {
+      "atualizado": "2026-09-12T15:32:45+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1328
+        ]
+      ],
+      "id": "84622735",
+      "m2_caixa": null,
+      "marca": "HISENSE",
+      "name": "Ar condicionado fixo (2X1) HISENSE COMFORT 9000 + 12000 BTU",
+      "preco_desconto": 321,
+      "preco_final": 1328,
+      "preco_normal": 1649,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Montijo (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-12000-btu-84622735.html"
+    },
+    "84622738@Setubal (Setubal)": {
+      "atualizado": "2026-09-12T15:34:14+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          2248
+        ]
+      ],
+      "id": "84622738",
+      "m2_caixa": null,
+      "marca": "HISENSE",
+      "name": "Ar condicionado fixo (4X1) HISENSE COMFORT 3X9000 + 12000 BTU",
+      "preco_desconto": 551,
+      "preco_final": 2248,
+      "preco_normal": 2799,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Setubal (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-4x1-hisense-comfort-3x9000-12000-btu-84622738.html"
     },
     "84622739@Sintra (Lisboa)": {
       "atualizado": "2026-09-12T15:16:20+00:00",
