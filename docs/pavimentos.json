@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T10:19:10+00:00",
+  "generated": "2026-09-12T10:50:48+00:00",
   "products": [
     {
       "id": "85105569",
@@ -106,20 +106,6 @@
           ]
         },
         {
-          "store": "Evora (Evora)",
-          "region": "Evora",
-          "preco_normal": 4.85,
-          "preco_desconto": 0.87,
-          "preco_final": 3.98,
-          "atualizado": "2026-09-02T16:48:55+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              3.98
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 4.85,
@@ -157,6 +143,20 @@
           "history": [
             [
               "2026-09-02",
+              3.98
+            ]
+          ]
+        },
+        {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 4.85,
+          "preco_desconto": 0.87,
+          "preco_final": 3.98,
+          "atualizado": "2026-09-12T10:49:34+00:00",
+          "history": [
+            [
+              "2026-09-12",
               3.98
             ]
           ]
@@ -398,6 +398,32 @@
       ]
     },
     {
+      "id": "17581053",
+      "name": "Pavimento cerâmico Tibet Moka 20x60 cm",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-tibet-moka-20x60-cm-17581053.html",
+      "dimensao": "20x60",
+      "marca": "ECOCERAMIC",
+      "retificado": false,
+      "m2_caixa": 1.08,
+      "preco_final": 10.98,
+      "prices": [
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 15.11,
+          "preco_desconto": 4.13,
+          "preco_final": 10.98,
+          "atualizado": "2026-09-12T10:10:22+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              10.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "17607044",
       "name": "Pavimento cerâmico Matrix cinza 33x33 cm Antiderrapante",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-cinza-33x33-cm-antiderrapante-17607044.html",
@@ -417,32 +443,6 @@
           "history": [
             [
               "2026-09-12",
-              10.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "17607345",
-      "name": "Pavimento cerâmico Matrix bege 33x33 cm Antiderrapante",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-bege-33x33-cm-antiderrapante-17607345.html",
-      "dimensao": "33x33",
-      "marca": "GRESART",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 10.98,
-      "prices": [
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 17.24,
-          "preco_desconto": 6.26,
-          "preco_final": 10.98,
-          "atualizado": "2026-09-02T16:19:42+00:00",
-          "history": [
-            [
-              "2026-09-02",
               10.98
             ]
           ]
@@ -528,22 +528,22 @@
       ]
     },
     {
-      "id": "17581053",
-      "name": "Pavimento cerâmico Tibet Moka 20x60 cm",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-tibet-moka-20x60-cm-17581053.html",
-      "dimensao": "20x60",
-      "marca": "ECOCERAMIC",
+      "id": "17607345",
+      "name": "Pavimento cerâmico Matrix bege 33x33 cm Antiderrapante",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-bege-33x33-cm-antiderrapante-17607345.html",
+      "dimensao": "33x33",
+      "marca": "GRESART",
       "retificado": false,
-      "m2_caixa": 1.08,
+      "m2_caixa": null,
       "preco_final": 10.98,
       "prices": [
         {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 15.11,
-          "preco_desconto": 4.13,
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 17.24,
+          "preco_desconto": 6.26,
           "preco_final": 10.98,
-          "atualizado": "2026-09-12T10:10:22+00:00",
+          "atualizado": "2026-09-12T10:26:27+00:00",
           "history": [
             [
               "2026-09-12",
@@ -698,6 +698,32 @@
       ]
     },
     {
+      "id": "82258373",
+      "name": "Pavimento cerâmico bege 45x45 cm Aleluia Studio",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bege-45x45-cm-aleluia-studio-82258373.html",
+      "dimensao": "45x45",
+      "marca": "GRESCO",
+      "retificado": false,
+      "m2_caixa": 1.24,
+      "preco_final": 13.98,
+      "prices": [
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 22.31,
+          "preco_desconto": 8.33,
+          "preco_final": 13.98,
+          "atualizado": "2026-09-12T10:10:22+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              13.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "89168665",
       "name": "Pavimento / Revestimento cerâmico Artens Urban Prata 60x60 cm",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-60x60-cm-89168665.html",
@@ -757,32 +783,6 @@
           "history": [
             [
               "2026-09-02",
-              13.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82258373",
-      "name": "Pavimento cerâmico bege 45x45 cm Aleluia Studio",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bege-45x45-cm-aleluia-studio-82258373.html",
-      "dimensao": "45x45",
-      "marca": "GRESCO",
-      "retificado": false,
-      "m2_caixa": 1.24,
-      "preco_final": 13.98,
-      "prices": [
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 22.31,
-          "preco_desconto": 8.33,
-          "preco_final": 13.98,
-          "atualizado": "2026-09-12T10:10:22+00:00",
-          "history": [
-            [
-              "2026-09-12",
               13.98
             ]
           ]
@@ -1126,6 +1126,32 @@
             [
               "2026-09-12",
               14.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83848349",
+      "name": "Pavimento cerâmico Solidum cinzento 33x33 cm Antiderrapante",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-solidum-cinzento-33x33-cm-antiderrapante-83848349.html",
+      "dimensao": "33x33",
+      "marca": "GRESCO",
+      "retificado": false,
+      "m2_caixa": 1.09,
+      "preco_final": 14.99,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 19.61,
+          "preco_desconto": 4.62,
+          "preco_final": 14.99,
+          "atualizado": "2026-09-12T10:26:27+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              14.99
             ]
           ]
         }
@@ -1501,10 +1527,10 @@
           "preco_normal": 16.62,
           "preco_desconto": 0.0,
           "preco_final": 16.62,
-          "atualizado": "2026-09-02T16:19:42+00:00",
+          "atualizado": "2026-09-12T10:26:27+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               16.62
             ]
           ]
@@ -1680,20 +1706,6 @@
       "preco_final": 17.98,
       "prices": [
         {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 23.69,
-          "preco_desconto": 5.71,
-          "preco_final": 17.98,
-          "atualizado": "2026-09-02T16:54:33+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              17.98
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 23.69,
@@ -1753,10 +1765,10 @@
           "preco_normal": 29.15,
           "preco_desconto": 11.17,
           "preco_final": 17.98,
-          "atualizado": "2026-09-02T16:19:42+00:00",
+          "atualizado": "2026-09-12T10:26:27+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               17.98
             ]
           ]
@@ -1838,6 +1850,32 @@
             [
               "2026-09-12",
               18.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93927951",
+      "name": "Pavimento cerâmico Deck castanho mate 15x75 cm Gresart",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-deck-castanho-mate-15x75-cm-gresart-93927951.html",
+      "dimensao": "15x75",
+      "marca": "GRESART",
+      "retificado": false,
+      "m2_caixa": 1.13,
+      "preco_final": 17.99,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 21.45,
+          "preco_desconto": 3.46,
+          "preco_final": 17.99,
+          "atualizado": "2026-09-12T10:26:27+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              17.99
             ]
           ]
         }
@@ -1960,20 +1998,6 @@
           ]
         },
         {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 24.83,
-          "preco_desconto": 4.85,
-          "preco_final": 19.98,
-          "atualizado": "2026-09-02T16:54:33+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              19.98
-            ]
-          ]
-        },
-        {
           "store": "Guimaraes (Braga)",
           "region": "Braga",
           "preco_normal": 24.83,
@@ -1983,6 +2007,20 @@
           "history": [
             [
               "2026-09-02",
+              19.98
+            ]
+          ]
+        },
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 24.83,
+          "preco_desconto": 4.85,
+          "preco_final": 19.98,
+          "atualizado": "2026-09-12T10:34:14+00:00",
+          "history": [
+            [
+              "2026-09-12",
               19.98
             ]
           ]
@@ -2488,32 +2526,6 @@
       ]
     },
     {
-      "id": "85172033",
-      "name": "Pavimento cerâmico 44x44 cm Absolute Universe",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-44x44-cm-absolute-universe-85172033.html",
-      "dimensao": "44x44",
-      "marca": "DOMINO",
-      "retificado": false,
-      "m2_caixa": 1.16,
-      "preco_final": 19.98,
-      "prices": [
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 32.47,
-          "preco_desconto": 12.49,
-          "preco_final": 19.98,
-          "atualizado": "2026-09-02T16:19:42+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              19.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86393171",
       "name": "Revestimento cerâmico 25x75 cm New Apolo",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-25x75-cm-new-apolo-86393171.html",
@@ -2574,6 +2586,58 @@
             [
               "2026-09-02",
               19.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85172033",
+      "name": "Pavimento cerâmico 44x44 cm Absolute Universe",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-44x44-cm-absolute-universe-85172033.html",
+      "dimensao": "44x44",
+      "marca": "DOMINO",
+      "retificado": false,
+      "m2_caixa": 1.16,
+      "preco_final": 19.98,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 32.47,
+          "preco_desconto": 12.49,
+          "preco_final": 19.98,
+          "atualizado": "2026-09-12T10:26:27+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              19.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90463932",
+      "name": "Pavimento cerâmico Loreto Artens bege 22,5x90 cm",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-loreto-artens-bege-22-5x90-cm-90463932.html",
+      "dimensao": null,
+      "marca": "ARTENS",
+      "retificado": false,
+      "m2_caixa": 1.215,
+      "preco_final": 19.99,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 21.95,
+          "preco_desconto": 1.96,
+          "preco_final": 19.99,
+          "atualizado": "2026-09-12T10:26:27+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              19.99
             ]
           ]
         }
@@ -2921,10 +2985,10 @@
           "preco_normal": 29.47,
           "preco_desconto": 6.5,
           "preco_final": 22.97,
-          "atualizado": "2026-09-02T16:19:42+00:00",
+          "atualizado": "2026-09-12T10:26:27+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               22.97
             ]
           ]
@@ -3261,10 +3325,10 @@
           "preco_normal": 24.97,
           "preco_desconto": 0.0,
           "preco_final": 24.97,
-          "atualizado": "2026-09-02T16:19:42+00:00",
+          "atualizado": "2026-09-12T10:26:27+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               24.97
             ]
           ]
@@ -3572,6 +3636,32 @@
       ]
     },
     {
+      "id": "87225233",
+      "name": "Revestimento cerâmico 30x60 cm Alpe cinza",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-30x60-cm-alpe-cinza-87225233.html",
+      "dimensao": "30x60",
+      "marca": "ALELUIA",
+      "retificado": false,
+      "m2_caixa": 1.46,
+      "preco_final": 26.99,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 30.64,
+          "preco_desconto": 3.65,
+          "preco_final": 26.99,
+          "atualizado": "2026-09-12T10:26:27+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              26.99
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "17607471",
       "name": "Pavimento cerâmico Beton White 60x60 cm retificado",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-beton-white-60x60-cm-retificado-17607471.html",
@@ -3849,10 +3939,10 @@
           "preco_normal": 42.97,
           "preco_desconto": 3,
           "preco_final": 39.97,
-          "atualizado": "2026-09-02T16:19:42+00:00",
+          "atualizado": "2026-09-12T10:26:27+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               39.97
             ]
           ]

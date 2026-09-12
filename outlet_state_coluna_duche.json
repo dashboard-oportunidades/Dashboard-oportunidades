@@ -16,10 +16,10 @@
     "Cascais (Lisboa)": "2026-09-12T09:59:01+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-12T10:06:41+00:00",
     "Chaves (Vila Real)": "2026-09-12T10:14:20+00:00",
-    "Coimbra (Coimbra)": "2026-09-06T20:03:43+00:00",
-    "Colombo (Lisboa)": "2026-09-06T20:38:21+00:00",
-    "Covilha (Castelo Branco)": "2026-09-06T19:58:37+00:00",
-    "Evora (Evora)": "2026-09-06T20:31:39+00:00",
+    "Coimbra (Coimbra)": "2026-09-12T10:22:08+00:00",
+    "Colombo (Lisboa)": "2026-09-12T10:30:24+00:00",
+    "Covilha (Castelo Branco)": "2026-09-12T10:38:09+00:00",
+    "Evora (Evora)": "2026-09-12T10:45:50+00:00",
     "Figueira da Foz (Coimbra)": "2026-09-06T20:04:32+00:00",
     "Gaia (Porto)": "2026-09-06T20:24:44+00:00",
     "Gondomar (Porto)": "2026-09-06T20:23:08+00:00",
@@ -402,6 +402,90 @@
       "region": "Vila Real",
       "retificado": false,
       "store": "Chaves (Vila Real)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Coimbra (Coimbra)": {
+      "atualizado": "2026-09-12T10:22:08+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Coimbra",
+      "retificado": false,
+      "store": "Coimbra (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Colombo (Lisboa)": {
+      "atualizado": "2026-09-12T10:30:24+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Colombo (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Covilha (Castelo Branco)": {
+      "atualizado": "2026-09-12T10:38:09+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Castelo Branco",
+      "retificado": false,
+      "store": "Covilha (Castelo Branco)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Evora (Evora)": {
+      "atualizado": "2026-09-12T10:45:50+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Evora",
+      "retificado": false,
+      "store": "Evora (Evora)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882134@Penafiel (Porto)": {
@@ -993,11 +1077,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
     },
     "83596589@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-06T20:03:43+00:00",
+      "atualizado": "2026-09-12T10:22:08+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           248
         ]
       ],
@@ -1266,11 +1350,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
     },
     "86523842@Evora (Evora)": {
-      "atualizado": "2026-09-06T20:31:39+00:00",
+      "atualizado": "2026-09-12T10:45:50+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           468
         ]
       ],
@@ -1518,11 +1602,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Evora (Evora)": {
-      "atualizado": "2026-09-06T20:31:39+00:00",
+      "atualizado": "2026-09-12T10:45:50+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           388
         ]
       ],
@@ -1770,11 +1854,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-studio-com-torneira-termostatica-cromado-88103666.html"
     },
     "88483203@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-06T20:03:43+00:00",
+      "atualizado": "2026-09-12T10:22:08+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           228
         ]
       ],

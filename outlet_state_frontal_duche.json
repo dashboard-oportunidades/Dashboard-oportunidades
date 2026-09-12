@@ -16,10 +16,10 @@
     "Cascais (Lisboa)": "2026-09-12T10:00:14+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-12T10:07:53+00:00",
     "Chaves (Vila Real)": "2026-09-12T10:15:33+00:00",
-    "Coimbra (Coimbra)": "2026-09-01T14:31:51+00:00",
-    "Colombo (Lisboa)": "2026-09-01T15:06:55+00:00",
-    "Covilha (Castelo Branco)": "2026-09-01T14:26:43+00:00",
-    "Evora (Evora)": "2026-09-01T15:00:03+00:00",
+    "Coimbra (Coimbra)": "2026-09-12T10:23:19+00:00",
+    "Colombo (Lisboa)": "2026-09-12T10:31:42+00:00",
+    "Covilha (Castelo Branco)": "2026-09-12T10:39:27+00:00",
+    "Evora (Evora)": "2026-09-12T10:47:04+00:00",
     "Figueira da Foz (Coimbra)": "2026-09-01T14:33:34+00:00",
     "Gaia (Porto)": "2026-09-01T14:53:16+00:00",
     "Gondomar (Porto)": "2026-09-01T14:51:27+00:00",
@@ -254,24 +254,6 @@
       "store": "Aveiro (Aveiro)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-120x195-cm-sensea-remix-82209759.html"
     },
-    "82209759@Evora (Evora)": {
-      "atualizado": "2026-09-01T15:00:03+00:00",
-      "dimensao": "120x195",
-      "history": [
-        [
-          "2026-09-01",
-          268
-        ]
-      ],
-      "id": "82209759",
-      "name": "Porta de duche serigrafada cromado 120x195 cm Sensea Remix",
-      "preco_desconto": 51,
-      "preco_final": 268,
-      "preco_normal": 319,
-      "region": "Evora",
-      "store": "Evora (Evora)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-120x195-cm-sensea-remix-82209759.html"
-    },
     "82209759@Gondomar (Porto)": {
       "atualizado": "2026-09-01T14:51:27+00:00",
       "dimensao": "120x195",
@@ -309,20 +291,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-140x195-cm-sensea-remix-82209761.html"
     },
     "82209762@Colombo (Lisboa)": {
-      "atualizado": "2026-09-01T15:06:55+00:00",
+      "atualizado": "2026-09-12T10:31:42+00:00",
       "dimensao": "140x195",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           278
         ]
       ],
       "id": "82209762",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Porta de duche serigrafada cromado 140x195 cm Sensea Remix",
       "preco_desconto": 61,
       "preco_final": 278,
       "preco_normal": 339,
       "region": "Lisboa",
+      "retificado": false,
       "store": "Colombo (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-140x195-cm-sensea-remix-82209762.html"
     },
@@ -405,20 +390,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-160x195-cm-sensea-remix-82209765.html"
     },
     "82209770@Evora (Evora)": {
-      "atualizado": "2026-09-01T15:00:03+00:00",
+      "atualizado": "2026-09-12T10:47:04+00:00",
       "dimensao": "80x195",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           228
         ]
       ],
       "id": "82209770",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Porta de duche de batente transparente cromado 80x195 cm Sensea Remix",
       "preco_desconto": 0.0,
       "preco_final": 228,
       "preco_normal": 228,
       "region": "Evora",
+      "retificado": false,
       "store": "Evora (Evora)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-80x195-cm-sensea-remix-82209770.html"
     },
@@ -573,20 +561,23 @@
       "url": "https://www.leroymerlin.pt/produtos/cabine-de-duche-sensea-remix-60-60-x80x195cm-preto-82209796.html"
     },
     "82242429@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T14:31:51+00:00",
+      "atualizado": "2026-09-12T10:23:19+00:00",
       "dimensao": "100x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           358
         ]
       ],
       "id": "82242429",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Porta de duche + 2 portas transparente cromado 100x200 cm Sensea Neo",
       "preco_desconto": 0.0,
       "preco_final": 358,
       "preco_normal": 358,
       "region": "Coimbra",
+      "retificado": false,
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-100x200-cm-sensea-neo-82242429.html"
     },
@@ -960,20 +951,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-amea1-170x200-transparente-inox-82351891.html"
     },
     "82352333@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T14:31:51+00:00",
+      "atualizado": "2026-09-12T10:23:19+00:00",
       "dimensao": "200x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           599
         ]
       ],
       "id": "82352333",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
       "name": "Portas de duche serigrafado preto 200x200 cm Tala 3",
       "preco_desconto": 255,
       "preco_final": 599,
       "preco_normal": 854,
       "region": "Coimbra",
+      "retificado": false,
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-serigrafado-preto-200x200-cm-tala-3-82352333.html"
     },
@@ -1020,20 +1014,23 @@
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-bilbao-180cm-2-portas-de-correr-cromado-82456171.html"
     },
     "84659269@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-01T14:31:51+00:00",
+      "atualizado": "2026-09-12T10:23:19+00:00",
       "dimensao": "200x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           594.98
         ]
       ],
       "id": "84659269",
+      "m2_caixa": null,
+      "marca": "ROCA",
       "name": "Portas de duche 200X200 transparente preto Ventus",
       "preco_desconto": 564.02,
       "preco_final": 594.98,
       "preco_normal": 1159,
       "region": "Coimbra",
+      "retificado": false,
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-200x200-transparente-preto-ventus-84659269.html"
     },
