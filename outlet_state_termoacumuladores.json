@@ -35,10 +35,10 @@
     "Oeiras (Lisboa)": "2026-09-12T12:08:30+00:00",
     "Penafiel (Porto)": "2026-09-12T12:16:13+00:00",
     "Portimao (Faro)": "2026-09-12T12:23:52+00:00",
-    "Sacavem (Lisboa)": "2026-09-01T13:21:07+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-09-01T13:22:55+00:00",
-    "Santarem (Santarem)": "2026-09-01T13:24:35+00:00",
-    "Setubal (Setubal)": "2026-09-01T13:26:18+00:00",
+    "Sacavem (Lisboa)": "2026-09-12T12:31:45+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-12T12:39:22+00:00",
+    "Santarem (Santarem)": "2026-09-12T12:47:27+00:00",
+    "Setubal (Setubal)": "2026-09-12T12:55:03+00:00",
     "Sintra (Lisboa)": "2026-09-01T13:28:00+00:00",
     "Telheiras (Lisboa)": "2026-09-01T13:31:06+00:00",
     "Torres Novas (Santarem)": "2026-09-01T13:32:55+00:00",
@@ -89,6 +89,27 @@
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-lite-80-litros-75347816.html"
     },
+    "75347816@Santarem (Santarem)": {
+      "atualizado": "2026-09-12T12:47:27+00:00",
+      "dimensao": "80L",
+      "history": [
+        [
+          "2026-09-12",
+          149
+        ]
+      ],
+      "id": "75347816",
+      "m2_caixa": null,
+      "marca": "HTW",
+      "name": "Termoacumulador HTW Smart Lite 80 litros",
+      "preco_desconto": 20,
+      "preco_final": 149,
+      "preco_normal": 169,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-lite-80-litros-75347816.html"
+    },
     "81940803@Almada (Setubal)": {
       "atualizado": "2026-09-01T13:45:26+00:00",
       "dimensao": "60L",
@@ -129,20 +150,23 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
     "81940803@Santarem (Santarem)": {
-      "atualizado": "2026-09-01T13:24:35+00:00",
+      "atualizado": "2026-09-12T12:47:27+00:00",
       "dimensao": "60L",
       "history": [
         [
-          "2026-09-01",
-          368
+          "2026-09-12",
+          199
         ]
       ],
       "id": "81940803",
+      "m2_caixa": null,
+      "marca": null,
       "name": "Termoacumulador indimante inox tel1500w v/h 60l",
-      "preco_desconto": 81,
-      "preco_final": 368,
+      "preco_desconto": 250,
+      "preco_final": 199,
       "preco_normal": 449,
       "region": "Santarem",
+      "retificado": false,
       "store": "Santarem (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
@@ -412,6 +436,27 @@
       "region": "Setubal",
       "store": "Almada (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-multiposicao-flat-es80-tf7-80l-haier-87542649.html"
+    },
+    "89618137@Santarem (Santarem)": {
+      "atualizado": "2026-09-12T12:47:27+00:00",
+      "dimensao": "50L",
+      "history": [
+        [
+          "2026-09-12",
+          149
+        ]
+      ],
+      "id": "89618137",
+      "m2_caixa": null,
+      "marca": "EDESA",
+      "name": "Termoacumulador elétrico 50L Edesa Digital",
+      "preco_desconto": 42,
+      "preco_final": 149,
+      "preco_normal": 191,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-50l-edesa-digital-89618137.html"
     },
     "89834463@Barreiro (Setubal)": {
       "atualizado": "2026-09-12T09:24:28+00:00",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T12:23:52+00:00",
+  "generated": "2026-09-12T12:55:03+00:00",
   "products": [
     {
       "id": "17364851",
@@ -132,6 +132,32 @@
             [
               "2026-09-06",
               148
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88103665",
+      "name": "Conjunto de duche SENSEA STUDIO COM TORNEIRACROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-sensea-studio-com-torneiracromado-88103665.html",
+      "dimensao": null,
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 128,
+      "prices": [
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 149,
+          "preco_desconto": 21,
+          "preco_final": 128,
+          "atualizado": "2026-09-12T12:42:04+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              128
             ]
           ]
         }
@@ -488,20 +514,6 @@
           ]
         },
         {
-          "store": "Torres Novas (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 349,
-          "preco_desconto": 61,
-          "preco_final": 288,
-          "atualizado": "2026-09-06T20:00:13+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              288
-            ]
-          ]
-        },
-        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 349,
@@ -511,6 +523,20 @@
           "history": [
             [
               "2026-09-12",
+              288
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 349,
+          "preco_desconto": 61,
+          "preco_final": 288,
+          "atualizado": "2026-09-06T20:00:13+00:00",
+          "history": [
+            [
+              "2026-09-06",
               288
             ]
           ]
@@ -946,6 +972,62 @@
               209.3
             ]
           ]
+        },
+        {
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T12:26:50+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T12:34:30+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T12:42:04+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T12:50:12+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
         }
       ]
     },
@@ -1007,10 +1089,10 @@
           "preco_normal": 218,
           "preco_desconto": 0.0,
           "preco_final": 218,
-          "atualizado": "2026-09-06T20:02:06+00:00",
+          "atualizado": "2026-09-12T12:42:04+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               218
             ]
           ]
@@ -1382,34 +1464,6 @@
           ]
         },
         {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-06T20:02:06+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-06T20:33:16+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 479,
@@ -1430,6 +1484,34 @@
           "preco_desconto": 91,
           "preco_final": 388,
           "atualizado": "2026-09-12T12:18:53+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T20:33:16+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-12T12:42:04+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1581,10 +1663,10 @@
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-06T19:55:03+00:00",
+          "atualizado": "2026-09-12T12:50:12+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               408
             ]
           ]
@@ -1658,20 +1740,6 @@
           ]
         },
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-09-06T20:33:16+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              468
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 569,
@@ -1681,6 +1749,20 @@
           "history": [
             [
               "2026-09-12",
+              468
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-09-06T20:33:16+00:00",
+          "history": [
+            [
+              "2026-09-06",
               468
             ]
           ]
@@ -1745,10 +1827,10 @@
           "preco_normal": 429,
           "preco_desconto": 81,
           "preco_final": 348,
-          "atualizado": "2026-09-06T20:02:06+00:00",
+          "atualizado": "2026-09-12T12:42:04+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               348
             ]
           ]
@@ -1827,10 +1909,10 @@
           "preco_normal": 348,
           "preco_desconto": 0.0,
           "preco_final": 348,
-          "atualizado": "2026-09-06T19:55:03+00:00",
+          "atualizado": "2026-09-12T12:50:12+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               348
             ]
           ]

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T12:23:52+00:00",
+  "generated": "2026-09-12T12:55:03+00:00",
   "products": [
     {
       "id": "89876291",
@@ -95,10 +95,10 @@
           "preco_normal": 248,
           "preco_desconto": 0.0,
           "preco_final": 248,
-          "atualizado": "2026-09-04T10:35:30+00:00",
+          "atualizado": "2026-09-12T12:36:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               248
             ]
           ]
@@ -290,88 +290,6 @@
       ]
     },
     {
-      "id": "84567638",
-      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html",
-      "dimensao": "9000 BTU",
-      "marca": "BOSCH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 328,
-      "prices": [
-        {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 569,
-          "preco_desconto": 241,
-          "preco_final": 328,
-          "atualizado": "2026-09-04T10:35:30+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              328
-            ]
-          ]
-        },
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 468,
-          "preco_desconto": 0.0,
-          "preco_final": 468,
-          "atualizado": "2026-09-12T08:34:57+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-09-12T09:45:54+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-09-12T11:27:20+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 468,
-          "preco_desconto": 0.0,
-          "preco_final": 468,
-          "atualizado": "2026-09-04T10:41:37+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              468
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "89876294",
       "name": "Ar condicionado (1X1) 12KBTU IX39B5 HTW",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-12kbtu-ix39b5-htw-89876294.html",
@@ -441,10 +359,10 @@
           "preco_normal": 399,
           "preco_desconto": 40,
           "preco_final": 359,
-          "atualizado": "2026-09-04T10:36:08+00:00",
+          "atualizado": "2026-09-12T12:44:36+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               359
             ]
           ]
@@ -654,34 +572,6 @@
           ]
         },
         {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-09-04T10:35:30+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              378
-            ]
-          ]
-        },
-        {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-09-04T10:37:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              378
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 459,
@@ -702,6 +592,34 @@
           "preco_desconto": 81,
           "preco_final": 378,
           "atualizado": "2026-09-12T12:21:25+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-09-04T10:37:23+00:00",
+          "history": [
+            [
+              "2026-09-04",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-09-12T12:36:57+00:00",
           "history": [
             [
               "2026-09-12",
@@ -892,20 +810,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 509,
-          "preco_desconto": 91,
-          "preco_final": 418,
-          "atualizado": "2026-09-04T10:43:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              418
-            ]
-          ]
-        },
-        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 509,
@@ -915,6 +819,20 @@
           "history": [
             [
               "2026-09-12",
+              418
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 509,
+          "preco_desconto": 91,
+          "preco_final": 418,
+          "atualizado": "2026-09-04T10:43:23+00:00",
+          "history": [
+            [
+              "2026-09-04",
               418
             ]
           ]
@@ -942,6 +860,74 @@
             [
               "2026-09-12",
               438
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84567638",
+      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html",
+      "dimensao": "9000 BTU",
+      "marca": "BOSCH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 468,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 468,
+          "preco_desconto": 0.0,
+          "preco_final": 468,
+          "atualizado": "2026-09-12T08:34:57+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              468
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-09-12T09:45:54+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              468
+            ]
+          ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-09-12T11:27:20+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              468
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 468,
+          "preco_desconto": 0.0,
+          "preco_final": 468,
+          "atualizado": "2026-09-04T10:41:37+00:00",
+          "history": [
+            [
+              "2026-09-04",
+              468
             ]
           ]
         }
@@ -1182,62 +1168,6 @@
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 538,
-          "preco_desconto": 50,
-          "preco_final": 488,
-          "atualizado": "2026-09-04T10:34:42+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Telheiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
-          "preco_final": 488,
-          "atualizado": "2026-09-04T10:38:12+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
-          "preco_final": 488,
-          "atualizado": "2026-09-04T10:41:37+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 599,
-          "preco_desconto": 111,
-          "preco_final": 488,
-          "atualizado": "2026-09-04T10:45:03+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              488
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 599,
@@ -1294,15 +1224,71 @@
           ]
         },
         {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-09-04T10:38:12+00:00",
+          "history": [
+            [
+              "2026-09-04",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-09-04T10:41:37+00:00",
+          "history": [
+            [
+              "2026-09-04",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-09-04T10:45:03+00:00",
+          "history": [
+            [
+              "2026-09-04",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-09-12T12:29:18+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              488
+            ]
+          ]
+        },
+        {
           "store": "Santarem (Santarem)",
           "region": "Santarem",
           "preco_normal": 509,
           "preco_desconto": 0.0,
           "preco_final": 509,
-          "atualizado": "2026-09-04T10:36:08+00:00",
+          "atualizado": "2026-09-12T12:44:36+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               509
             ]
           ]
@@ -1313,10 +1299,10 @@
           "preco_normal": 599,
           "preco_desconto": 31,
           "preco_final": 568,
-          "atualizado": "2026-09-04T10:35:30+00:00",
+          "atualizado": "2026-09-12T12:36:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               568
             ]
           ]
@@ -1444,34 +1430,6 @@
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 769,
-          "preco_desconto": 141,
-          "preco_final": 628,
-          "atualizado": "2026-09-04T10:34:42+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-04T10:36:08+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              628
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 628,
@@ -1495,6 +1453,34 @@
           "history": [
             [
               "2026-09-04",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 769,
+          "preco_desconto": 141,
+          "preco_final": 628,
+          "atualizado": "2026-09-12T12:29:18+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-09-12T12:44:36+00:00",
+          "history": [
+            [
+              "2026-09-12",
               628
             ]
           ]
@@ -1641,10 +1627,10 @@
           "preco_normal": 649,
           "preco_desconto": 50,
           "preco_final": 599,
-          "atualizado": "2026-09-04T10:34:42+00:00",
+          "atualizado": "2026-09-12T12:29:18+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               599
             ]
           ]
@@ -2106,26 +2092,26 @@
           ]
         },
         {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-09-04T10:36:08+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              1048
-            ]
-          ]
-        },
-        {
           "store": "Penafiel (Porto)",
           "region": "Porto",
           "preco_normal": 1299,
           "preco_desconto": 251,
           "preco_final": 1048,
           "atualizado": "2026-09-12T12:13:44+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-09-12T12:44:36+00:00",
           "history": [
             [
               "2026-09-12",
@@ -2165,10 +2151,10 @@
           "preco_normal": 1019,
           "preco_desconto": 191,
           "preco_final": 828,
-          "atualizado": "2026-09-04T10:36:44+00:00",
+          "atualizado": "2026-09-12T12:52:36+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               828
             ]
           ]
@@ -2385,10 +2371,10 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-09-04T10:36:08+00:00",
+          "atualizado": "2026-09-12T12:44:36+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               1168
             ]
           ]
@@ -2552,20 +2538,6 @@
           ]
         },
         {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1078,
-          "preco_desconto": 0.0,
-          "preco_final": 1078,
-          "atualizado": "2026-09-04T10:37:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              1078
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1334,
@@ -2575,6 +2547,20 @@
           "history": [
             [
               "2026-09-12",
+              1078
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1078,
+          "preco_desconto": 0.0,
+          "preco_final": 1078,
+          "atualizado": "2026-09-04T10:37:23+00:00",
+          "history": [
+            [
+              "2026-09-04",
               1078
             ]
           ]
@@ -2618,20 +2604,6 @@
       "preco_final": 1328,
       "prices": [
         {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1328,
-          "preco_desconto": 0.0,
-          "preco_final": 1328,
-          "atualizado": "2026-09-04T10:37:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              1328
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 1328,
@@ -2641,6 +2613,20 @@
           "history": [
             [
               "2026-09-12",
+              1328
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1328,
+          "preco_desconto": 0.0,
+          "preco_final": 1328,
+          "atualizado": "2026-09-04T10:37:23+00:00",
+          "history": [
+            [
+              "2026-09-04",
               1328
             ]
           ]

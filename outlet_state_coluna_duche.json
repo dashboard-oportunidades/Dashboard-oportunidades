@@ -35,10 +35,10 @@
     "Oeiras (Lisboa)": "2026-09-12T12:03:34+00:00",
     "Penafiel (Porto)": "2026-09-12T12:11:15+00:00",
     "Portimao (Faro)": "2026-09-12T12:18:53+00:00",
-    "Sacavem (Lisboa)": "2026-09-06T18:29:17+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-09-06T20:19:45+00:00",
-    "Santarem (Santarem)": "2026-09-06T20:02:06+00:00",
-    "Setubal (Setubal)": "2026-09-06T19:55:03+00:00",
+    "Sacavem (Lisboa)": "2026-09-12T12:26:50+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-12T12:34:30+00:00",
+    "Santarem (Santarem)": "2026-09-12T12:42:04+00:00",
+    "Setubal (Setubal)": "2026-09-12T12:50:12+00:00",
     "Sintra (Lisboa)": "2026-09-06T18:37:38+00:00",
     "Telheiras (Lisboa)": "2026-09-06T18:34:16+00:00",
     "Torres Novas (Santarem)": "2026-09-06T20:00:13+00:00",
@@ -740,6 +740,90 @@
       "store": "Portimao (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
+    "81882097@Sacavem (Lisboa)": {
+      "atualizado": "2026-09-12T12:26:50+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sacavem (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Santa Maria da Feira (Aveiro)": {
+      "atualizado": "2026-09-12T12:34:30+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Santa Maria da Feira (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Santarem (Santarem)": {
+      "atualizado": "2026-09-12T12:42:04+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Setubal (Setubal)": {
+      "atualizado": "2026-09-12T12:50:12+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Setubal (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
     "81882134@Penafiel (Porto)": {
       "atualizado": "2026-09-12T12:11:15+00:00",
       "dimensao": null,
@@ -909,11 +993,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html"
     },
     "81896491@Santarem (Santarem)": {
-      "atualizado": "2026-09-06T20:02:06+00:00",
+      "atualizado": "2026-09-12T12:42:04+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           348
         ]
       ],
@@ -1014,11 +1098,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
     },
     "81896503@Setubal (Setubal)": {
-      "atualizado": "2026-09-06T19:55:03+00:00",
+      "atualizado": "2026-09-12T12:50:12+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           348
         ]
       ],
@@ -1539,11 +1623,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-inox-83842164.html"
     },
     "83842164@Santarem (Santarem)": {
-      "atualizado": "2026-09-06T20:02:06+00:00",
+      "atualizado": "2026-09-12T12:42:04+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           218
         ]
       ],
@@ -2022,11 +2106,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Santarem (Santarem)": {
-      "atualizado": "2026-09-06T20:02:06+00:00",
+      "atualizado": "2026-09-12T12:42:04+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           388
         ]
       ],
@@ -2062,6 +2146,27 @@
       "retificado": false,
       "store": "Viseu (Viseu)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
+    },
+    "88103665@Santarem (Santarem)": {
+      "atualizado": "2026-09-12T12:42:04+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          128
+        ]
+      ],
+      "id": "88103665",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Conjunto de duche SENSEA STUDIO COM TORNEIRACROMADO",
+      "preco_desconto": 21,
+      "preco_final": 128,
+      "preco_normal": 149,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-sensea-studio-com-torneiracromado-88103665.html"
     },
     "88103666@Maia (Porto)": {
       "atualizado": "2026-09-06T20:29:52+00:00",
@@ -2337,11 +2442,11 @@
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
     },
     "89128698@Setubal (Setubal)": {
-      "atualizado": "2026-09-06T19:55:03+00:00",
+      "atualizado": "2026-09-12T12:50:12+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           408
         ]
       ],

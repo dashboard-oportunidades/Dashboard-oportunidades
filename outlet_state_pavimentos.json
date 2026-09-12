@@ -35,10 +35,10 @@
     "Oeiras (Lisboa)": "2026-09-12T12:07:13+00:00",
     "Penafiel (Porto)": "2026-09-12T12:14:58+00:00",
     "Portimao (Faro)": "2026-09-12T12:22:40+00:00",
-    "Sacavem (Lisboa)": "2026-09-02T16:56:13+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-09-02T16:33:59+00:00",
-    "Santarem (Santarem)": "2026-09-02T16:17:06+00:00",
-    "Setubal (Setubal)": "2026-09-02T16:10:00+00:00",
+    "Sacavem (Lisboa)": "2026-09-12T12:30:34+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-12T12:38:11+00:00",
+    "Santarem (Santarem)": "2026-09-12T12:46:13+00:00",
+    "Setubal (Setubal)": "2026-09-12T12:53:47+00:00",
     "Sintra (Lisboa)": "2026-09-02T15:51:40+00:00",
     "Telheiras (Lisboa)": "2026-09-02T15:47:05+00:00",
     "Torres Novas (Santarem)": "2026-09-02T16:14:44+00:00",
@@ -195,11 +195,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-kandy-perola-30-3x61-3-cm-17421873.html"
     },
     "17516401@Santarem (Santarem)": {
-      "atualizado": "2026-09-02T16:17:06+00:00",
+      "atualizado": "2026-09-12T12:46:13+00:00",
       "dimensao": "25x40",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           10.98
         ]
       ],
@@ -489,11 +489,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-tribeca-branco-20-2x66-2-cm-17985072.html"
     },
     "17985072@Santarem (Santarem)": {
-      "atualizado": "2026-09-02T16:17:06+00:00",
+      "atualizado": "2026-09-12T12:46:13+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           18.98
         ]
       ],
@@ -804,11 +804,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-windsor-grey-60x60-cm-81970162.html"
     },
     "81970162@Santarem (Santarem)": {
-      "atualizado": "2026-09-02T16:17:06+00:00",
+      "atualizado": "2026-09-12T12:46:13+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           18.98
         ]
       ],
@@ -1559,6 +1559,27 @@
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bestley-gris-20x75-cm-antiderrapante-83304960.html"
     },
+    "83304961@Santarem (Santarem)": {
+      "atualizado": "2026-09-12T12:46:13+00:00",
+      "dimensao": "20x75",
+      "history": [
+        [
+          "2026-09-12",
+          14.98
+        ]
+      ],
+      "id": "83304961",
+      "m2_caixa": 1.05,
+      "marca": "ECOCERAMIC",
+      "name": "Pavimento cerâmico Bestley Brown 20x75 cm",
+      "preco_desconto": 0.0,
+      "preco_final": 14.98,
+      "preco_normal": 14.98,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bestley-brown-20x75-cm-83304961.html"
+    },
     "83497061@Braganca (Braganca)": {
       "atualizado": "2026-09-12T09:39:24+00:00",
       "dimensao": "32x62",
@@ -1980,11 +2001,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-revigres-limestone-antique-sand-10x60cm-85105569.html"
     },
     "85105569@Santarem (Santarem)": {
-      "atualizado": "2026-09-02T16:17:06+00:00",
+      "atualizado": "2026-09-12T12:46:13+00:00",
       "dimensao": "10x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           2.98
         ]
       ],
@@ -2421,11 +2442,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-ada-miel-20x60-cm-6mm-geotiles-87071653.html"
     },
     "87071654@Santarem (Santarem)": {
-      "atualizado": "2026-09-02T16:17:06+00:00",
+      "atualizado": "2026-09-12T12:46:13+00:00",
       "dimensao": "20x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           20.98
         ]
       ],

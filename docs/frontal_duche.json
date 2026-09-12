@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T12:23:52+00:00",
+  "generated": "2026-09-12T12:55:03+00:00",
   "products": [
     {
       "id": "87870009",
@@ -186,26 +186,26 @@
           ]
         },
         {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
-          "preco_final": 228,
-          "atualizado": "2026-09-01T14:30:09+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              228
-            ]
-          ]
-        },
-        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 279,
           "preco_desconto": 51,
           "preco_final": 228,
           "atualizado": "2026-09-12T12:20:09+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              228
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
+          "preco_final": 228,
+          "atualizado": "2026-09-12T12:43:21+00:00",
           "history": [
             [
               "2026-09-12",
