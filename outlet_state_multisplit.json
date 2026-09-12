@@ -1,11 +1,11 @@
 {
   "lojas": {
     "Albufeira (Faro)": "2026-09-12T15:26:40+00:00",
-    "Alfragide (Lisboa)": "2026-09-12T15:08:05+00:00",
+    "Alfragide (Lisboa)": "2026-09-12T16:14:59+00:00",
     "Almada (Setubal)": "2026-09-12T15:31:17+00:00",
-    "Alta de Lisboa (Lisboa)": "2026-09-12T15:05:07+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-09-12T16:12:02+00:00",
     "Alverca (Lisboa)": "2026-09-12T15:23:43+00:00",
-    "Amadora (Lisboa)": "2026-09-12T15:14:34+00:00",
+    "Amadora (Lisboa)": "2026-09-12T16:22:22+00:00",
     "Aveiro (Aveiro)": "2026-09-12T15:55:23+00:00",
     "Barcelos (Braga)": "2026-09-12T15:52:27+00:00",
     "Barreiro (Setubal)": "2026-09-12T15:29:48+00:00",
@@ -13,12 +13,13 @@
     "Braganca (Braganca)": "2026-09-12T15:49:18+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-12T15:46:21+00:00",
     "Carcavelos (Lisboa)": "2026-09-12T15:19:18+00:00",
-    "Cascais (Lisboa)": "2026-09-12T15:17:50+00:00",
+    "Cascais (Lisboa)": "2026-09-12T16:25:20+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-12T15:35:43+00:00",
     "Chaves (Vila Real)": "2026-09-12T15:44:52+00:00",
     "Coimbra (Coimbra)": "2026-09-12T15:41:54+00:00",
-    "Colombo (Lisboa)": "2026-09-12T15:06:36+00:00",
+    "Colombo (Lisboa)": "2026-09-12T16:13:31+00:00",
     "Covilha (Castelo Branco)": "2026-09-12T15:37:12+00:00",
+    "Evora (Evora)": "2026-09-12T16:07:36+00:00",
     "Figueira da Foz (Coimbra)": "2026-09-12T15:43:23+00:00",
     "Gaia (Porto)": "2026-09-12T16:01:19+00:00",
     "Gondomar (Porto)": "2026-09-12T15:59:50+00:00",
@@ -26,20 +27,24 @@
     "Guimaraes (Braga)": "2026-09-12T15:53:55+00:00",
     "Leiria (Leiria)": "2026-09-12T15:47:49+00:00",
     "Loule (Faro)": "2026-09-12T15:25:11+00:00",
-    "Loures (Lisboa)": "2026-09-12T15:12:34+00:00",
+    "Loures (Lisboa)": "2026-09-12T16:19:25+00:00",
     "Mafra (Lisboa)": "2026-09-12T15:20:47+00:00",
+    "Maia (Porto)": "2026-09-12T16:06:07+00:00",
+    "Matosinhos (Porto)": "2026-09-12T16:04:38+00:00",
     "Montijo (Setubal)": "2026-09-12T15:32:45+00:00",
-    "Oeiras (Lisboa)": "2026-09-12T15:11:03+00:00",
+    "Oeiras (Lisboa)": "2026-09-12T16:17:56+00:00",
     "Penafiel (Porto)": "2026-09-12T16:02:48+00:00",
     "Portimao (Faro)": "2026-09-12T15:28:20+00:00",
-    "Sacavem (Lisboa)": "2026-09-12T15:09:34+00:00",
+    "Sacavem (Lisboa)": "2026-09-12T16:16:28+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-12T15:56:51+00:00",
     "Santarem (Santarem)": "2026-09-12T15:40:26+00:00",
     "Setubal (Setubal)": "2026-09-12T15:34:14+00:00",
-    "Sintra (Lisboa)": "2026-09-12T15:16:20+00:00",
-    "Telheiras (Lisboa)": "2026-09-12T15:14:03+00:00",
+    "Sintra (Lisboa)": "2026-09-12T16:23:51+00:00",
+    "Telheiras (Lisboa)": "2026-09-12T16:20:53+00:00",
     "Torres Novas (Santarem)": "2026-09-12T15:38:41+00:00",
-    "Torres Vedras (Lisboa)": "2026-09-12T15:22:15+00:00"
+    "Torres Vedras (Lisboa)": "2026-09-12T15:22:15+00:00",
+    "Viana do Castelo (Viana do Castelo)": "2026-09-12T16:10:33+00:00",
+    "Viseu (Viseu)": "2026-09-12T16:09:05+00:00"
   },
   "products": {
     "82143647@Albufeira (Faro)": {
@@ -64,7 +69,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-eluxe-9000-9000btu-82143647.html"
     },
     "83791813@Oeiras (Lisboa)": {
-      "atualizado": "2026-09-12T15:11:03+00:00",
+      "atualizado": "2026-09-12T16:17:56+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
@@ -85,7 +90,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-branco-83791813.html"
     },
     "83791816@Amadora (Lisboa)": {
-      "atualizado": "2026-09-12T15:14:34+00:00",
+      "atualizado": "2026-09-12T16:22:22+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
@@ -253,7 +258,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-4x1-hisense-comfort-3x9000-12000-btu-84622738.html"
     },
     "84622739@Sintra (Lisboa)": {
-      "atualizado": "2026-09-12T15:16:20+00:00",
+      "atualizado": "2026-09-12T16:23:51+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
@@ -294,8 +299,29 @@
       "store": "Barcelos (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-aire-td-wifi-r32-9000-9000-12000-btu-86584984.html"
     },
+    "86584986@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-09-12T16:10:33+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1398
+        ]
+      ],
+      "id": "86584986",
+      "m2_caixa": null,
+      "marca": "AIRE +",
+      "name": "Ar condicionado fixo (3X1) Aire+ TD-WIFI R32 9000+12000+12000 BTU",
+      "preco_desconto": 101,
+      "preco_final": 1398,
+      "preco_normal": 1499,
+      "region": "Viana do Castelo",
+      "retificado": false,
+      "store": "Viana do Castelo (Viana do Castelo)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-aire-td-wifi-r32-9000-12000-12000-btu-86584986.html"
+    },
     "87694849@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-12T15:08:05+00:00",
+      "atualizado": "2026-09-12T16:14:59+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
@@ -316,7 +342,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-2x9000-12000-btu-ariston-alys-87694849.html"
     },
     "87694849@Loures (Lisboa)": {
-      "atualizado": "2026-09-12T15:12:34+00:00",
+      "atualizado": "2026-09-12T16:19:25+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
@@ -337,7 +363,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-2x9000-12000-btu-ariston-alys-87694849.html"
     },
     "88293343@Sintra (Lisboa)": {
-      "atualizado": "2026-09-12T15:16:20+00:00",
+      "atualizado": "2026-09-12T16:23:51+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
@@ -378,6 +404,27 @@
       "store": "Gaia (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-9000-9000-btu-haier-perla-premium-90402657.html"
     },
+    "90402657@Maia (Porto)": {
+      "atualizado": "2026-09-12T16:06:07+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          828
+        ]
+      ],
+      "id": "90402657",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (2X1) 9000 + 9000 Btu Haier Perla premium",
+      "preco_desconto": 201,
+      "preco_final": 828,
+      "preco_normal": 1029,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Maia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-9000-9000-btu-haier-perla-premium-90402657.html"
+    },
     "90402658@Figueira da Foz (Coimbra)": {
       "atualizado": "2026-09-12T15:43:23+00:00",
       "dimensao": "12000 BTU",
@@ -400,7 +447,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-4kw-9000-12000-btu-perla-premium-haier-90402658.html"
     },
     "92041665@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-12T15:08:05+00:00",
+      "atualizado": "2026-09-12T16:14:59+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
@@ -421,7 +468,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
     },
     "92041665@Amadora (Lisboa)": {
-      "atualizado": "2026-09-12T15:14:34+00:00",
+      "atualizado": "2026-09-12T16:22:22+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
@@ -463,7 +510,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
     },
     "92041665@Colombo (Lisboa)": {
-      "atualizado": "2026-09-12T15:06:36+00:00",
+      "atualizado": "2026-09-12T16:13:31+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
@@ -484,7 +531,7 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
     },
     "92041665@Sintra (Lisboa)": {
-      "atualizado": "2026-09-12T15:16:20+00:00",
+      "atualizado": "2026-09-12T16:23:51+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
@@ -503,6 +550,27 @@
       "retificado": false,
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
+    },
+    "94727298@Viseu (Viseu)": {
+      "atualizado": "2026-09-12T16:09:05+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1088
+        ]
+      ],
+      "id": "94727298",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado 2x1 HAIER Flexis s wifi 9+12kbtu branco",
+      "preco_desconto": 0.0,
+      "preco_final": 1088,
+      "preco_normal": 1088,
+      "region": "Viseu",
+      "retificado": false,
+      "store": "Viseu (Viseu)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-2x1-haier-flexis-s-wifi-9-12kbtu-branco-94727298.html"
     }
   }
 }
