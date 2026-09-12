@@ -6,6 +6,8 @@
     "Alta de Lisboa (Lisboa)": "2026-09-12T15:05:07+00:00",
     "Alverca (Lisboa)": "2026-09-12T15:23:43+00:00",
     "Amadora (Lisboa)": "2026-09-12T15:14:34+00:00",
+    "Aveiro (Aveiro)": "2026-09-12T15:55:23+00:00",
+    "Barcelos (Braga)": "2026-09-12T15:52:27+00:00",
     "Barreiro (Setubal)": "2026-09-12T15:29:48+00:00",
     "Braga (Braga)": "2026-09-12T15:50:46+00:00",
     "Braganca (Braganca)": "2026-09-12T15:49:18+00:00",
@@ -18,14 +20,20 @@
     "Colombo (Lisboa)": "2026-09-12T15:06:36+00:00",
     "Covilha (Castelo Branco)": "2026-09-12T15:37:12+00:00",
     "Figueira da Foz (Coimbra)": "2026-09-12T15:43:23+00:00",
+    "Gaia (Porto)": "2026-09-12T16:01:19+00:00",
+    "Gondomar (Porto)": "2026-09-12T15:59:50+00:00",
+    "Guarda (Guarda)": "2026-09-12T15:58:22+00:00",
+    "Guimaraes (Braga)": "2026-09-12T15:53:55+00:00",
     "Leiria (Leiria)": "2026-09-12T15:47:49+00:00",
     "Loule (Faro)": "2026-09-12T15:25:11+00:00",
     "Loures (Lisboa)": "2026-09-12T15:12:34+00:00",
     "Mafra (Lisboa)": "2026-09-12T15:20:47+00:00",
     "Montijo (Setubal)": "2026-09-12T15:32:45+00:00",
     "Oeiras (Lisboa)": "2026-09-12T15:11:03+00:00",
+    "Penafiel (Porto)": "2026-09-12T16:02:48+00:00",
     "Portimao (Faro)": "2026-09-12T15:28:20+00:00",
     "Sacavem (Lisboa)": "2026-09-12T15:09:34+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-12T15:56:51+00:00",
     "Santarem (Santarem)": "2026-09-12T15:40:26+00:00",
     "Setubal (Setubal)": "2026-09-12T15:34:14+00:00",
     "Sintra (Lisboa)": "2026-09-12T15:16:20+00:00",
@@ -118,6 +126,27 @@
       "store": "Barreiro (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html"
     },
+    "84622733@Gaia (Porto)": {
+      "atualizado": "2026-09-12T16:01:19+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1208
+        ]
+      ],
+      "id": "84622733",
+      "m2_caixa": null,
+      "marca": "HISENSE",
+      "name": "Ar condicionado fixo (2X1) HISENSE COMFORT 9000 + 9000 BTU",
+      "preco_desconto": 291,
+      "preco_final": 1208,
+      "preco_normal": 1499,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-9000-btu-84622733.html"
+    },
     "84622735@Almada (Setubal)": {
       "atualizado": "2026-09-12T15:31:17+00:00",
       "dimensao": "12000 BTU",
@@ -181,6 +210,27 @@
       "store": "Montijo (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-12000-btu-84622735.html"
     },
+    "84622738@Penafiel (Porto)": {
+      "atualizado": "2026-09-12T16:02:48+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          2248
+        ]
+      ],
+      "id": "84622738",
+      "m2_caixa": null,
+      "marca": "HISENSE",
+      "name": "Ar condicionado fixo (4X1) HISENSE COMFORT 3X9000 + 12000 BTU",
+      "preco_desconto": 551,
+      "preco_final": 2248,
+      "preco_normal": 2799,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-4x1-hisense-comfort-3x9000-12000-btu-84622738.html"
+    },
     "84622738@Setubal (Setubal)": {
       "atualizado": "2026-09-12T15:34:14+00:00",
       "dimensao": "12000 BTU",
@@ -222,6 +272,27 @@
       "retificado": false,
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-5x1-hisense-comfort-4x9000btu-18000-btu-84622739.html"
+    },
+    "86584984@Barcelos (Braga)": {
+      "atualizado": "2026-09-12T15:52:27+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          999
+        ]
+      ],
+      "id": "86584984",
+      "m2_caixa": null,
+      "marca": "AIRE +",
+      "name": "Ar condicionado fixo (3X1) Aire+ TD-WIFI R32 9000+9000+12000 BTU",
+      "preco_desconto": 200,
+      "preco_final": 999,
+      "preco_normal": 1199,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Barcelos (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-aire-td-wifi-r32-9000-9000-12000-btu-86584984.html"
     },
     "87694849@Alfragide (Lisboa)": {
       "atualizado": "2026-09-12T15:08:05+00:00",
@@ -285,6 +356,27 @@
       "retificado": false,
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-samsung-comfort-aj080-9000-9000-12000btu-88293343.html"
+    },
+    "90402657@Gaia (Porto)": {
+      "atualizado": "2026-09-12T16:01:19+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          828
+        ]
+      ],
+      "id": "90402657",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (2X1) 9000 + 9000 Btu Haier Perla premium",
+      "preco_desconto": 201,
+      "preco_final": 828,
+      "preco_normal": 1029,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gaia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-9000-9000-btu-haier-perla-premium-90402657.html"
     },
     "90402658@Figueira da Foz (Coimbra)": {
       "atualizado": "2026-09-12T15:43:23+00:00",

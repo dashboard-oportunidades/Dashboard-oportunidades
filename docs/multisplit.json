@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T15:50:46+00:00",
+  "generated": "2026-09-12T16:02:48+00:00",
   "products": [
     {
       "id": "82143647",
@@ -28,6 +28,32 @@
       ]
     },
     {
+      "id": "90402657",
+      "name": "Ar condicionado fixo (2X1) 9000 + 9000 Btu Haier Perla premium",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-9000-9000-btu-haier-perla-premium-90402657.html",
+      "dimensao": "9000 BTU",
+      "marca": "HAIER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 828,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 1029,
+          "preco_desconto": 201,
+          "preco_final": 828,
+          "atualizado": "2026-09-12T16:01:19+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              828
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "90402658",
       "name": "Ar condicionado fixo (2X1) 4Kw 9000 + 12000 Btu Perla premium Haier",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-4kw-9000-12000-btu-perla-premium-haier-90402658.html",
@@ -48,6 +74,32 @@
             [
               "2026-09-12",
               848
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86584984",
+      "name": "Ar condicionado fixo (3X1) Aire+ TD-WIFI R32 9000+9000+12000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-aire-td-wifi-r32-9000-9000-12000-btu-86584984.html",
+      "dimensao": "12000 BTU",
+      "marca": "AIRE +",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 999,
+      "prices": [
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 1199,
+          "preco_desconto": 200,
+          "preco_final": 999,
+          "atualizado": "2026-09-12T15:52:27+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              999
             ]
           ]
         }
@@ -92,6 +144,20 @@
           ]
         },
         {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 1249,
+          "preco_desconto": 241,
+          "preco_final": 1008,
+          "atualizado": "2026-09-12T15:46:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1008
+            ]
+          ]
+        },
+        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1249,
@@ -118,18 +184,30 @@
               1008
             ]
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "84622733",
+      "name": "Ar condicionado fixo (2X1) HISENSE COMFORT 9000 + 9000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-9000-btu-84622733.html",
+      "dimensao": "9000 BTU",
+      "marca": "HISENSE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 1208,
+      "prices": [
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 1249,
-          "preco_desconto": 241,
-          "preco_final": 1008,
-          "atualizado": "2026-09-12T15:46:21+00:00",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 1499,
+          "preco_desconto": 291,
+          "preco_final": 1208,
+          "atualizado": "2026-09-12T16:01:19+00:00",
           "history": [
             [
               "2026-09-12",
-              1008
+              1208
             ]
           ]
         }
@@ -312,6 +390,20 @@
           "preco_desconto": 551,
           "preco_final": 2248,
           "atualizado": "2026-09-12T15:34:14+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              2248
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 2799,
+          "preco_desconto": 551,
+          "preco_final": 2248,
+          "atualizado": "2026-09-12T16:02:48+00:00",
           "history": [
             [
               "2026-09-12",
