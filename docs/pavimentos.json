@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T10:50:48+00:00",
+  "generated": "2026-09-12T11:21:54+00:00",
   "products": [
     {
       "id": "85105569",
@@ -106,6 +106,20 @@
           ]
         },
         {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 4.85,
+          "preco_desconto": 0.87,
+          "preco_final": 3.98,
+          "atualizado": "2026-09-12T10:49:34+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              3.98
+            ]
+          ]
+        },
+        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 4.85,
@@ -143,20 +157,6 @@
           "history": [
             [
               "2026-09-02",
-              3.98
-            ]
-          ]
-        },
-        {
-          "store": "Evora (Evora)",
-          "region": "Evora",
-          "preco_normal": 4.85,
-          "preco_desconto": 0.87,
-          "preco_final": 3.98,
-          "atualizado": "2026-09-12T10:49:34+00:00",
-          "history": [
-            [
-              "2026-09-12",
               3.98
             ]
           ]
@@ -450,6 +450,32 @@
       ]
     },
     {
+      "id": "17607345",
+      "name": "Pavimento cerâmico Matrix bege 33x33 cm Antiderrapante",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-bege-33x33-cm-antiderrapante-17607345.html",
+      "dimensao": "33x33",
+      "marca": "GRESART",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 10.98,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 17.24,
+          "preco_desconto": 6.26,
+          "preco_final": 10.98,
+          "atualizado": "2026-09-12T10:26:27+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              10.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "19206012",
       "name": "Revestimento cerâmico Bronx azul 7.5x30 cm",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-bronx-azul-7-5x30-cm-19206012.html",
@@ -466,32 +492,6 @@
           "preco_desconto": 5.81,
           "preco_final": 10.98,
           "atualizado": "2026-09-02T15:51:40+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              10.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "83304959",
-      "name": "Pavimento cerâmico Bestley Gris 20x75 cm",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bestley-gris-20x75-cm-83304959.html",
-      "dimensao": "20x75",
-      "marca": "ECOCERAMIC",
-      "retificado": false,
-      "m2_caixa": 1.05,
-      "preco_final": 10.98,
-      "prices": [
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 15.74,
-          "preco_desconto": 4.76,
-          "preco_final": 10.98,
-          "atualizado": "2026-09-02T16:36:14+00:00",
           "history": [
             [
               "2026-09-02",
@@ -528,22 +528,22 @@
       ]
     },
     {
-      "id": "17607345",
-      "name": "Pavimento cerâmico Matrix bege 33x33 cm Antiderrapante",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-matrix-bege-33x33-cm-antiderrapante-17607345.html",
-      "dimensao": "33x33",
-      "marca": "GRESART",
+      "id": "83304959",
+      "name": "Pavimento cerâmico Bestley Gris 20x75 cm",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bestley-gris-20x75-cm-83304959.html",
+      "dimensao": "20x75",
+      "marca": "ECOCERAMIC",
       "retificado": false,
-      "m2_caixa": null,
+      "m2_caixa": 1.05,
       "preco_final": 10.98,
       "prices": [
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 17.24,
-          "preco_desconto": 6.26,
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 15.74,
+          "preco_desconto": 4.76,
           "preco_final": 10.98,
-          "atualizado": "2026-09-12T10:26:27+00:00",
+          "atualizado": "2026-09-12T11:20:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -734,20 +734,6 @@
       "preco_final": 13.98,
       "prices": [
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 23.1,
-          "preco_desconto": 9.12,
-          "preco_final": 13.98,
-          "atualizado": "2026-09-02T16:39:54+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              13.98
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 23.1,
@@ -757,6 +743,20 @@
           "history": [
             [
               "2026-09-02",
+              13.98
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 23.1,
+          "preco_desconto": 9.12,
+          "preco_final": 13.98,
+          "atualizado": "2026-09-12T11:05:09+00:00",
+          "history": [
+            [
+              "2026-09-12",
               13.98
             ]
           ]
@@ -832,58 +832,6 @@
           "preco_desconto": 8.74,
           "preco_final": 14.98,
           "atualizado": "2026-09-02T16:09:21+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              14.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "19548872",
-      "name": "Revestimento cerâmico azulejos Benadresa Cascais 30x90 cm",
-      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-azulejos-benadresa-cascais-30x90-cm-19548872.html",
-      "dimensao": "30x90",
-      "marca": "AZULEJOS BENADRESA",
-      "retificado": false,
-      "m2_caixa": 1.08,
-      "preco_final": 14.98,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 23.75,
-          "preco_desconto": 8.77,
-          "preco_final": 14.98,
-          "atualizado": "2026-09-02T16:39:54+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              14.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "81883737",
-      "name": "Pavimento cerâmico cream 15x60 cm Gresco Tempus",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-cream-15x60-cm-gresco-tempus-81883737.html",
-      "dimensao": "15x60",
-      "marca": "GRESCO",
-      "retificado": false,
-      "m2_caixa": 1.19,
-      "preco_final": 14.98,
-      "prices": [
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 23.79,
-          "preco_desconto": 8.81,
-          "preco_final": 14.98,
-          "atualizado": "2026-09-02T16:36:14+00:00",
           "history": [
             [
               "2026-09-02",
@@ -1122,6 +1070,58 @@
           "preco_desconto": 9.2,
           "preco_final": 14.98,
           "atualizado": "2026-09-12T08:44:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              14.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19548872",
+      "name": "Revestimento cerâmico azulejos Benadresa Cascais 30x90 cm",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-azulejos-benadresa-cascais-30x90-cm-19548872.html",
+      "dimensao": "30x90",
+      "marca": "AZULEJOS BENADRESA",
+      "retificado": false,
+      "m2_caixa": 1.08,
+      "preco_final": 14.98,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 23.75,
+          "preco_desconto": 8.77,
+          "preco_final": 14.98,
+          "atualizado": "2026-09-12T11:05:09+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              14.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81883737",
+      "name": "Pavimento cerâmico cream 15x60 cm Gresco Tempus",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-cream-15x60-cm-gresco-tempus-81883737.html",
+      "dimensao": "15x60",
+      "marca": "GRESCO",
+      "retificado": false,
+      "m2_caixa": 1.19,
+      "preco_final": 14.98,
+      "prices": [
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 23.79,
+          "preco_desconto": 8.81,
+          "preco_final": 14.98,
+          "atualizado": "2026-09-12T11:20:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1998,20 +1998,6 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
-          "preco_normal": 24.83,
-          "preco_desconto": 4.85,
-          "preco_final": 19.98,
-          "atualizado": "2026-09-02T16:30:51+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              19.98
-            ]
-          ]
-        },
-        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 24.83,
@@ -2021,6 +2007,20 @@
           "history": [
             [
               "2026-09-12",
+              19.98
+            ]
+          ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 24.83,
+          "preco_desconto": 4.85,
+          "preco_final": 19.98,
+          "atualizado": "2026-09-02T16:30:51+00:00",
+          "history": [
+            [
+              "2026-09-02",
               19.98
             ]
           ]
@@ -2186,32 +2186,6 @@
       ]
     },
     {
-      "id": "87071653",
-      "name": "Pavimento cerâmico Ada Miel 20x60 cm 6mm GEOTILES",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-ada-miel-20x60-cm-6mm-geotiles-87071653.html",
-      "dimensao": "20x60",
-      "marca": "GEOTILES",
-      "retificado": false,
-      "m2_caixa": 1.56,
-      "preco_final": 18.98,
-      "prices": [
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 23.38,
-          "preco_desconto": 4.4,
-          "preco_final": 18.98,
-          "atualizado": "2026-09-02T16:36:14+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              18.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "87683787",
       "name": "Pavimento cerâmico Artens Shala light grey 60x60cm",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-shala-light-grey-60x60cm-87683787.html",
@@ -2346,6 +2320,32 @@
           "preco_desconto": 2.47,
           "preco_final": 18.98,
           "atualizado": "2026-09-12T08:44:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              18.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87071653",
+      "name": "Pavimento cerâmico Ada Miel 20x60 cm 6mm GEOTILES",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-ada-miel-20x60-cm-6mm-geotiles-87071653.html",
+      "dimensao": "20x60",
+      "marca": "GEOTILES",
+      "retificado": false,
+      "m2_caixa": 1.56,
+      "preco_final": 18.98,
+      "prices": [
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 23.38,
+          "preco_desconto": 4.4,
+          "preco_final": 18.98,
+          "atualizado": "2026-09-12T11:20:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -2526,6 +2526,32 @@
       ]
     },
     {
+      "id": "85172033",
+      "name": "Pavimento cerâmico 44x44 cm Absolute Universe",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-44x44-cm-absolute-universe-85172033.html",
+      "dimensao": "44x44",
+      "marca": "DOMINO",
+      "retificado": false,
+      "m2_caixa": 1.16,
+      "preco_final": 19.98,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 32.47,
+          "preco_desconto": 12.49,
+          "preco_final": 19.98,
+          "atualizado": "2026-09-12T10:26:27+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              19.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "86393171",
       "name": "Revestimento cerâmico 25x75 cm New Apolo",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-25x75-cm-new-apolo-86393171.html",
@@ -2585,32 +2611,6 @@
           "history": [
             [
               "2026-09-02",
-              19.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "85172033",
-      "name": "Pavimento cerâmico 44x44 cm Absolute Universe",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-44x44-cm-absolute-universe-85172033.html",
-      "dimensao": "44x44",
-      "marca": "DOMINO",
-      "retificado": false,
-      "m2_caixa": 1.16,
-      "preco_final": 19.98,
-      "prices": [
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 32.47,
-          "preco_desconto": 12.49,
-          "preco_final": 19.98,
-          "atualizado": "2026-09-12T10:26:27+00:00",
-          "history": [
-            [
-              "2026-09-12",
               19.98
             ]
           ]
@@ -2907,10 +2907,10 @@
           "preco_normal": 27.35,
           "preco_desconto": 5.37,
           "preco_final": 21.98,
-          "atualizado": "2026-09-02T16:36:14+00:00",
+          "atualizado": "2026-09-12T11:20:41+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               21.98
             ]
           ]
@@ -3362,32 +3362,6 @@
       ]
     },
     {
-      "id": "82070047",
-      "name": "Taco cerâmico VELVET GRIS 16.5CMX16.5CM",
-      "url": "https://www.leroymerlin.pt/produtos/taco-ceramico-velvet-gris-16-5cmx16-5cm-82070047.html",
-      "dimensao": null,
-      "marca": "GAYA FORES",
-      "retificado": false,
-      "m2_caixa": 0.55,
-      "preco_final": 24.98,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 40.69,
-          "preco_desconto": 15.71,
-          "preco_final": 24.98,
-          "atualizado": "2026-09-02T16:39:54+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              24.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "83497061",
       "name": "Revestimento cerâmico Avoiro Decor Creme 32x62.5 cm",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-avoiro-decor-creme-32x62-5-cm-83497061.html",
@@ -3404,6 +3378,32 @@
           "preco_desconto": 0.0,
           "preco_final": 24.98,
           "atualizado": "2026-09-12T09:39:24+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              24.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82070047",
+      "name": "Taco cerâmico VELVET GRIS 16.5CMX16.5CM",
+      "url": "https://www.leroymerlin.pt/produtos/taco-ceramico-velvet-gris-16-5cmx16-5cm-82070047.html",
+      "dimensao": null,
+      "marca": "GAYA FORES",
+      "retificado": false,
+      "m2_caixa": 0.55,
+      "preco_final": 24.98,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 40.69,
+          "preco_desconto": 15.71,
+          "preco_final": 24.98,
+          "atualizado": "2026-09-12T11:05:09+00:00",
           "history": [
             [
               "2026-09-12",
@@ -3821,10 +3821,10 @@
           "preco_normal": 31.98,
           "preco_desconto": 0.0,
           "preco_final": 31.98,
-          "atualizado": "2026-09-02T16:20:23+00:00",
+          "atualizado": "2026-09-12T10:57:34+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               31.98
             ]
           ]

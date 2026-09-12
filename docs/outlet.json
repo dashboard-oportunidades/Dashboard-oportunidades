@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T10:50:48+00:00",
+  "generated": "2026-09-12T11:21:54+00:00",
   "products": [
     {
       "id": "81992803",
@@ -80,32 +80,6 @@
       ]
     },
     {
-      "id": "91835292",
-      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835292.html",
-      "dimensao": null,
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 108,
-      "prices": [
-        {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 129,
-          "preco_desconto": 21,
-          "preco_final": 108,
-          "atualizado": "2026-09-10T21:33:14+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              108
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "91835298",
       "name": "Base de duche Resina 90x70 cm branco mate Sensea Easy V2",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-90x70-cm-branco-mate-sensea-easy-v2-91835298.html",
@@ -122,6 +96,32 @@
           "preco_desconto": 21,
           "preco_final": 108,
           "atualizado": "2026-09-12T09:42:08+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              108
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91835292",
+      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835292.html",
+      "dimensao": null,
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 108,
+      "prices": [
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 129,
+          "preco_desconto": 21,
+          "preco_final": 108,
+          "atualizado": "2026-09-12T10:52:31+00:00",
           "history": [
             [
               "2026-09-12",
@@ -552,32 +552,6 @@
             [
               "2026-09-10",
               138
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "84834089",
-      "name": "Base de duche NEO 70X100CM GRELHA METAL BRANCO MATE",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-70x100cm-grelha-metal-branco-mate-84834089.html",
-      "dimensao": "70x100",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 142.98,
-      "prices": [
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 238,
-          "preco_desconto": 95.02,
-          "preco_final": 142.98,
-          "atualizado": "2026-09-10T21:13:05+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              142.98
             ]
           ]
         }
@@ -1190,6 +1164,62 @@
               167.2
             ]
           ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T10:52:31+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T11:00:15+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T11:07:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T11:15:32+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
         }
       ]
     },
@@ -1454,6 +1484,62 @@
               167.4
             ]
           ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T10:52:31+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T11:00:15+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T11:07:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T11:15:32+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
         }
       ]
     },
@@ -1496,15 +1582,29 @@
           ]
         },
         {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-09-10T21:36:41+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              168
+            ]
+          ]
+        },
+        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 199,
           "preco_desconto": 31,
           "preco_final": 168,
-          "atualizado": "2026-09-10T21:41:49+00:00",
+          "atualizado": "2026-09-12T11:00:15+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               168
             ]
           ]
@@ -1515,24 +1615,10 @@
           "preco_normal": 199,
           "preco_desconto": 31,
           "preco_final": 168,
-          "atualizado": "2026-09-10T21:13:05+00:00",
+          "atualizado": "2026-09-12T11:15:32+00:00",
           "history": [
             [
-              "2026-09-10",
-              168
-            ]
-          ]
-        },
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-09-10T21:36:41+00:00",
-          "history": [
-            [
-              "2026-09-10",
+              "2026-09-12",
               168
             ]
           ]
@@ -2116,6 +2202,62 @@
               211.2
             ]
           ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T10:52:31+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T11:00:15+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T11:07:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T11:15:32+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
         }
       ]
     },
@@ -2187,10 +2329,10 @@
           "preco_normal": 319,
           "preco_desconto": 90,
           "preco_final": 229,
-          "atualizado": "2026-09-10T21:33:14+00:00",
+          "atualizado": "2026-09-12T10:52:31+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               229
             ]
           ]
@@ -2442,30 +2584,60 @@
               234
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "81900441",
-      "name": "Base de duche LEGACY 140X70CM BRANCO",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-140x70cm-branco-81900441.html",
-      "dimensao": "140x70",
-      "marca": "ROCA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 248,
-      "prices": [
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T10:52:31+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
         {
           "store": "Gaia (Porto)",
           "region": "Porto",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-10T21:41:49+00:00",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T11:00:15+00:00",
           "history": [
             [
-              "2026-09-10",
-              248
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T11:07:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T11:15:32+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
             ]
           ]
         }
@@ -2491,6 +2663,32 @@
           "history": [
             [
               "2026-09-10",
+              248
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81900441",
+      "name": "Base de duche LEGACY 140X70CM BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-legacy-140x70cm-branco-81900441.html",
+      "dimensao": "140x70",
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 248,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-12T11:00:15+00:00",
+          "history": [
+            [
+              "2026-09-12",
               248
             ]
           ]
@@ -2836,6 +3034,62 @@
               310.8
             ]
           ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T10:52:31+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T11:00:15+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T11:07:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T11:15:32+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
         }
       ]
     },
@@ -2907,10 +3161,10 @@
           "preco_normal": 668,
           "preco_desconto": 0.0,
           "preco_final": 668,
-          "atualizado": "2026-09-10T21:13:05+00:00",
+          "atualizado": "2026-09-12T11:15:32+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               668
             ]
           ]

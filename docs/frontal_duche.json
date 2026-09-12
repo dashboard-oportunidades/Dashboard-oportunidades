@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T10:50:48+00:00",
+  "generated": "2026-09-12T11:21:54+00:00",
   "products": [
     {
       "id": "87870009",
@@ -57,10 +57,10 @@
           "preco_normal": 144,
           "preco_desconto": 16,
           "preco_final": 128,
-          "atualizado": "2026-09-01T14:53:16+00:00",
+          "atualizado": "2026-09-12T11:02:38+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               128
             ]
           ]
@@ -78,20 +78,6 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 164,
-          "preco_desconto": 26,
-          "preco_final": 138,
-          "atualizado": "2026-09-01T14:53:16+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 138,
@@ -104,6 +90,20 @@
               138
             ]
           ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 164,
+          "preco_desconto": 26,
+          "preco_final": 138,
+          "atualizado": "2026-09-12T11:02:38+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              138
+            ]
+          ]
         }
       ]
     },
@@ -112,25 +112,11 @@
       "name": "Porta de duche de batente transparente cromado 80x195 cm Sensea Remix",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-80x195-cm-sensea-remix-82209770.html",
       "dimensao": "80x195",
-      "marca": null,
+      "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 228,
       "prices": [
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
-          "preco_final": 228,
-          "atualizado": "2026-09-01T14:58:17+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              228
-            ]
-          ]
-        },
         {
           "store": "Evora (Evora)",
           "region": "Evora",
@@ -141,6 +127,20 @@
           "history": [
             [
               "2026-09-12",
+              228
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
+          "preco_final": 228,
+          "atualizado": "2026-09-01T14:58:17+00:00",
+          "history": [
+            [
+              "2026-09-01",
               228
             ]
           ]
@@ -220,7 +220,7 @@
       "name": "Porta de duche de batente transparente cromado 90x195 cm Sensea Remix",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-90x195-cm-sensea-remix-82209773.html",
       "dimensao": "90x195",
-      "marca": null,
+      "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 248,
@@ -231,10 +231,10 @@
           "preco_normal": 248,
           "preco_desconto": 0.0,
           "preco_final": 248,
-          "atualizado": "2026-09-01T14:53:16+00:00",
+          "atualizado": "2026-09-12T11:02:38+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               248
             ]
           ]
@@ -349,36 +349,10 @@
           "preco_normal": 268,
           "preco_desconto": 0.0,
           "preco_final": 268,
-          "atualizado": "2026-09-01T14:51:27+00:00",
+          "atualizado": "2026-09-12T11:10:26+00:00",
           "history": [
             [
-              "2026-09-01",
-              268
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82209761",
-      "name": "Porta de duche transparente cromado 140x195 cm Sensea Remix",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-140x195-cm-sensea-remix-82209761.html",
-      "dimensao": "140x195",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 268,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 319,
-          "preco_desconto": 51,
-          "preco_final": 268,
-          "atualizado": "2026-09-01T14:53:16+00:00",
-          "history": [
-            [
-              "2026-09-01",
+              "2026-09-12",
               268
             ]
           ]
@@ -402,6 +376,32 @@
           "preco_desconto": 51,
           "preco_final": 268,
           "atualizado": "2026-09-12T10:07:53+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              268
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209761",
+      "name": "Porta de duche transparente cromado 140x195 cm Sensea Remix",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-140x195-cm-sensea-remix-82209761.html",
+      "dimensao": "140x195",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 268,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 319,
+          "preco_desconto": 51,
+          "preco_final": 268,
+          "atualizado": "2026-09-12T11:02:38+00:00",
           "history": [
             [
               "2026-09-12",
@@ -566,20 +566,6 @@
       "preco_final": 308,
       "prices": [
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 308,
-          "preco_desconto": 0.0,
-          "preco_final": 308,
-          "atualizado": "2026-09-01T14:50:32+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              308
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 369,
@@ -589,6 +575,20 @@
           "history": [
             [
               "2026-09-01",
+              308
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 308,
+          "preco_desconto": 0.0,
+          "preco_final": 308,
+          "atualizado": "2026-09-12T11:18:04+00:00",
+          "history": [
+            [
+              "2026-09-12",
               308
             ]
           ]
@@ -642,6 +642,32 @@
             [
               "2026-09-12",
               348
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242429",
+      "name": "Porta de duche + 2 portas transparente cromado 100x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-100x200-cm-sensea-neo-82242429.html",
+      "dimensao": "100x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 358,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 358,
+          "preco_desconto": 0.0,
+          "preco_final": 358,
+          "atualizado": "2026-09-12T10:23:19+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              358
             ]
           ]
         }
@@ -754,20 +780,6 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 358,
-          "preco_desconto": 0.0,
-          "preco_final": 358,
-          "atualizado": "2026-09-01T14:53:16+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              358
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 436,
@@ -822,26 +834,14 @@
               358
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "82242429",
-      "name": "Porta de duche + 2 portas transparente cromado 100x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-100x200-cm-sensea-neo-82242429.html",
-      "dimensao": "100x200",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 358,
-      "prices": [
+        },
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
           "preco_normal": 358,
           "preco_desconto": 0.0,
           "preco_final": 358,
-          "atualizado": "2026-09-12T10:23:19+00:00",
+          "atualizado": "2026-09-12T11:02:38+00:00",
           "history": [
             [
               "2026-09-12",
@@ -878,32 +878,6 @@
       ]
     },
     {
-      "id": "16954273",
-      "name": "Frontal de duche 87x91 cm cavado de correr",
-      "url": "https://www.leroymerlin.pt/produtos/frontal-de-duche-87x91-cm-cavado-de-correr-16954273.html",
-      "dimensao": "87x91",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 388,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-01T14:53:16+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              388
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82242433",
       "name": "Porta de duche + 2 portas transparente cromado 120x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-120x200-cm-sensea-neo-82242433.html",
@@ -933,10 +907,36 @@
           "preco_normal": 474,
           "preco_desconto": 86,
           "preco_final": 388,
-          "atualizado": "2026-09-01T14:53:16+00:00",
+          "atualizado": "2026-09-12T11:02:38+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
+              388
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16954273",
+      "name": "Frontal de duche 87x91 cm cavado de correr",
+      "url": "https://www.leroymerlin.pt/produtos/frontal-de-duche-87x91-cm-cavado-de-correr-16954273.html",
+      "dimensao": "87x91",
+      "marca": "PERFILGOLD",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 388,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-09-12T11:02:38+00:00",
+          "history": [
+            [
+              "2026-09-12",
               388
             ]
           ]
@@ -1182,58 +1182,6 @@
       ]
     },
     {
-      "id": "82209796",
-      "name": "Cabine de duche SENSEA REMIX (60+60)X80X195CM PRETO",
-      "url": "https://www.leroymerlin.pt/produtos/cabine-de-duche-sensea-remix-60-60-x80x195cm-preto-82209796.html",
-      "dimensao": "80x195",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 448,
-      "prices": [
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 544,
-          "preco_desconto": 96,
-          "preco_final": 448,
-          "atualizado": "2026-09-01T14:50:32+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              448
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82242441",
-      "name": "Porta de duche + 2 portas transparente cromado 160x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-160x200-cm-sensea-neo-82242441.html",
-      "dimensao": "160x200",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 448,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 549,
-          "preco_desconto": 101,
-          "preco_final": 448,
-          "atualizado": "2026-09-01T14:53:16+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              448
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82242454",
       "name": "Porta de duche de batente transparente preto 80x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-80x200-cm-sensea-neo-82242454.html",
@@ -1276,6 +1224,58 @@
           "preco_desconto": 101,
           "preco_final": 448,
           "atualizado": "2026-09-12T08:41:18+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              448
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242441",
+      "name": "Porta de duche + 2 portas transparente cromado 160x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-160x200-cm-sensea-neo-82242441.html",
+      "dimensao": "160x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 448,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 549,
+          "preco_desconto": 101,
+          "preco_final": 448,
+          "atualizado": "2026-09-12T11:02:38+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              448
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209796",
+      "name": "Cabine de duche SENSEA REMIX (60+60)X80X195CM PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/cabine-de-duche-sensea-remix-60-60-x80x195cm-preto-82209796.html",
+      "dimensao": "80x195",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 448,
+      "prices": [
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 544,
+          "preco_desconto": 96,
+          "preco_final": 448,
+          "atualizado": "2026-09-12T11:18:04+00:00",
           "history": [
             [
               "2026-09-12",

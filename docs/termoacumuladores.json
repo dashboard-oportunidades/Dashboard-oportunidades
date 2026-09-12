@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T10:50:48+00:00",
+  "generated": "2026-09-12T11:21:54+00:00",
   "products": [
     {
       "id": "82005354",
@@ -76,20 +76,6 @@
               158
             ]
           ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 158,
-          "preco_desconto": 0.0,
-          "preco_final": 158,
-          "atualizado": "2026-09-01T13:02:51+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              158
-            ]
-          ]
         }
       ]
     },
@@ -124,7 +110,7 @@
       "name": "Termoacumulador HTW SMART PLUS WIFI 80L",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-plus-wifi-80l-84434192.html",
       "dimensao": "80L",
-      "marca": null,
+      "marca": "HTW",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 189.05,
@@ -135,10 +121,10 @@
           "preco_normal": 259,
           "preco_desconto": 69.95,
           "preco_final": 189.05,
-          "atualizado": "2026-09-01T13:02:51+00:00",
+          "atualizado": "2026-09-12T11:21:54+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               189.05
             ]
           ]
@@ -340,6 +326,20 @@
               328
             ]
           ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 405,
+          "preco_desconto": 77,
+          "preco_final": 328,
+          "atualizado": "2026-09-12T11:21:54+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              328
+            ]
+          ]
         }
       ]
     },
@@ -408,20 +408,6 @@
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 469,
-          "preco_desconto": 81,
-          "preco_final": 388,
-          "atualizado": "2026-09-01T13:11:09+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 469,
@@ -431,6 +417,20 @@
           "history": [
             [
               "2026-09-12",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 469,
+          "preco_desconto": 81,
+          "preco_final": 388,
+          "atualizado": "2026-09-01T13:11:09+00:00",
+          "history": [
+            [
+              "2026-09-01",
               388
             ]
           ]
