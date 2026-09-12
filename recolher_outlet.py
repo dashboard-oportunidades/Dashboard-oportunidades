@@ -96,6 +96,17 @@ CATEGORIAS = {
         "state_file": "outlet_state_coluna_duche.json",
         "out_file": "docs/coluna_duche.json",
     },
+    "multisplit": {
+        "label": "Ar Condicionado Multisplit",
+        "url": (
+            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
+            "?filters=%7B%22breadcrumb-1-label%22%3A%22Aquecimento%2520e%2520Climatiza"
+            "%25C3%25A7%25C3%25A3o%22%2C%22attribute-22088%22%3A%22Pack%2520ar%2520condicionado"
+            "%2520Multisplit%22%7D"
+        ),
+        "state_file": "outlet_state_multisplit.json",
+        "out_file": "docs/multisplit.json",
+    },
 }
 
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
