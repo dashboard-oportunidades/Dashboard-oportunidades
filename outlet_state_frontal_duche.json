@@ -12,10 +12,10 @@
     "Braga (Braga)": "2026-09-12T09:28:24+00:00",
     "Braganca (Braganca)": "2026-09-12T09:36:21+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-12T09:44:39+00:00",
-    "Carcavelos (Lisboa)": "2026-09-01T14:08:37+00:00",
-    "Cascais (Lisboa)": "2026-09-01T14:07:54+00:00",
-    "Castelo Branco (Castelo Branco)": "2026-09-01T14:25:01+00:00",
-    "Chaves (Vila Real)": "2026-09-01T14:35:18+00:00",
+    "Carcavelos (Lisboa)": "2026-09-12T09:52:37+00:00",
+    "Cascais (Lisboa)": "2026-09-12T10:00:14+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-12T10:07:53+00:00",
+    "Chaves (Vila Real)": "2026-09-12T10:15:33+00:00",
     "Coimbra (Coimbra)": "2026-09-01T14:31:51+00:00",
     "Colombo (Lisboa)": "2026-09-01T15:06:55+00:00",
     "Covilha (Castelo Branco)": "2026-09-01T14:26:43+00:00",
@@ -534,20 +534,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-90x195-cm-sensea-remix-82209773.html"
     },
     "82209785@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-01T14:25:01+00:00",
+      "atualizado": "2026-09-12T10:07:53+00:00",
       "dimensao": "90x195",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           268
         ]
       ],
       "id": "82209785",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Porta de duche transparente cromado 90x195 cm Sensea Remix Saloon",
       "preco_desconto": 51,
       "preco_final": 268,
       "preco_normal": 319,
       "region": "Castelo Branco",
+      "retificado": false,
       "store": "Castelo Branco (Castelo Branco)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-90x195-cm-sensea-remix-saloon-82209785.html"
     },
@@ -858,20 +861,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-100x200-cm-sensea-neo-82242462.html"
     },
     "82242470@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-01T14:25:01+00:00",
+      "atualizado": "2026-09-12T10:07:53+00:00",
       "dimensao": "140x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           518
         ]
       ],
       "id": "82242470",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Porta de duche de batente transparente preto 140x200 cm Sensea Neo",
       "preco_desconto": 121,
       "preco_final": 518,
       "preco_normal": 639,
       "region": "Castelo Branco",
+      "retificado": false,
       "store": "Castelo Branco (Castelo Branco)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-140x200-cm-sensea-neo-82242470.html"
     },
@@ -1296,40 +1302,25 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-150x200-cm-preto-transparente-roca-apolo-87274339.html"
     },
     "87870009@Cascais (Lisboa)": {
-      "atualizado": "2026-09-01T14:07:54+00:00",
+      "atualizado": "2026-09-12T10:00:14+00:00",
       "dimensao": "100x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           119.99
         ]
       ],
       "id": "87870009",
+      "m2_caixa": null,
+      "marca": "ITALBOX",
       "name": "Porta de duche 100x200 cm transparente Italbox Leci A",
       "preco_desconto": 109.01,
       "preco_final": 119.99,
       "preco_normal": 229,
       "region": "Lisboa",
+      "retificado": false,
       "store": "Cascais (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-e-painel-para-cabine-100cm-transparente-cromado-leci-a-87870009.html"
-    },
-    "87870113@Cascais (Lisboa)": {
-      "atualizado": "2026-09-01T14:07:54+00:00",
-      "dimensao": "90x200",
-      "history": [
-        [
-          "2026-09-01",
-          119.99
-        ]
-      ],
-      "id": "87870113",
-      "name": "Porta de duche 90x200 cm transparente Produto sem perfil Italbox Leci A",
-      "preco_desconto": 109.01,
-      "preco_final": 119.99,
-      "preco_normal": 229,
-      "region": "Lisboa",
-      "store": "Cascais (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-e-painel-para-cabine-90cm-transparente-cromado-leci-a-87870113.html"
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-100x200-cm-transparente-italbox-leci-a-87870009.html"
     },
     "89153200@Almada (Setubal)": {
       "atualizado": "2026-09-01T14:19:38+00:00",

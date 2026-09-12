@@ -12,10 +12,10 @@
     "Braga (Braga)": "2026-09-12T09:32:26+00:00",
     "Braganca (Braganca)": "2026-09-12T09:40:40+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-12T09:48:32+00:00",
-    "Carcavelos (Lisboa)": "2026-09-01T12:41:07+00:00",
-    "Cascais (Lisboa)": "2026-09-01T12:42:43+00:00",
-    "Castelo Branco (Castelo Branco)": "2026-09-01T12:44:21+00:00",
-    "Chaves (Vila Real)": "2026-09-01T12:46:00+00:00",
+    "Carcavelos (Lisboa)": "2026-09-12T09:56:17+00:00",
+    "Cascais (Lisboa)": "2026-09-12T10:04:00+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-12T10:11:37+00:00",
+    "Chaves (Vila Real)": "2026-09-12T10:19:09+00:00",
     "Coimbra (Coimbra)": "2026-09-01T12:47:45+00:00",
     "Colombo (Lisboa)": "2026-09-01T12:51:06+00:00",
     "Covilha (Castelo Branco)": "2026-09-01T12:52:51+00:00",
@@ -255,20 +255,23 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html"
     },
     "82005350@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-01T12:44:21+00:00",
+      "atualizado": "2026-09-12T10:11:37+00:00",
       "dimensao": "50L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           158
         ]
       ],
       "id": "82005350",
+      "m2_caixa": null,
+      "marca": "EQUATION",
       "name": "Termoacumulador EQUATION Q2 50L",
       "preco_desconto": 0.0,
       "preco_final": 158,
       "preco_normal": 158,
       "region": "Castelo Branco",
+      "retificado": false,
       "store": "Castelo Branco (Castelo Branco)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-50l-82005350.html"
     },
@@ -309,20 +312,23 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-100l-82005354.html"
     },
     "82246625@Chaves (Vila Real)": {
-      "atualizado": "2026-09-01T12:46:00+00:00",
+      "atualizado": "2026-09-12T10:19:09+00:00",
       "dimensao": "150L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           328
         ]
       ],
       "id": "82246625",
+      "m2_caixa": null,
+      "marca": "EQUATION",
       "name": "Termoacumulador EQUATION Q2 150L",
       "preco_desconto": 77,
       "preco_final": 328,
       "preco_normal": 405,
       "region": "Vila Real",
+      "retificado": false,
       "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-150l-82246625.html"
     },

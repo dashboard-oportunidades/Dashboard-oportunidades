@@ -1,12 +1,12 @@
 {
-  "generated": "2026-09-12T09:48:32+00:00",
+  "generated": "2026-09-12T10:19:10+00:00",
   "products": [
     {
       "id": "87870009",
       "name": "Porta de duche 100x200 cm transparente Italbox Leci A",
-      "url": "https://www.leroymerlin.pt/produtos/porta-e-painel-para-cabine-100cm-transparente-cromado-leci-a-87870009.html",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-100x200-cm-transparente-italbox-leci-a-87870009.html",
       "dimensao": "100x200",
-      "marca": null,
+      "marca": "ITALBOX",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 119.99,
@@ -17,36 +17,10 @@
           "preco_normal": 229,
           "preco_desconto": 109.01,
           "preco_final": 119.99,
-          "atualizado": "2026-09-01T14:07:54+00:00",
+          "atualizado": "2026-09-12T10:00:14+00:00",
           "history": [
             [
-              "2026-09-01",
-              119.99
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "87870113",
-      "name": "Porta de duche 90x200 cm transparente Produto sem perfil Italbox Leci A",
-      "url": "https://www.leroymerlin.pt/produtos/porta-e-painel-para-cabine-90cm-transparente-cromado-leci-a-87870113.html",
-      "dimensao": "90x200",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 119.99,
-      "prices": [
-        {
-          "store": "Cascais (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 229,
-          "preco_desconto": 109.01,
-          "preco_final": 119.99,
-          "atualizado": "2026-09-01T14:07:54+00:00",
-          "history": [
-            [
-              "2026-09-01",
+              "2026-09-12",
               119.99
             ]
           ]
@@ -430,7 +404,7 @@
       "name": "Porta de duche transparente cromado 90x195 cm Sensea Remix Saloon",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-90x195-cm-sensea-remix-saloon-82209785.html",
       "dimensao": "90x195",
-      "marca": null,
+      "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 268,
@@ -441,10 +415,10 @@
           "preco_normal": 319,
           "preco_desconto": 51,
           "preco_final": 268,
-          "atualizado": "2026-09-01T14:25:01+00:00",
+          "atualizado": "2026-09-12T10:07:53+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               268
             ]
           ]
@@ -714,6 +688,32 @@
       ]
     },
     {
+      "id": "82456171",
+      "name": "Portas de duche BILBAO 180CM 2 PORTAS DE CORRER CROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-bilbao-180cm-2-portas-de-correr-cromado-82456171.html",
+      "dimensao": null,
+      "marca": "SANYCCES",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 358,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 399.98,
+          "preco_desconto": 41.98,
+          "preco_final": 358,
+          "atualizado": "2026-09-12T09:36:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              358
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "87274291",
       "name": "Porta de duche 2 folhas 120x200 cm cromado transparente Roca Apolo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html",
@@ -772,6 +772,20 @@
           "preco_desconto": 78,
           "preco_final": 358,
           "atualizado": "2026-09-12T09:04:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-12T09:28:24+00:00",
           "history": [
             [
               "2026-09-12",
@@ -845,46 +859,6 @@
           "history": [
             [
               "2026-09-01",
-              358
-            ]
-          ]
-        },
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-09-12T09:28:24+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              358
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82456171",
-      "name": "Portas de duche BILBAO 180CM 2 PORTAS DE CORRER CROMADO",
-      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-bilbao-180cm-2-portas-de-correr-cromado-82456171.html",
-      "dimensao": null,
-      "marca": "SANYCCES",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 358,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 399.98,
-          "preco_desconto": 41.98,
-          "preco_final": 358,
-          "atualizado": "2026-09-12T09:36:21+00:00",
-          "history": [
-            [
-              "2026-09-12",
               358
             ]
           ]
@@ -1074,6 +1048,20 @@
           ]
         },
         {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 509,
+          "preco_desconto": 91,
+          "preco_final": 418,
+          "atualizado": "2026-09-12T09:28:24+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              418
+            ]
+          ]
+        },
+        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 418,
@@ -1097,20 +1085,6 @@
           "history": [
             [
               "2026-09-01",
-              418
-            ]
-          ]
-        },
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 509,
-          "preco_desconto": 91,
-          "preco_final": 418,
-          "atualizado": "2026-09-12T09:28:24+00:00",
-          "history": [
-            [
-              "2026-09-12",
               418
             ]
           ]
@@ -1352,32 +1326,6 @@
       ]
     },
     {
-      "id": "89153200",
-      "name": "Portas de duche 130x200 transparente preto Neo",
-      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-130x200-transparente-preto-neo-89153200.html",
-      "dimensao": "130x200",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 468,
-      "prices": [
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 579,
-          "preco_desconto": 111,
-          "preco_final": 468,
-          "atualizado": "2026-09-01T14:19:38+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              468
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82242462",
       "name": "Porta de duche de batente transparente preto 100x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-100x200-cm-sensea-neo-82242462.html",
@@ -1404,11 +1352,37 @@
       ]
     },
     {
+      "id": "89153200",
+      "name": "Portas de duche 130x200 transparente preto Neo",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-130x200-transparente-preto-neo-89153200.html",
+      "dimensao": "130x200",
+      "marca": null,
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 468,
+      "prices": [
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 579,
+          "preco_desconto": 111,
+          "preco_final": 468,
+          "atualizado": "2026-09-01T14:19:38+00:00",
+          "history": [
+            [
+              "2026-09-01",
+              468
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82242470",
       "name": "Porta de duche de batente transparente preto 140x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-140x200-cm-sensea-neo-82242470.html",
       "dimensao": "140x200",
-      "marca": null,
+      "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 518,
@@ -1419,10 +1393,10 @@
           "preco_normal": 639,
           "preco_desconto": 121,
           "preco_final": 518,
-          "atualizado": "2026-09-01T14:25:01+00:00",
+          "atualizado": "2026-09-12T10:07:53+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               518
             ]
           ]
