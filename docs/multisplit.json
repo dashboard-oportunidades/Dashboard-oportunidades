@@ -1,6 +1,32 @@
 {
-  "generated": "2026-09-12T15:14:34+00:00",
+  "generated": "2026-09-12T15:26:41+00:00",
   "products": [
+    {
+      "id": "82143647",
+      "name": "Ar condicionado fixo (2X1) ELUXE 9000 + 9000BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-eluxe-9000-9000btu-82143647.html",
+      "dimensao": "9000 BTU",
+      "marca": "ELUXE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 558,
+      "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 558,
+          "preco_desconto": 0.0,
+          "preco_final": 558,
+          "atualizado": "2026-09-12T15:26:40+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              558
+            ]
+          ]
+        }
+      ]
+    },
     {
       "id": "92041665",
       "name": "Ar condicionado ARISTON ALYS MULTI-SPLIT 9000+12000 BTU",
@@ -11,20 +37,6 @@
       "m2_caixa": null,
       "preco_final": 1008,
       "prices": [
-        {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1249,
-          "preco_desconto": 241,
-          "preco_final": 1008,
-          "atualizado": "2026-09-12T15:06:36+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              1008
-            ]
-          ]
-        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -46,6 +58,34 @@
           "preco_desconto": 241,
           "preco_final": 1008,
           "atualizado": "2026-09-12T15:14:34+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1008
+            ]
+          ]
+        },
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1249,
+          "preco_desconto": 241,
+          "preco_final": 1008,
+          "atualizado": "2026-09-12T15:06:36+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1008
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1008,
+          "preco_desconto": 0.0,
+          "preco_final": 1008,
+          "atualizado": "2026-09-12T15:16:20+00:00",
           "history": [
             [
               "2026-09-12",
@@ -142,6 +182,58 @@
             [
               "2026-09-12",
               1628
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88293343",
+      "name": "Ar condicionado fixo (3x1) SAMSUNG COMFORT AJ080 9000 + 9000 + 12000BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-samsung-comfort-aj080-9000-9000-12000btu-88293343.html",
+      "dimensao": "12000 BTU",
+      "marca": "SAMSUNG",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 2608,
+      "prices": [
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 2608,
+          "preco_desconto": 0.0,
+          "preco_final": 2608,
+          "atualizado": "2026-09-12T15:16:20+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              2608
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84622739",
+      "name": "Ar condicionado fixo (5X1) HISENSE COMFORT 4X9000BTU + 18000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-5x1-hisense-comfort-4x9000btu-18000-btu-84622739.html",
+      "dimensao": "9000 BTU",
+      "marca": "HISENSE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 3128,
+      "prices": [
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 3128,
+          "preco_desconto": 0.0,
+          "preco_final": 3128,
+          "atualizado": "2026-09-12T15:16:20+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              3128
             ]
           ]
         }

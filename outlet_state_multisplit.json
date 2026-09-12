@@ -1,15 +1,44 @@
 {
   "lojas": {
+    "Albufeira (Faro)": "2026-09-12T15:26:40+00:00",
     "Alfragide (Lisboa)": "2026-09-12T15:08:05+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-12T15:05:07+00:00",
+    "Alverca (Lisboa)": "2026-09-12T15:23:43+00:00",
     "Amadora (Lisboa)": "2026-09-12T15:14:34+00:00",
+    "Carcavelos (Lisboa)": "2026-09-12T15:19:18+00:00",
+    "Cascais (Lisboa)": "2026-09-12T15:17:50+00:00",
     "Colombo (Lisboa)": "2026-09-12T15:06:36+00:00",
+    "Loule (Faro)": "2026-09-12T15:25:11+00:00",
     "Loures (Lisboa)": "2026-09-12T15:12:34+00:00",
+    "Mafra (Lisboa)": "2026-09-12T15:20:47+00:00",
     "Oeiras (Lisboa)": "2026-09-12T15:11:03+00:00",
     "Sacavem (Lisboa)": "2026-09-12T15:09:34+00:00",
-    "Telheiras (Lisboa)": "2026-09-12T15:14:03+00:00"
+    "Sintra (Lisboa)": "2026-09-12T15:16:20+00:00",
+    "Telheiras (Lisboa)": "2026-09-12T15:14:03+00:00",
+    "Torres Vedras (Lisboa)": "2026-09-12T15:22:15+00:00"
   },
   "products": {
+    "82143647@Albufeira (Faro)": {
+      "atualizado": "2026-09-12T15:26:40+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          558
+        ]
+      ],
+      "id": "82143647",
+      "m2_caixa": null,
+      "marca": "ELUXE",
+      "name": "Ar condicionado fixo (2X1) ELUXE 9000 + 9000BTU",
+      "preco_desconto": 0.0,
+      "preco_final": 558,
+      "preco_normal": 558,
+      "region": "Faro",
+      "retificado": false,
+      "store": "Albufeira (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-eluxe-9000-9000btu-82143647.html"
+    },
     "83791813@Oeiras (Lisboa)": {
       "atualizado": "2026-09-12T15:11:03+00:00",
       "dimensao": "9000 BTU",
@@ -52,6 +81,27 @@
       "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html"
     },
+    "84622739@Sintra (Lisboa)": {
+      "atualizado": "2026-09-12T15:16:20+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          3128
+        ]
+      ],
+      "id": "84622739",
+      "m2_caixa": null,
+      "marca": "HISENSE",
+      "name": "Ar condicionado fixo (5X1) HISENSE COMFORT 4X9000BTU + 18000 BTU",
+      "preco_desconto": 0.0,
+      "preco_final": 3128,
+      "preco_normal": 3128,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sintra (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-5x1-hisense-comfort-4x9000btu-18000-btu-84622739.html"
+    },
     "87694849@Alfragide (Lisboa)": {
       "atualizado": "2026-09-12T15:08:05+00:00",
       "dimensao": "12000 BTU",
@@ -93,6 +143,27 @@
       "retificado": false,
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-2x9000-12000-btu-ariston-alys-87694849.html"
+    },
+    "88293343@Sintra (Lisboa)": {
+      "atualizado": "2026-09-12T15:16:20+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          2608
+        ]
+      ],
+      "id": "88293343",
+      "m2_caixa": null,
+      "marca": "SAMSUNG",
+      "name": "Ar condicionado fixo (3x1) SAMSUNG COMFORT AJ080 9000 + 9000 + 12000BTU",
+      "preco_desconto": 0.0,
+      "preco_final": 2608,
+      "preco_normal": 2608,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sintra (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-samsung-comfort-aj080-9000-9000-12000btu-88293343.html"
     },
     "92041665@Alfragide (Lisboa)": {
       "atualizado": "2026-09-12T15:08:05+00:00",
@@ -155,6 +226,27 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Colombo (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
+    },
+    "92041665@Sintra (Lisboa)": {
+      "atualizado": "2026-09-12T15:16:20+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1008
+        ]
+      ],
+      "id": "92041665",
+      "m2_caixa": null,
+      "marca": "ARISTON",
+      "name": "Ar condicionado ARISTON ALYS MULTI-SPLIT 9000+12000 BTU",
+      "preco_desconto": 0.0,
+      "preco_final": 1008,
+      "preco_normal": 1008,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
     }
   }
