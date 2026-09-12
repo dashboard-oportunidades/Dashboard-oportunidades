@@ -288,17 +288,6 @@ def save_state(state: dict, state_file: Path) -> None:
     )
 
 
-def ordenar_por_antiguidade(stores: list[dict], state: dict) -> list[dict]:
-    """Poe primeiro as lojas nunca visitadas ou visitadas ha mais tempo, para
-    uma corrida interrompida nao ficar sempre a falhar nas mesmas do fim."""
-    visitas = state.get("lojas", {})
-
-    def chave(store: dict) -> str:
-        return visitas.get(store_label(store), "")  # "" ordena primeiro
-
-    return sorted(stores, key=chave)
-
-
 def update_store_in_state(state: dict, store_label: str, region: str, products: dict[str, dict]) -> None:
     """So mexe nas entradas desta loja -- as outras lojas ficam como estavam,
     mesmo que esta corrida tenha parado antes de as visitar."""
@@ -383,26 +372,41 @@ def export_outlet_json(state: dict, out_file: Path) -> int:
     return len(products)
 
 
+def ordenar_por_antiguidade_multi(stores: list[dict], states: list[dict]) -> list[dict]:
+    """Poe primeiro as lojas nunca visitadas ou visitadas ha mais tempo (pior
+    caso entre as categorias pedidas) -- uma loja fica prioritaria se estiver
+    desatualizada em QUALQUER uma delas, mesmo que esteja em dia nas outras."""
+    def chave(store: dict) -> str:
+        label = store_label(store)
+        timestamps = [s.get("lojas", {}).get(label, "") for s in states]
+        return min(timestamps) if timestamps else ""
+
+    return sorted(stores, key=chave)
+
+
 def main() -> int:
-    categoria_slug = "base-duche"
-    if "--categoria" in sys.argv:
-        categoria_slug = sys.argv[sys.argv.index("--categoria") + 1]
-    if categoria_slug not in CATEGORIAS:
-        sys.exit(f"Categoria '{categoria_slug}' desconhecida. Opcoes: {sorted(CATEGORIAS)}")
-    categoria = CATEGORIAS[categoria_slug]
-    outlet_url = categoria["url"]
-    state_file = ROOT / categoria["state_file"]
-    out_file = ROOT / categoria["out_file"]
-    print(f"Categoria: {categoria['label']} ({categoria_slug})")
+    categoria_slugs: list[str]
+    if "--categorias" in sys.argv:
+        valor = sys.argv[sys.argv.index("--categorias") + 1]
+        categoria_slugs = sorted(CATEGORIAS) if valor == "todas" else valor.split(",")
+    elif "--categoria" in sys.argv:
+        categoria_slugs = [sys.argv[sys.argv.index("--categoria") + 1]]
+    else:
+        categoria_slugs = ["base-duche"]
+
+    for slug in categoria_slugs:
+        if slug not in CATEGORIAS:
+            sys.exit(f"Categoria '{slug}' desconhecida. Opcoes: {sorted(CATEGORIAS)}")
+    print("Categorias: " + ", ".join(f"{CATEGORIAS[s]['label']} ({s})" for s in categoria_slugs))
 
     cfg = json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
     stores = [s for s in cfg["stores"] if s.get("cookies")]
     if not stores:
         sys.exit("Nenhuma loja com cookies em config.json.")
 
-    state = load_state(state_file)
-    stores = ordenar_por_antiguidade(stores, state)
-    m2_cache = load_m2_cache() if categoria_slug == "pavimentos" else {}
+    states = {slug: load_state(ROOT / CATEGORIAS[slug]["state_file"]) for slug in categoria_slugs}
+    stores = ordenar_por_antiguidade_multi(stores, list(states.values()))
+    m2_cache = load_m2_cache() if "pavimentos" in categoria_slugs else {}
 
     if "--limit" in sys.argv:
         n = int(sys.argv[sys.argv.index("--limit") + 1])
@@ -427,57 +431,69 @@ def main() -> int:
                 # o cookie 'store' so aceita ser injetado numa sessao que
                 # nunca teve loja nenhuma escolhida (fica HttpOnly a partir
                 # da primeira navegacao real, e um contexto reaproveitado
-                # entre lojas fica preso na primeira que visitou).
+                # entre lojas fica preso na primeira que visitou). Todas as
+                # categorias desta loja sao feitas dentro do MESMO contexto,
+                # que e mais eficiente do que abrir um contexto por categoria.
                 context = browser.new_context(user_agent=USER_AGENT, locale="pt-PT")
                 page = context.new_page()
                 try:
                     set_store_cookies(context, store)
-                    print(f"> Loja: {label}")
-                    page.goto(outlet_url, wait_until="domcontentloaded", timeout=60000)
-                    page.wait_for_timeout(2000)
-
-                    if page.locator("#onetrust-accept-btn-handler").count() > 0:
-                        print("\n>>> Aparece o banner de cookies -- clica em 'Aceitar' na janela do browser.\n")
-                        try:
-                            page.locator("#onetrust-accept-btn-handler").wait_for(state="hidden", timeout=60000)
-                        except Exception:
-                            pass
-
-                    if is_captcha(page.content()):
-                        if not wait_for_human(page):
-                            print(f"  ! {label}: desisti de esperar pelo CAPTCHA -- "
-                                  f"fica para a proxima corrida.", file=sys.stderr)
-                            continue
+                    loja_ok = True
+                    for j, slug in enumerate(categoria_slugs):
+                        if j > 0:
+                            time.sleep(random.uniform(8, 15))
+                        categoria = CATEGORIAS[slug]
+                        outlet_url = categoria["url"]
+                        print(f"> Loja: {label} -- {categoria['label']}")
                         page.goto(outlet_url, wait_until="domcontentloaded", timeout=60000)
                         page.wait_for_timeout(2000)
 
-                    html = page.content()
-                    products = parse_listing(html)
-                    print(f"  {len(products)} produtos")
-
-                    if categoria_slug == "pavimentos":
-                        novos = [pid for pid in products if pid not in m2_cache]
-                        if novos:
-                            print(f"  a ir buscar m2/caixa a {len(novos)} produtos novos...")
-                        for pid in novos:
+                        if page.locator("#onetrust-accept-btn-handler").count() > 0:
+                            print("\n>>> Aparece o banner de cookies -- clica em 'Aceitar' na janela do browser.\n")
                             try:
-                                page.goto(products[pid]["url"], wait_until="domcontentloaded", timeout=30000)
-                                page.wait_for_timeout(1200)
-                                valor = obter_m2_por_caixa(page.content())
-                                if valor:
-                                    m2_cache[pid] = valor
-                                    save_m2_cache(m2_cache)
+                                page.locator("#onetrust-accept-btn-handler").wait_for(state="hidden", timeout=60000)
                             except Exception:
                                 pass
-                            time.sleep(random.uniform(4, 8))
-                        for pid, data in products.items():
-                            data["m2_caixa"] = m2_cache.get(pid)
 
-                    # Visita valida mesmo com 0 produtos -- pode ser mesmo que
-                    # esta loja nao tenha outlet de bases de duche agora.
-                    update_store_in_state(state, label, store.get("region", ""), products)
-                    save_state(state, state_file)
-                    visitadas += 1
+                        if is_captcha(page.content()):
+                            if not wait_for_human(page):
+                                print(f"  ! {label} ({categoria['label']}): desisti de esperar pelo CAPTCHA -- "
+                                      f"fica para a proxima corrida.", file=sys.stderr)
+                                loja_ok = False
+                                continue
+                            page.goto(outlet_url, wait_until="domcontentloaded", timeout=60000)
+                            page.wait_for_timeout(2000)
+
+                        html = page.content()
+                        products = parse_listing(html)
+                        print(f"  {len(products)} produtos")
+
+                        if slug == "pavimentos":
+                            novos = [pid for pid in products if pid not in m2_cache]
+                            if novos:
+                                print(f"  a ir buscar m2/caixa a {len(novos)} produtos novos...")
+                            for pid in novos:
+                                try:
+                                    page.goto(products[pid]["url"], wait_until="domcontentloaded", timeout=30000)
+                                    page.wait_for_timeout(1200)
+                                    valor = obter_m2_por_caixa(page.content())
+                                    if valor:
+                                        m2_cache[pid] = valor
+                                        save_m2_cache(m2_cache)
+                                except Exception:
+                                    pass
+                                time.sleep(random.uniform(4, 8))
+                            for pid, data in products.items():
+                                data["m2_caixa"] = m2_cache.get(pid)
+
+                        # Visita valida mesmo com 0 produtos -- pode ser mesmo que
+                        # esta loja nao tenha outlet desta categoria agora.
+                        state = states[slug]
+                        update_store_in_state(state, label, store.get("region", ""), products)
+                        save_state(state, ROOT / categoria["state_file"])
+
+                    if loja_ok:
+                        visitadas += 1
                 finally:
                     context.close()
         except BlockedError as exc:
@@ -489,9 +505,9 @@ def main() -> int:
             except Exception:
                 pass
 
-    export_outlet_json(state, out_file)
-    print(f"{visitadas}/{len(stores)} lojas visitadas nesta corrida "
-          f"({len(state.get('lojas', {}))} no total ja alguma vez visitadas).")
+    for slug in categoria_slugs:
+        export_outlet_json(states[slug], ROOT / CATEGORIAS[slug]["out_file"])
+    print(f"{visitadas}/{len(stores)} lojas visitadas nesta corrida (todas as categorias pedidas).")
     if blocked or visitadas < len(stores):
         print("Ficaram lojas por visitar -- a proxima corrida comeca por elas.")
         return 1
