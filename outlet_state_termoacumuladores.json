@@ -31,10 +31,10 @@
     "Mafra (Lisboa)": "2026-09-01T13:46:11+00:00",
     "Maia (Porto)": "2026-09-01T13:44:38+00:00",
     "Matosinhos (Porto)": "2026-09-01T13:42:52+00:00",
-    "Montijo (Setubal)": "2026-09-01T13:12:56+00:00",
-    "Oeiras (Lisboa)": "2026-09-01T13:14:37+00:00",
-    "Penafiel (Porto)": "2026-09-01T13:16:20+00:00",
-    "Portimao (Faro)": "2026-09-01T13:18:05+00:00",
+    "Montijo (Setubal)": "2026-09-12T12:00:53+00:00",
+    "Oeiras (Lisboa)": "2026-09-12T12:08:30+00:00",
+    "Penafiel (Porto)": "2026-09-12T12:16:13+00:00",
+    "Portimao (Faro)": "2026-09-12T12:23:52+00:00",
     "Sacavem (Lisboa)": "2026-09-01T13:21:07+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-01T13:22:55+00:00",
     "Santarem (Santarem)": "2026-09-01T13:24:35+00:00",
@@ -108,20 +108,23 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
     "81940803@Montijo (Setubal)": {
-      "atualizado": "2026-09-01T13:12:56+00:00",
+      "atualizado": "2026-09-12T12:00:53+00:00",
       "dimensao": "60L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           298
         ]
       ],
       "id": "81940803",
+      "m2_caixa": null,
+      "marca": null,
       "name": "Termoacumulador indimante inox tel1500w v/h 60l",
       "preco_desconto": 151,
       "preco_final": 298,
       "preco_normal": 449,
       "region": "Setubal",
+      "retificado": false,
       "store": "Montijo (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },

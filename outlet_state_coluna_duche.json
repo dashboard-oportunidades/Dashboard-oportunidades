@@ -31,10 +31,10 @@
     "Mafra (Lisboa)": "2026-09-06T18:42:47+00:00",
     "Maia (Porto)": "2026-09-06T20:29:52+00:00",
     "Matosinhos (Porto)": "2026-09-06T20:28:12+00:00",
-    "Montijo (Setubal)": "2026-09-06T19:54:03+00:00",
-    "Oeiras (Lisboa)": "2026-09-06T18:30:58+00:00",
-    "Penafiel (Porto)": "2026-09-06T20:26:21+00:00",
-    "Portimao (Faro)": "2026-09-06T19:50:52+00:00",
+    "Montijo (Setubal)": "2026-09-12T11:56:02+00:00",
+    "Oeiras (Lisboa)": "2026-09-12T12:03:34+00:00",
+    "Penafiel (Porto)": "2026-09-12T12:11:15+00:00",
+    "Portimao (Faro)": "2026-09-12T12:18:53+00:00",
     "Sacavem (Lisboa)": "2026-09-06T18:29:17+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-06T20:19:45+00:00",
     "Santarem (Santarem)": "2026-09-06T20:02:06+00:00",
@@ -90,11 +90,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-nerea-17364851.html"
     },
     "17364851@Oeiras (Lisboa)": {
-      "atualizado": "2026-09-06T18:30:58+00:00",
+      "atualizado": "2026-09-12T12:03:34+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           87.98
         ]
       ],
@@ -656,12 +656,96 @@
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
-    "81882134@Penafiel (Porto)": {
-      "atualizado": "2026-09-06T20:26:21+00:00",
+    "81882097@Montijo (Setubal)": {
+      "atualizado": "2026-09-12T11:56:02+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Montijo (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Oeiras (Lisboa)": {
+      "atualizado": "2026-09-12T12:03:34+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Penafiel (Porto)": {
+      "atualizado": "2026-09-12T12:11:15+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Portimao (Faro)": {
+      "atualizado": "2026-09-12T12:18:53+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Faro",
+      "retificado": false,
+      "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882134@Penafiel (Porto)": {
+      "atualizado": "2026-09-12T12:11:15+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
           135.97
         ]
       ],
@@ -1098,11 +1182,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-start-clova-210-cromada-82559325.html"
     },
     "82559325@Portimao (Faro)": {
-      "atualizado": "2026-09-06T19:50:52+00:00",
+      "atualizado": "2026-09-12T12:18:53+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           288
         ]
       ],
@@ -1560,11 +1644,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
     },
     "86523842@Oeiras (Lisboa)": {
-      "atualizado": "2026-09-06T18:30:58+00:00",
+      "atualizado": "2026-09-12T12:03:34+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           468
         ]
       ],
@@ -1581,11 +1665,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
     },
     "86523842@Penafiel (Porto)": {
-      "atualizado": "2026-09-06T20:26:21+00:00",
+      "atualizado": "2026-09-12T12:11:15+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           338
         ]
       ],
@@ -1875,11 +1959,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Montijo (Setubal)": {
-      "atualizado": "2026-09-06T19:54:03+00:00",
+      "atualizado": "2026-09-12T11:56:02+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           388
         ]
       ],
@@ -1896,11 +1980,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Penafiel (Porto)": {
-      "atualizado": "2026-09-06T20:26:21+00:00",
+      "atualizado": "2026-09-12T12:11:15+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           358
         ]
       ],
@@ -1917,11 +2001,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Portimao (Faro)": {
-      "atualizado": "2026-09-06T19:50:52+00:00",
+      "atualizado": "2026-09-12T12:18:53+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           388
         ]
       ],
@@ -2337,11 +2421,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html"
     },
     "91776117@Penafiel (Porto)": {
-      "atualizado": "2026-09-06T20:26:21+00:00",
+      "atualizado": "2026-09-12T12:11:15+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           128
         ]
       ],

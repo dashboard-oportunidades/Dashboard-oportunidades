@@ -31,10 +31,10 @@
     "Mafra (Lisboa)": "2026-09-01T14:09:19+00:00",
     "Maia (Porto)": "2026-09-01T14:58:17+00:00",
     "Matosinhos (Porto)": "2026-09-01T14:56:38+00:00",
-    "Montijo (Setubal)": "2026-09-01T14:21:37+00:00",
-    "Oeiras (Lisboa)": "2026-09-01T13:52:12+00:00",
-    "Penafiel (Porto)": "2026-09-01T14:54:56+00:00",
-    "Portimao (Faro)": "2026-09-01T14:17:05+00:00",
+    "Montijo (Setubal)": "2026-09-12T11:57:20+00:00",
+    "Oeiras (Lisboa)": "2026-09-12T12:04:51+00:00",
+    "Penafiel (Porto)": "2026-09-12T12:12:30+00:00",
+    "Portimao (Faro)": "2026-09-12T12:20:09+00:00",
     "Sacavem (Lisboa)": "2026-09-01T13:50:30+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-01T14:48:57+00:00",
     "Santarem (Santarem)": "2026-09-01T14:30:09+00:00",
@@ -495,20 +495,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-serigrafada-cromado-80x195-cm-sensea-remix-82209771.html"
     },
     "82209771@Portimao (Faro)": {
-      "atualizado": "2026-09-01T14:17:05+00:00",
+      "atualizado": "2026-09-12T12:20:09+00:00",
       "dimensao": "80x195",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           228
         ]
       ],
       "id": "82209771",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Porta de duche de batente serigrafada cromado 80x195 cm Sensea Remix",
       "preco_desconto": 51,
       "preco_final": 228,
       "preco_normal": 279,
       "region": "Faro",
+      "retificado": false,
       "store": "Portimao (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-serigrafada-cromado-80x195-cm-sensea-remix-82209771.html"
     },
@@ -657,20 +660,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-120x200-cm-sensea-neo-82242433.html"
     },
     "82242434@Portimao (Faro)": {
-      "atualizado": "2026-09-01T14:17:05+00:00",
+      "atualizado": "2026-09-12T12:20:09+00:00",
       "dimensao": "120x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           398
         ]
       ],
       "id": "82242434",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Porta de duche + 2 portas transparente preto 120x200 cm Sensea Neo",
       "preco_desconto": 0.0,
       "preco_final": 398,
       "preco_normal": 398,
       "region": "Faro",
+      "retificado": false,
       "store": "Portimao (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-preto-120x200-cm-sensea-neo-82242434.html"
     },
@@ -1333,24 +1339,6 @@
       "region": "Porto",
       "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
-    },
-    "87274339@Montijo (Setubal)": {
-      "atualizado": "2026-09-01T14:21:37+00:00",
-      "dimensao": "150x200",
-      "history": [
-        [
-          "2026-09-01",
-          398
-        ]
-      ],
-      "id": "87274339",
-      "name": "Porta de duche 2 folhas 150x200 cm preto transparente Roca Apolo",
-      "preco_desconto": 88,
-      "preco_final": 398,
-      "preco_normal": 486,
-      "region": "Setubal",
-      "store": "Montijo (Setubal)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-150x200-cm-preto-transparente-roca-apolo-87274339.html"
     },
     "87870009@Cascais (Lisboa)": {
       "atualizado": "2026-09-12T10:00:14+00:00",

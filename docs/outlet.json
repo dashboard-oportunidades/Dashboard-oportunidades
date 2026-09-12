@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T11:53:04+00:00",
+  "generated": "2026-09-12T12:23:52+00:00",
   "products": [
     {
       "id": "81992803",
@@ -359,10 +359,10 @@
           "preco_normal": 181,
           "preco_desconto": 44,
           "preco_final": 137,
-          "atualizado": "2026-09-10T22:25:29+00:00",
+          "atualizado": "2026-09-12T12:09:58+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               137
             ]
           ]
@@ -434,20 +434,6 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-09-10T21:43:32+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 159,
@@ -457,6 +443,20 @@
           "history": [
             [
               "2026-09-12",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-10T21:43:32+00:00",
+          "history": [
+            [
+              "2026-09-10",
               138
             ]
           ]
@@ -610,6 +610,46 @@
       ]
     },
     {
+      "id": "88672190",
+      "name": "Base de duche ardósia 160x70 cm branco Musa",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
+      "dimensao": "160x70",
+      "marca": "RESINBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-10T21:31:17+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-12T12:02:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              148
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "86584061",
       "name": "Base de duche 160x70 cm branco mate Sensea Easy",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html",
@@ -625,50 +665,10 @@
           "preco_normal": 179,
           "preco_desconto": 31,
           "preco_final": 148,
-          "atualizado": "2026-09-10T22:02:55+00:00",
+          "atualizado": "2026-09-12T12:02:21+00:00",
           "history": [
             [
-              "2026-09-10",
-              148
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "88672190",
-      "name": "Base de duche ardósia 160x70 cm branco Musa",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-ardosia-160x70-cm-branco-musa-88672190.html",
-      "dimensao": "160x70",
-      "marca": "RESINBATH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 148,
-      "prices": [
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-10T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              148
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-10T21:31:17+00:00",
-          "history": [
-            [
-              "2026-09-10",
+              "2026-09-12",
               148
             ]
           ]
@@ -728,32 +728,6 @@
       ]
     },
     {
-      "id": "82002238",
-      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 120X70CM",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-120x70cm-82002238.html",
-      "dimensao": "120x70",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 158,
-      "prices": [
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 263,
-          "preco_desconto": 105,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T21:24:35+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "91835297",
       "name": "Base de duche Resina 140x80 cm branco mate Sensea Easy V2",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x80-cm-branco-mate-sensea-easy-v2-91835297.html",
@@ -778,15 +752,43 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 192,
           "preco_desconto": 34,
           "preco_final": 158,
-          "atualizado": "2026-09-10T21:24:35+00:00",
+          "atualizado": "2026-09-12T11:31:23+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
+          "preco_final": 158,
+          "atualizado": "2026-09-12T11:39:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-12T11:47:00+00:00",
+          "history": [
+            [
+              "2026-09-12",
               158
             ]
           ]
@@ -834,40 +836,38 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
           "preco_normal": 192,
           "preco_desconto": 34,
           "preco_final": 158,
-          "atualizado": "2026-09-12T11:31:23+00:00",
+          "atualizado": "2026-09-12T11:54:48+00:00",
           "history": [
             [
               "2026-09-12",
               158
             ]
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "82002238",
+      "name": "Base de duche SENSEA NEO CARGA MINERAL PRETA 120X70CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-120x70cm-82002238.html",
+      "dimensao": "120x70",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 158,
+      "prices": [
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 158,
-          "preco_desconto": 0.0,
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 263,
+          "preco_desconto": 105,
           "preco_final": 158,
-          "atualizado": "2026-09-12T11:39:03+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-12T11:47:00+00:00",
+          "atualizado": "2026-09-12T11:54:48+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1276,6 +1276,62 @@
               167.2
             ]
           ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T11:54:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T12:02:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T12:09:58+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T12:17:41+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
         }
       ]
     },
@@ -1652,6 +1708,62 @@
               167.4
             ]
           ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T11:54:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T12:02:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T12:09:58+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T12:17:41+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
         }
       ]
     },
@@ -1788,20 +1900,6 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
-          "preco_normal": 258,
-          "preco_desconto": 20,
-          "preco_final": 238,
-          "atualizado": "2026-09-10T22:25:29+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              238
-            ]
-          ]
-        },
-        {
           "store": "Braga (Braga)",
           "region": "Braga",
           "preco_normal": 334,
@@ -1899,10 +1997,10 @@
           "preco_normal": 249,
           "preco_desconto": 52,
           "preco_final": 197,
-          "atualizado": "2026-09-10T22:25:29+00:00",
+          "atualizado": "2026-09-12T12:09:58+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               197
             ]
           ]
@@ -1951,10 +2049,10 @@
           "preco_normal": 284,
           "preco_desconto": 87,
           "preco_final": 197,
-          "atualizado": "2026-09-10T22:25:29+00:00",
+          "atualizado": "2026-09-12T12:09:58+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               197
             ]
           ]
@@ -1991,10 +2089,10 @@
           "preco_normal": 239,
           "preco_desconto": 41,
           "preco_final": 198,
-          "atualizado": "2026-09-10T22:02:55+00:00",
+          "atualizado": "2026-09-12T12:02:21+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               198
             ]
           ]
@@ -2420,6 +2518,62 @@
           "preco_desconto": 52.8,
           "preco_final": 211.2,
           "atualizado": "2026-09-12T11:47:00+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T11:54:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T12:02:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T12:09:58+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T12:17:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -2858,6 +3012,48 @@
           "preco_desconto": 156,
           "preco_final": 234,
           "atualizado": "2026-09-12T11:47:00+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T12:02:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T12:09:58+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T12:17:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -3356,30 +3552,60 @@
               310.8
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "82227417",
-      "name": "Base de duche 75x190 cm pérola brilhante Vanguard Urban",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-75x190-cm-perola-brilhante-vanguard-urban-82227417.html",
-      "dimensao": "75x190",
-      "marca": "VANGUARD",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 337,
-      "prices": [
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T11:54:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T12:02:21+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
         {
           "store": "Penafiel (Porto)",
           "region": "Porto",
-          "preco_normal": 449,
-          "preco_desconto": 112,
-          "preco_final": 337,
-          "atualizado": "2026-09-10T22:25:29+00:00",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T12:09:58+00:00",
           "history": [
             [
-              "2026-09-10",
-              337
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T12:17:41+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
             ]
           ]
         }
