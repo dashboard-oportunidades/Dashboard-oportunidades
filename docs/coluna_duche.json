@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T20:40:01+00:00",
+  "generated": "2026-09-12T08:45:15+00:00",
   "products": [
     {
       "id": "17364851",
@@ -45,10 +45,10 @@
           "preco_normal": 109,
           "preco_desconto": 21.02,
           "preco_final": 87.98,
-          "atualizado": "2026-09-06T20:40:00+00:00",
+          "atualizado": "2026-09-12T08:32:30+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               87.98
             ]
           ]
@@ -516,6 +516,20 @@
           ]
         },
         {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 349,
+          "preco_desconto": 61,
+          "preco_final": 288,
+          "atualizado": "2026-09-06T20:29:52+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              288
+            ]
+          ]
+        },
+        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 349,
@@ -542,18 +556,44 @@
               288
             ]
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "81882097",
+      "name": "Conjunto de duche regulável retro",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html",
+      "dimensao": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 209.3,
+      "prices": [
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 349,
-          "preco_desconto": 61,
-          "preco_final": 288,
-          "atualizado": "2026-09-06T20:29:52+00:00",
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T08:32:30+00:00",
           "history": [
             [
-              "2026-09-06",
-              288
+              "2026-09-12",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T08:40:07+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
             ]
           ]
         }
@@ -598,12 +638,12 @@
           ]
         },
         {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 218,
-          "preco_desconto": 0.0,
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 259,
+          "preco_desconto": 41,
           "preco_final": 218,
-          "atualizado": "2026-09-06T20:02:06+00:00",
+          "atualizado": "2026-09-06T20:29:52+00:00",
           "history": [
             [
               "2026-09-06",
@@ -612,12 +652,12 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 259,
-          "preco_desconto": 41,
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 218,
+          "preco_desconto": 0.0,
           "preco_final": 218,
-          "atualizado": "2026-09-06T20:29:52+00:00",
+          "atualizado": "2026-09-06T20:02:06+00:00",
           "history": [
             [
               "2026-09-06",
@@ -882,6 +922,20 @@
           ]
         },
         {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T20:31:39+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
+        },
+        {
           "store": "Gondomar (Porto)",
           "region": "Porto",
           "preco_normal": 388,
@@ -916,6 +970,20 @@
           "preco_desconto": 91,
           "preco_final": 388,
           "atualizado": "2026-09-06T18:47:51+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-06T20:29:52+00:00",
           "history": [
             [
               "2026-09-06",
@@ -966,34 +1034,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-06T20:29:52+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Evora (Evora)",
-          "region": "Evora",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-06T20:31:39+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Viseu (Viseu)",
           "region": "Viseu",
           "preco_normal": 479,
@@ -1013,10 +1053,10 @@
           "preco_normal": 479,
           "preco_desconto": 91,
           "preco_final": 388,
-          "atualizado": "2026-09-06T20:40:00+00:00",
+          "atualizado": "2026-09-12T08:32:30+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               388
             ]
           ]
@@ -1132,20 +1172,6 @@
           ]
         },
         {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-09-06T19:55:03+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              408
-            ]
-          ]
-        },
-        {
           "store": "Maia (Porto)",
           "region": "Porto",
           "preco_normal": 408,
@@ -1160,15 +1186,29 @@
           ]
         },
         {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-06T19:55:03+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              408
+            ]
+          ]
+        },
+        {
           "store": "Alta de Lisboa (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-06T20:36:40+00:00",
+          "atualizado": "2026-09-12T08:40:07+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               408
             ]
           ]
@@ -1214,6 +1254,20 @@
           ]
         },
         {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 468,
+          "preco_desconto": 0.0,
+          "preco_final": 468,
+          "atualizado": "2026-09-06T20:31:39+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              468
+            ]
+          ]
+        },
+        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 569,
@@ -1234,20 +1288,6 @@
           "preco_desconto": 101,
           "preco_final": 468,
           "atualizado": "2026-09-06T18:30:58+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Evora (Evora)",
-          "region": "Evora",
-          "preco_normal": 468,
-          "preco_desconto": 0.0,
-          "preco_final": 468,
-          "atualizado": "2026-09-06T20:31:39+00:00",
           "history": [
             [
               "2026-09-06",
@@ -1329,10 +1369,10 @@
           "preco_normal": 429,
           "preco_desconto": 81,
           "preco_final": 348,
-          "atualizado": "2026-09-06T20:36:40+00:00",
+          "atualizado": "2026-09-12T08:40:07+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               348
             ]
           ]
@@ -1411,10 +1451,10 @@
           "preco_normal": 348,
           "preco_desconto": 0.0,
           "preco_final": 348,
-          "atualizado": "2026-09-06T20:36:40+00:00",
+          "atualizado": "2026-09-12T08:40:07+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               348
             ]
           ]

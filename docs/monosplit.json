@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T10:49:29+00:00",
+  "generated": "2026-09-12T08:45:15+00:00",
   "products": [
     {
       "id": "89876291",
@@ -335,10 +335,10 @@
           "preco_normal": 468,
           "preco_desconto": 0.0,
           "preco_final": 468,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               468
             ]
           ]
@@ -426,6 +426,32 @@
       ]
     },
     {
+      "id": "82367424",
+      "name": "Ar condicionado fixo (1X1) EQUATION 9000 BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-9000-btu-r32-82367424.html",
+      "dimensao": "9000 BTU",
+      "marca": "EQUATION",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 368,
+      "prices": [
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 368,
+          "preco_desconto": 0.0,
+          "preco_final": 368,
+          "atualizado": "2026-09-04T10:43:23+00:00",
+          "history": [
+            [
+              "2026-09-04",
+              368
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "85280679",
       "name": "Ar condicionado fixo (1X1)  EQUATION ENKI WIFI 9000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-enki-wifi-9000-btu-85280679.html",
@@ -466,32 +492,6 @@
       ]
     },
     {
-      "id": "82367424",
-      "name": "Ar condicionado fixo (1X1) EQUATION 9000 BTU R32",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-9000-btu-r32-82367424.html",
-      "dimensao": "9000 BTU",
-      "marca": "EQUATION",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 368,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 368,
-          "preco_desconto": 0.0,
-          "preco_final": 368,
-          "atualizado": "2026-09-04T10:43:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              368
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86733733",
       "name": "Ar condicionado fixo (1x1) New Luso KC25YR03 WIFI 9000 BTU Hisense",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html",
@@ -501,6 +501,20 @@
       "m2_caixa": null,
       "preco_final": 378,
       "prices": [
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-09-04T10:48:41+00:00",
+          "history": [
+            [
+              "2026-09-04",
+              378
+            ]
+          ]
+        },
         {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
@@ -661,24 +675,10 @@
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
-              378
-            ]
-          ]
-        },
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-09-04T10:48:41+00:00",
-          "history": [
-            [
-              "2026-09-04",
+              "2026-09-12",
               378
             ]
           ]
@@ -738,32 +738,6 @@
       ]
     },
     {
-      "id": "82367425",
-      "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html",
-      "dimensao": "12000 BTU",
-      "marca": "EQUATION",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 408,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-09-03T16:15:25+00:00",
-          "history": [
-            [
-              "2026-09-03",
-              408
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82204387",
       "name": "Ar condicionado fixo (1X1) FUJITSU ASY25UI-KP R32 9000BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-fujitsu-asy25ui-kp-r32-9000btu-82204387.html",
@@ -790,6 +764,32 @@
       ]
     },
     {
+      "id": "82367425",
+      "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html",
+      "dimensao": "12000 BTU",
+      "marca": "EQUATION",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 408,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-03T16:15:25+00:00",
+          "history": [
+            [
+              "2026-09-03",
+              408
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "83791822",
       "name": "Ar condicionado fixo (1x1) HAIER TIDE 12000BTU WIFI BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-tide-12000btu-wifi-branco-83791822.html",
@@ -805,10 +805,10 @@
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               408
             ]
           ]
@@ -1245,10 +1245,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               488
             ]
           ]
@@ -1259,10 +1259,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-04T10:49:28+00:00",
+          "atualizado": "2026-09-12T08:42:34+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               488
             ]
           ]
@@ -1376,6 +1376,20 @@
           ]
         },
         {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-09-04T10:48:41+00:00",
+          "history": [
+            [
+              "2026-09-04",
+              628
+            ]
+          ]
+        },
+        {
           "store": "Caldas da Rainha (Leiria)",
           "region": "Leiria",
           "preco_normal": 628,
@@ -1466,20 +1480,6 @@
           "preco_desconto": 0.0,
           "preco_final": 628,
           "atualizado": "2026-09-04T10:43:23+00:00",
-          "history": [
-            [
-              "2026-09-04",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-04T10:48:41+00:00",
           "history": [
             [
               "2026-09-04",
@@ -1615,10 +1615,10 @@
           "preco_normal": 649,
           "preco_desconto": 121,
           "preco_final": 528,
-          "atualizado": "2026-09-04T10:49:28+00:00",
+          "atualizado": "2026-09-12T08:42:34+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               528
             ]
           ]
@@ -1777,10 +1777,10 @@
           "preco_normal": 719,
           "preco_desconto": 131,
           "preco_final": 588,
-          "atualizado": "2026-09-04T10:49:28+00:00",
+          "atualizado": "2026-09-12T08:42:34+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               588
             ]
           ]
@@ -1803,10 +1803,10 @@
           "preco_normal": 618,
           "preco_desconto": 0.0,
           "preco_final": 618,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               618
             ]
           ]
@@ -1829,10 +1829,10 @@
           "preco_normal": 779,
           "preco_desconto": 151,
           "preco_final": 628,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               628
             ]
           ]
@@ -2087,10 +2087,10 @@
           "preco_normal": 1299,
           "preco_desconto": 251,
           "preco_final": 1048,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               1048
             ]
           ]
@@ -2101,10 +2101,10 @@
           "preco_normal": 1048,
           "preco_desconto": 0.0,
           "preco_final": 1048,
-          "atualizado": "2026-09-04T10:49:28+00:00",
+          "atualizado": "2026-09-12T08:42:34+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               1048
             ]
           ]
@@ -2230,6 +2230,20 @@
           ]
         },
         {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-09-04T10:48:41+00:00",
+          "history": [
+            [
+              "2026-09-04",
+              1168
+            ]
+          ]
+        },
+        {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1449,
@@ -2347,24 +2361,10 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
-              1168
-            ]
-          ]
-        },
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 1449,
-          "preco_desconto": 281,
-          "preco_final": 1168,
-          "atualizado": "2026-09-04T10:48:41+00:00",
-          "history": [
-            [
-              "2026-09-04",
+              "2026-09-12",
               1168
             ]
           ]
@@ -2375,10 +2375,10 @@
           "preco_normal": 1168,
           "preco_desconto": 0.0,
           "preco_final": 1168,
-          "atualizado": "2026-09-04T10:49:28+00:00",
+          "atualizado": "2026-09-12T08:42:34+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               1168
             ]
           ]
@@ -2455,10 +2455,10 @@
           "preco_normal": 1159,
           "preco_desconto": 221,
           "preco_final": 938,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               938
             ]
           ]
@@ -2561,10 +2561,10 @@
           "preco_normal": 1078,
           "preco_desconto": 0.0,
           "preco_final": 1078,
-          "atualizado": "2026-09-04T10:47:54+00:00",
+          "atualizado": "2026-09-12T08:34:57+00:00",
           "history": [
             [
-              "2026-09-04",
+              "2026-09-12",
               1078
             ]
           ]

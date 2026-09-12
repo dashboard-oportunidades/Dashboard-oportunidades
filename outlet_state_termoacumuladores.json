@@ -1,9 +1,9 @@
 {
   "lojas": {
     "Albufeira (Faro)": "2026-09-01T13:41:06+00:00",
-    "Alfragide (Lisboa)": "2026-09-01T12:21:07+00:00",
+    "Alfragide (Lisboa)": "2026-09-12T08:37:23+00:00",
     "Almada (Setubal)": "2026-09-01T13:45:26+00:00",
-    "Alta de Lisboa (Lisboa)": "2026-09-01T12:22:46+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-09-12T08:45:15+00:00",
     "Alverca (Lisboa)": "2026-09-01T12:24:31+00:00",
     "Amadora (Lisboa)": "2026-09-01T12:26:07+00:00",
     "Aveiro (Aveiro)": "2026-09-01T12:27:51+00:00",
@@ -156,20 +156,23 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
     "81940804@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-01T12:21:07+00:00",
+      "atualizado": "2026-09-12T08:37:23+00:00",
       "dimensao": "80L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           388
         ]
       ],
       "id": "81940804",
+      "m2_caixa": null,
+      "marca": null,
       "name": "Termoacumulador indimante inox tel1500w v/h 80l",
       "preco_desconto": 0.0,
       "preco_final": 388,
       "preco_normal": 388,
       "region": "Lisboa",
+      "retificado": false,
       "store": "Alfragide (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-80l-81940804.html"
     },

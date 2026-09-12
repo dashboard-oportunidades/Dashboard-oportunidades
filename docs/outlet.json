@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T22:25:30+00:00",
+  "generated": "2026-09-12T08:45:15+00:00",
   "products": [
     {
       "id": "81992803",
@@ -168,12 +168,12 @@
       "preco_final": 118,
       "prices": [
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 139,
           "preco_desconto": 21,
           "preco_final": 118,
-          "atualizado": "2026-09-10T21:57:48+00:00",
+          "atualizado": "2026-09-10T22:15:02+00:00",
           "history": [
             [
               "2026-09-10",
@@ -182,12 +182,12 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
           "preco_normal": 139,
           "preco_desconto": 21,
           "preco_final": 118,
-          "atualizado": "2026-09-10T22:15:02+00:00",
+          "atualizado": "2026-09-10T21:57:48+00:00",
           "history": [
             [
               "2026-09-10",
@@ -394,12 +394,12 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Torres Novas (Santarem)",
-          "region": "Santarem",
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 159,
           "preco_desconto": 21,
           "preco_final": 138,
-          "atualizado": "2026-09-10T21:18:43+00:00",
+          "atualizado": "2026-09-10T22:15:02+00:00",
           "history": [
             [
               "2026-09-10",
@@ -408,12 +408,12 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
           "preco_normal": 159,
           "preco_desconto": 21,
           "preco_final": 138,
-          "atualizado": "2026-09-10T22:15:02+00:00",
+          "atualizado": "2026-09-10T21:18:43+00:00",
           "history": [
             [
               "2026-09-10",
@@ -434,12 +434,12 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 159,
           "preco_desconto": 21,
           "preco_final": 138,
-          "atualizado": "2026-09-10T21:43:32+00:00",
+          "atualizado": "2026-09-10T22:18:25+00:00",
           "history": [
             [
               "2026-09-10",
@@ -448,12 +448,12 @@
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 159,
           "preco_desconto": 21,
           "preco_final": 138,
-          "atualizado": "2026-09-10T22:18:25+00:00",
+          "atualizado": "2026-09-10T21:43:32+00:00",
           "history": [
             [
               "2026-09-10",
@@ -750,20 +750,6 @@
               157
             ]
           ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 219,
-          "preco_desconto": 49.03,
-          "preco_final": 169.97,
-          "atualizado": "2026-09-10T22:01:19+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              169.97
-            ]
-          ]
         }
       ]
     },
@@ -804,6 +790,20 @@
       "preco_final": 158,
       "prices": [
         {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-10T22:15:02+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              158
+            ]
+          ]
+        },
+        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 192,
@@ -824,6 +824,20 @@
           "preco_desconto": 0.0,
           "preco_final": 158,
           "atualizado": "2026-09-10T21:49:26+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-10T22:18:25+00:00",
           "history": [
             [
               "2026-09-10",
@@ -886,34 +900,6 @@
               158
             ]
           ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T22:15:02+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T22:18:25+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
         }
       ]
     },
@@ -938,6 +924,86 @@
             [
               "2026-09-10",
               160.34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17792411",
+      "name": "Base de duche COLORS PIZAR 70X70 PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-colors-pizar-70x70-preto-17792411.html",
+      "dimensao": "70x70",
+      "marca": "OBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 167.2,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T08:31:16+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82002261",
+      "name": "Base de duche NEO CARGA MINERAL PARIS 90X90CM",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-paris-90x90cm-82002261.html",
+      "dimensao": "90x90",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 167.4,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T08:31:16+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
             ]
           ]
         }
@@ -1260,20 +1326,6 @@
       "preco_final": 198,
       "prices": [
         {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 198,
-          "preco_desconto": 0.0,
-          "preco_final": 198,
-          "atualizado": "2026-09-10T22:01:19+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              198
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 239,
@@ -1283,6 +1335,20 @@
           "history": [
             [
               "2026-09-10",
+              198
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 198,
+          "preco_desconto": 0.0,
+          "preco_final": 198,
+          "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
               198
             ]
           ]
@@ -1336,6 +1402,46 @@
             [
               "2026-09-10",
               199.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82226718",
+      "name": "Base de duche 70x130 cm antracite Sensea Urban",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-70x130-cm-antracite-sensea-urban-82226718.html",
+      "dimensao": "70x130",
+      "marca": "VANGUARD",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 211.2,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T08:31:16+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
             ]
           ]
         }
@@ -1414,6 +1520,72 @@
             [
               "2026-09-10",
               229
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84227268",
+      "name": "Base de duche 160x70 cm branco mate efeito ardósia Obath Greenpact",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227268.html",
+      "dimensao": "160x70",
+      "marca": "OBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 229.97,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 69.03,
+          "preco_final": 229.97,
+          "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              229.97
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84834105",
+      "name": "Base de duche NEO 80X140CM GRELHA METAL PRETO MATE",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x140cm-grelha-metal-preto-mate-84834105.html",
+      "dimensao": "80x140",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 234,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T08:31:16+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
             ]
           ]
         }
@@ -1544,6 +1716,46 @@
             [
               "2026-09-10",
               297
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89149846",
+      "name": "Base de duche LEVEL UP COM VALVULA 80X160 BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-level-up-com-valvula-80x160-branco-89149846.html",
+      "dimensao": "80x160",
+      "marca": "RUBICER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 310.8,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T08:31:16+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
             ]
           ]
         }

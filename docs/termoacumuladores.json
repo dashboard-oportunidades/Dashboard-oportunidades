@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T07:54:41+00:00",
+  "generated": "2026-09-12T08:45:15+00:00",
   "products": [
     {
       "id": "82005354",
@@ -8,6 +8,7 @@
       "dimensao": "100L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 148,
       "prices": [
         {
@@ -33,6 +34,7 @@
       "dimensao": "80L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 149,
       "prices": [
         {
@@ -58,6 +60,7 @@
       "dimensao": "50L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 158,
       "prices": [
         {
@@ -97,6 +100,7 @@
       "dimensao": "50L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 178,
       "prices": [
         {
@@ -122,6 +126,7 @@
       "dimensao": "80L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 189.05,
       "prices": [
         {
@@ -147,6 +152,7 @@
       "dimensao": "100L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 228,
       "prices": [
         {
@@ -172,6 +178,7 @@
       "dimensao": "100L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 228,
       "prices": [
         {
@@ -197,6 +204,7 @@
       "dimensao": "100L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 239.99,
       "prices": [
         {
@@ -222,6 +230,7 @@
       "dimensao": "60L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 298,
       "prices": [
         {
@@ -289,6 +298,7 @@
       "dimensao": "80L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 308,
       "prices": [
         {
@@ -314,6 +324,7 @@
       "dimensao": "150L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 328,
       "prices": [
         {
@@ -339,6 +350,7 @@
       "dimensao": "100L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 349,
       "prices": [
         {
@@ -364,22 +376,9 @@
       "dimensao": "80L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 388,
       "prices": [
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-01T12:21:07+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              388
-            ]
-          ]
-        },
         {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
@@ -421,6 +420,20 @@
               388
             ]
           ]
+        },
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-09-12T08:37:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              388
+            ]
+          ]
         }
       ]
     },
@@ -431,6 +444,7 @@
       "dimensao": "75L",
       "marca": null,
       "retificado": false,
+      "m2_caixa": null,
       "preco_final": 458,
       "prices": [
         {

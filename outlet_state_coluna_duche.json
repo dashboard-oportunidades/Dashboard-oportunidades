@@ -1,9 +1,9 @@
 {
   "lojas": {
     "Albufeira (Faro)": "2026-09-06T18:49:26+00:00",
-    "Alfragide (Lisboa)": "2026-09-06T20:40:00+00:00",
+    "Alfragide (Lisboa)": "2026-09-12T08:32:30+00:00",
     "Almada (Setubal)": "2026-09-06T19:53:22+00:00",
-    "Alta de Lisboa (Lisboa)": "2026-09-06T20:36:40+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-09-12T08:40:07+00:00",
     "Alverca (Lisboa)": "2026-09-06T18:46:09+00:00",
     "Amadora (Lisboa)": "2026-09-06T18:35:57+00:00",
     "Aveiro (Aveiro)": "2026-09-06T20:18:07+00:00",
@@ -48,11 +48,11 @@
   },
   "products": {
     "17364851@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-06T20:40:00+00:00",
+      "atualizado": "2026-09-12T08:32:30+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           87.98
         ]
       ],
@@ -109,6 +109,48 @@
       "retificado": false,
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-nerea-17364851.html"
+    },
+    "81882097@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-12T08:32:30+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-12T08:40:07+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882134@Penafiel (Porto)": {
       "atualizado": "2026-09-06T20:26:21+00:00",
@@ -216,11 +258,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-vitalio-joy-260-81895990.html"
     },
     "81896491@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-09-06T20:36:40+00:00",
+      "atualizado": "2026-09-12T08:40:07+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           348
         ]
       ],
@@ -300,11 +342,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html"
     },
     "81896503@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-09-06T20:36:40+00:00",
+      "atualizado": "2026-09-12T08:40:07+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           348
         ]
       ],
@@ -1098,11 +1140,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-06T20:40:00+00:00",
+      "atualizado": "2026-09-12T08:32:30+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           388
         ]
       ],
@@ -1560,11 +1602,11 @@
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
     },
     "89128698@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-09-06T20:36:40+00:00",
+      "atualizado": "2026-09-12T08:40:07+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           408
         ]
       ],

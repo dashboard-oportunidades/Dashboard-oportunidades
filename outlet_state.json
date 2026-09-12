@@ -1,9 +1,9 @@
 {
   "lojas": {
     "Albufeira (Faro)": "2026-09-10T21:47:46+00:00",
-    "Alfragide (Lisboa)": "2026-09-10T22:06:11+00:00",
+    "Alfragide (Lisboa)": "2026-09-12T08:31:16+00:00",
     "Almada (Setubal)": "2026-09-10T22:16:43+00:00",
-    "Alta de Lisboa (Lisboa)": "2026-09-10T22:01:19+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-09-12T08:38:51+00:00",
     "Alverca (Lisboa)": "2026-09-10T21:59:41+00:00",
     "Amadora (Lisboa)": "2026-09-10T22:15:02+00:00",
     "Aveiro (Aveiro)": "2026-09-10T21:34:56+00:00",
@@ -89,6 +89,48 @@
       "store": "Cascais (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-evolution-120x70cm-retangular-17757411.html"
     },
+    "17792411@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-12T08:31:16+00:00",
+      "dimensao": "70x70",
+      "history": [
+        [
+          "2026-09-12",
+          167.2
+        ]
+      ],
+      "id": "17792411",
+      "m2_caixa": null,
+      "marca": "OBATH",
+      "name": "Base de duche COLORS PIZAR 70X70 PRETO",
+      "preco_desconto": 41.8,
+      "preco_final": 167.2,
+      "preco_normal": 209,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-colors-pizar-70x70-preto-17792411.html"
+    },
+    "17792411@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-12T08:38:51+00:00",
+      "dimensao": "70x70",
+      "history": [
+        [
+          "2026-09-12",
+          167.2
+        ]
+      ],
+      "id": "17792411",
+      "m2_caixa": null,
+      "marca": "OBATH",
+      "name": "Base de duche COLORS PIZAR 70X70 PRETO",
+      "preco_desconto": 41.8,
+      "preco_final": 167.2,
+      "preco_normal": 209,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-colors-pizar-70x70-preto-17792411.html"
+    },
     "18349163@Sacavem (Lisboa)": {
       "atualizado": "2026-09-10T22:20:11+00:00",
       "dimensao": "160x70",
@@ -132,11 +174,11 @@
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-stone-gel-coat-branco-110x80-81266407.html"
     },
     "81870826@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-09-10T22:01:19+00:00",
+      "atualizado": "2026-09-12T08:38:51+00:00",
       "dimensao": "100x70",
       "history": [
         [
-          "2026-09-10",
+          "2026-09-12",
           198
         ]
       ],
@@ -362,6 +404,48 @@
       "store": "Coimbra (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-neo-carga-mineral-preta-100x80cm-82002242.html"
     },
+    "82002261@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-12T08:31:16+00:00",
+      "dimensao": "90x90",
+      "history": [
+        [
+          "2026-09-12",
+          167.4
+        ]
+      ],
+      "id": "82002261",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Base de duche NEO CARGA MINERAL PARIS 90X90CM",
+      "preco_desconto": 111.6,
+      "preco_final": 167.4,
+      "preco_normal": 279,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-paris-90x90cm-82002261.html"
+    },
+    "82002261@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-12T08:38:51+00:00",
+      "dimensao": "90x90",
+      "history": [
+        [
+          "2026-09-12",
+          167.4
+        ]
+      ],
+      "id": "82002261",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Base de duche NEO CARGA MINERAL PARIS 90X90CM",
+      "preco_desconto": 111.6,
+      "preco_final": 167.4,
+      "preco_normal": 279,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-carga-mineral-paris-90x90cm-82002261.html"
+    },
     "82097259@Guarda (Guarda)": {
       "atualizado": "2026-09-10T21:13:05+00:00",
       "dimensao": "160x70",
@@ -382,6 +466,48 @@
       "retificado": false,
       "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-preto-maya-pedra-82097259.html"
+    },
+    "82226718@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-12T08:31:16+00:00",
+      "dimensao": "70x130",
+      "history": [
+        [
+          "2026-09-12",
+          211.2
+        ]
+      ],
+      "id": "82226718",
+      "m2_caixa": null,
+      "marca": "VANGUARD",
+      "name": "Base de duche 70x130 cm antracite Sensea Urban",
+      "preco_desconto": 52.8,
+      "preco_final": 211.2,
+      "preco_normal": 264,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-70x130-cm-antracite-sensea-urban-82226718.html"
+    },
+    "82226718@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-12T08:38:51+00:00",
+      "dimensao": "70x130",
+      "history": [
+        [
+          "2026-09-12",
+          211.2
+        ]
+      ],
+      "id": "82226718",
+      "m2_caixa": null,
+      "marca": "VANGUARD",
+      "name": "Base de duche 70x130 cm antracite Sensea Urban",
+      "preco_desconto": 52.8,
+      "preco_final": 211.2,
+      "preco_normal": 264,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-70x130-cm-antracite-sensea-urban-82226718.html"
     },
     "82227417@Penafiel (Porto)": {
       "atualizado": "2026-09-10T22:25:29+00:00",
@@ -509,27 +635,6 @@
       "store": "Alverca (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x110-cm-cinzento-stone-83728756.html"
     },
-    "84227261@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-09-10T22:01:19+00:00",
-      "dimensao": "90x70",
-      "history": [
-        [
-          "2026-09-10",
-          169.97
-        ]
-      ],
-      "id": "84227261",
-      "m2_caixa": null,
-      "marca": "OBATH",
-      "name": "Base de duche 90x70 cm branco mate efeito ardósia Obath Greenpact",
-      "preco_desconto": 49.03,
-      "preco_final": 169.97,
-      "preco_normal": 219,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Alta de Lisboa (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-90x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227261.html"
-    },
     "84227261@Matosinhos (Porto)": {
       "atualizado": "2026-09-10T21:38:28+00:00",
       "dimensao": "90x70",
@@ -592,6 +697,27 @@
       "retificado": false,
       "store": "Penafiel (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-120x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227264.html"
+    },
+    "84227268@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-12T08:38:51+00:00",
+      "dimensao": "160x70",
+      "history": [
+        [
+          "2026-09-12",
+          229.97
+        ]
+      ],
+      "id": "84227268",
+      "m2_caixa": null,
+      "marca": "OBATH",
+      "name": "Base de duche 160x70 cm branco mate efeito ardósia Obath Greenpact",
+      "preco_desconto": 69.03,
+      "preco_final": 229.97,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227268.html"
     },
     "84227384@Viana do Castelo (Viana do Castelo)": {
       "atualizado": "2026-09-10T21:45:15+00:00",
@@ -676,6 +802,48 @@
       "retificado": false,
       "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-70x100cm-grelha-metal-branco-mate-84834089.html"
+    },
+    "84834105@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-12T08:31:16+00:00",
+      "dimensao": "80x140",
+      "history": [
+        [
+          "2026-09-12",
+          234
+        ]
+      ],
+      "id": "84834105",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Base de duche NEO 80X140CM GRELHA METAL PRETO MATE",
+      "preco_desconto": 156,
+      "preco_final": 234,
+      "preco_normal": 390,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x140cm-grelha-metal-preto-mate-84834105.html"
+    },
+    "84834105@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-12T08:38:51+00:00",
+      "dimensao": "80x140",
+      "history": [
+        [
+          "2026-09-12",
+          234
+        ]
+      ],
+      "id": "84834105",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Base de duche NEO 80X140CM GRELHA METAL PRETO MATE",
+      "preco_desconto": 156,
+      "preco_final": 234,
+      "preco_normal": 390,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-neo-80x140cm-grelha-metal-preto-mate-84834105.html"
     },
     "84834115@Viseu (Viseu)": {
       "atualizado": "2026-09-10T21:31:17+00:00",
@@ -1096,6 +1264,48 @@
       "retificado": false,
       "store": "Loule (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-level-up-com-valvula-70x150-branco-89149832.html"
+    },
+    "89149846@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-12T08:31:16+00:00",
+      "dimensao": "80x160",
+      "history": [
+        [
+          "2026-09-12",
+          310.8
+        ]
+      ],
+      "id": "89149846",
+      "m2_caixa": null,
+      "marca": "RUBICER",
+      "name": "Base de duche LEVEL UP COM VALVULA 80X160 BRANCO",
+      "preco_desconto": 133.2,
+      "preco_final": 310.8,
+      "preco_normal": 444,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-level-up-com-valvula-80x160-branco-89149846.html"
+    },
+    "89149846@Alta de Lisboa (Lisboa)": {
+      "atualizado": "2026-09-12T08:38:51+00:00",
+      "dimensao": "80x160",
+      "history": [
+        [
+          "2026-09-12",
+          310.8
+        ]
+      ],
+      "id": "89149846",
+      "m2_caixa": null,
+      "marca": "RUBICER",
+      "name": "Base de duche LEVEL UP COM VALVULA 80X160 BRANCO",
+      "preco_desconto": 133.2,
+      "preco_final": 310.8,
+      "preco_normal": 444,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alta de Lisboa (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-level-up-com-valvula-80x160-branco-89149846.html"
     },
     "89863859@Caldas da Rainha (Leiria)": {
       "atualizado": "2026-09-10T21:20:38+00:00",

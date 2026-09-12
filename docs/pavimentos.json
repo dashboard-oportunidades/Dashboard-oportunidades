@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T16:57:27+00:00",
+  "generated": "2026-09-12T08:45:15+00:00",
   "products": [
     {
       "id": "85105569",
@@ -36,6 +36,32 @@
             [
               "2026-09-02",
               2.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85105815",
+      "name": "Revestimento cerâmico Grid White 36x43 cm",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-white-36x43-cm-85105815.html",
+      "dimensao": "36x43",
+      "marca": "REVIGRES",
+      "retificado": false,
+      "m2_caixa": 1.55,
+      "preco_final": 3.98,
+      "prices": [
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 4.85,
+          "preco_desconto": 0.87,
+          "preco_final": 3.98,
+          "atualizado": "2026-09-02T16:49:51+00:00",
+          "history": [
+            [
+              "2026-09-02",
+              3.98
             ]
           ]
         }
@@ -120,6 +146,20 @@
               3.98
             ]
           ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 4.85,
+          "preco_desconto": 0.87,
+          "preco_final": 3.98,
+          "atualizado": "2026-09-12T08:44:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              3.98
+            ]
+          ]
         }
       ]
     },
@@ -166,58 +206,6 @@
           "preco_desconto": 0.87,
           "preco_final": 3.98,
           "atualizado": "2026-09-02T16:32:46+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              3.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "85105815",
-      "name": "Revestimento cerâmico Grid White 36x43 cm",
-      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-white-36x43-cm-85105815.html",
-      "dimensao": "36x43",
-      "marca": "REVIGRES",
-      "retificado": false,
-      "m2_caixa": 1.55,
-      "preco_final": 3.98,
-      "prices": [
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 4.85,
-          "preco_desconto": 0.87,
-          "preco_final": 3.98,
-          "atualizado": "2026-09-02T16:49:51+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              3.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "85105820",
-      "name": "Revestimento cerâmico Grid Honey 36x43 cm",
-      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-honey-36x43-cm-85105820.html",
-      "dimensao": "36x43",
-      "marca": "REVIGRES",
-      "retificado": false,
-      "m2_caixa": 1.55,
-      "preco_final": 3.98,
-      "prices": [
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 4.85,
-          "preco_desconto": 0.87,
-          "preco_final": 3.98,
-          "atualizado": "2026-09-02T16:52:55+00:00",
           "history": [
             [
               "2026-09-02",
@@ -685,10 +673,10 @@
           "preco_normal": 21.84,
           "preco_desconto": 7.86,
           "preco_final": 13.98,
-          "atualizado": "2026-09-02T16:52:55+00:00",
+          "atualizado": "2026-09-12T08:44:03+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               13.98
             ]
           ]
@@ -1026,6 +1014,32 @@
       ]
     },
     {
+      "id": "89168666",
+      "name": "Pavimento / Revestimento cerâmico Artens Urban Prata 60x60 cm Antiderrapante",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-60x60-cm-antiderrapante-89168666.html",
+      "dimensao": "60x60",
+      "marca": "ARTENS",
+      "retificado": false,
+      "m2_caixa": 1.08,
+      "preco_final": 14.98,
+      "prices": [
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 24.18,
+          "preco_desconto": 9.2,
+          "preco_final": 14.98,
+          "atualizado": "2026-09-02T16:56:49+00:00",
+          "history": [
+            [
+              "2026-09-02",
+              14.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "89168667",
       "name": "Pavimento / Revestimento cerâmico Artens Urban Prata 30x60 cm",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-30x60-cm-89168667.html",
@@ -1107,36 +1121,10 @@
           "preco_normal": 24.18,
           "preco_desconto": 9.2,
           "preco_final": 14.98,
-          "atualizado": "2026-09-02T16:52:55+00:00",
+          "atualizado": "2026-09-12T08:44:03+00:00",
           "history": [
             [
-              "2026-09-02",
-              14.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "89168666",
-      "name": "Pavimento / Revestimento cerâmico Artens Urban Prata 60x60 cm Antiderrapante",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-60x60-cm-antiderrapante-89168666.html",
-      "dimensao": "60x60",
-      "marca": "ARTENS",
-      "retificado": false,
-      "m2_caixa": 1.08,
-      "preco_final": 14.98,
-      "prices": [
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 24.18,
-          "preco_desconto": 9.2,
-          "preco_final": 14.98,
-          "atualizado": "2026-09-02T16:56:49+00:00",
-          "history": [
-            [
-              "2026-09-02",
+              "2026-09-12",
               14.98
             ]
           ]
@@ -1240,6 +1228,32 @@
           "preco_desconto": 10.01,
           "preco_final": 15.98,
           "atualizado": "2026-09-02T15:51:40+00:00",
+          "history": [
+            [
+              "2026-09-02",
+              15.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83304960",
+      "name": "Pavimento cerâmico Bestley Gris 20x75 cm Antiderrapante",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bestley-gris-20x75-cm-antiderrapante-83304960.html",
+      "dimensao": "20x75",
+      "marca": "ECOCERAMIC",
+      "retificado": false,
+      "m2_caixa": 1.05,
+      "preco_final": 15.98,
+      "prices": [
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 25.19,
+          "preco_desconto": 9.21,
+          "preco_final": 15.98,
+          "atualizado": "2026-09-02T16:56:49+00:00",
           "history": [
             [
               "2026-09-02",
@@ -1472,32 +1486,6 @@
       ]
     },
     {
-      "id": "83304960",
-      "name": "Pavimento cerâmico Bestley Gris 20x75 cm Antiderrapante",
-      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-bestley-gris-20x75-cm-antiderrapante-83304960.html",
-      "dimensao": "20x75",
-      "marca": "ECOCERAMIC",
-      "retificado": false,
-      "m2_caixa": 1.05,
-      "preco_final": 15.98,
-      "prices": [
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 25.19,
-          "preco_desconto": 9.21,
-          "preco_final": 15.98,
-          "atualizado": "2026-09-02T16:56:49+00:00",
-          "history": [
-            [
-              "2026-09-02",
-              15.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "81903320",
       "name": "Pavimento / Revestimento cerâmico Artens Mineral Grey 60x60 cm",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-mineral-grey-60x60-cm-81903320.html",
@@ -1645,10 +1633,10 @@
           "preco_normal": 28.39,
           "preco_desconto": 10.41,
           "preco_final": 17.98,
-          "atualizado": "2026-09-02T16:52:55+00:00",
+          "atualizado": "2026-09-12T08:44:03+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               17.98
             ]
           ]
@@ -1692,12 +1680,12 @@
       "preco_final": 17.98,
       "prices": [
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 23.69,
           "preco_desconto": 5.71,
           "preco_final": 17.98,
-          "atualizado": "2026-09-02T16:25:33+00:00",
+          "atualizado": "2026-09-02T16:54:33+00:00",
           "history": [
             [
               "2026-09-02",
@@ -1706,12 +1694,12 @@
           ]
         },
         {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 23.69,
           "preco_desconto": 5.71,
           "preco_final": 17.98,
-          "atualizado": "2026-09-02T16:54:33+00:00",
+          "atualizado": "2026-09-02T16:25:33+00:00",
           "history": [
             [
               "2026-09-02",
@@ -1911,10 +1899,10 @@
           "preco_normal": 24.35,
           "preco_desconto": 2.37,
           "preco_final": 21.98,
-          "atualizado": "2026-09-02T16:55:33+00:00",
+          "atualizado": "2026-09-12T08:36:12+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               21.98
             ]
           ]
@@ -1972,12 +1960,12 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 24.83,
           "preco_desconto": 4.85,
           "preco_final": 19.98,
-          "atualizado": "2026-09-02T16:30:51+00:00",
+          "atualizado": "2026-09-02T16:54:33+00:00",
           "history": [
             [
               "2026-09-02",
@@ -1986,12 +1974,12 @@
           ]
         },
         {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 24.83,
           "preco_desconto": 4.85,
           "preco_final": 19.98,
-          "atualizado": "2026-09-02T16:54:33+00:00",
+          "atualizado": "2026-09-02T16:30:51+00:00",
           "history": [
             [
               "2026-09-02",
@@ -2253,10 +2241,10 @@
           "preco_normal": 21.45,
           "preco_desconto": 2.47,
           "preco_final": 18.98,
-          "atualizado": "2026-09-02T16:52:55+00:00",
+          "atualizado": "2026-09-12T08:44:03+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               18.98
             ]
           ]
@@ -3155,10 +3143,10 @@
           "preco_normal": 29.75,
           "preco_desconto": 5.77,
           "preco_final": 23.98,
-          "atualizado": "2026-09-02T16:52:55+00:00",
+          "atualizado": "2026-09-12T08:44:03+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               23.98
             ]
           ]
@@ -3403,10 +3391,10 @@
           "preco_normal": 42.59,
           "preco_desconto": 16.61,
           "preco_final": 25.98,
-          "atualizado": "2026-09-02T16:55:33+00:00",
+          "atualizado": "2026-09-12T08:36:12+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               25.98
             ]
           ]
@@ -3599,10 +3587,10 @@
           "preco_normal": 40.31,
           "preco_desconto": 8.33,
           "preco_final": 31.98,
-          "atualizado": "2026-09-02T16:55:33+00:00",
+          "atualizado": "2026-09-12T08:36:12+00:00",
           "history": [
             [
-              "2026-09-02",
+              "2026-09-12",
               31.98
             ]
           ]
@@ -3774,6 +3762,32 @@
             [
               "2026-09-02",
               58.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85105850",
+      "name": "Revestimento cerâmico Revigres Onix Gold 60x120 cm",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-revigres-onix-gold-60x120-cm-85105850.html",
+      "dimensao": "60x120",
+      "marca": "REVIGRES",
+      "retificado": false,
+      "m2_caixa": 1.44,
+      "preco_final": 62.98,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 70.55,
+          "preco_desconto": 7.57,
+          "preco_final": 62.98,
+          "atualizado": "2026-09-12T08:36:12+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              62.98
             ]
           ]
         }
