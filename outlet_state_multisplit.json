@@ -1,0 +1,161 @@
+{
+  "lojas": {
+    "Alfragide (Lisboa)": "2026-09-12T15:08:05+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-09-12T15:05:07+00:00",
+    "Amadora (Lisboa)": "2026-09-12T15:14:34+00:00",
+    "Colombo (Lisboa)": "2026-09-12T15:06:36+00:00",
+    "Loures (Lisboa)": "2026-09-12T15:12:34+00:00",
+    "Oeiras (Lisboa)": "2026-09-12T15:11:03+00:00",
+    "Sacavem (Lisboa)": "2026-09-12T15:09:34+00:00",
+    "Telheiras (Lisboa)": "2026-09-12T15:14:03+00:00"
+  },
+  "products": {
+    "83791813@Oeiras (Lisboa)": {
+      "atualizado": "2026-09-12T15:11:03+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1628
+        ]
+      ],
+      "id": "83791813",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (3x1) HAIER FLEXIS 9000BTU + 9000BTU + 12000BTU WIFI BRANCO",
+      "preco_desconto": 401,
+      "preco_final": 1628,
+      "preco_normal": 2029,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Oeiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-branco-83791813.html"
+    },
+    "83791816@Amadora (Lisboa)": {
+      "atualizado": "2026-09-12T15:14:34+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1628
+        ]
+      ],
+      "id": "83791816",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (3x1) HAIER FLEXIS 9000BTU + 9000BTU + 12000BTU WIFI PRETO",
+      "preco_desconto": 401,
+      "preco_final": 1628,
+      "preco_normal": 2029,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html"
+    },
+    "87694849@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-12T15:08:05+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1368
+        ]
+      ],
+      "id": "87694849",
+      "m2_caixa": null,
+      "marca": "ARISTON",
+      "name": "Ar condicionado fixo (3X1)  2x9000+12000 BTU Ariston Alys",
+      "preco_desconto": 331,
+      "preco_final": 1368,
+      "preco_normal": 1699,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-2x9000-12000-btu-ariston-alys-87694849.html"
+    },
+    "87694849@Loures (Lisboa)": {
+      "atualizado": "2026-09-12T15:12:34+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1368
+        ]
+      ],
+      "id": "87694849",
+      "m2_caixa": null,
+      "marca": "ARISTON",
+      "name": "Ar condicionado fixo (3X1)  2x9000+12000 BTU Ariston Alys",
+      "preco_desconto": 331,
+      "preco_final": 1368,
+      "preco_normal": 1699,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Loures (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-2x9000-12000-btu-ariston-alys-87694849.html"
+    },
+    "92041665@Alfragide (Lisboa)": {
+      "atualizado": "2026-09-12T15:08:05+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1008
+        ]
+      ],
+      "id": "92041665",
+      "m2_caixa": null,
+      "marca": "ARISTON",
+      "name": "Ar condicionado ARISTON ALYS MULTI-SPLIT 9000+12000 BTU",
+      "preco_desconto": 241,
+      "preco_final": 1008,
+      "preco_normal": 1249,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Alfragide (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
+    },
+    "92041665@Amadora (Lisboa)": {
+      "atualizado": "2026-09-12T15:14:34+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1008
+        ]
+      ],
+      "id": "92041665",
+      "m2_caixa": null,
+      "marca": "ARISTON",
+      "name": "Ar condicionado ARISTON ALYS MULTI-SPLIT 9000+12000 BTU",
+      "preco_desconto": 241,
+      "preco_final": 1008,
+      "preco_normal": 1249,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Amadora (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
+    },
+    "92041665@Colombo (Lisboa)": {
+      "atualizado": "2026-09-12T15:06:36+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-12",
+          1008
+        ]
+      ],
+      "id": "92041665",
+      "m2_caixa": null,
+      "marca": "ARISTON",
+      "name": "Ar condicionado ARISTON ALYS MULTI-SPLIT 9000+12000 BTU",
+      "preco_desconto": 241,
+      "preco_final": 1008,
+      "preco_normal": 1249,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Colombo (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
+    }
+  }
+}
