@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T12:55:03+00:00",
+  "generated": "2026-09-12T13:27:08+00:00",
   "products": [
     {
       "id": "81992803",
@@ -413,10 +413,10 @@
           "preco_normal": 159,
           "preco_desconto": 21,
           "preco_final": 138,
-          "atualizado": "2026-09-10T21:18:43+00:00",
+          "atualizado": "2026-09-12T13:12:58+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               138
             ]
           ]
@@ -521,10 +521,10 @@
           "preco_normal": 138,
           "preco_desconto": 0.0,
           "preco_final": 138,
-          "atualizado": "2026-09-10T22:11:11+00:00",
+          "atualizado": "2026-09-12T13:05:19+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               138
             ]
           ]
@@ -578,6 +578,32 @@
             [
               "2026-09-12",
               145
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86584060",
+      "name": "Base de duche 140x70 cm branco mate Sensea Easy",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x70-cm-branco-mate-sensea-easy-86584060.html",
+      "dimensao": "140x70",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 169,
+          "preco_desconto": 21,
+          "preco_final": 148,
+          "atualizado": "2026-09-12T12:40:50+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              148
             ]
           ]
         }
@@ -643,32 +669,6 @@
           "history": [
             [
               "2026-09-10",
-              148
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86584060",
-      "name": "Base de duche 140x70 cm branco mate Sensea Easy",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x70-cm-branco-mate-sensea-easy-86584060.html",
-      "dimensao": "140x70",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 148,
-      "prices": [
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 169,
-          "preco_desconto": 21,
-          "preco_final": 148,
-          "atualizado": "2026-09-12T12:40:50+00:00",
-          "history": [
-            [
-              "2026-09-12",
               148
             ]
           ]
@@ -834,20 +834,6 @@
           ]
         },
         {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 158,
-          "preco_desconto": 0.0,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T22:13:19+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Santa Maria da Feira (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 192,
@@ -868,6 +854,20 @@
           "preco_desconto": 34,
           "preco_final": 158,
           "atualizado": "2026-09-12T12:48:56+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
+          "preco_final": 158,
+          "atualizado": "2026-09-12T12:56:48+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1388,6 +1388,62 @@
               167.2
             ]
           ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T12:56:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T13:05:19+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T13:12:58+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T13:20:41+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
         }
       ]
     },
@@ -1870,6 +1926,62 @@
           "preco_desconto": 111.6,
           "preco_final": 167.4,
           "atualizado": "2026-09-12T12:48:56+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T12:56:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T13:05:19+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T13:12:58+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T13:20:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -2748,6 +2860,62 @@
               211.2
             ]
           ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T12:56:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T13:05:19+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T13:12:58+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T13:20:41+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
         }
       ]
     },
@@ -3264,6 +3432,62 @@
           "preco_desconto": 156,
           "preco_final": 234,
           "atualizado": "2026-09-12T12:48:56+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T12:56:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T13:05:19+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T13:12:58+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T13:20:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -3868,6 +4092,62 @@
           "preco_desconto": 133.2,
           "preco_final": 310.8,
           "atualizado": "2026-09-12T12:48:56+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T12:56:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T13:05:19+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T13:12:58+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T13:20:41+00:00",
           "history": [
             [
               "2026-09-12",

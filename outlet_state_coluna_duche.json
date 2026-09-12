@@ -39,10 +39,10 @@
     "Santa Maria da Feira (Aveiro)": "2026-09-12T12:34:30+00:00",
     "Santarem (Santarem)": "2026-09-12T12:42:04+00:00",
     "Setubal (Setubal)": "2026-09-12T12:50:12+00:00",
-    "Sintra (Lisboa)": "2026-09-06T18:37:38+00:00",
-    "Telheiras (Lisboa)": "2026-09-06T18:34:16+00:00",
-    "Torres Novas (Santarem)": "2026-09-06T20:00:13+00:00",
-    "Torres Vedras (Lisboa)": "2026-09-06T18:44:34+00:00",
+    "Sintra (Lisboa)": "2026-09-12T12:58:04+00:00",
+    "Telheiras (Lisboa)": "2026-09-12T13:06:34+00:00",
+    "Torres Novas (Santarem)": "2026-09-12T13:14:10+00:00",
+    "Torres Vedras (Lisboa)": "2026-09-12T13:21:59+00:00",
     "Viana do Castelo (Viana do Castelo)": "2026-09-06T20:35:02+00:00",
     "Viseu (Viseu)": "2026-09-06T20:33:16+00:00"
   },
@@ -824,6 +824,90 @@
       "store": "Setubal (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
+    "81882097@Sintra (Lisboa)": {
+      "atualizado": "2026-09-12T12:58:04+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sintra (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Telheiras (Lisboa)": {
+      "atualizado": "2026-09-12T13:06:34+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Telheiras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Torres Novas (Santarem)": {
+      "atualizado": "2026-09-12T13:14:10+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Torres Novas (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
+    "81882097@Torres Vedras (Lisboa)": {
+      "atualizado": "2026-09-12T13:21:59+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-12",
+          209.3
+        ]
+      ],
+      "id": "81882097",
+      "m2_caixa": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "name": "Conjunto de duche regulável retro",
+      "preco_desconto": 89.7,
+      "preco_final": 209.3,
+      "preco_normal": 299,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Torres Vedras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
+    },
     "81882134@Penafiel (Porto)": {
       "atualizado": "2026-09-12T12:11:15+00:00",
       "dimensao": null,
@@ -846,11 +930,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-byron-81882134.html"
     },
     "81882134@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-09-06T18:44:34+00:00",
+      "atualizado": "2026-09-12T13:21:59+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           139
         ]
       ],
@@ -1287,11 +1371,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-start-clova-210-cromada-82559325.html"
     },
     "82559325@Torres Novas (Santarem)": {
-      "atualizado": "2026-09-06T20:00:13+00:00",
+      "atualizado": "2026-09-12T13:14:10+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           288
         ]
       ],
@@ -2547,11 +2631,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html"
     },
     "91776117@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-09-06T18:44:34+00:00",
+      "atualizado": "2026-09-12T13:21:59+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-06",
+          "2026-09-12",
           148
         ]
       ],
