@@ -4,10 +4,10 @@
     "Alfragide (Lisboa)": "2026-09-12T08:36:12+00:00",
     "Almada (Setubal)": "2026-09-02T16:07:10+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-12T08:44:03+00:00",
-    "Alverca (Lisboa)": "2026-09-02T15:57:17+00:00",
-    "Amadora (Lisboa)": "2026-09-02T15:48:42+00:00",
-    "Aveiro (Aveiro)": "2026-09-02T16:32:46+00:00",
-    "Barcelos (Braga)": "2026-09-02T16:29:48+00:00",
+    "Alverca (Lisboa)": "2026-09-12T08:51:52+00:00",
+    "Amadora (Lisboa)": "2026-09-12T08:59:42+00:00",
+    "Aveiro (Aveiro)": "2026-09-12T09:07:34+00:00",
+    "Barcelos (Braga)": "2026-09-12T09:15:19+00:00",
     "Barreiro (Setubal)": "2026-09-02T16:04:47+00:00",
     "Braga (Braga)": "2026-09-02T16:28:57+00:00",
     "Braganca (Braganca)": "2026-09-02T16:26:23+00:00",
@@ -153,11 +153,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-bege-15x15-cm-brilho-17195696.html"
     },
     "17326351@Aveiro (Aveiro)": {
-      "atualizado": "2026-09-02T16:32:46+00:00",
+      "atualizado": "2026-09-12T09:07:34+00:00",
       "dimensao": "33x33",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           19.98
         ]
       ],
@@ -888,11 +888,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-windsor-3d-grey-30x60-cm-81970168.html"
     },
     "81970168@Amadora (Lisboa)": {
-      "atualizado": "2026-09-02T15:48:42+00:00",
+      "atualizado": "2026-09-12T08:59:42+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           15.98
         ]
       ],
@@ -1076,6 +1076,27 @@
       "store": "Almada (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-arctic-branco-mate-30x90-cm-82222337.html"
     },
+    "82222337@Aveiro (Aveiro)": {
+      "atualizado": "2026-09-12T09:07:34+00:00",
+      "dimensao": "30x90",
+      "history": [
+        [
+          "2026-09-12",
+          18.98
+        ]
+      ],
+      "id": "82222337",
+      "m2_caixa": 1.08,
+      "marca": "ARTENS",
+      "name": "Revestimento cerâmico Artens Arctic branco mate 30x90 cm",
+      "preco_desconto": 3.69,
+      "preco_final": 18.98,
+      "preco_normal": 22.67,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Aveiro (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-artens-arctic-branco-mate-30x90-cm-82222337.html"
+    },
     "82258373@Castelo Branco (Castelo Branco)": {
       "atualizado": "2026-09-02T16:12:04+00:00",
       "dimensao": "45x45",
@@ -1161,11 +1182,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-harmony-zaragoza-20x120-cm-82460811.html"
     },
     "82478675@Amadora (Lisboa)": {
-      "atualizado": "2026-09-02T15:48:42+00:00",
+      "atualizado": "2026-09-12T08:59:42+00:00",
       "dimensao": "30x90",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           18.98
         ]
       ],
@@ -1622,6 +1643,27 @@
       "store": "Figueira da Foz (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-gayafores-calacatta-gold-60x120-cm-84463945.html"
     },
+    "84731916@Aveiro (Aveiro)": {
+      "atualizado": "2026-09-12T09:07:34+00:00",
+      "dimensao": "60x60",
+      "history": [
+        [
+          "2026-09-12",
+          18.98
+        ]
+      ],
+      "id": "84731916",
+      "m2_caixa": 1.08,
+      "marca": "ARTENS",
+      "name": "Pavimento cerâmico cinzento 60x60 cm Artens Manaa",
+      "preco_desconto": 4.12,
+      "preco_final": 18.98,
+      "preco_normal": 23.1,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Aveiro (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-cinzento-60x60-cm-artens-manaa-84731916.html"
+    },
     "84732059@Matosinhos (Porto)": {
       "atualizado": "2026-09-02T16:43:54+00:00",
       "dimensao": "20x120",
@@ -1875,11 +1917,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-artens-ar-pizarra-branco-30-3x61-3-cm-85063924.html"
     },
     "85105569@Amadora (Lisboa)": {
-      "atualizado": "2026-09-02T15:48:42+00:00",
+      "atualizado": "2026-09-12T08:59:42+00:00",
       "dimensao": "10x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           2.98
         ]
       ],
@@ -1959,11 +2001,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-taupe-7x29-cm-revigres-85105819.html"
     },
     "85105819@Alverca (Lisboa)": {
-      "atualizado": "2026-09-02T15:57:17+00:00",
+      "atualizado": "2026-09-12T08:51:52+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           3.98
         ]
       ],
@@ -2085,11 +2127,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-grid-cherry-36x43-cm-85105821.html"
     },
     "85105822@Aveiro (Aveiro)": {
-      "atualizado": "2026-09-02T16:32:46+00:00",
+      "atualizado": "2026-09-12T09:07:34+00:00",
       "dimensao": "36x43",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           3.98
         ]
       ],
@@ -2274,11 +2316,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-muse-coal-satin-60x60-cm-86757696.html"
     },
     "86757696@Amadora (Lisboa)": {
-      "atualizado": "2026-09-02T15:48:42+00:00",
+      "atualizado": "2026-09-12T08:59:42+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           17.98
         ]
       ],
@@ -2484,11 +2526,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-20x60-cm-cinza-brits-kala-87506287.html"
     },
     "87683787@Amadora (Lisboa)": {
-      "atualizado": "2026-09-02T15:48:42+00:00",
+      "atualizado": "2026-09-12T08:59:42+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           18.98
         ]
       ],
@@ -2757,11 +2799,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-preto-30x60-cm-gresart-slate-88771023.html"
     },
     "88805198@Alverca (Lisboa)": {
-      "atualizado": "2026-09-02T15:57:17+00:00",
+      "atualizado": "2026-09-12T08:51:52+00:00",
       "dimensao": "45x45",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           17.98
         ]
       ],
@@ -2967,11 +3009,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-revestimento-ceramico-artens-urban-prata-60x60-cm-antiderrapante-89168666.html"
     },
     "89168667@Amadora (Lisboa)": {
-      "atualizado": "2026-09-02T15:48:42+00:00",
+      "atualizado": "2026-09-12T08:59:42+00:00",
       "dimensao": "30x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           14.98
         ]
       ],
@@ -3261,11 +3303,11 @@
       "url": "https://www.leroymerlin.pt/produtos/pavimento-ceramico-15x75cm-deck-nute-90787390.html"
     },
     "93428964@Alverca (Lisboa)": {
-      "atualizado": "2026-09-02T15:57:17+00:00",
+      "atualizado": "2026-09-12T08:51:52+00:00",
       "dimensao": "60x60",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           22.87
         ]
       ],
@@ -3429,11 +3471,11 @@
       "url": "https://www.leroymerlin.pt/produtos/revestimento-ceramico-bliss-branco-30x90-cm-aleluia-93995400.html"
     },
     "93995400@Alverca (Lisboa)": {
-      "atualizado": "2026-09-02T15:57:17+00:00",
+      "atualizado": "2026-09-12T08:51:52+00:00",
       "dimensao": "30x90",
       "history": [
         [
-          "2026-09-02",
+          "2026-09-12",
           26.98
         ]
       ],

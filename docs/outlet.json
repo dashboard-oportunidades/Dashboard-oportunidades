@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T08:45:15+00:00",
+  "generated": "2026-09-12T09:16:32+00:00",
   "products": [
     {
       "id": "81992803",
@@ -132,6 +132,46 @@
       ]
     },
     {
+      "id": "91835310",
+      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835310.html",
+      "dimensao": null,
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 118,
+      "prices": [
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 139,
+          "preco_desconto": 21,
+          "preco_final": 118,
+          "atualizado": "2026-09-10T21:57:48+00:00",
+          "history": [
+            [
+              "2026-09-10",
+              118
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 139,
+          "preco_desconto": 21,
+          "preco_final": 118,
+          "atualizado": "2026-09-12T08:54:33+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              118
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "91835295",
       "name": "Base de duche Resina 100x70 cm branco mate Sensea Easy V2",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-100x70-cm-branco-mate-sensea-easy-v2-91835295.html",
@@ -147,50 +187,10 @@
           "preco_normal": 139,
           "preco_desconto": 21,
           "preco_final": 118,
-          "atualizado": "2026-09-10T21:46:06+00:00",
+          "atualizado": "2026-09-12T09:10:18+00:00",
           "history": [
             [
-              "2026-09-10",
-              118
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "91835310",
-      "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835310.html",
-      "dimensao": null,
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 118,
-      "prices": [
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 139,
-          "preco_desconto": 21,
-          "preco_final": 118,
-          "atualizado": "2026-09-10T22:15:02+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              118
-            ]
-          ]
-        },
-        {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 139,
-          "preco_desconto": 21,
-          "preco_final": 118,
-          "atualizado": "2026-09-10T21:57:48+00:00",
-          "history": [
-            [
-              "2026-09-10",
+              "2026-09-12",
               118
             ]
           ]
@@ -293,10 +293,10 @@
           "preco_normal": 199,
           "preco_desconto": 70,
           "preco_final": 129,
-          "atualizado": "2026-09-10T21:59:41+00:00",
+          "atualizado": "2026-09-12T08:47:05+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               129
             ]
           ]
@@ -394,20 +394,6 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-09-10T22:15:02+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Torres Novas (Santarem)",
           "region": "Santarem",
           "preco_normal": 159,
@@ -417,6 +403,20 @@
           "history": [
             [
               "2026-09-10",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-12T08:54:33+00:00",
+          "history": [
+            [
+              "2026-09-12",
               138
             ]
           ]
@@ -790,20 +790,6 @@
       "preco_final": 158,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T22:15:02+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 192,
@@ -900,6 +886,20 @@
               158
             ]
           ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-12T08:54:33+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              158
+            ]
+          ]
         }
       ]
     },
@@ -966,6 +966,62 @@
               167.2
             ]
           ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T08:47:05+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T08:54:33+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T09:02:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T09:10:18+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
         }
       ]
     },
@@ -1000,6 +1056,62 @@
           "preco_desconto": 111.6,
           "preco_final": 167.4,
           "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T08:47:05+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T08:54:33+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T09:02:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T09:10:18+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1133,10 +1245,10 @@
           "preco_normal": 334,
           "preco_desconto": 156,
           "preco_final": 178,
-          "atualizado": "2026-09-10T21:46:06+00:00",
+          "atualizado": "2026-09-12T09:10:18+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               178
             ]
           ]
@@ -1279,10 +1391,10 @@
           "preco_normal": 289,
           "preco_desconto": 100,
           "preco_final": 189,
-          "atualizado": "2026-09-10T21:59:41+00:00",
+          "atualizado": "2026-09-12T08:47:05+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               189
             ]
           ]
@@ -1326,20 +1438,6 @@
       "preco_final": 198,
       "prices": [
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 239,
-          "preco_desconto": 41,
-          "preco_final": 198,
-          "atualizado": "2026-09-10T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              198
-            ]
-          ]
-        },
-        {
           "store": "Alta de Lisboa (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 198,
@@ -1349,6 +1447,20 @@
           "history": [
             [
               "2026-09-12",
+              198
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 239,
+          "preco_desconto": 41,
+          "preco_final": 198,
+          "atualizado": "2026-09-10T22:02:55+00:00",
+          "history": [
+            [
+              "2026-09-10",
               198
             ]
           ]
@@ -1438,6 +1550,62 @@
           "preco_desconto": 52.8,
           "preco_final": 211.2,
           "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T08:47:05+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T08:54:33+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T09:02:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T09:10:18+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1582,6 +1750,48 @@
           "preco_desconto": 156,
           "preco_final": 234,
           "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 318,
+          "preco_desconto": 84,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T08:47:05+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T08:54:33+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T09:02:23+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1752,6 +1962,62 @@
           "preco_desconto": 133.2,
           "preco_final": 310.8,
           "atualizado": "2026-09-12T08:38:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T08:47:05+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T08:54:33+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T09:02:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T09:10:18+00:00",
           "history": [
             [
               "2026-09-12",

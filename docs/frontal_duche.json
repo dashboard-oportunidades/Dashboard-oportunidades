@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T08:45:15+00:00",
+  "generated": "2026-09-12T09:16:32+00:00",
   "products": [
     {
       "id": "87870009",
@@ -134,32 +134,6 @@
       ]
     },
     {
-      "id": "82209755",
-      "name": "Porta de duche transparente cromado 100x195 cm Sensea Remix",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-100x195-cm-sensea-remix-82209755.html",
-      "dimensao": "100x195",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 228,
-      "prices": [
-        {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
-          "preco_final": 228,
-          "atualizado": "2026-09-01T14:12:50+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              228
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82209770",
       "name": "Porta de duche de batente transparente cromado 80x195 cm Sensea Remix",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-80x195-cm-sensea-remix-82209770.html",
@@ -224,20 +198,6 @@
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
-          "preco_final": 228,
-          "atualizado": "2026-09-01T14:47:11+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              228
-            ]
-          ]
-        },
-        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 279,
@@ -261,6 +221,20 @@
           "history": [
             [
               "2026-09-01",
+              228
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
+          "preco_final": 228,
+          "atualizado": "2026-09-12T09:04:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
               228
             ]
           ]
@@ -356,20 +330,6 @@
       "preco_final": 268,
       "prices": [
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 319,
-          "preco_desconto": 51,
-          "preco_final": 268,
-          "atualizado": "2026-09-01T14:47:11+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              268
-            ]
-          ]
-        },
-        {
           "store": "Evora (Evora)",
           "region": "Evora",
           "preco_normal": 319,
@@ -393,6 +353,20 @@
           "history": [
             [
               "2026-09-01",
+              268
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 319,
+          "preco_desconto": 51,
+          "preco_final": 268,
+          "atualizado": "2026-09-12T09:04:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
               268
             ]
           ]
@@ -478,32 +452,6 @@
       ]
     },
     {
-      "id": "81905996",
-      "name": "Porta de duche106-116 cm Apolo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche106-116-cm-apolo-81905996.html",
-      "dimensao": null,
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 278,
-      "prices": [
-        {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 419,
-          "preco_desconto": 141,
-          "preco_final": 278,
-          "atualizado": "2026-09-01T14:43:55+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              278
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82209762",
       "name": "Porta de duche serigrafada cromado 140x195 cm Sensea Remix",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-140x195-cm-sensea-remix-82209762.html",
@@ -523,6 +471,32 @@
           "history": [
             [
               "2026-09-01",
+              278
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81905996",
+      "name": "Porta de duche106-116 cm Apolo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche106-116-cm-apolo-81905996.html",
+      "dimensao": null,
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 278,
+      "prices": [
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 419,
+          "preco_desconto": 141,
+          "preco_final": 278,
+          "atualizado": "2026-09-12T09:12:50+00:00",
+          "history": [
+            [
+              "2026-09-12",
               278
             ]
           ]
@@ -712,34 +686,6 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-09-01T13:57:14+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              358
-            ]
-          ]
-        },
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-09-01T14:47:11+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              358
-            ]
-          ]
-        },
-        {
           "store": "Braga (Braga)",
           "region": "Braga",
           "preco_normal": 436,
@@ -822,6 +768,34 @@
               358
             ]
           ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-12T08:57:06+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-12T09:04:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              358
+            ]
+          ]
         }
       ]
     },
@@ -888,20 +862,6 @@
       "preco_final": 388,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 474,
-          "preco_desconto": 86,
-          "preco_final": 388,
-          "atualizado": "2026-09-01T13:57:14+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 474,
@@ -911,6 +871,20 @@
           "history": [
             [
               "2026-09-01",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 474,
+          "preco_desconto": 86,
+          "preco_final": 388,
+          "atualizado": "2026-09-12T08:57:06+00:00",
+          "history": [
+            [
+              "2026-09-12",
               388
             ]
           ]
@@ -994,20 +968,6 @@
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 418,
-          "preco_desconto": 0.0,
-          "preco_final": 418,
-          "atualizado": "2026-09-01T14:47:11+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              418
-            ]
-          ]
-        },
-        {
           "store": "Braga (Braga)",
           "region": "Braga",
           "preco_normal": 509,
@@ -1045,6 +1005,20 @@
           "history": [
             [
               "2026-09-01",
+              418
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 418,
+          "preco_desconto": 0.0,
+          "preco_final": 418,
+          "atualizado": "2026-09-12T09:04:55+00:00",
+          "history": [
+            [
+              "2026-09-12",
               418
             ]
           ]
