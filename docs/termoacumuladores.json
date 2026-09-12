@@ -1,12 +1,12 @@
 {
-  "generated": "2026-09-12T11:21:54+00:00",
+  "generated": "2026-09-12T11:53:04+00:00",
   "products": [
     {
       "id": "82005354",
       "name": "Termoacumulador EQUATION Q2 100L",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-100l-82005354.html",
       "dimensao": "100L",
-      "marca": null,
+      "marca": "EQUATION",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 148,
@@ -17,10 +17,10 @@
           "preco_normal": 198,
           "preco_desconto": 50,
           "preco_final": 148,
-          "atualizado": "2026-09-01T13:06:16+00:00",
+          "atualizado": "2026-09-12T11:37:35+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               148
             ]
           ]
@@ -132,32 +132,6 @@
       ]
     },
     {
-      "id": "81988416",
-      "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html",
-      "dimensao": "100L",
-      "marca": null,
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 228,
-      "prices": [
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 274,
-          "preco_desconto": 46,
-          "preco_final": 228,
-          "atualizado": "2026-09-01T13:11:09+00:00",
-          "history": [
-            [
-              "2026-09-01",
-              228
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "89834463",
       "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
@@ -174,6 +148,32 @@
           "preco_desconto": 42,
           "preco_final": 228,
           "atualizado": "2026-09-12T09:24:28+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              228
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81988416",
+      "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html",
+      "dimensao": "100L",
+      "marca": "ARISTON",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 228,
+      "prices": [
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 274,
+          "preco_desconto": 46,
+          "preco_final": 228,
+          "atualizado": "2026-09-12T11:53:04+00:00",
           "history": [
             [
               "2026-09-12",
@@ -348,7 +348,7 @@
       "name": "Termoacumulador Haier Flat ES100-FE3W 100L",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-haier-flat-es100-fe3w-100l-99460565.html",
       "dimensao": "100L",
-      "marca": null,
+      "marca": "HAIER",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 349,
@@ -359,10 +359,10 @@
           "preco_normal": 349,
           "preco_desconto": 0.0,
           "preco_final": 349,
-          "atualizado": "2026-09-01T13:11:09+00:00",
+          "atualizado": "2026-09-12T11:53:04+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               349
             ]
           ]
@@ -427,10 +427,10 @@
           "preco_normal": 469,
           "preco_desconto": 81,
           "preco_final": 388,
-          "atualizado": "2026-09-01T13:11:09+00:00",
+          "atualizado": "2026-09-12T11:53:04+00:00",
           "history": [
             [
-              "2026-09-01",
+              "2026-09-12",
               388
             ]
           ]

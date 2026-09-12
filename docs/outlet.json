@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T11:21:54+00:00",
+  "generated": "2026-09-12T11:53:04+00:00",
   "products": [
     {
       "id": "81992803",
@@ -80,32 +80,6 @@
       ]
     },
     {
-      "id": "91835298",
-      "name": "Base de duche Resina 90x70 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-90x70-cm-branco-mate-sensea-easy-v2-91835298.html",
-      "dimensao": "90x70",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 108,
-      "prices": [
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 129,
-          "preco_desconto": 21,
-          "preco_final": 108,
-          "atualizado": "2026-09-12T09:42:08+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              108
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "91835292",
       "name": "Base de duche Resina 1/4C 80 cm branco mate Sensea Easy V2",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-1-4c-80-cm-branco-mate-sensea-easy-v2-91835292.html",
@@ -122,6 +96,32 @@
           "preco_desconto": 21,
           "preco_final": 108,
           "atualizado": "2026-09-12T10:52:31+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              108
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91835298",
+      "name": "Base de duche Resina 90x70 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-90x70-cm-branco-mate-sensea-easy-v2-91835298.html",
+      "dimensao": "90x70",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 108,
+      "prices": [
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 129,
+          "preco_desconto": 21,
+          "preco_final": 108,
+          "atualizado": "2026-09-12T09:42:08+00:00",
           "history": [
             [
               "2026-09-12",
@@ -434,20 +434,6 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-09-10T22:18:25+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Santa Maria da Feira (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 159,
@@ -457,6 +443,20 @@
           "history": [
             [
               "2026-09-10",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-12T11:47:00+00:00",
+          "history": [
+            [
+              "2026-09-12",
               138
             ]
           ]
@@ -778,48 +778,6 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T21:22:14+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 158,
-          "preco_desconto": 0.0,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T21:49:26+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-10T22:18:25+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 192,
@@ -871,6 +829,48 @@
           "history": [
             [
               "2026-09-10",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-12T11:31:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
+          "preco_final": 158,
+          "atualizado": "2026-09-12T11:39:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-12T11:47:00+00:00",
+          "history": [
+            [
+              "2026-09-12",
               158
             ]
           ]
@@ -1220,6 +1220,62 @@
               167.2
             ]
           ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T11:23:38+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T11:31:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T11:39:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-12T11:47:00+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.2
+            ]
+          ]
         }
       ]
     },
@@ -1540,6 +1596,62 @@
               167.4
             ]
           ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T11:23:38+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T11:31:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T11:39:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-12T11:47:00+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              167.4
+            ]
+          ]
         }
       ]
     },
@@ -1582,20 +1694,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-09-10T21:36:41+00:00",
-          "history": [
-            [
-              "2026-09-10",
-              168
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 199,
@@ -1619,6 +1717,20 @@
           "history": [
             [
               "2026-09-12",
+              168
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-09-10T21:36:41+00:00",
+          "history": [
+            [
+              "2026-09-10",
               168
             ]
           ]
@@ -1747,10 +1859,10 @@
           "preco_normal": 274,
           "preco_desconto": 94.02,
           "preco_final": 179.98,
-          "atualizado": "2026-09-10T21:49:26+00:00",
+          "atualizado": "2026-09-12T11:39:03+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               179.98
             ]
           ]
@@ -2258,6 +2370,62 @@
               211.2
             ]
           ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T11:23:38+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T11:31:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T11:39:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 52.8,
+          "preco_final": 211.2,
+          "atualizado": "2026-09-12T11:47:00+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              211.2
+            ]
+          ]
         }
       ]
     },
@@ -2277,10 +2445,10 @@
           "preco_normal": 259,
           "preco_desconto": 41,
           "preco_final": 218,
-          "atualizado": "2026-09-10T22:18:25+00:00",
+          "atualizado": "2026-09-12T11:47:00+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               218
             ]
           ]
@@ -2640,30 +2808,60 @@
               234
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "84227384",
-      "name": "Base de duche 160x80 cm creme mate efeito ardósia Obath Greenpact",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x80-cm-creme-mate-efeito-ardosia-obath-greenpact-84227384.html",
-      "dimensao": "160x80",
-      "marca": "OBATH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 248,
-      "prices": [
+        },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 339,
-          "preco_desconto": 91,
-          "preco_final": 248,
-          "atualizado": "2026-09-10T21:45:15+00:00",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T11:23:38+00:00",
           "history": [
             [
-              "2026-09-10",
-              248
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T11:31:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T11:39:03+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 390,
+          "preco_desconto": 156,
+          "preco_final": 234,
+          "atualizado": "2026-09-12T11:47:00+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              234
             ]
           ]
         }
@@ -2689,6 +2887,32 @@
           "history": [
             [
               "2026-09-12",
+              248
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84227384",
+      "name": "Base de duche 160x80 cm creme mate efeito ardósia Obath Greenpact",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x80-cm-creme-mate-efeito-ardosia-obath-greenpact-84227384.html",
+      "dimensao": "160x80",
+      "marca": "OBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 248,
+      "prices": [
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 339,
+          "preco_desconto": 91,
+          "preco_final": 248,
+          "atualizado": "2026-09-10T21:45:15+00:00",
+          "history": [
+            [
+              "2026-09-10",
               248
             ]
           ]
@@ -2737,10 +2961,10 @@
           "preco_normal": 364,
           "preco_desconto": 84.02,
           "preco_final": 279.98,
-          "atualizado": "2026-09-10T21:49:26+00:00",
+          "atualizado": "2026-09-12T11:39:03+00:00",
           "history": [
             [
-              "2026-09-10",
+              "2026-09-12",
               279.98
             ]
           ]
@@ -3084,6 +3308,48 @@
           "preco_desconto": 133.2,
           "preco_final": 310.8,
           "atualizado": "2026-09-12T11:15:32+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T11:23:38+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T11:31:23+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              310.8
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 444,
+          "preco_desconto": 133.2,
+          "preco_final": 310.8,
+          "atualizado": "2026-09-12T11:47:00+00:00",
           "history": [
             [
               "2026-09-12",

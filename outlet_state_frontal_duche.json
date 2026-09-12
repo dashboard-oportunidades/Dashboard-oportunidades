@@ -24,10 +24,10 @@
     "Gaia (Porto)": "2026-09-12T11:02:38+00:00",
     "Gondomar (Porto)": "2026-09-12T11:10:26+00:00",
     "Guarda (Guarda)": "2026-09-12T11:18:04+00:00",
-    "Guimaraes (Braga)": "2026-09-01T14:45:34+00:00",
-    "Leiria (Leiria)": "2026-09-01T14:38:42+00:00",
-    "Loule (Faro)": "2026-09-01T14:13:36+00:00",
-    "Loures (Lisboa)": "2026-09-01T13:53:51+00:00",
+    "Guimaraes (Braga)": "2026-09-12T11:26:08+00:00",
+    "Leiria (Leiria)": "2026-09-12T11:33:51+00:00",
+    "Loule (Faro)": "2026-09-12T11:41:32+00:00",
+    "Loures (Lisboa)": "2026-09-12T11:49:22+00:00",
     "Mafra (Lisboa)": "2026-09-01T14:09:19+00:00",
     "Maia (Porto)": "2026-09-01T14:58:17+00:00",
     "Matosinhos (Porto)": "2026-09-01T14:56:38+00:00",
@@ -87,20 +87,23 @@
       "url": "https://www.leroymerlin.pt/produtos/lateral-de-duche-cavado-fixo-80-cm-vidro-temperado-cromado-perfilgold-16954525.html"
     },
     "16954595@Leiria (Leiria)": {
-      "atualizado": "2026-09-01T14:38:42+00:00",
+      "atualizado": "2026-09-12T11:33:51+00:00",
       "dimensao": "124x129",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           428
         ]
       ],
       "id": "16954595",
+      "m2_caixa": null,
+      "marca": "PERFILGOLD",
       "name": "Frontal de duche 124x129 cm cavado de correr",
       "preco_desconto": 0.0,
       "preco_final": 428,
       "preco_normal": 428,
       "region": "Leiria",
+      "retificado": false,
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/frontal-de-duche-124x129-cm-cavado-de-correr-16954595.html"
     },
@@ -126,20 +129,23 @@
       "url": "https://www.leroymerlin.pt/produtos/lateral-de-duche-70-cm-sensea-quad-19318313.html"
     },
     "19318313@Leiria (Leiria)": {
-      "atualizado": "2026-09-01T14:38:42+00:00",
+      "atualizado": "2026-09-12T11:33:51+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           138
         ]
       ],
       "id": "19318313",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Lateral de duche 70 cm Sensea Quad",
       "preco_desconto": 0.0,
       "preco_final": 138,
       "preco_normal": 138,
       "region": "Leiria",
+      "retificado": false,
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/lateral-de-duche-70-cm-sensea-quad-19318313.html"
     },
@@ -390,20 +396,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-160x195-cm-sensea-remix-82209765.html"
     },
     "82209765@Leiria (Leiria)": {
-      "atualizado": "2026-09-01T14:38:42+00:00",
+      "atualizado": "2026-09-12T11:33:51+00:00",
       "dimensao": "160x195",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           308
         ]
       ],
       "id": "82209765",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Porta de duche serigrafada cromado 160x195 cm Sensea Remix",
       "preco_desconto": 61,
       "preco_final": 308,
       "preco_normal": 369,
       "region": "Leiria",
+      "retificado": false,
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-160x195-cm-sensea-remix-82209765.html"
     },
@@ -726,20 +735,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-140x200-cm-sensea-neo-82242437.html"
     },
     "82242437@Leiria (Leiria)": {
-      "atualizado": "2026-09-01T14:38:42+00:00",
+      "atualizado": "2026-09-12T11:33:51+00:00",
       "dimensao": "140x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           418
         ]
       ],
       "id": "82242437",
+      "m2_caixa": null,
+      "marca": "SENSEA",
       "name": "Porta de duche + 2 portas transparente cromado 140x200 cm Sensea Neo",
       "preco_desconto": 0.0,
       "preco_final": 418,
       "preco_normal": 418,
       "region": "Leiria",
+      "retificado": false,
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-140x200-cm-sensea-neo-82242437.html"
     },
@@ -924,20 +936,23 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82281795@Loule (Faro)": {
-      "atualizado": "2026-09-01T14:13:36+00:00",
+      "atualizado": "2026-09-12T11:41:32+00:00",
       "dimensao": "116x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           418
         ]
       ],
       "id": "82281795",
+      "m2_caixa": null,
+      "marca": "PROFILTEK",
       "name": "Porta de duche + porta de correr cromado 116x200 cm Cool Free",
       "preco_desconto": 91,
       "preco_final": 418,
       "preco_normal": 509,
       "region": "Faro",
+      "retificado": false,
       "store": "Loule (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-porta-de-correr-cromado-116x200-cm-cool-free-82281795.html"
     },
@@ -1242,38 +1257,44 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
     },
     "87274291@Leiria (Leiria)": {
-      "atualizado": "2026-09-01T14:38:42+00:00",
+      "atualizado": "2026-09-12T11:33:51+00:00",
       "dimensao": "120x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           358
         ]
       ],
       "id": "87274291",
+      "m2_caixa": null,
+      "marca": "ROCA",
       "name": "Porta de duche 2 folhas 120x200 cm cromado transparente Roca Apolo",
       "preco_desconto": 78,
       "preco_final": 358,
       "preco_normal": 436,
       "region": "Leiria",
+      "retificado": false,
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
     },
     "87274291@Loule (Faro)": {
-      "atualizado": "2026-09-01T14:13:36+00:00",
+      "atualizado": "2026-09-12T11:41:32+00:00",
       "dimensao": "120x200",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           358
         ]
       ],
       "id": "87274291",
+      "m2_caixa": null,
+      "marca": "ROCA",
       "name": "Porta de duche 2 folhas 120x200 cm cromado transparente Roca Apolo",
       "preco_desconto": 78,
       "preco_final": 358,
       "preco_normal": 436,
       "region": "Faro",
+      "retificado": false,
       "store": "Loule (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
     },

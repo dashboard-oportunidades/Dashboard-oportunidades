@@ -24,10 +24,10 @@
     "Gaia (Porto)": "2026-09-12T11:06:26+00:00",
     "Gondomar (Porto)": "2026-09-12T11:14:04+00:00",
     "Guarda (Guarda)": "2026-09-12T11:21:54+00:00",
-    "Guimaraes (Braga)": "2026-09-01T13:04:35+00:00",
-    "Leiria (Leiria)": "2026-09-01T13:06:16+00:00",
-    "Loule (Faro)": "2026-09-01T13:07:54+00:00",
-    "Loures (Lisboa)": "2026-09-01T13:11:09+00:00",
+    "Guimaraes (Braga)": "2026-09-12T11:29:55+00:00",
+    "Leiria (Leiria)": "2026-09-12T11:37:35+00:00",
+    "Loule (Faro)": "2026-09-12T11:45:32+00:00",
+    "Loures (Lisboa)": "2026-09-12T11:53:04+00:00",
     "Mafra (Lisboa)": "2026-09-01T13:46:11+00:00",
     "Maia (Porto)": "2026-09-01T13:44:38+00:00",
     "Matosinhos (Porto)": "2026-09-01T13:42:52+00:00",
@@ -225,38 +225,44 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-80l-81940804.html"
     },
     "81940804@Loures (Lisboa)": {
-      "atualizado": "2026-09-01T13:11:09+00:00",
+      "atualizado": "2026-09-12T11:53:04+00:00",
       "dimensao": "80L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           388
         ]
       ],
       "id": "81940804",
+      "m2_caixa": null,
+      "marca": null,
       "name": "Termoacumulador indimante inox tel1500w v/h 80l",
       "preco_desconto": 81,
       "preco_final": 388,
       "preco_normal": 469,
       "region": "Lisboa",
+      "retificado": false,
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-80l-81940804.html"
     },
     "81988416@Loures (Lisboa)": {
-      "atualizado": "2026-09-01T13:11:09+00:00",
+      "atualizado": "2026-09-12T11:53:04+00:00",
       "dimensao": "100L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           228
         ]
       ],
       "id": "81988416",
+      "m2_caixa": null,
+      "marca": "ARISTON",
       "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
       "preco_desconto": 46,
       "preco_final": 228,
       "preco_normal": 274,
       "region": "Lisboa",
+      "retificado": false,
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html"
     },
@@ -282,20 +288,23 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-50l-82005350.html"
     },
     "82005354@Leiria (Leiria)": {
-      "atualizado": "2026-09-01T13:06:16+00:00",
+      "atualizado": "2026-09-12T11:37:35+00:00",
       "dimensao": "100L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           148
         ]
       ],
       "id": "82005354",
+      "m2_caixa": null,
+      "marca": "EQUATION",
       "name": "Termoacumulador EQUATION Q2 100L",
       "preco_desconto": 50,
       "preco_final": 148,
       "preco_normal": 198,
       "region": "Leiria",
+      "retificado": false,
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-100l-82005354.html"
     },
@@ -444,20 +453,23 @@
       "url": "https://www.leroymerlin.pt/produtos/termo-vertical-htw-smart-lite-funcao-smart-e-anodo-eletronico-100l-95933346.html"
     },
     "99460565@Loures (Lisboa)": {
-      "atualizado": "2026-09-01T13:11:09+00:00",
+      "atualizado": "2026-09-12T11:53:04+00:00",
       "dimensao": "100L",
       "history": [
         [
-          "2026-09-01",
+          "2026-09-12",
           349
         ]
       ],
       "id": "99460565",
+      "m2_caixa": null,
+      "marca": "HAIER",
       "name": "Termoacumulador Haier Flat ES100-FE3W 100L",
       "preco_desconto": 0.0,
       "preco_final": 349,
       "preco_normal": 349,
       "region": "Lisboa",
+      "retificado": false,
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-haier-flat-es100-fe3w-100l-99460565.html"
     }

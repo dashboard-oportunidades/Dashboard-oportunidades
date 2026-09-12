@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T11:21:54+00:00",
+  "generated": "2026-09-12T11:53:04+00:00",
   "products": [
     {
       "id": "17364851",
@@ -94,15 +94,15 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 179,
           "preco_desconto": 31,
           "preco_final": 148,
-          "atualizado": "2026-09-06T20:16:21+00:00",
+          "atualizado": "2026-09-12T11:16:48+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               148
             ]
           ]
@@ -122,12 +122,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 179,
           "preco_desconto": 31,
           "preco_final": 148,
-          "atualizado": "2026-09-12T11:16:48+00:00",
+          "atualizado": "2026-09-12T11:24:51+00:00",
           "history": [
             [
               "2026-09-12",
@@ -198,32 +198,6 @@
             [
               "2026-09-12",
               147
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82360350",
-      "name": "Conjunto de duche PARIS CROMADO",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-82360350.html",
-      "dimensao": null,
-      "marca": "DEFEROM",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 158,
-      "prices": [
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 189,
-          "preco_desconto": 31,
-          "preco_final": 158,
-          "atualizado": "2026-09-06T20:09:39+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              158
             ]
           ]
         }
@@ -338,34 +312,6 @@
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-06T18:32:41+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 248,
-          "preco_desconto": 0.0,
-          "preco_final": 248,
-          "atualizado": "2026-09-06T20:33:16+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              248
-            ]
-          ]
-        },
-        {
           "store": "Figueira da Foz (Coimbra)",
           "region": "Coimbra",
           "preco_normal": 248,
@@ -386,6 +332,34 @@
           "preco_desconto": 51,
           "preco_final": 248,
           "atualizado": "2026-09-12T11:01:26+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 248,
+          "preco_desconto": 0.0,
+          "preco_final": 248,
+          "atualizado": "2026-09-06T20:33:16+00:00",
+          "history": [
+            [
+              "2026-09-06",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-12T11:48:12+00:00",
           "history": [
             [
               "2026-09-12",
@@ -415,6 +389,32 @@
           "history": [
             [
               "2026-09-06",
+              158
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82360350",
+      "name": "Conjunto de duche PARIS CROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-82360350.html",
+      "dimensao": null,
+      "marca": "DEFEROM",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 158,
+      "prices": [
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 189,
+          "preco_desconto": 31,
+          "preco_final": 158,
+          "atualizado": "2026-09-12T11:32:41+00:00",
+          "history": [
+            [
+              "2026-09-12",
               158
             ]
           ]
@@ -460,20 +460,6 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 288,
-          "preco_desconto": 0.0,
-          "preco_final": 288,
-          "atualizado": "2026-09-06T20:09:39+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              288
-            ]
-          ]
-        },
-        {
           "store": "Maia (Porto)",
           "region": "Porto",
           "preco_normal": 349,
@@ -511,6 +497,20 @@
           "history": [
             [
               "2026-09-06",
+              288
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 288,
+          "preco_desconto": 0.0,
+          "preco_final": 288,
+          "atualizado": "2026-09-12T11:32:41+00:00",
+          "history": [
+            [
+              "2026-09-12",
               288
             ]
           ]
@@ -834,6 +834,62 @@
               209.3
             ]
           ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T11:24:51+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T11:32:41+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T11:40:18+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T11:48:12+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
         }
       ]
     },
@@ -848,15 +904,15 @@
       "preco_final": 218,
       "prices": [
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
           "preco_normal": 259,
           "preco_desconto": 41,
           "preco_final": 218,
-          "atualizado": "2026-09-06T18:47:51+00:00",
+          "atualizado": "2026-09-12T11:01:26+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               218
             ]
           ]
@@ -890,12 +946,12 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
+          "store": "Loule (Faro)",
+          "region": "Faro",
           "preco_normal": 259,
           "preco_desconto": 41,
           "preco_final": 218,
-          "atualizado": "2026-09-12T11:01:26+00:00",
+          "atualizado": "2026-09-12T11:40:18+00:00",
           "history": [
             [
               "2026-09-12",
@@ -930,26 +986,26 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
-          "preco_final": 228,
-          "atualizado": "2026-09-06T20:09:39+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              228
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 279,
           "preco_desconto": 51,
           "preco_final": 228,
           "atualizado": "2026-09-12T11:16:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              228
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
+          "preco_final": 228,
+          "atualizado": "2026-09-12T11:32:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1001,10 +1057,10 @@
           "preco_normal": 344,
           "preco_desconto": 56,
           "preco_final": 288,
-          "atualizado": "2026-09-06T20:09:39+00:00",
+          "atualizado": "2026-09-12T11:32:41+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               288
             ]
           ]
@@ -1041,10 +1097,10 @@
           "preco_normal": 579,
           "preco_desconto": 111,
           "preco_final": 468,
-          "atualizado": "2026-09-06T18:32:41+00:00",
+          "atualizado": "2026-09-12T11:48:12+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               468
             ]
           ]
@@ -1214,15 +1270,29 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-09-12T11:09:12+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 479,
           "preco_desconto": 91,
           "preco_final": 388,
-          "atualizado": "2026-09-06T18:47:51+00:00",
+          "atualizado": "2026-09-12T11:16:48+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               388
             ]
           ]
@@ -1298,26 +1368,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-12T11:09:12+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Loule (Faro)",
+          "region": "Faro",
           "preco_normal": 479,
           "preco_desconto": 91,
           "preco_final": 388,
-          "atualizado": "2026-09-12T11:16:48+00:00",
+          "atualizado": "2026-09-12T11:40:18+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1422,15 +1478,15 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-06T20:09:39+00:00",
+          "atualizado": "2026-09-12T11:01:26+00:00",
           "history": [
             [
-              "2026-09-06",
+              "2026-09-12",
               408
             ]
           ]
@@ -1464,12 +1520,12 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-12T11:01:26+00:00",
+          "atualizado": "2026-09-12T11:32:41+00:00",
           "history": [
             [
               "2026-09-12",
@@ -1532,6 +1588,20 @@
           ]
         },
         {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-09-12T11:16:48+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              468
+            ]
+          ]
+        },
+        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 569,
@@ -1555,20 +1625,6 @@
           "history": [
             [
               "2026-09-06",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-09-12T11:16:48+00:00",
-          "history": [
-            [
-              "2026-09-12",
               468
             ]
           ]
@@ -1600,20 +1656,6 @@
           ]
         },
         {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 429,
-          "preco_desconto": 81,
-          "preco_final": 348,
-          "atualizado": "2026-09-06T20:02:06+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              348
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 429,
@@ -1637,6 +1679,20 @@
           "history": [
             [
               "2026-09-12",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 429,
+          "preco_desconto": 81,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T20:02:06+00:00",
+          "history": [
+            [
+              "2026-09-06",
               348
             ]
           ]
@@ -1682,20 +1738,6 @@
           ]
         },
         {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 348,
-          "preco_desconto": 0.0,
-          "preco_final": 348,
-          "atualizado": "2026-09-06T19:55:03+00:00",
-          "history": [
-            [
-              "2026-09-06",
-              348
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 348,
@@ -1719,6 +1761,20 @@
           "history": [
             [
               "2026-09-12",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 348,
+          "preco_desconto": 0.0,
+          "preco_final": 348,
+          "atualizado": "2026-09-06T19:55:03+00:00",
+          "history": [
+            [
+              "2026-09-06",
               348
             ]
           ]
