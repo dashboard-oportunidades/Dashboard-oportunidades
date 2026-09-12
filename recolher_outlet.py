@@ -418,7 +418,7 @@ def main() -> int:
         try:
             for i, store in enumerate(stores):
                 if i > 0:
-                    pausa = random.uniform(30, 45)
+                    pausa = 25
                     print(f"  (pausa de {pausa:.0f}s antes da proxima loja)")
                     time.sleep(pausa)
 
