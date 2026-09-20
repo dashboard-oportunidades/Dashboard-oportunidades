@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T10:19:29+00:00",
+  "generated": "2026-09-20T10:49:43+00:00",
   "products": [
     {
       "id": "82005354",
@@ -215,10 +215,10 @@
           "preco_normal": 449,
           "preco_desconto": 151,
           "preco_final": 298,
-          "atualizado": "2026-09-12T12:00:53+00:00",
+          "atualizado": "2026-09-20T10:27:25+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               298
             ]
           ]
@@ -254,32 +254,6 @@
       ]
     },
     {
-      "id": "89834463",
-      "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
-      "dimensao": "100L",
-      "marca": "BOSCH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 228,
-      "prices": [
-        {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 270,
-          "preco_desconto": 42,
-          "preco_final": 228,
-          "atualizado": "2026-09-20T07:57:53+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              228
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "81988416",
       "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html",
@@ -296,6 +270,32 @@
           "preco_desconto": 46,
           "preco_final": 228,
           "atualizado": "2026-09-20T10:19:28+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              228
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89834463",
+      "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
+      "dimensao": "100L",
+      "marca": "BOSCH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 228,
+      "prices": [
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 270,
+          "preco_desconto": 42,
+          "preco_final": 228,
+          "atualizado": "2026-09-20T07:57:53+00:00",
           "history": [
             [
               "2026-09-20",
