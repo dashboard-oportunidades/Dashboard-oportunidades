@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T08:48:02+00:00",
+  "generated": "2026-09-20T09:18:46+00:00",
   "products": [
     {
       "id": "87870009",
@@ -118,20 +118,6 @@
       "preco_final": 228,
       "prices": [
         {
-          "store": "Evora (Evora)",
-          "region": "Evora",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
-          "preco_final": 228,
-          "atualizado": "2026-09-12T10:47:04+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              228
-            ]
-          ]
-        },
-        {
           "store": "Maia (Porto)",
           "region": "Porto",
           "preco_normal": 228,
@@ -141,6 +127,20 @@
           "history": [
             [
               "2026-09-12",
+              228
+            ]
+          ]
+        },
+        {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
+          "preco_final": 228,
+          "atualizado": "2026-09-20T09:14:59+00:00",
+          "history": [
+            [
+              "2026-09-20",
               228
             ]
           ]
@@ -479,10 +479,10 @@
           "preco_normal": 339,
           "preco_desconto": 61,
           "preco_final": 278,
-          "atualizado": "2026-09-12T10:31:42+00:00",
+          "atualizado": "2026-09-20T08:59:48+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               278
             ]
           ]
@@ -642,32 +642,6 @@
             [
               "2026-09-20",
               348
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82242429",
-      "name": "Porta de duche + 2 portas transparente cromado 100x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-100x200-cm-sensea-neo-82242429.html",
-      "dimensao": "100x200",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 358,
-      "prices": [
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 358,
-          "preco_desconto": 0.0,
-          "preco_final": 358,
-          "atualizado": "2026-09-12T10:23:19+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              358
             ]
           ]
         }
@@ -845,6 +819,32 @@
           "history": [
             [
               "2026-09-12",
+              358
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242429",
+      "name": "Porta de duche + 2 portas transparente cromado 100x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-100x200-cm-sensea-neo-82242429.html",
+      "dimensao": "100x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 358,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 358,
+          "preco_desconto": 0.0,
+          "preco_final": 358,
+          "atualizado": "2026-09-20T08:52:14+00:00",
+          "history": [
+            [
+              "2026-09-20",
               358
             ]
           ]
@@ -1262,6 +1262,62 @@
           "preco_desconto": 279.6,
           "preco_final": 419.4,
           "atualizado": "2026-09-20T08:44:19+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T08:52:14+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T08:59:48+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Covilha (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T09:07:30+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T09:14:59+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1722,6 +1778,62 @@
               564.4
             ]
           ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T08:52:14+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T08:59:48+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Covilha (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T09:07:30+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T09:14:59+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
         }
       ]
     },
@@ -1741,10 +1853,10 @@
           "preco_normal": 1159,
           "preco_desconto": 564.02,
           "preco_final": 594.98,
-          "atualizado": "2026-09-12T10:23:19+00:00",
+          "atualizado": "2026-09-20T08:52:14+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               594.98
             ]
           ]
@@ -1793,10 +1905,10 @@
           "preco_normal": 854,
           "preco_desconto": 255,
           "preco_final": 599,
-          "atualizado": "2026-09-12T10:23:19+00:00",
+          "atualizado": "2026-09-20T08:52:14+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               599
             ]
           ]
@@ -1988,6 +2100,62 @@
           "preco_desconto": 70.9,
           "preco_final": 638.1,
           "atualizado": "2026-09-20T08:44:19+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T08:52:14+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T08:59:48+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Covilha (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T09:07:30+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T09:14:59+00:00",
           "history": [
             [
               "2026-09-20",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T08:48:02+00:00",
+  "generated": "2026-09-20T09:18:46+00:00",
   "products": [
     {
       "id": "82005354",
@@ -38,20 +38,6 @@
       "preco_final": 149,
       "prices": [
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 169,
-          "preco_desconto": 20,
-          "preco_final": 149,
-          "atualizado": "2026-09-12T10:27:41+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              149
-            ]
-          ]
-        },
-        {
           "store": "Santarem (Santarem)",
           "region": "Santarem",
           "preco_normal": 169,
@@ -61,6 +47,20 @@
           "history": [
             [
               "2026-09-12",
+              149
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 169,
+          "preco_desconto": 20,
+          "preco_final": 149,
+          "atualizado": "2026-09-20T08:55:51+00:00",
+          "history": [
+            [
+              "2026-09-20",
               149
             ]
           ]
@@ -380,20 +380,6 @@
       "preco_final": 328,
       "prices": [
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 405,
-          "preco_desconto": 77,
-          "preco_final": 328,
-          "atualizado": "2026-09-12T11:21:54+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              328
-            ]
-          ]
-        },
-        {
           "store": "Chaves (Vila Real)",
           "region": "Vila Real",
           "preco_normal": 405,
@@ -403,6 +389,20 @@
           "history": [
             [
               "2026-09-20",
+              328
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 405,
+          "preco_desconto": 77,
+          "preco_final": 328,
+          "atualizado": "2026-09-12T11:21:54+00:00",
+          "history": [
+            [
+              "2026-09-12",
               328
             ]
           ]
@@ -474,20 +474,6 @@
           ]
         },
         {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 469,
-          "preco_desconto": 81,
-          "preco_final": 388,
-          "atualizado": "2026-09-12T10:35:30+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 469,
@@ -497,6 +483,20 @@
           "history": [
             [
               "2026-09-12",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 469,
+          "preco_desconto": 81,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T09:03:32+00:00",
+          "history": [
+            [
+              "2026-09-20",
               388
             ]
           ]
