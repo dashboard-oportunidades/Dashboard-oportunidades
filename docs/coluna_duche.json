@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T11:21:18+00:00",
+  "generated": "2026-09-20T11:52:22+00:00",
   "products": [
     {
       "id": "17364851",
@@ -526,6 +526,62 @@
               104.3
             ]
           ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-20T11:24:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-20T11:32:09+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-20T11:39:46+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-20T11:47:29+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              104.3
+            ]
+          ]
         }
       ]
     },
@@ -584,6 +640,32 @@
       ]
     },
     {
+      "id": "81882129",
+      "name": "Conjunto de duche SONAR INOX",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-sonar-inox-81882129.html",
+      "dimensao": null,
+      "marca": "EDOUARD ROUSSEAU",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 129,
+      "prices": [
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 129,
+          "preco_desconto": 0.0,
+          "preco_final": 129,
+          "atualizado": "2026-09-20T11:47:29+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              129
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "81882134",
       "name": "Conjunto de duche BYRON",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-byron-81882134.html",
@@ -613,10 +695,10 @@
           "preco_normal": 162,
           "preco_desconto": 23,
           "preco_final": 139,
-          "atualizado": "2026-09-12T13:21:59+00:00",
+          "atualizado": "2026-09-20T11:47:29+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               139
             ]
           ]
@@ -707,11 +789,37 @@
           "preco_normal": 179,
           "preco_desconto": 31,
           "preco_final": 148,
-          "atualizado": "2026-09-12T13:21:59+00:00",
+          "atualizado": "2026-09-20T11:47:29+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               148
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99351367",
+      "name": "Conjunto de duche torneira monocomando Roca Mitos-N",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-torneira-monocomando-roca-mitos-n-99351367.html",
+      "dimensao": null,
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 149,
+      "prices": [
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 189,
+          "preco_desconto": 40,
+          "preco_final": 149,
+          "atualizado": "2026-09-20T11:47:29+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              149
             ]
           ]
         }
@@ -1174,6 +1282,62 @@
               153.3
             ]
           ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-09-20T11:24:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-09-20T11:32:09+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-09-20T11:39:46+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-09-20T11:47:29+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              153.3
+            ]
+          ]
         }
       ]
     },
@@ -1424,6 +1588,32 @@
       ]
     },
     {
+      "id": "91795232",
+      "name": "Conjunto de duche com torneira dourado Sensea Icone",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-dourado-sensea-icone-91795232.html",
+      "dimensao": null,
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 168,
+      "prices": [
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 204,
+          "preco_desconto": 36,
+          "preco_final": 168,
+          "atualizado": "2026-09-20T11:24:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              168
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82483854",
       "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO CROMADO",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-cromado-82483854.html",
@@ -1549,10 +1739,10 @@
           "preco_normal": 349,
           "preco_desconto": 61,
           "preco_final": 288,
-          "atualizado": "2026-09-12T13:14:10+00:00",
+          "atualizado": "2026-09-20T11:39:46+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               288
             ]
           ]
@@ -2060,90 +2250,6 @@
           ]
         },
         {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-12T12:58:04+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Telheiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-12T13:06:34+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Torres Novas (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-12T13:14:10+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-12T13:21:59+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-12T13:30:07+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-12T13:37:53+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              209.3
-            ]
-          ]
-        },
-        {
           "store": "Sacavem (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 299,
@@ -2192,6 +2298,90 @@
           "preco_desconto": 89.7,
           "preco_final": 209.3,
           "atualizado": "2026-09-20T11:16:12+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T13:30:07+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-12T13:37:53+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-20T11:24:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-20T11:32:09+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-20T11:39:46+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-20T11:47:29+00:00",
           "history": [
             [
               "2026-09-20",
@@ -2820,6 +3010,62 @@
               257.4
             ]
           ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-09-20T11:24:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-09-20T11:32:09+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-09-20T11:39:46+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-09-20T11:47:29+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              257.4
+            ]
+          ]
         }
       ]
     },
@@ -2844,6 +3090,46 @@
             [
               "2026-09-20",
               259.98
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83601180",
+      "name": "Conjunto de duche termostático cromado Roca Mitos-T Plus",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-termostatico-cromado-roca-mitos-t-plus-83601180.html",
+      "dimensao": null,
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 269,
+      "prices": [
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 349,
+          "preco_desconto": 80,
+          "preco_final": 269,
+          "atualizado": "2026-09-20T11:47:29+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              269
+            ]
+          ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 298,
+          "preco_desconto": 0.0,
+          "preco_final": 298,
+          "atualizado": "2026-09-20T08:08:22+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              298
             ]
           ]
         }
@@ -2910,32 +3196,6 @@
             [
               "2026-09-20",
               468
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "83601180",
-      "name": "Conjunto de duche termostático cromado Roca Mitos-T Plus",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-termostatico-cromado-roca-mitos-t-plus-83601180.html",
-      "dimensao": null,
-      "marca": "ROCA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 298,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 298,
-          "preco_desconto": 0.0,
-          "preco_final": 298,
-          "atualizado": "2026-09-20T08:08:22+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              298
             ]
           ]
         }
@@ -3162,6 +3422,20 @@
           ]
         },
         {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T11:08:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
           "store": "Viana do Castelo (Viana do Castelo)",
           "region": "Viana do Castelo",
           "preco_normal": 388,
@@ -3185,20 +3459,6 @@
           "history": [
             [
               "2026-09-12",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T11:08:25+00:00",
-          "history": [
-            [
-              "2026-09-20",
               388
             ]
           ]
@@ -3356,20 +3616,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-09-12T13:30:07+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              408
-            ]
-          ]
-        },
-        {
           "store": "Setubal (Setubal)",
           "region": "Setubal",
           "preco_normal": 408,
@@ -3379,6 +3625,20 @@
           "history": [
             [
               "2026-09-20",
+              408
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-09-12T13:30:07+00:00",
+          "history": [
+            [
+              "2026-09-12",
               408
             ]
           ]
