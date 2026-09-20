@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T09:18:46+00:00",
+  "generated": "2026-09-20T09:48:52+00:00",
   "products": [
     {
       "id": "87870009",
@@ -50,20 +50,6 @@
               128
             ]
           ]
-        },
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 144,
-          "preco_desconto": 16,
-          "preco_final": 128,
-          "atualizado": "2026-09-12T11:02:38+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              128
-            ]
-          ]
         }
       ]
     },
@@ -77,20 +63,6 @@
       "m2_caixa": null,
       "preco_final": 138,
       "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 164,
-          "preco_desconto": 26,
-          "preco_final": 138,
-          "atualizado": "2026-09-12T11:02:38+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              138
-            ]
-          ]
-        },
         {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
@@ -118,20 +90,6 @@
       "preco_final": 228,
       "prices": [
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
-          "preco_final": 228,
-          "atualizado": "2026-09-12T14:02:53+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              228
-            ]
-          ]
-        },
-        {
           "store": "Evora (Evora)",
           "region": "Evora",
           "preco_normal": 228,
@@ -141,6 +99,20 @@
           "history": [
             [
               "2026-09-20",
+              228
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
+          "preco_final": 228,
+          "atualizado": "2026-09-12T14:02:53+00:00",
+          "history": [
+            [
+              "2026-09-12",
               228
             ]
           ]
@@ -231,10 +203,10 @@
           "preco_normal": 248,
           "preco_desconto": 0.0,
           "preco_final": 248,
-          "atualizado": "2026-09-12T11:02:38+00:00",
+          "atualizado": "2026-09-20T09:29:43+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               248
             ]
           ]
@@ -349,36 +321,10 @@
           "preco_normal": 268,
           "preco_desconto": 0.0,
           "preco_final": 268,
-          "atualizado": "2026-09-12T11:10:26+00:00",
+          "atualizado": "2026-09-20T09:37:24+00:00",
           "history": [
             [
-              "2026-09-12",
-              268
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82209761",
-      "name": "Porta de duche transparente cromado 140x195 cm Sensea Remix",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-140x195-cm-sensea-remix-82209761.html",
-      "dimensao": "140x195",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 268,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 319,
-          "preco_desconto": 51,
-          "preco_final": 268,
-          "atualizado": "2026-09-12T11:02:38+00:00",
-          "history": [
-            [
-              "2026-09-12",
+              "2026-09-20",
               268
             ]
           ]
@@ -402,6 +348,32 @@
           "preco_desconto": 51,
           "preco_final": 268,
           "atualizado": "2026-09-20T08:36:42+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              268
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209761",
+      "name": "Porta de duche transparente cromado 140x195 cm Sensea Remix",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-140x195-cm-sensea-remix-82209761.html",
+      "dimensao": "140x195",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 268,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 319,
+          "preco_desconto": 51,
+          "preco_final": 268,
+          "atualizado": "2026-09-20T09:29:43+00:00",
           "history": [
             [
               "2026-09-20",
@@ -566,20 +538,6 @@
       "preco_final": 308,
       "prices": [
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 308,
-          "preco_desconto": 0.0,
-          "preco_final": 308,
-          "atualizado": "2026-09-12T11:18:04+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              308
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 369,
@@ -589,6 +547,20 @@
           "history": [
             [
               "2026-09-12",
+              308
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 308,
+          "preco_desconto": 0.0,
+          "preco_final": 308,
+          "atualizado": "2026-09-20T09:45:07+00:00",
+          "history": [
+            [
+              "2026-09-20",
               308
             ]
           ]
@@ -642,6 +614,32 @@
             [
               "2026-09-20",
               348
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242429",
+      "name": "Porta de duche + 2 portas transparente cromado 100x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-100x200-cm-sensea-neo-82242429.html",
+      "dimensao": "100x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 358,
+      "prices": [
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 358,
+          "preco_desconto": 0.0,
+          "preco_final": 358,
+          "atualizado": "2026-09-20T08:52:14+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              358
             ]
           ]
         }
@@ -754,20 +752,6 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 358,
-          "preco_desconto": 0.0,
-          "preco_final": 358,
-          "atualizado": "2026-09-12T11:02:38+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              358
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 436,
@@ -822,26 +806,14 @@
               358
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "82242429",
-      "name": "Porta de duche + 2 portas transparente cromado 100x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-100x200-cm-sensea-neo-82242429.html",
-      "dimensao": "100x200",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 358,
-      "prices": [
+        },
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
           "preco_normal": 358,
           "preco_desconto": 0.0,
           "preco_final": 358,
-          "atualizado": "2026-09-20T08:52:14+00:00",
+          "atualizado": "2026-09-20T09:29:43+00:00",
           "history": [
             [
               "2026-09-20",
@@ -878,32 +850,6 @@
       ]
     },
     {
-      "id": "16954273",
-      "name": "Frontal de duche 87x91 cm cavado de correr",
-      "url": "https://www.leroymerlin.pt/produtos/frontal-de-duche-87x91-cm-cavado-de-correr-16954273.html",
-      "dimensao": "87x91",
-      "marca": "PERFILGOLD",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 388,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-12T11:02:38+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              388
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82242433",
       "name": "Porta de duche + 2 portas transparente cromado 120x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-120x200-cm-sensea-neo-82242433.html",
@@ -933,10 +879,10 @@
           "preco_normal": 474,
           "preco_desconto": 86,
           "preco_final": 388,
-          "atualizado": "2026-09-12T11:02:38+00:00",
+          "atualizado": "2026-09-20T09:29:43+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               388
             ]
           ]
@@ -1324,6 +1270,62 @@
               419.4
             ]
           ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T09:22:04+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T09:29:43+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T09:37:24+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T09:45:07+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
         }
       ]
     },
@@ -1406,58 +1408,6 @@
       ]
     },
     {
-      "id": "82209796",
-      "name": "Cabine de duche SENSEA REMIX (60+60)X80X195CM PRETO",
-      "url": "https://www.leroymerlin.pt/produtos/cabine-de-duche-sensea-remix-60-60-x80x195cm-preto-82209796.html",
-      "dimensao": "80x195",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 448,
-      "prices": [
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 544,
-          "preco_desconto": 96,
-          "preco_final": 448,
-          "atualizado": "2026-09-12T11:18:04+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              448
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82242441",
-      "name": "Porta de duche + 2 portas transparente cromado 160x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-160x200-cm-sensea-neo-82242441.html",
-      "dimensao": "160x200",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 448,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 549,
-          "preco_desconto": 101,
-          "preco_final": 448,
-          "atualizado": "2026-09-12T11:02:38+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              448
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82242454",
       "name": "Porta de duche de batente transparente preto 80x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-80x200-cm-sensea-neo-82242454.html",
@@ -1500,6 +1450,58 @@
           "preco_desconto": 101,
           "preco_final": 448,
           "atualizado": "2026-09-20T07:17:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              448
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242441",
+      "name": "Porta de duche + 2 portas transparente cromado 160x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-160x200-cm-sensea-neo-82242441.html",
+      "dimensao": "160x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 448,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 549,
+          "preco_desconto": 101,
+          "preco_final": 448,
+          "atualizado": "2026-09-20T09:29:43+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              448
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209796",
+      "name": "Cabine de duche SENSEA REMIX (60+60)X80X195CM PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/cabine-de-duche-sensea-remix-60-60-x80x195cm-preto-82209796.html",
+      "dimensao": "80x195",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 448,
+      "prices": [
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 544,
+          "preco_desconto": 96,
+          "preco_final": 448,
+          "atualizado": "2026-09-20T09:45:07+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1834,6 +1836,62 @@
               564.4
             ]
           ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T09:22:04+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T09:29:43+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T09:37:24+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T09:45:07+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
         }
       ]
     },
@@ -2156,6 +2214,62 @@
           "preco_desconto": 70.9,
           "preco_final": 638.1,
           "atualizado": "2026-09-20T09:14:59+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T09:22:04+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T09:29:43+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T09:37:24+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T09:45:07+00:00",
           "history": [
             [
               "2026-09-20",

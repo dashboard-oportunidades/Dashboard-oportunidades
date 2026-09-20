@@ -20,10 +20,10 @@
     "Colombo (Lisboa)": "2026-09-20T09:01:03+00:00",
     "Covilha (Castelo Branco)": "2026-09-20T09:08:41+00:00",
     "Evora (Evora)": "2026-09-20T09:16:12+00:00",
-    "Figueira da Foz (Coimbra)": "2026-09-12T10:56:17+00:00",
-    "Gaia (Porto)": "2026-09-12T11:03:55+00:00",
-    "Gondomar (Porto)": "2026-09-12T11:11:37+00:00",
-    "Guarda (Guarda)": "2026-09-12T11:19:15+00:00",
+    "Figueira da Foz (Coimbra)": "2026-09-20T09:23:15+00:00",
+    "Gaia (Porto)": "2026-09-20T09:31:00+00:00",
+    "Gondomar (Porto)": "2026-09-20T09:38:41+00:00",
+    "Guarda (Guarda)": "2026-09-20T09:46:22+00:00",
     "Guimaraes (Braga)": "2026-09-12T11:27:20+00:00",
     "Leiria (Leiria)": "2026-09-12T11:35:08+00:00",
     "Loule (Faro)": "2026-09-12T11:42:45+00:00",
@@ -48,11 +48,11 @@
   },
   "products": {
     "72845777@Guarda (Guarda)": {
-      "atualizado": "2026-09-12T11:19:15+00:00",
+      "atualizado": "2026-09-20T09:46:22+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           359
         ]
       ],
@@ -531,11 +531,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Figueira da Foz (Coimbra)": {
-      "atualizado": "2026-09-12T10:56:17+00:00",
+      "atualizado": "2026-09-20T09:23:15+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           488
         ]
       ],
@@ -552,11 +552,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Gaia (Porto)": {
-      "atualizado": "2026-09-12T11:03:55+00:00",
+      "atualizado": "2026-09-20T09:31:00+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           488
         ]
       ],
@@ -573,11 +573,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Guarda (Guarda)": {
-      "atualizado": "2026-09-12T11:19:15+00:00",
+      "atualizado": "2026-09-20T09:46:22+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           488
         ]
       ],
@@ -1140,11 +1140,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791801@Figueira da Foz (Coimbra)": {
-      "atualizado": "2026-09-12T10:56:17+00:00",
+      "atualizado": "2026-09-20T09:23:15+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           498
         ]
       ],
@@ -1161,11 +1161,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791801@Gondomar (Porto)": {
-      "atualizado": "2026-09-12T11:11:37+00:00",
+      "atualizado": "2026-09-20T09:38:41+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           628
         ]
       ],
@@ -1179,6 +1179,27 @@
       "region": "Porto",
       "retificado": false,
       "store": "Gondomar (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
+    },
+    "83791801@Guarda (Guarda)": {
+      "atualizado": "2026-09-20T09:46:22+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-09-20",
+          628
+        ]
+      ],
+      "id": "83791801",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
+      "preco_desconto": 0.0,
+      "preco_final": 628,
+      "preco_normal": 628,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791801@Montijo (Setubal)": {
@@ -2295,11 +2316,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733733@Gondomar (Porto)": {
-      "atualizado": "2026-09-12T11:11:37+00:00",
+      "atualizado": "2026-09-20T09:38:41+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           378
         ]
       ],
@@ -2589,11 +2610,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-12000-btu-87421092.html"
     },
     "87421092@Gondomar (Porto)": {
-      "atualizado": "2026-09-12T11:11:37+00:00",
+      "atualizado": "2026-09-20T09:38:41+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           938
         ]
       ],

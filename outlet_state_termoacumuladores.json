@@ -20,10 +20,10 @@
     "Colombo (Lisboa)": "2026-09-20T09:03:32+00:00",
     "Covilha (Castelo Branco)": "2026-09-20T09:11:07+00:00",
     "Evora (Evora)": "2026-09-20T09:18:45+00:00",
-    "Figueira da Foz (Coimbra)": "2026-09-12T10:58:46+00:00",
-    "Gaia (Porto)": "2026-09-12T11:06:26+00:00",
-    "Gondomar (Porto)": "2026-09-12T11:14:04+00:00",
-    "Guarda (Guarda)": "2026-09-12T11:21:54+00:00",
+    "Figueira da Foz (Coimbra)": "2026-09-20T09:25:41+00:00",
+    "Gaia (Porto)": "2026-09-20T09:33:30+00:00",
+    "Gondomar (Porto)": "2026-09-20T09:41:05+00:00",
+    "Guarda (Guarda)": "2026-09-20T09:48:51+00:00",
     "Guimaraes (Braga)": "2026-09-12T11:29:55+00:00",
     "Leiria (Leiria)": "2026-09-12T11:37:35+00:00",
     "Loule (Faro)": "2026-09-12T11:45:32+00:00",
@@ -320,6 +320,27 @@
       "store": "Castelo Branco (Castelo Branco)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-50l-82005350.html"
     },
+    "82005350@Guarda (Guarda)": {
+      "atualizado": "2026-09-20T09:48:51+00:00",
+      "dimensao": "50L",
+      "history": [
+        [
+          "2026-09-20",
+          158
+        ]
+      ],
+      "id": "82005350",
+      "m2_caixa": null,
+      "marca": "EQUATION",
+      "name": "Termoacumulador EQUATION Q2 50L",
+      "preco_desconto": 0.0,
+      "preco_final": 158,
+      "preco_normal": 158,
+      "region": "Guarda",
+      "retificado": false,
+      "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-50l-82005350.html"
+    },
     "82005354@Leiria (Leiria)": {
       "atualizado": "2026-09-12T11:37:35+00:00",
       "dimensao": "100L",
@@ -362,33 +383,12 @@
       "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-150l-82246625.html"
     },
-    "82246625@Guarda (Guarda)": {
-      "atualizado": "2026-09-12T11:21:54+00:00",
-      "dimensao": "150L",
-      "history": [
-        [
-          "2026-09-12",
-          328
-        ]
-      ],
-      "id": "82246625",
-      "m2_caixa": null,
-      "marca": "EQUATION",
-      "name": "Termoacumulador EQUATION Q2 150L",
-      "preco_desconto": 77,
-      "preco_final": 328,
-      "preco_normal": 405,
-      "region": "Guarda",
-      "retificado": false,
-      "store": "Guarda (Guarda)",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-150l-82246625.html"
-    },
     "84434192@Guarda (Guarda)": {
-      "atualizado": "2026-09-12T11:21:54+00:00",
+      "atualizado": "2026-09-20T09:48:51+00:00",
       "dimensao": "80L",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           189.05
         ]
       ],
