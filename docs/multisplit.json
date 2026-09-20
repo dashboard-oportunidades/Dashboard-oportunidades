@@ -1,32 +1,6 @@
 {
-  "generated": "2026-09-20T11:52:22+00:00",
+  "generated": "2026-09-20T12:23:50+00:00",
   "products": [
-    {
-      "id": "82143647",
-      "name": "Ar condicionado fixo (2X1) ELUXE 9000 + 9000BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-eluxe-9000-9000btu-82143647.html",
-      "dimensao": "9000 BTU",
-      "marca": "ELUXE",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 558,
-      "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 558,
-          "preco_desconto": 0.0,
-          "preco_final": 558,
-          "atualizado": "2026-09-12T15:26:40+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              558
-            ]
-          ]
-        }
-      ]
-    },
     {
       "id": "90402657",
       "name": "Ar condicionado fixo (2X1) 9000 + 9000 Btu Haier Perla premium",
@@ -188,32 +162,6 @@
       ]
     },
     {
-      "id": "94727298",
-      "name": "Ar condicionado 2x1 HAIER Flexis s wifi 9+12kbtu branco",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-2x1-haier-flexis-s-wifi-9-12kbtu-branco-94727298.html",
-      "dimensao": "12000 BTU",
-      "marca": "HAIER",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 1088,
-      "prices": [
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 1088,
-          "preco_desconto": 0.0,
-          "preco_final": 1088,
-          "atualizado": "2026-09-12T16:09:05+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              1088
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "84622733",
       "name": "Ar condicionado fixo (2X1) HISENSE COMFORT 9000 + 9000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-9000-btu-84622733.html",
@@ -328,32 +276,6 @@
             [
               "2026-09-20",
               1368
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86584986",
-      "name": "Ar condicionado fixo (3X1) Aire+ TD-WIFI R32 9000+12000+12000 BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-aire-td-wifi-r32-9000-12000-12000-btu-86584986.html",
-      "dimensao": "12000 BTU",
-      "marca": "AIRE +",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 1398,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 1499,
-          "preco_desconto": 101,
-          "preco_final": 1398,
-          "atualizado": "2026-09-12T16:10:33+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              1398
             ]
           ]
         }

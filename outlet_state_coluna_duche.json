@@ -1,6 +1,6 @@
 {
   "lojas": {
-    "Albufeira (Faro)": "2026-09-12T13:45:35+00:00",
+    "Albufeira (Faro)": "2026-09-20T12:11:00+00:00",
     "Alfragide (Lisboa)": "2026-09-12T14:25:12+00:00",
     "Almada (Setubal)": "2026-09-12T14:09:40+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-20T07:16:43+00:00",
@@ -30,7 +30,7 @@
     "Loures (Lisboa)": "2026-09-20T10:14:28+00:00",
     "Mafra (Lisboa)": "2026-09-12T14:17:32+00:00",
     "Maia (Porto)": "2026-09-12T14:01:40+00:00",
-    "Matosinhos (Porto)": "2026-09-12T13:53:35+00:00",
+    "Matosinhos (Porto)": "2026-09-20T12:18:43+00:00",
     "Montijo (Setubal)": "2026-09-20T10:22:27+00:00",
     "Oeiras (Lisboa)": "2026-09-20T10:30:11+00:00",
     "Penafiel (Porto)": "2026-09-20T10:36:55+00:00",
@@ -43,10 +43,31 @@
     "Telheiras (Lisboa)": "2026-09-20T11:32:09+00:00",
     "Torres Novas (Santarem)": "2026-09-20T11:39:46+00:00",
     "Torres Vedras (Lisboa)": "2026-09-20T11:47:29+00:00",
-    "Viana do Castelo (Viana do Castelo)": "2026-09-12T13:30:07+00:00",
-    "Viseu (Viseu)": "2026-09-12T13:37:53+00:00"
+    "Viana do Castelo (Viana do Castelo)": "2026-09-20T11:55:38+00:00",
+    "Viseu (Viseu)": "2026-09-20T12:03:21+00:00"
   },
   "products": {
+    "17283966@Albufeira (Faro)": {
+      "atualizado": "2026-09-20T12:11:00+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Faro",
+      "retificado": false,
+      "store": "Albufeira (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
     "17283966@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-20T07:16:43+00:00",
       "dimensao": null,
@@ -572,6 +593,27 @@
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
     },
+    "17283966@Matosinhos (Porto)": {
+      "atualizado": "2026-09-20T12:18:43+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Matosinhos (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
     "17283966@Montijo (Setubal)": {
       "atualizado": "2026-09-20T10:22:27+00:00",
       "dimensao": null,
@@ -824,6 +866,48 @@
       "store": "Torres Vedras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
     },
+    "17283966@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-09-20T11:55:38+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Viana do Castelo",
+      "retificado": false,
+      "store": "Viana do Castelo (Viana do Castelo)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
+    "17283966@Viseu (Viseu)": {
+      "atualizado": "2026-09-20T12:03:21+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Viseu",
+      "retificado": false,
+      "store": "Viseu (Viseu)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
     "17364851@Alfragide (Lisboa)": {
       "atualizado": "2026-09-12T14:25:12+00:00",
       "dimensao": null,
@@ -888,11 +972,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-nerea-17364851.html"
     },
     "81882097@Albufeira (Faro)": {
-      "atualizado": "2026-09-12T13:45:35+00:00",
+      "atualizado": "2026-09-20T12:11:00+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -1518,11 +1602,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Matosinhos (Porto)": {
-      "atualizado": "2026-09-12T13:53:35+00:00",
+      "atualizado": "2026-09-20T12:18:43+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -1791,11 +1875,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-09-12T13:30:07+00:00",
+      "atualizado": "2026-09-20T11:55:38+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -1812,11 +1896,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Viseu (Viseu)": {
-      "atualizado": "2026-09-12T13:37:53+00:00",
+      "atualizado": "2026-09-20T12:03:21+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -2041,6 +2125,27 @@
       "retificado": false,
       "store": "Santarem (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html"
+    },
+    "81896503@Albufeira (Faro)": {
+      "atualizado": "2026-09-20T12:11:00+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Faro",
+      "retificado": false,
+      "store": "Albufeira (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
     },
     "81896503@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-20T07:16:43+00:00",
@@ -2567,6 +2672,27 @@
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
     },
+    "81896503@Matosinhos (Porto)": {
+      "atualizado": "2026-09-20T12:18:43+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Matosinhos (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
     "81896503@Montijo (Setubal)": {
       "atualizado": "2026-09-20T10:22:27+00:00",
       "dimensao": null,
@@ -2818,6 +2944,69 @@
       "retificado": false,
       "store": "Torres Vedras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81896503@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-09-20T11:55:38+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Viana do Castelo",
+      "retificado": false,
+      "store": "Viana do Castelo (Viana do Castelo)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81896503@Viseu (Viseu)": {
+      "atualizado": "2026-09-20T12:03:21+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Viseu",
+      "retificado": false,
+      "store": "Viseu (Viseu)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81977433@Albufeira (Faro)": {
+      "atualizado": "2026-09-20T12:11:00+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Faro",
+      "retificado": false,
+      "store": "Albufeira (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
     },
     "81977433@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-20T07:16:43+00:00",
@@ -3323,6 +3512,27 @@
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
     },
+    "81977433@Matosinhos (Porto)": {
+      "atualizado": "2026-09-20T12:18:43+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Matosinhos (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
     "81977433@Montijo (Setubal)": {
       "atualizado": "2026-09-20T10:22:27+00:00",
       "dimensao": null,
@@ -3575,6 +3785,48 @@
       "store": "Torres Vedras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
     },
+    "81977433@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-09-20T11:55:38+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Viana do Castelo",
+      "retificado": false,
+      "store": "Viana do Castelo (Viana do Castelo)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
+    "81977433@Viseu (Viseu)": {
+      "atualizado": "2026-09-20T12:03:21+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Viseu",
+      "retificado": false,
+      "store": "Viseu (Viseu)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
     "82023074@Guarda (Guarda)": {
       "atualizado": "2026-09-20T09:43:51+00:00",
       "dimensao": null,
@@ -3597,11 +3849,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-tempesta-210-cromado-82023074.html"
     },
     "82023076@Viseu (Viseu)": {
-      "atualizado": "2026-09-12T13:37:53+00:00",
+      "atualizado": "2026-09-20T12:03:21+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           628
         ]
       ],
@@ -4080,11 +4332,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
     },
     "83596589@Viseu (Viseu)": {
-      "atualizado": "2026-09-12T13:37:53+00:00",
+      "atualizado": "2026-09-20T12:03:21+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           248
         ]
       ],
@@ -4332,11 +4584,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
     },
     "86523842@Viseu (Viseu)": {
-      "atualizado": "2026-09-12T13:37:53+00:00",
+      "atualizado": "2026-09-20T12:03:21+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           468
         ]
       ],
@@ -4353,11 +4605,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-preto-175-cm-grohe-vitalio-86523842.html"
     },
     "86600587@Albufeira (Faro)": {
-      "atualizado": "2026-09-12T13:45:35+00:00",
+      "atualizado": "2026-09-20T12:11:00+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           388
         ]
       ],
@@ -4689,11 +4941,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-09-12T13:30:07+00:00",
+      "atualizado": "2026-09-20T11:55:38+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           388
         ]
       ],
@@ -4710,11 +4962,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Viseu (Viseu)": {
-      "atualizado": "2026-09-12T13:37:53+00:00",
+      "atualizado": "2026-09-20T12:03:21+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           388
         ]
       ],
@@ -4731,11 +4983,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "88103665@Albufeira (Faro)": {
-      "atualizado": "2026-09-12T13:45:35+00:00",
+      "atualizado": "2026-09-20T12:11:00+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           128
         ]
       ],
@@ -5109,11 +5361,11 @@
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
     },
     "89128698@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-09-12T13:30:07+00:00",
+      "atualizado": "2026-09-20T11:55:38+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           408
         ]
       ],
