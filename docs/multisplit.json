@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T10:49:43+00:00",
+  "generated": "2026-09-20T11:21:18+00:00",
   "products": [
     {
       "id": "82143647",
@@ -395,20 +395,6 @@
       "m2_caixa": null,
       "preco_final": 2248,
       "prices": [
-        {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 2799,
-          "preco_desconto": 551,
-          "preco_final": 2248,
-          "atualizado": "2026-09-12T15:34:14+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              2248
-            ]
-          ]
-        },
         {
           "store": "Penafiel (Porto)",
           "region": "Porto",

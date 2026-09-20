@@ -35,10 +35,10 @@
     "Oeiras (Lisboa)": "2026-09-20T10:30:11+00:00",
     "Penafiel (Porto)": "2026-09-20T10:36:55+00:00",
     "Portimao (Faro)": "2026-09-20T10:44:41+00:00",
-    "Sacavem (Lisboa)": "2026-09-12T12:26:50+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-09-12T12:34:30+00:00",
-    "Santarem (Santarem)": "2026-09-12T12:42:04+00:00",
-    "Setubal (Setubal)": "2026-09-12T12:50:12+00:00",
+    "Sacavem (Lisboa)": "2026-09-20T10:52:54+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-20T11:00:41+00:00",
+    "Santarem (Santarem)": "2026-09-20T11:08:25+00:00",
+    "Setubal (Setubal)": "2026-09-20T11:16:12+00:00",
     "Sintra (Lisboa)": "2026-09-12T12:58:04+00:00",
     "Telheiras (Lisboa)": "2026-09-12T13:06:34+00:00",
     "Torres Novas (Santarem)": "2026-09-12T13:14:10+00:00",
@@ -654,6 +654,90 @@
       "region": "Faro",
       "retificado": false,
       "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
+    "17283966@Sacavem (Lisboa)": {
+      "atualizado": "2026-09-20T10:52:54+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sacavem (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
+    "17283966@Santa Maria da Feira (Aveiro)": {
+      "atualizado": "2026-09-20T11:00:41+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Santa Maria da Feira (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
+    "17283966@Santarem (Santarem)": {
+      "atualizado": "2026-09-20T11:08:25+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
+    "17283966@Setubal (Setubal)": {
+      "atualizado": "2026-09-20T11:16:12+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Setubal (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
     },
     "17364851@Alfragide (Lisboa)": {
@@ -1455,11 +1539,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Sacavem (Lisboa)": {
-      "atualizado": "2026-09-12T12:26:50+00:00",
+      "atualizado": "2026-09-20T10:52:54+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -1476,11 +1560,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Santa Maria da Feira (Aveiro)": {
-      "atualizado": "2026-09-12T12:34:30+00:00",
+      "atualizado": "2026-09-20T11:00:41+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -1497,11 +1581,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Santarem (Santarem)": {
-      "atualizado": "2026-09-12T12:42:04+00:00",
+      "atualizado": "2026-09-20T11:08:25+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -1518,11 +1602,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Setubal (Setubal)": {
-      "atualizado": "2026-09-12T12:50:12+00:00",
+      "atualizado": "2026-09-20T11:16:12+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -1833,11 +1917,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-levity-preto-81896491.html"
     },
     "81896491@Santarem (Santarem)": {
-      "atualizado": "2026-09-12T12:42:04+00:00",
+      "atualizado": "2026-09-20T11:08:25+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           348
         ]
       ],
@@ -2462,13 +2546,76 @@
       "store": "Portimao (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
     },
-    "81896503@Setubal (Setubal)": {
-      "atualizado": "2026-09-12T12:50:12+00:00",
+    "81896503@Sacavem (Lisboa)": {
+      "atualizado": "2026-09-20T10:52:54+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
-          348
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sacavem (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81896503@Santa Maria da Feira (Aveiro)": {
+      "atualizado": "2026-09-20T11:00:41+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Santa Maria da Feira (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81896503@Santarem (Santarem)": {
+      "atualizado": "2026-09-20T11:08:25+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81896503@Setubal (Setubal)": {
+      "atualizado": "2026-09-20T11:16:12+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
         ]
       ],
       "id": "81896503",
@@ -2476,8 +2623,8 @@
       "marca": "HUBER",
       "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
       "preco_desconto": 0.0,
-      "preco_final": 348,
-      "preco_normal": 348,
+      "preco_final": 257.4,
+      "preco_normal": 257.4,
       "region": "Setubal",
       "retificado": false,
       "store": "Setubal (Setubal)",
@@ -3069,6 +3216,90 @@
       "region": "Faro",
       "retificado": false,
       "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
+    "81977433@Sacavem (Lisboa)": {
+      "atualizado": "2026-09-20T10:52:54+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sacavem (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
+    "81977433@Santa Maria da Feira (Aveiro)": {
+      "atualizado": "2026-09-20T11:00:41+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Santa Maria da Feira (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
+    "81977433@Santarem (Santarem)": {
+      "atualizado": "2026-09-20T11:08:25+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
+    "81977433@Setubal (Setubal)": {
+      "atualizado": "2026-09-20T11:16:12+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Setubal (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
     },
     "82023074@Guarda (Guarda)": {
@@ -3681,11 +3912,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-inox-83842164.html"
     },
     "83842164@Santarem (Santarem)": {
-      "atualizado": "2026-09-12T12:42:04+00:00",
+      "atualizado": "2026-09-20T11:08:25+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           218
         ]
       ],
@@ -4143,11 +4374,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Santarem (Santarem)": {
-      "atualizado": "2026-09-12T12:42:04+00:00",
+      "atualizado": "2026-09-20T11:08:25+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           388
         ]
       ],
@@ -4248,11 +4479,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-sensea-studio-com-torneiracromado-88103665.html"
     },
     "88103665@Santarem (Santarem)": {
-      "atualizado": "2026-09-12T12:42:04+00:00",
+      "atualizado": "2026-09-20T11:08:25+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           128
         ]
       ],
@@ -4563,11 +4794,11 @@
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
     },
     "89128698@Setubal (Setubal)": {
-      "atualizado": "2026-09-12T12:50:12+00:00",
+      "atualizado": "2026-09-20T11:16:12+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           408
         ]
       ],

@@ -35,10 +35,10 @@
     "Oeiras (Lisboa)": "2026-09-20T10:32:52+00:00",
     "Penafiel (Porto)": "2026-09-20T10:40:40+00:00",
     "Portimao (Faro)": "2026-09-20T10:48:26+00:00",
-    "Sacavem (Lisboa)": "2026-09-12T16:16:28+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-09-12T15:56:51+00:00",
-    "Santarem (Santarem)": "2026-09-12T15:40:26+00:00",
-    "Setubal (Setubal)": "2026-09-12T15:34:14+00:00",
+    "Sacavem (Lisboa)": "2026-09-20T10:56:46+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-20T11:04:25+00:00",
+    "Santarem (Santarem)": "2026-09-20T11:12:12+00:00",
+    "Setubal (Setubal)": "2026-09-20T11:20:01+00:00",
     "Sintra (Lisboa)": "2026-09-12T16:23:51+00:00",
     "Telheiras (Lisboa)": "2026-09-12T16:20:53+00:00",
     "Torres Novas (Santarem)": "2026-09-12T15:38:41+00:00",
@@ -192,27 +192,6 @@
       "region": "Porto",
       "retificado": false,
       "store": "Penafiel (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-4x1-hisense-comfort-3x9000-12000-btu-84622738.html"
-    },
-    "84622738@Setubal (Setubal)": {
-      "atualizado": "2026-09-12T15:34:14+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-09-12",
-          2248
-        ]
-      ],
-      "id": "84622738",
-      "m2_caixa": null,
-      "marca": "HISENSE",
-      "name": "Ar condicionado fixo (4X1) HISENSE COMFORT 3X9000 + 12000 BTU",
-      "preco_desconto": 551,
-      "preco_final": 2248,
-      "preco_normal": 2799,
-      "region": "Setubal",
-      "retificado": false,
-      "store": "Setubal (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-4x1-hisense-comfort-3x9000-12000-btu-84622738.html"
     },
     "84622739@Sintra (Lisboa)": {

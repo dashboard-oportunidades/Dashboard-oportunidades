@@ -35,10 +35,10 @@
     "Oeiras (Lisboa)": "2026-09-20T10:31:25+00:00",
     "Penafiel (Porto)": "2026-09-20T10:38:12+00:00",
     "Portimao (Faro)": "2026-09-20T10:45:58+00:00",
-    "Sacavem (Lisboa)": "2026-09-12T12:28:05+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-09-12T12:35:44+00:00",
-    "Santarem (Santarem)": "2026-09-12T12:43:21+00:00",
-    "Setubal (Setubal)": "2026-09-12T12:51:24+00:00",
+    "Sacavem (Lisboa)": "2026-09-20T10:54:11+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-20T11:01:59+00:00",
+    "Santarem (Santarem)": "2026-09-20T11:09:42+00:00",
+    "Setubal (Setubal)": "2026-09-20T11:17:31+00:00",
     "Sintra (Lisboa)": "2026-09-12T12:59:20+00:00",
     "Telheiras (Lisboa)": "2026-09-12T13:07:46+00:00",
     "Torres Novas (Santarem)": "2026-09-12T13:15:26+00:00",
@@ -468,11 +468,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-serigrafada-cromado-80x195-cm-sensea-remix-82209771.html"
     },
     "82209771@Santarem (Santarem)": {
-      "atualizado": "2026-09-12T12:43:21+00:00",
+      "atualizado": "2026-09-20T11:09:42+00:00",
       "dimensao": "80x195",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           228
         ]
       ],
@@ -1454,6 +1454,90 @@
       "store": "Portimao (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
+    "82242473@Sacavem (Lisboa)": {
+      "atualizado": "2026-09-20T10:54:11+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          419.4
+        ]
+      ],
+      "id": "82242473",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
+      "preco_desconto": 279.6,
+      "preco_final": 419.4,
+      "preco_normal": 699,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sacavem (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
+    },
+    "82242473@Santa Maria da Feira (Aveiro)": {
+      "atualizado": "2026-09-20T11:01:59+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          419.4
+        ]
+      ],
+      "id": "82242473",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
+      "preco_desconto": 279.6,
+      "preco_final": 419.4,
+      "preco_normal": 699,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Santa Maria da Feira (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
+    },
+    "82242473@Santarem (Santarem)": {
+      "atualizado": "2026-09-20T11:09:42+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          419.4
+        ]
+      ],
+      "id": "82242473",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
+      "preco_desconto": 279.6,
+      "preco_final": 419.4,
+      "preco_normal": 699,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
+    },
+    "82242473@Setubal (Setubal)": {
+      "atualizado": "2026-09-20T11:17:31+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          419.4
+        ]
+      ],
+      "id": "82242473",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
+      "preco_desconto": 279.6,
+      "preco_final": 419.4,
+      "preco_normal": 699,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Setubal (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
+    },
     "82281795@Loule (Faro)": {
       "atualizado": "2026-09-20T10:08:08+00:00",
       "dimensao": "116x200",
@@ -2145,6 +2229,90 @@
       "region": "Faro",
       "retificado": false,
       "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
+    },
+    "82352363@Sacavem (Lisboa)": {
+      "atualizado": "2026-09-20T10:54:11+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          638.1
+        ]
+      ],
+      "id": "82352363",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
+      "preco_desconto": 70.9,
+      "preco_final": 638.1,
+      "preco_normal": 709,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sacavem (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
+    },
+    "82352363@Santa Maria da Feira (Aveiro)": {
+      "atualizado": "2026-09-20T11:01:59+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          638.1
+        ]
+      ],
+      "id": "82352363",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
+      "preco_desconto": 70.9,
+      "preco_final": 638.1,
+      "preco_normal": 709,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Santa Maria da Feira (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
+    },
+    "82352363@Santarem (Santarem)": {
+      "atualizado": "2026-09-20T11:09:42+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          638.1
+        ]
+      ],
+      "id": "82352363",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
+      "preco_desconto": 70.9,
+      "preco_final": 638.1,
+      "preco_normal": 709,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
+    },
+    "82352363@Setubal (Setubal)": {
+      "atualizado": "2026-09-20T11:17:31+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          638.1
+        ]
+      ],
+      "id": "82352363",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
+      "preco_desconto": 70.9,
+      "preco_final": 638.1,
+      "preco_normal": 709,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Setubal (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
     },
     "82391559@Alfragide (Lisboa)": {
@@ -2880,6 +3048,90 @@
       "region": "Faro",
       "retificado": false,
       "store": "Portimao (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
+    },
+    "85868135@Sacavem (Lisboa)": {
+      "atualizado": "2026-09-20T10:54:11+00:00",
+      "dimensao": "180x198",
+      "history": [
+        [
+          "2026-09-20",
+          564.4
+        ]
+      ],
+      "id": "85868135",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Portas de duche 180x198,5 cm serigrafado/cromado Glassinox",
+      "preco_desconto": 99.6,
+      "preco_final": 564.4,
+      "preco_normal": 664,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Sacavem (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
+    },
+    "85868135@Santa Maria da Feira (Aveiro)": {
+      "atualizado": "2026-09-20T11:01:59+00:00",
+      "dimensao": "180x198",
+      "history": [
+        [
+          "2026-09-20",
+          564.4
+        ]
+      ],
+      "id": "85868135",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Portas de duche 180x198,5 cm serigrafado/cromado Glassinox",
+      "preco_desconto": 99.6,
+      "preco_final": 564.4,
+      "preco_normal": 664,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Santa Maria da Feira (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
+    },
+    "85868135@Santarem (Santarem)": {
+      "atualizado": "2026-09-20T11:09:42+00:00",
+      "dimensao": "180x198",
+      "history": [
+        [
+          "2026-09-20",
+          564.4
+        ]
+      ],
+      "id": "85868135",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Portas de duche 180x198,5 cm serigrafado/cromado Glassinox",
+      "preco_desconto": 99.6,
+      "preco_final": 564.4,
+      "preco_normal": 664,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
+    },
+    "85868135@Setubal (Setubal)": {
+      "atualizado": "2026-09-20T11:17:31+00:00",
+      "dimensao": "180x198",
+      "history": [
+        [
+          "2026-09-20",
+          564.4
+        ]
+      ],
+      "id": "85868135",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Portas de duche 180x198,5 cm serigrafado/cromado Glassinox",
+      "preco_desconto": 99.6,
+      "preco_final": 564.4,
+      "preco_normal": 664,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Setubal (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
     },
     "87274291@Albufeira (Faro)": {

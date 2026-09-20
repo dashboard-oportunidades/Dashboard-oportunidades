@@ -35,10 +35,10 @@
     "Oeiras (Lisboa)": "2026-09-20T10:34:10+00:00",
     "Penafiel (Porto)": "2026-09-20T10:41:58+00:00",
     "Portimao (Faro)": "2026-09-20T10:49:41+00:00",
-    "Sacavem (Lisboa)": "2026-09-12T12:31:45+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-09-12T12:39:22+00:00",
-    "Santarem (Santarem)": "2026-09-12T12:47:27+00:00",
-    "Setubal (Setubal)": "2026-09-12T12:55:03+00:00",
+    "Sacavem (Lisboa)": "2026-09-20T10:57:57+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-09-20T11:05:38+00:00",
+    "Santarem (Santarem)": "2026-09-20T11:13:30+00:00",
+    "Setubal (Setubal)": "2026-09-20T11:21:16+00:00",
     "Sintra (Lisboa)": "2026-09-12T13:03:51+00:00",
     "Telheiras (Lisboa)": "2026-09-12T13:11:30+00:00",
     "Torres Novas (Santarem)": "2026-09-12T13:19:13+00:00",
@@ -90,11 +90,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-lite-80-litros-75347816.html"
     },
     "75347816@Santarem (Santarem)": {
-      "atualizado": "2026-09-12T12:47:27+00:00",
+      "atualizado": "2026-09-20T11:13:30+00:00",
       "dimensao": "80L",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           149
         ]
       ],
@@ -150,27 +150,6 @@
       "region": "Setubal",
       "retificado": false,
       "store": "Montijo (Setubal)",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
-    },
-    "81940803@Santarem (Santarem)": {
-      "atualizado": "2026-09-12T12:47:27+00:00",
-      "dimensao": "60L",
-      "history": [
-        [
-          "2026-09-12",
-          199
-        ]
-      ],
-      "id": "81940803",
-      "m2_caixa": null,
-      "marca": null,
-      "name": "Termoacumulador indimante inox tel1500w v/h 60l",
-      "preco_desconto": 250,
-      "preco_final": 199,
-      "preco_normal": 449,
-      "region": "Santarem",
-      "retificado": false,
-      "store": "Santarem (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
     "81940803@Torres Vedras (Lisboa)": {
@@ -447,11 +426,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-multiposicao-flat-es80-tf7-80l-haier-87542649.html"
     },
     "89618137@Santarem (Santarem)": {
-      "atualizado": "2026-09-12T12:47:27+00:00",
+      "atualizado": "2026-09-20T11:13:30+00:00",
       "dimensao": "50L",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           149
         ]
       ],
