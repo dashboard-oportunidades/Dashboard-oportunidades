@@ -1,9 +1,9 @@
 {
   "lojas": {
     "Albufeira (Faro)": "2026-09-20T12:16:00+00:00",
-    "Alfragide (Lisboa)": "2026-09-12T14:30:08+00:00",
-    "Almada (Setubal)": "2026-09-12T14:14:45+00:00",
-    "Alta de Lisboa (Lisboa)": "2026-09-20T07:19:59+00:00",
+    "Alfragide (Lisboa)": "2026-09-20T12:55:06+00:00",
+    "Almada (Setubal)": "2026-09-20T12:39:43+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-09-20T13:02:41+00:00",
     "Alverca (Lisboa)": "2026-09-20T07:27:24+00:00",
     "Amadora (Lisboa)": "2026-09-20T07:35:12+00:00",
     "Aveiro (Aveiro)": "2026-09-20T07:42:58+00:00",
@@ -28,8 +28,8 @@
     "Leiria (Leiria)": "2026-09-20T10:04:13+00:00",
     "Loule (Faro)": "2026-09-20T10:11:48+00:00",
     "Loures (Lisboa)": "2026-09-20T10:19:28+00:00",
-    "Mafra (Lisboa)": "2026-09-12T14:22:26+00:00",
-    "Maia (Porto)": "2026-09-12T14:07:02+00:00",
+    "Mafra (Lisboa)": "2026-09-20T12:47:27+00:00",
+    "Maia (Porto)": "2026-09-20T12:31:54+00:00",
     "Matosinhos (Porto)": "2026-09-20T12:23:48+00:00",
     "Montijo (Setubal)": "2026-09-20T10:27:25+00:00",
     "Oeiras (Lisboa)": "2026-09-20T10:34:10+00:00",
@@ -111,11 +111,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-lite-80-litros-75347816.html"
     },
     "81940803@Almada (Setubal)": {
-      "atualizado": "2026-09-12T14:14:45+00:00",
+      "atualizado": "2026-09-20T12:39:43+00:00",
       "dimensao": "60L",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           368
         ]
       ],
@@ -174,11 +174,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
     "81940804@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-12T14:30:08+00:00",
+      "atualizado": "2026-09-20T12:55:06+00:00",
       "dimensao": "80L",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           388
         ]
       ],
@@ -403,27 +403,6 @@
       "retificado": false,
       "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-50l-84801327.html"
-    },
-    "87542649@Almada (Setubal)": {
-      "atualizado": "2026-09-12T14:14:45+00:00",
-      "dimensao": "80L",
-      "history": [
-        [
-          "2026-09-12",
-          308
-        ]
-      ],
-      "id": "87542649",
-      "m2_caixa": null,
-      "marca": "HAIER",
-      "name": "Termoacumulador inteligente multiposição Flat ES80-TF7 80L Haier",
-      "preco_desconto": 71,
-      "preco_final": 308,
-      "preco_normal": 379,
-      "region": "Setubal",
-      "retificado": false,
-      "store": "Almada (Setubal)",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-multiposicao-flat-es80-tf7-80l-haier-87542649.html"
     },
     "89618137@Santarem (Santarem)": {
       "atualizado": "2026-09-20T11:13:30+00:00",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T12:23:50+00:00",
+  "generated": "2026-09-20T13:02:42+00:00",
   "products": [
     {
       "id": "82005354",
@@ -314,20 +314,6 @@
           ]
         },
         {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 449,
-          "preco_desconto": 81,
-          "preco_final": 368,
-          "atualizado": "2026-09-12T14:14:45+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              368
-            ]
-          ]
-        },
-        {
           "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 368,
@@ -340,30 +326,18 @@
               368
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "87542649",
-      "name": "Termoacumulador inteligente multiposição Flat ES80-TF7 80L Haier",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-multiposicao-flat-es80-tf7-80l-haier-87542649.html",
-      "dimensao": "80L",
-      "marca": "HAIER",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 308,
-      "prices": [
+        },
         {
           "store": "Almada (Setubal)",
           "region": "Setubal",
-          "preco_normal": 379,
-          "preco_desconto": 71,
-          "preco_final": 308,
-          "atualizado": "2026-09-12T14:14:45+00:00",
+          "preco_normal": 449,
+          "preco_desconto": 81,
+          "preco_final": 368,
+          "atualizado": "2026-09-20T12:39:43+00:00",
           "history": [
             [
-              "2026-09-12",
-              308
+              "2026-09-20",
+              368
             ]
           ]
         }
@@ -432,20 +406,6 @@
       "preco_final": 388,
       "prices": [
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-12T14:30:08+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 388,
@@ -480,6 +440,20 @@
           "preco_desconto": 81,
           "preco_final": 388,
           "atualizado": "2026-09-20T10:19:28+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T12:55:06+00:00",
           "history": [
             [
               "2026-09-20",
