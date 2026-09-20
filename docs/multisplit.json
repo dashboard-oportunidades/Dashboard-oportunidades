@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T16:25:20+00:00",
+  "generated": "2026-09-20T07:49:41+00:00",
   "products": [
     {
       "id": "82143647",
@@ -109,10 +109,10 @@
           "preco_normal": 1199,
           "preco_desconto": 200,
           "preco_final": 999,
-          "atualizado": "2026-09-12T15:52:27+00:00",
+          "atualizado": "2026-09-20T07:48:27+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               999
             ]
           ]
@@ -129,6 +129,20 @@
       "m2_caixa": null,
       "preco_final": 1008,
       "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1249,
+          "preco_desconto": 241,
+          "preco_final": 1008,
+          "atualizado": "2026-09-12T16:14:59+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1008
+            ]
+          ]
+        },
         {
           "store": "Caldas da Rainha (Leiria)",
           "region": "Leiria",
@@ -158,12 +172,12 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
+          "store": "Sintra (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 1249,
-          "preco_desconto": 241,
+          "preco_normal": 1008,
+          "preco_desconto": 0.0,
           "preco_final": 1008,
-          "atualizado": "2026-09-12T16:14:59+00:00",
+          "atualizado": "2026-09-12T16:23:51+00:00",
           "history": [
             [
               "2026-09-12",
@@ -177,24 +191,10 @@
           "preco_normal": 1249,
           "preco_desconto": 241,
           "preco_final": 1008,
-          "atualizado": "2026-09-12T16:22:22+00:00",
+          "atualizado": "2026-09-20T07:33:56+00:00",
           "history": [
             [
-              "2026-09-12",
-              1008
-            ]
-          ]
-        },
-        {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1008,
-          "preco_desconto": 0.0,
-          "preco_final": 1008,
-          "atualizado": "2026-09-12T16:23:51+00:00",
-          "history": [
-            [
-              "2026-09-12",
+              "2026-09-20",
               1008
             ]
           ]
@@ -374,46 +374,6 @@
       ]
     },
     {
-      "id": "83791816",
-      "name": "Ar condicionado fixo (3x1) HAIER FLEXIS 9000BTU + 9000BTU + 12000BTU WIFI PRETO",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html",
-      "dimensao": "9000 BTU",
-      "marca": "HAIER",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 1628,
-      "prices": [
-        {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 2029,
-          "preco_desconto": 401,
-          "preco_final": 1628,
-          "atualizado": "2026-09-12T15:29:48+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              1628
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 2029,
-          "preco_desconto": 401,
-          "preco_final": 1628,
-          "atualizado": "2026-09-12T16:22:22+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              1628
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "83791813",
       "name": "Ar condicionado fixo (3x1) HAIER FLEXIS 9000BTU + 9000BTU + 12000BTU WIFI BRANCO",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-branco-83791813.html",
@@ -430,6 +390,32 @@
           "preco_desconto": 401,
           "preco_final": 1628,
           "atualizado": "2026-09-12T16:17:56+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              1628
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83791816",
+      "name": "Ar condicionado fixo (3x1) HAIER FLEXIS 9000BTU + 9000BTU + 12000BTU WIFI PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html",
+      "dimensao": "9000 BTU",
+      "marca": "HAIER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 1628,
+      "prices": [
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 2029,
+          "preco_desconto": 401,
+          "preco_final": 1628,
+          "atualizado": "2026-09-12T15:29:48+00:00",
           "history": [
             [
               "2026-09-12",

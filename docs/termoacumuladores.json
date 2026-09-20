@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T14:30:08+00:00",
+  "generated": "2026-09-20T07:49:41+00:00",
   "products": [
     {
       "id": "82005354",
@@ -210,12 +210,12 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 368,
-          "preco_desconto": 0.0,
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 449,
+          "preco_desconto": 81,
           "preco_final": 368,
-          "atualizado": "2026-09-12T13:27:07+00:00",
+          "atualizado": "2026-09-12T14:14:45+00:00",
           "history": [
             [
               "2026-09-12",
@@ -224,12 +224,12 @@
           ]
         },
         {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 449,
-          "preco_desconto": 81,
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 368,
+          "preco_desconto": 0.0,
           "preco_final": 368,
-          "atualizado": "2026-09-12T14:14:45+00:00",
+          "atualizado": "2026-09-12T13:27:07+00:00",
           "history": [
             [
               "2026-09-12",
@@ -420,12 +420,12 @@
       "preco_final": 388,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
+          "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 388,
           "preco_desconto": 0.0,
           "preco_final": 388,
-          "atualizado": "2026-09-12T09:00:55+00:00",
+          "atualizado": "2026-09-12T14:30:08+00:00",
           "history": [
             [
               "2026-09-12",
@@ -462,15 +462,15 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
+          "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 388,
           "preco_desconto": 0.0,
           "preco_final": 388,
-          "atualizado": "2026-09-12T14:30:08+00:00",
+          "atualizado": "2026-09-20T07:35:12+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               388
             ]
           ]
@@ -482,7 +482,7 @@
       "name": "Termoacumulador ariston fleck nilo 75l",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-ariston-fleck-nilo-75l-15840643.html",
       "dimensao": "75L",
-      "marca": "ARISTON",
+      "marca": "FLECK",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 458,
@@ -493,10 +493,10 @@
           "preco_normal": 458,
           "preco_desconto": 0.0,
           "preco_final": 458,
-          "atualizado": "2026-09-12T09:00:55+00:00",
+          "atualizado": "2026-09-20T07:35:12+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               458
             ]
           ]

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T14:30:08+00:00",
+  "generated": "2026-09-20T07:49:41+00:00",
   "products": [
     {
       "id": "87870009",
@@ -158,12 +158,12 @@
       "preco_final": 228,
       "prices": [
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 279,
+          "preco_desconto": 51,
           "preco_final": 228,
-          "atualizado": "2026-09-12T09:04:55+00:00",
+          "atualizado": "2026-09-12T14:10:57+00:00",
           "history": [
             [
               "2026-09-12",
@@ -200,15 +200,15 @@
           ]
         },
         {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 279,
-          "preco_desconto": 51,
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
           "preco_final": 228,
-          "atualizado": "2026-09-12T14:10:57+00:00",
+          "atualizado": "2026-09-20T07:39:08+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               228
             ]
           ]
@@ -268,6 +268,32 @@
       ]
     },
     {
+      "id": "16954525",
+      "name": "Lateral de duche cavado fixo 80 cm vidro temperado cromado PerfilGold",
+      "url": "https://www.leroymerlin.pt/produtos/lateral-de-duche-cavado-fixo-80-cm-vidro-temperado-cromado-perfilgold-16954525.html",
+      "dimensao": null,
+      "marca": "PERFILGOLD",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 268,
+      "prices": [
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 268,
+          "preco_desconto": 0.0,
+          "preco_final": 268,
+          "atualizado": "2026-09-12T14:10:57+00:00",
+          "history": [
+            [
+              "2026-09-12",
+              268
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82008892",
       "name": "Porta de duche frontal porta+frontal 140cm transparente cromado Leci A",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-frontal-porta-frontal-140cm-transparente-cromado-leci-a-82008892.html",
@@ -304,20 +330,6 @@
       "preco_final": 268,
       "prices": [
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 319,
-          "preco_desconto": 51,
-          "preco_final": 268,
-          "atualizado": "2026-09-12T09:04:55+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              268
-            ]
-          ]
-        },
-        {
           "store": "Gondomar (Porto)",
           "region": "Porto",
           "preco_normal": 268,
@@ -327,6 +339,20 @@
           "history": [
             [
               "2026-09-12",
+              268
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 319,
+          "preco_desconto": 51,
+          "preco_final": 268,
+          "atualizado": "2026-09-20T07:39:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
               268
             ]
           ]
@@ -386,32 +412,6 @@
       ]
     },
     {
-      "id": "16954525",
-      "name": "Lateral de duche cavado fixo 80 cm vidro temperado cromado PerfilGold",
-      "url": "https://www.leroymerlin.pt/produtos/lateral-de-duche-cavado-fixo-80-cm-vidro-temperado-cromado-perfilgold-16954525.html",
-      "dimensao": null,
-      "marca": "PERFILGOLD",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 268,
-      "prices": [
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 268,
-          "preco_desconto": 0.0,
-          "preco_final": 268,
-          "atualizado": "2026-09-12T14:10:57+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              268
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "93403497",
       "name": "Porta de Duche de Correr 140X200cm vidro transparente perfil preto Leci B S21",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-correr-140x200cm-vidro-transparente-perfil-preto-leci-b-s21-93403497.html",
@@ -432,32 +432,6 @@
             [
               "2026-09-12",
               269
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "81905996",
-      "name": "Porta de duche106-116 cm Apolo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche106-116-cm-apolo-81905996.html",
-      "dimensao": null,
-      "marca": "ROCA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 278,
-      "prices": [
-        {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 419,
-          "preco_desconto": 141,
-          "preco_final": 278,
-          "atualizado": "2026-09-12T09:12:50+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              278
             ]
           ]
         }
@@ -490,6 +464,32 @@
       ]
     },
     {
+      "id": "81905996",
+      "name": "Porta de duche106-116 cm Apolo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche106-116-cm-apolo-81905996.html",
+      "dimensao": null,
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 278,
+      "prices": [
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 419,
+          "preco_desconto": 141,
+          "preco_final": 278,
+          "atualizado": "2026-09-20T07:45:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              278
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82209764",
       "name": "Porta de duche transparente cromado 160x195 cm Sensea Remix",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-160x195-cm-sensea-remix-82209764.html",
@@ -500,12 +500,12 @@
       "preco_final": 288,
       "prices": [
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 288,
-          "preco_desconto": 0.0,
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 349,
+          "preco_desconto": 61,
           "preco_final": 288,
-          "atualizado": "2026-09-12T09:36:21+00:00",
+          "atualizado": "2026-09-12T14:26:29+00:00",
           "history": [
             [
               "2026-09-12",
@@ -514,12 +514,12 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 349,
-          "preco_desconto": 61,
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 288,
+          "preco_desconto": 0.0,
           "preco_final": 288,
-          "atualizado": "2026-09-12T14:26:29+00:00",
+          "atualizado": "2026-09-12T09:36:21+00:00",
           "history": [
             [
               "2026-09-12",
@@ -724,26 +724,12 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 436,
-          "preco_desconto": 78,
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 358,
+          "preco_desconto": 0.0,
           "preco_final": 358,
-          "atualizado": "2026-09-12T08:57:06+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              358
-            ]
-          ]
-        },
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-09-12T09:04:55+00:00",
+          "atualizado": "2026-09-12T14:10:57+00:00",
           "history": [
             [
               "2026-09-12",
@@ -808,20 +794,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-09-12T13:54:48+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              358
-            ]
-          ]
-        },
-        {
           "store": "Maia (Porto)",
           "region": "Porto",
           "preco_normal": 436,
@@ -836,15 +808,43 @@
           ]
         },
         {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 358,
-          "preco_desconto": 0.0,
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 436,
+          "preco_desconto": 78,
           "preco_final": 358,
-          "atualizado": "2026-09-12T14:10:57+00:00",
+          "atualizado": "2026-09-12T13:54:48+00:00",
           "history": [
             [
               "2026-09-12",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-20T07:31:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-20T07:39:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
               358
             ]
           ]
@@ -914,20 +914,6 @@
       "preco_final": 388,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 474,
-          "preco_desconto": 86,
-          "preco_final": 388,
-          "atualizado": "2026-09-12T08:57:06+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 474,
@@ -937,6 +923,20 @@
           "history": [
             [
               "2026-09-12",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 474,
+          "preco_desconto": 86,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T07:31:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
               388
             ]
           ]
@@ -994,20 +994,6 @@
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 418,
-          "preco_desconto": 0.0,
-          "preco_final": 418,
-          "atualizado": "2026-09-12T09:04:55+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              418
-            ]
-          ]
-        },
-        {
           "store": "Braga (Braga)",
           "region": "Braga",
           "preco_normal": 509,
@@ -1048,6 +1034,20 @@
               418
             ]
           ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 418,
+          "preco_desconto": 0.0,
+          "preco_final": 418,
+          "atualizado": "2026-09-20T07:39:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              418
+            ]
+          ]
         }
       ]
     },
@@ -1072,6 +1072,88 @@
             [
               "2026-09-12",
               418
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242473",
+      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html",
+      "dimensao": "160x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 419.4,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 419.4,
+          "preco_desconto": 0.0,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T07:17:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T07:23:47+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T07:31:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T07:39:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T07:45:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
             ]
           ]
         }
@@ -1249,10 +1331,10 @@
           "preco_normal": 549,
           "preco_desconto": 101,
           "preco_final": 448,
-          "atualizado": "2026-09-12T08:41:18+00:00",
+          "atualizado": "2026-09-20T07:17:25+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               448
             ]
           ]
@@ -1379,10 +1461,10 @@
           "preco_normal": 654,
           "preco_desconto": 126,
           "preco_final": 528,
-          "atualizado": "2026-09-12T08:41:18+00:00",
+          "atualizado": "2026-09-20T07:17:25+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               528
             ]
           ]
@@ -1390,26 +1472,82 @@
       ]
     },
     {
-      "id": "82242473",
-      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html",
-      "dimensao": "160x200",
-      "marca": "SENSEA",
+      "id": "85868135",
+      "name": "Portas de duche 180x198,5 cm serigrafado/cromado Glassinox",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html",
+      "dimensao": "180x198",
+      "marca": "GLASSINOX",
       "retificado": false,
       "m2_caixa": null,
-      "preco_final": 568,
+      "preco_final": 564.4,
       "prices": [
         {
           "store": "Alta de Lisboa (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 568,
-          "preco_desconto": 0.0,
-          "preco_final": 568,
-          "atualizado": "2026-09-12T08:41:18+00:00",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T07:17:25+00:00",
           "history": [
             [
-              "2026-09-12",
-              568
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T07:23:47+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T07:31:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T07:39:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T07:45:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
             ]
           ]
         }
@@ -1488,6 +1626,88 @@
             [
               "2026-09-12",
               599
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82352363",
+      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html",
+      "dimensao": "160x200",
+      "marca": "GLASSINOX",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 638.1,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T07:17:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T07:23:47+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T07:31:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T07:39:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T07:45:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
             ]
           ]
         }
