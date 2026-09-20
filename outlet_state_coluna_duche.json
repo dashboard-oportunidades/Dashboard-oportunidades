@@ -8,10 +8,10 @@
     "Amadora (Lisboa)": "2026-09-20T07:30:08+00:00",
     "Aveiro (Aveiro)": "2026-09-20T07:37:54+00:00",
     "Barcelos (Braga)": "2026-09-20T07:44:44+00:00",
-    "Barreiro (Setubal)": "2026-09-12T09:19:29+00:00",
-    "Braga (Braga)": "2026-09-12T09:27:12+00:00",
-    "Braganca (Braganca)": "2026-09-12T09:35:09+00:00",
-    "Caldas da Rainha (Leiria)": "2026-09-12T09:43:25+00:00",
+    "Barreiro (Setubal)": "2026-09-20T07:52:57+00:00",
+    "Braga (Braga)": "2026-09-20T08:00:38+00:00",
+    "Braganca (Braganca)": "2026-09-20T08:08:22+00:00",
+    "Caldas da Rainha (Leiria)": "2026-09-20T08:15:58+00:00",
     "Carcavelos (Lisboa)": "2026-09-12T09:51:26+00:00",
     "Cascais (Lisboa)": "2026-09-12T09:59:01+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-12T10:06:41+00:00",
@@ -150,6 +150,90 @@
       "region": "Braga",
       "retificado": false,
       "store": "Barcelos (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
+    "17283966@Barreiro (Setubal)": {
+      "atualizado": "2026-09-20T07:52:57+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Barreiro (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
+    "17283966@Braga (Braga)": {
+      "atualizado": "2026-09-20T08:00:38+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Braga (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
+    "17283966@Braganca (Braganca)": {
+      "atualizado": "2026-09-20T08:08:22+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Braganca",
+      "retificado": false,
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
+    },
+    "17283966@Caldas da Rainha (Leiria)": {
+      "atualizado": "2026-09-20T08:15:58+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          104.3
+        ]
+      ],
+      "id": "17283966",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche CASCAIS CROMADO",
+      "preco_desconto": 44.7,
+      "preco_final": 104.3,
+      "preco_normal": 149,
+      "region": "Leiria",
+      "retificado": false,
+      "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-cascais-cromado-17283966.html"
     },
     "17364851@Alfragide (Lisboa)": {
@@ -384,11 +468,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Barreiro (Setubal)": {
-      "atualizado": "2026-09-12T09:19:29+00:00",
+      "atualizado": "2026-09-20T07:52:57+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -405,11 +489,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Braga (Braga)": {
-      "atualizado": "2026-09-12T09:27:12+00:00",
+      "atualizado": "2026-09-20T08:00:38+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -426,11 +510,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Braganca (Braganca)": {
-      "atualizado": "2026-09-12T09:35:09+00:00",
+      "atualizado": "2026-09-20T08:08:22+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -447,11 +531,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-regulavel-retro-81882097.html"
     },
     "81882097@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-12T09:43:25+00:00",
+      "atualizado": "2026-09-20T08:15:58+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           209.3
         ]
       ],
@@ -1454,13 +1538,34 @@
       "store": "Barcelos (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
     },
-    "81896503@Braga (Braga)": {
-      "atualizado": "2026-09-12T09:27:12+00:00",
+    "81896503@Barreiro (Setubal)": {
+      "atualizado": "2026-09-20T07:52:57+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
-          348
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Barreiro (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81896503@Braga (Braga)": {
+      "atualizado": "2026-09-20T08:00:38+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
         ]
       ],
       "id": "81896503",
@@ -1468,11 +1573,53 @@
       "marca": "HUBER",
       "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
       "preco_desconto": 0.0,
-      "preco_final": 348,
-      "preco_normal": 348,
+      "preco_final": 257.4,
+      "preco_normal": 257.4,
       "region": "Braga",
       "retificado": false,
       "store": "Braga (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81896503@Braganca (Braganca)": {
+      "atualizado": "2026-09-20T08:08:22+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Braganca",
+      "retificado": false,
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
+    },
+    "81896503@Caldas da Rainha (Leiria)": {
+      "atualizado": "2026-09-20T08:15:58+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          257.4
+        ]
+      ],
+      "id": "81896503",
+      "m2_caixa": null,
+      "marca": "HUBER",
+      "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
+      "preco_desconto": 171.6,
+      "preco_final": 257.4,
+      "preco_normal": 429,
+      "region": "Leiria",
+      "retificado": false,
+      "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html"
     },
     "81896503@Gaia (Porto)": {
@@ -1643,6 +1790,90 @@
       "store": "Barcelos (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
     },
+    "81977433@Barreiro (Setubal)": {
+      "atualizado": "2026-09-20T07:52:57+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Barreiro (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
+    "81977433@Braga (Braga)": {
+      "atualizado": "2026-09-20T08:00:38+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Braga (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
+    "81977433@Braganca (Braganca)": {
+      "atualizado": "2026-09-20T08:08:22+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Braganca",
+      "retificado": false,
+      "store": "Braganca (Braganca)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
+    "81977433@Caldas da Rainha (Leiria)": {
+      "atualizado": "2026-09-20T08:15:58+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          153.3
+        ]
+      ],
+      "id": "81977433",
+      "m2_caixa": null,
+      "marca": "DEFEROM",
+      "name": "Conjunto de duche PARIS CROMADO MATE",
+      "preco_desconto": 65.7,
+      "preco_final": 153.3,
+      "preco_normal": 219,
+      "region": "Leiria",
+      "retificado": false,
+      "store": "Caldas da Rainha (Leiria)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-paris-cromado-mate-81977433.html"
+    },
     "82023074@Guarda (Guarda)": {
       "atualizado": "2026-09-12T11:16:48+00:00",
       "dimensao": null,
@@ -1727,12 +1958,33 @@
       "store": "Amadora (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-cromado-82483854.html"
     },
-    "82559325@Braganca (Braganca)": {
-      "atualizado": "2026-09-12T09:35:09+00:00",
+    "82483854@Braga (Braga)": {
+      "atualizado": "2026-09-20T08:00:38+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
+          188
+        ]
+      ],
+      "id": "82483854",
+      "m2_caixa": null,
+      "marca": "ESSEBAGNO",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO CROMADO",
+      "preco_desconto": 41,
+      "preco_final": 188,
+      "preco_normal": 229,
+      "region": "Braga",
+      "retificado": false,
+      "store": "Braga (Braga)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-cromado-82483854.html"
+    },
+    "82559325@Braganca (Braganca)": {
+      "atualizado": "2026-09-20T08:08:22+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
           198
         ]
       ],
@@ -1853,6 +2105,27 @@
       "store": "Torres Novas (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatica-start-clova-210-cromada-82559325.html"
     },
+    "82768003@Barreiro (Setubal)": {
+      "atualizado": "2026-09-20T07:52:57+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-09-20",
+          228
+        ]
+      ],
+      "id": "82768003",
+      "m2_caixa": null,
+      "marca": "ESSEBAGNO",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO PRETO",
+      "preco_desconto": 51,
+      "preco_final": 228,
+      "preco_normal": 279,
+      "region": "Setubal",
+      "retificado": false,
+      "store": "Barreiro (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-preto-82768003.html"
+    },
     "83596589@Almada (Setubal)": {
       "atualizado": "2026-09-12T14:09:40+00:00",
       "dimensao": null,
@@ -1917,11 +2190,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
     },
     "83596589@Braga (Braga)": {
-      "atualizado": "2026-09-12T09:27:12+00:00",
+      "atualizado": "2026-09-20T08:00:38+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           248
         ]
       ],
@@ -1938,11 +2211,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
     },
     "83596589@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-12T09:43:25+00:00",
+      "atualizado": "2026-09-20T08:15:58+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           248
         ]
       ],
@@ -2106,11 +2379,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-start-clova-210-cromado-83596589.html"
     },
     "83601180@Braganca (Braganca)": {
-      "atualizado": "2026-09-12T09:35:09+00:00",
+      "atualizado": "2026-09-20T08:08:22+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           298
         ]
       ],
@@ -2232,11 +2505,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-banheira-com-torneira-termostatica-cromado-sensea-easy-84583553.html"
     },
     "86523842@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-12T09:43:25+00:00",
+      "atualizado": "2026-09-20T08:15:58+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           468
         ]
       ],
@@ -2421,11 +2694,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Barreiro (Setubal)": {
-      "atualizado": "2026-09-12T09:19:29+00:00",
+      "atualizado": "2026-09-20T07:52:57+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           388
         ]
       ],
@@ -2442,11 +2715,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Braga (Braga)": {
-      "atualizado": "2026-09-12T09:27:12+00:00",
+      "atualizado": "2026-09-20T08:00:38+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           348
         ]
       ],
@@ -2463,11 +2736,11 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html"
     },
     "86600587@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-12T09:43:25+00:00",
+      "atualizado": "2026-09-20T08:15:58+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           388
         ]
       ],
@@ -2967,11 +3240,11 @@
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
     },
     "89128698@Barreiro (Setubal)": {
-      "atualizado": "2026-09-12T09:19:29+00:00",
+      "atualizado": "2026-09-20T07:52:57+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           408
         ]
       ],
@@ -2988,11 +3261,11 @@
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
     },
     "89128698@Braga (Braga)": {
-      "atualizado": "2026-09-12T09:27:12+00:00",
+      "atualizado": "2026-09-20T08:00:38+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           339
         ]
       ],
@@ -3114,11 +3387,11 @@
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html"
     },
     "91776117@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-12T09:43:25+00:00",
+      "atualizado": "2026-09-20T08:15:58+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           148
         ]
       ],

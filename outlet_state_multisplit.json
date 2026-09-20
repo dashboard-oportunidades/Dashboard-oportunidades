@@ -8,10 +8,10 @@
     "Amadora (Lisboa)": "2026-09-20T07:33:56+00:00",
     "Aveiro (Aveiro)": "2026-09-20T07:41:43+00:00",
     "Barcelos (Braga)": "2026-09-20T07:48:27+00:00",
-    "Barreiro (Setubal)": "2026-09-12T15:29:48+00:00",
-    "Braga (Braga)": "2026-09-12T15:50:46+00:00",
-    "Braganca (Braganca)": "2026-09-12T15:49:18+00:00",
-    "Caldas da Rainha (Leiria)": "2026-09-12T15:46:21+00:00",
+    "Barreiro (Setubal)": "2026-09-20T07:56:39+00:00",
+    "Braga (Braga)": "2026-09-20T08:04:26+00:00",
+    "Braganca (Braganca)": "2026-09-20T08:12:02+00:00",
+    "Caldas da Rainha (Leiria)": "2026-09-20T08:19:43+00:00",
     "Carcavelos (Lisboa)": "2026-09-12T15:19:18+00:00",
     "Cascais (Lisboa)": "2026-09-12T16:25:20+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-12T15:35:43+00:00",
@@ -89,27 +89,6 @@
       "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-branco-83791813.html"
     },
-    "83791816@Barreiro (Setubal)": {
-      "atualizado": "2026-09-12T15:29:48+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-09-12",
-          1628
-        ]
-      ],
-      "id": "83791816",
-      "m2_caixa": null,
-      "marca": "HAIER",
-      "name": "Ar condicionado fixo (3x1) HAIER FLEXIS 9000BTU + 9000BTU + 12000BTU WIFI PRETO",
-      "preco_desconto": 401,
-      "preco_final": 1628,
-      "preco_normal": 2029,
-      "region": "Setubal",
-      "retificado": false,
-      "store": "Barreiro (Setubal)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html"
-    },
     "84622733@Gaia (Porto)": {
       "atualizado": "2026-09-12T16:01:19+00:00",
       "dimensao": "9000 BTU",
@@ -153,11 +132,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-12000-btu-84622735.html"
     },
     "84622735@Barreiro (Setubal)": {
-      "atualizado": "2026-09-12T15:29:48+00:00",
+      "atualizado": "2026-09-20T07:56:39+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           1328
         ]
       ],
@@ -468,11 +447,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
     },
     "92041665@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-12T15:46:21+00:00",
+      "atualizado": "2026-09-20T08:19:43+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           1008
         ]
       ],

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T07:49:41+00:00",
+  "generated": "2026-09-20T08:21:00+00:00",
   "products": [
     {
       "id": "87870009",
@@ -172,6 +172,20 @@
           ]
         },
         {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 228,
+          "preco_desconto": 0.0,
+          "preco_final": 228,
+          "atualizado": "2026-09-20T07:39:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              228
+            ]
+          ]
+        },
+        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 279,
@@ -195,20 +209,6 @@
           "history": [
             [
               "2026-09-12",
-              228
-            ]
-          ]
-        },
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 228,
-          "preco_desconto": 0.0,
-          "preco_final": 228,
-          "atualizado": "2026-09-20T07:39:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
               228
             ]
           ]
@@ -257,10 +257,10 @@
           "preco_normal": 258,
           "preco_desconto": 0.0,
           "preco_final": 258,
-          "atualizado": "2026-09-12T09:36:21+00:00",
+          "atualizado": "2026-09-20T08:09:36+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               258
             ]
           ]
@@ -330,20 +330,6 @@
       "preco_final": 268,
       "prices": [
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
-          "preco_normal": 268,
-          "preco_desconto": 0.0,
-          "preco_final": 268,
-          "atualizado": "2026-09-12T11:10:26+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              268
-            ]
-          ]
-        },
-        {
           "store": "Aveiro (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 319,
@@ -353,6 +339,20 @@
           "history": [
             [
               "2026-09-20",
+              268
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 268,
+          "preco_desconto": 0.0,
+          "preco_final": 268,
+          "atualizado": "2026-09-12T11:10:26+00:00",
+          "history": [
+            [
+              "2026-09-12",
               268
             ]
           ]
@@ -438,32 +438,6 @@
       ]
     },
     {
-      "id": "82209762",
-      "name": "Porta de duche serigrafada cromado 140x195 cm Sensea Remix",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-140x195-cm-sensea-remix-82209762.html",
-      "dimensao": "140x195",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 278,
-      "prices": [
-        {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 339,
-          "preco_desconto": 61,
-          "preco_final": 278,
-          "atualizado": "2026-09-12T10:31:42+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              278
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "81905996",
       "name": "Porta de duche106-116 cm Apolo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche106-116-cm-apolo-81905996.html",
@@ -483,6 +457,32 @@
           "history": [
             [
               "2026-09-20",
+              278
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209762",
+      "name": "Porta de duche serigrafada cromado 140x195 cm Sensea Remix",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-140x195-cm-sensea-remix-82209762.html",
+      "dimensao": "140x195",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 278,
+      "prices": [
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 339,
+          "preco_desconto": 61,
+          "preco_final": 278,
+          "atualizado": "2026-09-12T10:31:42+00:00",
+          "history": [
+            [
+              "2026-09-12",
               278
             ]
           ]
@@ -519,10 +519,10 @@
           "preco_normal": 288,
           "preco_desconto": 0.0,
           "preco_final": 288,
-          "atualizado": "2026-09-12T09:36:21+00:00",
+          "atualizado": "2026-09-20T08:09:36+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               288
             ]
           ]
@@ -545,10 +545,10 @@
           "preco_normal": 347.4,
           "preco_desconto": 49.4,
           "preco_final": 298,
-          "atualizado": "2026-09-12T09:36:21+00:00",
+          "atualizado": "2026-09-20T08:09:36+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               298
             ]
           ]
@@ -637,10 +637,10 @@
           "preco_normal": 348,
           "preco_desconto": 0.0,
           "preco_final": 348,
-          "atualizado": "2026-09-12T09:36:21+00:00",
+          "atualizado": "2026-09-20T08:09:36+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               348
             ]
           ]
@@ -664,32 +664,6 @@
           "preco_desconto": 0.0,
           "preco_final": 358,
           "atualizado": "2026-09-12T10:23:19+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              358
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82456171",
-      "name": "Portas de duche BILBAO 180CM 2 PORTAS DE CORRER CROMADO",
-      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-bilbao-180cm-2-portas-de-correr-cromado-82456171.html",
-      "dimensao": null,
-      "marca": "SANYCCES",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 358,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 399.98,
-          "preco_desconto": 41.98,
-          "preco_final": 358,
-          "atualizado": "2026-09-12T09:36:21+00:00",
           "history": [
             [
               "2026-09-12",
@@ -738,15 +712,29 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 436,
           "preco_desconto": 78,
           "preco_final": 358,
-          "atualizado": "2026-09-12T09:28:24+00:00",
+          "atualizado": "2026-09-20T07:31:25+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-20T07:39:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
               358
             ]
           ]
@@ -822,26 +810,38 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 436,
           "preco_desconto": 78,
           "preco_final": 358,
-          "atualizado": "2026-09-20T07:31:25+00:00",
+          "atualizado": "2026-09-20T08:01:55+00:00",
           "history": [
             [
               "2026-09-20",
               358
             ]
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "82456171",
+      "name": "Portas de duche BILBAO 180CM 2 PORTAS DE CORRER CROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-bilbao-180cm-2-portas-de-correr-cromado-82456171.html",
+      "dimensao": null,
+      "marca": "SANYCCES",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 358,
+      "prices": [
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 436,
-          "preco_desconto": 78,
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 399.98,
+          "preco_desconto": 41.98,
           "preco_final": 358,
-          "atualizado": "2026-09-20T07:39:08+00:00",
+          "atualizado": "2026-09-20T08:09:36+00:00",
           "history": [
             [
               "2026-09-20",
@@ -914,20 +914,6 @@
       "preco_final": 388,
       "prices": [
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 474,
-          "preco_desconto": 86,
-          "preco_final": 388,
-          "atualizado": "2026-09-12T11:02:38+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 474,
@@ -937,6 +923,20 @@
           "history": [
             [
               "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 474,
+          "preco_desconto": 86,
+          "preco_final": 388,
+          "atualizado": "2026-09-12T11:02:38+00:00",
+          "history": [
+            [
+              "2026-09-12",
               388
             ]
           ]
@@ -994,15 +994,15 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 509,
-          "preco_desconto": 91,
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 418,
+          "preco_desconto": 0.0,
           "preco_final": 418,
-          "atualizado": "2026-09-12T09:28:24+00:00",
+          "atualizado": "2026-09-20T07:39:08+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               418
             ]
           ]
@@ -1036,12 +1036,12 @@
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 418,
-          "preco_desconto": 0.0,
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 509,
+          "preco_desconto": 91,
           "preco_final": 418,
-          "atualizado": "2026-09-20T07:39:08+00:00",
+          "atualizado": "2026-09-20T08:01:55+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1150,6 +1150,62 @@
           "preco_desconto": 279.6,
           "preco_final": 419.4,
           "atualizado": "2026-09-20T07:45:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T07:54:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T08:01:55+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T08:09:36+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T08:17:11+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1368,32 +1424,6 @@
       ]
     },
     {
-      "id": "82242462",
-      "name": "Porta de duche de batente transparente preto 100x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-100x200-cm-sensea-neo-82242462.html",
-      "dimensao": "100x200",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 468,
-      "prices": [
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 579,
-          "preco_desconto": 111,
-          "preco_final": 468,
-          "atualizado": "2026-09-12T09:44:39+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              468
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "89153200",
       "name": "Portas de duche 130x200 transparente preto Neo",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-130x200-transparente-preto-neo-89153200.html",
@@ -1544,6 +1574,62 @@
           "preco_desconto": 99.6,
           "preco_final": 564.4,
           "atualizado": "2026-09-20T07:45:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T07:54:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T08:01:55+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T08:09:36+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T08:17:11+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1704,6 +1790,62 @@
           "preco_desconto": 70.9,
           "preco_final": 638.1,
           "atualizado": "2026-09-20T07:45:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T07:54:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T08:01:55+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T08:09:36+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T08:17:11+00:00",
           "history": [
             [
               "2026-09-20",

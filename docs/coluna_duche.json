@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T07:49:41+00:00",
+  "generated": "2026-09-20T08:21:00+00:00",
   "products": [
     {
       "id": "17364851",
@@ -134,6 +134,62 @@
               104.3
             ]
           ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-20T07:52:57+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-20T08:00:38+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-20T08:08:22+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-20T08:15:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              104.3
+            ]
+          ]
         }
       ]
     },
@@ -216,20 +272,6 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 179,
-          "preco_desconto": 31,
-          "preco_final": 148,
-          "atualizado": "2026-09-12T09:43:25+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              148
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 179,
@@ -267,6 +309,20 @@
           "history": [
             [
               "2026-09-12",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 179,
+          "preco_desconto": 31,
+          "preco_final": 148,
+          "atualizado": "2026-09-20T08:15:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
               148
             ]
           ]
@@ -418,6 +474,62 @@
               153.3
             ]
           ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-09-20T07:52:57+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-09-20T08:00:38+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-09-20T08:08:22+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-09-20T08:15:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              153.3
+            ]
+          ]
         }
       ]
     },
@@ -500,29 +612,15 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 248,
           "preco_desconto": 0.0,
           "preco_final": 248,
-          "atualizado": "2026-09-12T09:27:12+00:00",
+          "atualizado": "2026-09-20T07:37:54+00:00",
           "history": [
             [
-              "2026-09-12",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-12T09:43:25+00:00",
-          "history": [
-            [
-              "2026-09-12",
+              "2026-09-20",
               248
             ]
           ]
@@ -612,12 +710,26 @@
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 248,
           "preco_desconto": 0.0,
           "preco_final": 248,
-          "atualizado": "2026-09-20T07:37:54+00:00",
+          "atualizado": "2026-09-20T08:00:38+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-09-20T08:15:58+00:00",
           "history": [
             [
               "2026-09-20",
@@ -676,6 +788,20 @@
               188
             ]
           ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 229,
+          "preco_desconto": 41,
+          "preco_final": 188,
+          "atualizado": "2026-09-20T08:00:38+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              188
+            ]
+          ]
         }
       ]
     },
@@ -690,20 +816,6 @@
       "preco_final": 198,
       "prices": [
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 198,
-          "preco_desconto": 0.0,
-          "preco_final": 198,
-          "atualizado": "2026-09-12T09:35:09+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              198
-            ]
-          ]
-        },
-        {
           "store": "Chaves (Vila Real)",
           "region": "Vila Real",
           "preco_normal": 349,
@@ -713,6 +825,20 @@
           "history": [
             [
               "2026-09-12",
+              198
+            ]
+          ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 198,
+          "preco_desconto": 0.0,
+          "preco_final": 198,
+          "atualizado": "2026-09-20T08:08:22+00:00",
+          "history": [
+            [
+              "2026-09-20",
               198
             ]
           ]
@@ -842,57 +968,57 @@
           ]
         },
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-12T09:19:29+00:00",
+          "atualizado": "2026-09-20T07:22:32+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               209.3
             ]
           ]
         },
         {
-          "store": "Braga (Braga)",
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-20T07:30:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-20T07:37:54+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
           "region": "Braga",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-12T09:27:12+00:00",
+          "atualizado": "2026-09-20T07:44:44+00:00",
           "history": [
             [
-              "2026-09-12",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-12T09:35:09+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-12T09:43:25+00:00",
-          "history": [
-            [
-              "2026-09-12",
+              "2026-09-20",
               209.3
             ]
           ]
@@ -1360,12 +1486,12 @@
           ]
         },
         {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T07:22:32+00:00",
+          "atualizado": "2026-09-20T07:52:57+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1374,40 +1500,40 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T07:30:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T07:37:54+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Barcelos (Braga)",
+          "store": "Braga (Braga)",
           "region": "Braga",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T07:44:44+00:00",
+          "atualizado": "2026-09-20T08:00:38+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-20T08:08:22+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-20T08:15:58+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1540,6 +1666,32 @@
       ]
     },
     {
+      "id": "82768003",
+      "name": "Conjunto de duche COM TORNEIRA MONOCOMANDO PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-preto-82768003.html",
+      "dimensao": null,
+      "marca": "ESSEBAGNO",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 228,
+      "prices": [
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 279,
+          "preco_desconto": 51,
+          "preco_final": 228,
+          "atualizado": "2026-09-20T07:52:57+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              228
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "81896503",
       "name": "Conjunto de duche COM TORNEIRA TT LEVITY PRETO",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-tt-levity-preto-81896503.html",
@@ -1620,16 +1772,58 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 348,
-          "preco_desconto": 0.0,
-          "preco_final": 348,
-          "atualizado": "2026-09-12T09:27:12+00:00",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-09-20T07:52:57+00:00",
           "history": [
             [
-              "2026-09-12",
-              348
+              "2026-09-20",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 257.4,
+          "preco_desconto": 0.0,
+          "preco_final": 257.4,
+          "atualizado": "2026-09-20T08:00:38+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-09-20T08:08:22+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-09-20T08:15:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              257.4
             ]
           ]
         },
@@ -1770,32 +1964,6 @@
       ]
     },
     {
-      "id": "83601180",
-      "name": "Conjunto de duche termostático cromado Roca Mitos-T Plus",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-termostatico-cromado-roca-mitos-t-plus-83601180.html",
-      "dimensao": null,
-      "marca": "ROCA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 298,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 298,
-          "preco_desconto": 0.0,
-          "preco_final": 298,
-          "atualizado": "2026-09-12T09:35:09+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              298
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86600587",
       "name": "Conjunto de duche MONOCOMANDO GROHE VITALIO START 250",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html",
@@ -1825,10 +1993,10 @@
           "preco_normal": 479,
           "preco_desconto": 131,
           "preco_final": 348,
-          "atualizado": "2026-09-12T09:27:12+00:00",
+          "atualizado": "2026-09-20T08:00:38+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               348
             ]
           ]
@@ -1876,29 +2044,15 @@
           ]
         },
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 479,
           "preco_desconto": 91,
           "preco_final": 388,
-          "atualizado": "2026-09-12T09:19:29+00:00",
+          "atualizado": "2026-09-20T07:30:08+00:00",
           "history": [
             [
-              "2026-09-12",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-12T09:43:25+00:00",
-          "history": [
-            [
-              "2026-09-12",
+              "2026-09-20",
               388
             ]
           ]
@@ -2044,16 +2198,56 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
           "preco_normal": 479,
           "preco_desconto": 91,
           "preco_final": 388,
-          "atualizado": "2026-09-20T07:30:08+00:00",
+          "atualizado": "2026-09-20T07:52:57+00:00",
           "history": [
             [
               "2026-09-20",
               388
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T08:15:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83601180",
+      "name": "Conjunto de duche termostático cromado Roca Mitos-T Plus",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-termostatico-cromado-roca-mitos-t-plus-83601180.html",
+      "dimensao": null,
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 298,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 298,
+          "preco_desconto": 0.0,
+          "preco_final": 298,
+          "atualizado": "2026-09-20T08:08:22+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              298
             ]
           ]
         }
@@ -2089,10 +2283,10 @@
           "preco_normal": 339,
           "preco_desconto": 0.0,
           "preco_final": 339,
-          "atualizado": "2026-09-12T09:27:12+00:00",
+          "atualizado": "2026-09-20T08:00:38+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               339
             ]
           ]
@@ -2126,15 +2320,15 @@
           ]
         },
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-12T09:19:29+00:00",
+          "atualizado": "2026-09-20T07:22:32+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               408
             ]
           ]
@@ -2210,12 +2404,12 @@
           ]
         },
         {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-20T07:22:32+00:00",
+          "atualizado": "2026-09-20T07:52:57+00:00",
           "history": [
             [
               "2026-09-20",
@@ -2246,20 +2440,6 @@
             [
               "2026-09-12",
               338
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-09-12T09:43:25+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              468
             ]
           ]
         },
@@ -2315,6 +2495,20 @@
           "history": [
             [
               "2026-09-12",
+              468
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-09-20T08:15:58+00:00",
+          "history": [
+            [
+              "2026-09-20",
               468
             ]
           ]
