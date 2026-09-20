@@ -12,10 +12,10 @@
     "Braga (Braga)": "2026-09-20T08:03:11+00:00",
     "Braganca (Braganca)": "2026-09-20T08:10:47+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-20T08:18:29+00:00",
-    "Carcavelos (Lisboa)": "2026-09-12T09:53:48+00:00",
-    "Cascais (Lisboa)": "2026-09-12T10:01:29+00:00",
-    "Castelo Branco (Castelo Branco)": "2026-09-12T10:09:06+00:00",
-    "Chaves (Vila Real)": "2026-09-12T10:16:47+00:00",
+    "Carcavelos (Lisboa)": "2026-09-20T08:26:36+00:00",
+    "Cascais (Lisboa)": "2026-09-20T08:32:10+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-20T08:37:55+00:00",
+    "Chaves (Vila Real)": "2026-09-20T08:45:33+00:00",
     "Coimbra (Coimbra)": "2026-09-12T10:24:32+00:00",
     "Colombo (Lisboa)": "2026-09-12T10:32:59+00:00",
     "Covilha (Castelo Branco)": "2026-09-12T10:40:42+00:00",
@@ -447,11 +447,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Carcavelos (Lisboa)": {
-      "atualizado": "2026-09-12T09:53:48+00:00",
+      "atualizado": "2026-09-20T08:26:36+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           488
         ]
       ],
@@ -467,33 +467,12 @@
       "store": "Carcavelos (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
-    "82558714@Cascais (Lisboa)": {
-      "atualizado": "2026-09-12T10:01:29+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-09-12",
-          488
-        ]
-      ],
-      "id": "82558714",
-      "m2_caixa": null,
-      "marca": "MITSUBISHI HEAVY INDUSTRIES",
-      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
-      "preco_desconto": 111,
-      "preco_final": 488,
-      "preco_normal": 599,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Cascais (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
-    },
     "82558714@Chaves (Vila Real)": {
-      "atualizado": "2026-09-12T10:16:47+00:00",
+      "atualizado": "2026-09-20T08:45:33+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           488
         ]
       ],
@@ -929,27 +908,6 @@
       "store": "Braganca (Braganca)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
     },
-    "82558726@Cascais (Lisboa)": {
-      "atualizado": "2026-09-12T10:01:29+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-09-12",
-          528
-        ]
-      ],
-      "id": "82558726",
-      "m2_caixa": null,
-      "marca": "MITSUBISHI HEAVY INDUSTRIES",
-      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK12Z6L-W 12000BTU",
-      "preco_desconto": 121,
-      "preco_final": 528,
-      "preco_normal": 649,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Cascais (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
-    },
     "82558726@Evora (Evora)": {
       "atualizado": "2026-09-12T10:48:22+00:00",
       "dimensao": "12000 BTU",
@@ -1350,11 +1308,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-12000btu-wifi-branco-83791802.html"
     },
     "83791802@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-12T10:09:06+00:00",
+      "atualizado": "2026-09-20T08:37:55+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           658
         ]
       ],
@@ -1581,11 +1539,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
     },
     "84567639@Chaves (Vila Real)": {
-      "atualizado": "2026-09-12T10:16:47+00:00",
+      "atualizado": "2026-09-20T08:45:33+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           518
         ]
       ],
@@ -1644,11 +1602,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-r32-9000-btu-haier-expert-85193030.html"
     },
     "85280679@Chaves (Vila Real)": {
-      "atualizado": "2026-09-12T10:16:47+00:00",
+      "atualizado": "2026-09-20T08:45:33+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           368
         ]
       ],

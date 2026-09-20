@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T08:21:00+00:00",
+  "generated": "2026-09-20T08:48:02+00:00",
   "products": [
     {
       "id": "87870009",
@@ -17,10 +17,10 @@
           "preco_normal": 229,
           "preco_desconto": 109.01,
           "preco_final": 119.99,
-          "atualizado": "2026-09-12T10:00:14+00:00",
+          "atualizado": "2026-09-20T08:31:53+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               119.99
             ]
           ]
@@ -401,10 +401,10 @@
           "preco_normal": 319,
           "preco_desconto": 51,
           "preco_final": 268,
-          "atualizado": "2026-09-12T10:07:53+00:00",
+          "atualizado": "2026-09-20T08:36:42+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               268
             ]
           ]
@@ -674,6 +674,32 @@
       ]
     },
     {
+      "id": "82456171",
+      "name": "Portas de duche BILBAO 180CM 2 PORTAS DE CORRER CROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-bilbao-180cm-2-portas-de-correr-cromado-82456171.html",
+      "dimensao": null,
+      "marca": "SANYCCES",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 358,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 399.98,
+          "preco_desconto": 41.98,
+          "preco_final": 358,
+          "atualizado": "2026-09-20T08:09:36+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              358
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "87274291",
       "name": "Porta de duche 2 folhas 120x200 cm cromado transparente Roca Apolo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html",
@@ -732,6 +758,20 @@
           "preco_desconto": 78,
           "preco_final": 358,
           "atualizado": "2026-09-20T07:39:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-20T08:01:55+00:00",
           "history": [
             [
               "2026-09-20",
@@ -805,46 +845,6 @@
           "history": [
             [
               "2026-09-12",
-              358
-            ]
-          ]
-        },
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-09-20T08:01:55+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              358
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82456171",
-      "name": "Portas de duche BILBAO 180CM 2 PORTAS DE CORRER CROMADO",
-      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-bilbao-180cm-2-portas-de-correr-cromado-82456171.html",
-      "dimensao": null,
-      "marca": "SANYCCES",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 358,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 399.98,
-          "preco_desconto": 41.98,
-          "preco_final": 358,
-          "atualizado": "2026-09-20T08:09:36+00:00",
-          "history": [
-            [
-              "2026-09-20",
               358
             ]
           ]
@@ -1008,6 +1008,20 @@
           ]
         },
         {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 509,
+          "preco_desconto": 91,
+          "preco_final": 418,
+          "atualizado": "2026-09-20T08:01:55+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              418
+            ]
+          ]
+        },
+        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 418,
@@ -1031,20 +1045,6 @@
           "history": [
             [
               "2026-09-12",
-              418
-            ]
-          ]
-        },
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 509,
-          "preco_desconto": 91,
-          "preco_final": 418,
-          "atualizado": "2026-09-20T08:01:55+00:00",
-          "history": [
-            [
-              "2026-09-20",
               418
             ]
           ]
@@ -1206,6 +1206,62 @@
           "preco_desconto": 279.6,
           "preco_final": 419.4,
           "atualizado": "2026-09-20T08:17:11+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T08:25:19+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T08:31:53+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T08:36:42+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T08:44:19+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1450,32 +1506,6 @@
       ]
     },
     {
-      "id": "82242470",
-      "name": "Porta de duche de batente transparente preto 140x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-140x200-cm-sensea-neo-82242470.html",
-      "dimensao": "140x200",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 518,
-      "prices": [
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 639,
-          "preco_desconto": 121,
-          "preco_final": 518,
-          "atualizado": "2026-09-12T10:07:53+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              518
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82242455",
       "name": "Porta de duche de batente serigrafada preto 80x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-serigrafada-preto-80x200-cm-sensea-neo-82242455.html",
@@ -1630,6 +1660,62 @@
           "preco_desconto": 99.6,
           "preco_final": 564.4,
           "atualizado": "2026-09-20T08:17:11+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T08:25:19+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T08:31:53+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T08:36:42+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T08:44:19+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1846,6 +1932,62 @@
           "preco_desconto": 70.9,
           "preco_final": 638.1,
           "atualizado": "2026-09-20T08:17:11+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T08:25:19+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T08:31:53+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T08:36:42+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T08:44:19+00:00",
           "history": [
             [
               "2026-09-20",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T08:21:00+00:00",
+  "generated": "2026-09-20T08:48:02+00:00",
   "products": [
     {
       "id": "82005354",
@@ -109,10 +109,10 @@
           "preco_normal": 158,
           "preco_desconto": 0.0,
           "preco_final": 158,
-          "atualizado": "2026-09-12T10:11:37+00:00",
+          "atualizado": "2026-09-20T08:40:22+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               158
             ]
           ]
@@ -292,6 +292,32 @@
       ]
     },
     {
+      "id": "95888588",
+      "name": "Termoacumulador Elétrico Bosch TR4001T 100L",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-bosch-tr4001t-100l-95888588.html",
+      "dimensao": "100L",
+      "marca": "BOSCH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 229.99,
+      "prices": [
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 254,
+          "preco_desconto": 24.01,
+          "preco_final": 229.99,
+          "atualizado": "2026-09-20T08:48:01+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              229.99
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "95933346",
       "name": "Termo Vertical HTW SMART LITE função smart e ânodo eletronico 100L",
       "url": "https://www.leroymerlin.pt/produtos/termo-vertical-htw-smart-lite-funcao-smart-e-anodo-eletronico-100l-95933346.html",
@@ -354,20 +380,6 @@
       "preco_final": 328,
       "prices": [
         {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 405,
-          "preco_desconto": 77,
-          "preco_final": 328,
-          "atualizado": "2026-09-12T10:19:09+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              328
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 405,
@@ -377,6 +389,20 @@
           "history": [
             [
               "2026-09-12",
+              328
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 405,
+          "preco_desconto": 77,
+          "preco_final": 328,
+          "atualizado": "2026-09-20T08:48:01+00:00",
+          "history": [
+            [
+              "2026-09-20",
               328
             ]
           ]

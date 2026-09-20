@@ -12,10 +12,10 @@
     "Braga (Braga)": "2026-09-20T08:01:55+00:00",
     "Braganca (Braganca)": "2026-09-20T08:09:36+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-20T08:17:11+00:00",
-    "Carcavelos (Lisboa)": "2026-09-12T09:52:37+00:00",
-    "Cascais (Lisboa)": "2026-09-12T10:00:14+00:00",
-    "Castelo Branco (Castelo Branco)": "2026-09-12T10:07:53+00:00",
-    "Chaves (Vila Real)": "2026-09-12T10:15:33+00:00",
+    "Carcavelos (Lisboa)": "2026-09-20T08:25:19+00:00",
+    "Cascais (Lisboa)": "2026-09-20T08:31:53+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-20T08:36:42+00:00",
+    "Chaves (Vila Real)": "2026-09-20T08:44:19+00:00",
     "Coimbra (Coimbra)": "2026-09-12T10:23:19+00:00",
     "Colombo (Lisboa)": "2026-09-12T10:31:42+00:00",
     "Covilha (Castelo Branco)": "2026-09-12T10:39:27+00:00",
@@ -573,11 +573,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-90x195-cm-sensea-remix-82209773.html"
     },
     "82209785@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-12T10:07:53+00:00",
+      "atualizado": "2026-09-20T08:36:42+00:00",
       "dimensao": "90x195",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           268
         ]
       ],
@@ -908,27 +908,6 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-serigrafada-preto-80x200-cm-sensea-neo-82242455.html"
     },
-    "82242470@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-12T10:07:53+00:00",
-      "dimensao": "140x200",
-      "history": [
-        [
-          "2026-09-12",
-          518
-        ]
-      ],
-      "id": "82242470",
-      "m2_caixa": null,
-      "marca": "SENSEA",
-      "name": "Porta de duche de batente transparente preto 140x200 cm Sensea Neo",
-      "preco_desconto": 121,
-      "preco_final": 518,
-      "preco_normal": 639,
-      "region": "Castelo Branco",
-      "retificado": false,
-      "store": "Castelo Branco (Castelo Branco)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-preto-140x200-cm-sensea-neo-82242470.html"
-    },
     "82242473@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-20T07:17:25+00:00",
       "dimensao": "160x200",
@@ -1116,6 +1095,90 @@
       "region": "Leiria",
       "retificado": false,
       "store": "Caldas da Rainha (Leiria)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
+    },
+    "82242473@Carcavelos (Lisboa)": {
+      "atualizado": "2026-09-20T08:25:19+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          419.4
+        ]
+      ],
+      "id": "82242473",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
+      "preco_desconto": 279.6,
+      "preco_final": 419.4,
+      "preco_normal": 699,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Carcavelos (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
+    },
+    "82242473@Cascais (Lisboa)": {
+      "atualizado": "2026-09-20T08:31:53+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          419.4
+        ]
+      ],
+      "id": "82242473",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
+      "preco_desconto": 279.6,
+      "preco_final": 419.4,
+      "preco_normal": 699,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Cascais (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
+    },
+    "82242473@Castelo Branco (Castelo Branco)": {
+      "atualizado": "2026-09-20T08:36:42+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          419.4
+        ]
+      ],
+      "id": "82242473",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
+      "preco_desconto": 279.6,
+      "preco_final": 419.4,
+      "preco_normal": 699,
+      "region": "Castelo Branco",
+      "retificado": false,
+      "store": "Castelo Branco (Castelo Branco)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
+    },
+    "82242473@Chaves (Vila Real)": {
+      "atualizado": "2026-09-20T08:44:19+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          419.4
+        ]
+      ],
+      "id": "82242473",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Porta de duche de batente transparente cromado 160x200 cm Sensea Neo",
+      "preco_desconto": 279.6,
+      "preco_final": 419.4,
+      "preco_normal": 699,
+      "region": "Vila Real",
+      "retificado": false,
+      "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82281795@Loule (Faro)": {
@@ -1389,6 +1452,90 @@
       "region": "Leiria",
       "retificado": false,
       "store": "Caldas da Rainha (Leiria)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
+    },
+    "82352363@Carcavelos (Lisboa)": {
+      "atualizado": "2026-09-20T08:25:19+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          638.1
+        ]
+      ],
+      "id": "82352363",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
+      "preco_desconto": 70.9,
+      "preco_final": 638.1,
+      "preco_normal": 709,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Carcavelos (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
+    },
+    "82352363@Cascais (Lisboa)": {
+      "atualizado": "2026-09-20T08:31:53+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          638.1
+        ]
+      ],
+      "id": "82352363",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
+      "preco_desconto": 70.9,
+      "preco_final": 638.1,
+      "preco_normal": 709,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Cascais (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
+    },
+    "82352363@Castelo Branco (Castelo Branco)": {
+      "atualizado": "2026-09-20T08:36:42+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          638.1
+        ]
+      ],
+      "id": "82352363",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
+      "preco_desconto": 70.9,
+      "preco_final": 638.1,
+      "preco_normal": 709,
+      "region": "Castelo Branco",
+      "retificado": false,
+      "store": "Castelo Branco (Castelo Branco)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
+    },
+    "82352363@Chaves (Vila Real)": {
+      "atualizado": "2026-09-20T08:44:19+00:00",
+      "dimensao": "160x200",
+      "history": [
+        [
+          "2026-09-20",
+          638.1
+        ]
+      ],
+      "id": "82352363",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
+      "preco_desconto": 70.9,
+      "preco_final": 638.1,
+      "preco_normal": 709,
+      "region": "Vila Real",
+      "retificado": false,
+      "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
     },
     "82391559@Alfragide (Lisboa)": {
@@ -1706,6 +1853,90 @@
       "store": "Caldas da Rainha (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
     },
+    "85868135@Carcavelos (Lisboa)": {
+      "atualizado": "2026-09-20T08:25:19+00:00",
+      "dimensao": "180x198",
+      "history": [
+        [
+          "2026-09-20",
+          564.4
+        ]
+      ],
+      "id": "85868135",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Portas de duche 180x198,5 cm serigrafado/cromado Glassinox",
+      "preco_desconto": 99.6,
+      "preco_final": 564.4,
+      "preco_normal": 664,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Carcavelos (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
+    },
+    "85868135@Cascais (Lisboa)": {
+      "atualizado": "2026-09-20T08:31:53+00:00",
+      "dimensao": "180x198",
+      "history": [
+        [
+          "2026-09-20",
+          564.4
+        ]
+      ],
+      "id": "85868135",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Portas de duche 180x198,5 cm serigrafado/cromado Glassinox",
+      "preco_desconto": 99.6,
+      "preco_final": 564.4,
+      "preco_normal": 664,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Cascais (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
+    },
+    "85868135@Castelo Branco (Castelo Branco)": {
+      "atualizado": "2026-09-20T08:36:42+00:00",
+      "dimensao": "180x198",
+      "history": [
+        [
+          "2026-09-20",
+          564.4
+        ]
+      ],
+      "id": "85868135",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Portas de duche 180x198,5 cm serigrafado/cromado Glassinox",
+      "preco_desconto": 99.6,
+      "preco_final": 564.4,
+      "preco_normal": 664,
+      "region": "Castelo Branco",
+      "retificado": false,
+      "store": "Castelo Branco (Castelo Branco)",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
+    },
+    "85868135@Chaves (Vila Real)": {
+      "atualizado": "2026-09-20T08:44:19+00:00",
+      "dimensao": "180x198",
+      "history": [
+        [
+          "2026-09-20",
+          564.4
+        ]
+      ],
+      "id": "85868135",
+      "m2_caixa": null,
+      "marca": "GLASSINOX",
+      "name": "Portas de duche 180x198,5 cm serigrafado/cromado Glassinox",
+      "preco_desconto": 99.6,
+      "preco_final": 564.4,
+      "preco_normal": 664,
+      "region": "Vila Real",
+      "retificado": false,
+      "store": "Chaves (Vila Real)",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
+    },
     "87274291@Albufeira (Faro)": {
       "atualizado": "2026-09-12T13:46:50+00:00",
       "dimensao": "120x200",
@@ -1917,11 +2148,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
     },
     "87870009@Cascais (Lisboa)": {
-      "atualizado": "2026-09-12T10:00:14+00:00",
+      "atualizado": "2026-09-20T08:31:53+00:00",
       "dimensao": "100x200",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           119.99
         ]
       ],

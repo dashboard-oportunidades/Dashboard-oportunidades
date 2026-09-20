@@ -12,10 +12,10 @@
     "Braga (Braga)": "2026-09-20T08:05:42+00:00",
     "Braganca (Braganca)": "2026-09-20T08:13:14+00:00",
     "Caldas da Rainha (Leiria)": "2026-09-20T08:21:00+00:00",
-    "Carcavelos (Lisboa)": "2026-09-12T09:56:17+00:00",
-    "Cascais (Lisboa)": "2026-09-12T10:04:00+00:00",
-    "Castelo Branco (Castelo Branco)": "2026-09-12T10:11:37+00:00",
-    "Chaves (Vila Real)": "2026-09-12T10:19:09+00:00",
+    "Carcavelos (Lisboa)": "2026-09-20T08:29:06+00:00",
+    "Cascais (Lisboa)": "2026-09-20T08:32:40+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-09-20T08:40:22+00:00",
+    "Chaves (Vila Real)": "2026-09-20T08:48:01+00:00",
     "Coimbra (Coimbra)": "2026-09-12T10:27:41+00:00",
     "Colombo (Lisboa)": "2026-09-12T10:35:30+00:00",
     "Covilha (Castelo Branco)": "2026-09-12T10:43:06+00:00",
@@ -300,11 +300,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html"
     },
     "82005350@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-12T10:11:37+00:00",
+      "atualizado": "2026-09-20T08:40:22+00:00",
       "dimensao": "50L",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           158
         ]
       ],
@@ -342,11 +342,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-100l-82005354.html"
     },
     "82246625@Chaves (Vila Real)": {
-      "atualizado": "2026-09-12T10:19:09+00:00",
+      "atualizado": "2026-09-20T08:48:01+00:00",
       "dimensao": "150L",
       "history": [
         [
-          "2026-09-12",
+          "2026-09-20",
           328
         ]
       ],
@@ -487,6 +487,27 @@
       "retificado": false,
       "store": "Barreiro (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html"
+    },
+    "95888588@Chaves (Vila Real)": {
+      "atualizado": "2026-09-20T08:48:01+00:00",
+      "dimensao": "100L",
+      "history": [
+        [
+          "2026-09-20",
+          229.99
+        ]
+      ],
+      "id": "95888588",
+      "m2_caixa": null,
+      "marca": "BOSCH",
+      "name": "Termoacumulador Elétrico Bosch TR4001T 100L",
+      "preco_desconto": 24.01,
+      "preco_final": 229.99,
+      "preco_normal": 254,
+      "region": "Vila Real",
+      "retificado": false,
+      "store": "Chaves (Vila Real)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-bosch-tr4001t-100l-95888588.html"
     },
     "95933346@Braganca (Braganca)": {
       "atualizado": "2026-09-20T08:13:14+00:00",

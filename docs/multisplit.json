@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T08:21:00+00:00",
+  "generated": "2026-09-20T08:48:02+00:00",
   "products": [
     {
       "id": "82143647",
@@ -158,6 +158,20 @@
           ]
         },
         {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 1249,
+          "preco_desconto": 241,
+          "preco_final": 1008,
+          "atualizado": "2026-09-20T08:19:43+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              1008
+            ]
+          ]
+        },
+        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1249,
@@ -181,20 +195,6 @@
           "history": [
             [
               "2026-09-12",
-              1008
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 1249,
-          "preco_desconto": 241,
-          "preco_final": 1008,
-          "atualizado": "2026-09-20T08:19:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
               1008
             ]
           ]
@@ -278,20 +278,6 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 1649,
-          "preco_desconto": 321,
-          "preco_final": 1328,
-          "atualizado": "2026-09-12T15:32:45+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              1328
-            ]
-          ]
-        },
-        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 1649,
@@ -301,6 +287,20 @@
           "history": [
             [
               "2026-09-20",
+              1328
+            ]
+          ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1649,
+          "preco_desconto": 321,
+          "preco_final": 1328,
+          "atualizado": "2026-09-12T15:32:45+00:00",
+          "history": [
+            [
+              "2026-09-12",
               1328
             ]
           ]
