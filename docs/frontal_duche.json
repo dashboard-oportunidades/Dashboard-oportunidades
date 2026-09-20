@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T09:48:52+00:00",
+  "generated": "2026-09-20T10:19:29+00:00",
   "products": [
     {
       "id": "87870009",
@@ -69,10 +69,10 @@
           "preco_normal": 138,
           "preco_desconto": 0.0,
           "preco_final": 138,
-          "atualizado": "2026-09-12T11:33:51+00:00",
+          "atualizado": "2026-09-20T10:00:31+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               138
             ]
           ]
@@ -332,32 +332,6 @@
       ]
     },
     {
-      "id": "82209785",
-      "name": "Porta de duche transparente cromado 90x195 cm Sensea Remix Saloon",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-90x195-cm-sensea-remix-saloon-82209785.html",
-      "dimensao": "90x195",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 268,
-      "prices": [
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 319,
-          "preco_desconto": 51,
-          "preco_final": 268,
-          "atualizado": "2026-09-20T08:36:42+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              268
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82209761",
       "name": "Porta de duche transparente cromado 140x195 cm Sensea Remix",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-140x195-cm-sensea-remix-82209761.html",
@@ -374,6 +348,32 @@
           "preco_desconto": 51,
           "preco_final": 268,
           "atualizado": "2026-09-20T09:29:43+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              268
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209785",
+      "name": "Porta de duche transparente cromado 90x195 cm Sensea Remix Saloon",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-90x195-cm-sensea-remix-saloon-82209785.html",
+      "dimensao": "90x195",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 268,
+      "prices": [
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 319,
+          "preco_desconto": 51,
+          "preco_final": 268,
+          "atualizado": "2026-09-20T08:36:42+00:00",
           "history": [
             [
               "2026-09-20",
@@ -538,26 +538,26 @@
       "preco_final": 308,
       "prices": [
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 369,
-          "preco_desconto": 61,
-          "preco_final": 308,
-          "atualizado": "2026-09-12T11:33:51+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              308
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 308,
           "preco_desconto": 0.0,
           "preco_final": 308,
           "atualizado": "2026-09-20T09:45:07+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              308
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 369,
+          "preco_desconto": 61,
+          "preco_final": 308,
+          "atualizado": "2026-09-20T10:00:31+00:00",
           "history": [
             [
               "2026-09-20",
@@ -752,29 +752,15 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 436,
-          "preco_desconto": 78,
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 358,
+          "preco_desconto": 0.0,
           "preco_final": 358,
-          "atualizado": "2026-09-12T11:33:51+00:00",
+          "atualizado": "2026-09-20T09:29:43+00:00",
           "history": [
             [
-              "2026-09-12",
-              358
-            ]
-          ]
-        },
-        {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-09-12T11:41:32+00:00",
-          "history": [
-            [
-              "2026-09-12",
+              "2026-09-20",
               358
             ]
           ]
@@ -808,12 +794,26 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 358,
-          "preco_desconto": 0.0,
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 436,
+          "preco_desconto": 78,
           "preco_final": 358,
-          "atualizado": "2026-09-20T09:29:43+00:00",
+          "atualizado": "2026-09-20T10:00:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-20T10:08:08+00:00",
           "history": [
             [
               "2026-09-20",
@@ -968,20 +968,6 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 418,
-          "preco_desconto": 0.0,
-          "preco_final": 418,
-          "atualizado": "2026-09-12T11:33:51+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              418
-            ]
-          ]
-        },
-        {
           "store": "Matosinhos (Porto)",
           "region": "Porto",
           "preco_normal": 509,
@@ -991,6 +977,20 @@
           "history": [
             [
               "2026-09-12",
+              418
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 418,
+          "preco_desconto": 0.0,
+          "preco_final": 418,
+          "atualizado": "2026-09-20T10:00:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
               418
             ]
           ]
@@ -1013,10 +1013,10 @@
           "preco_normal": 509,
           "preco_desconto": 91,
           "preco_final": 418,
-          "atualizado": "2026-09-12T11:41:32+00:00",
+          "atualizado": "2026-09-20T10:08:08+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               418
             ]
           ]
@@ -1326,30 +1326,60 @@
               419.4
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "16954595",
-      "name": "Frontal de duche 124x129 cm cavado de correr",
-      "url": "https://www.leroymerlin.pt/produtos/frontal-de-duche-124x129-cm-cavado-de-correr-16954595.html",
-      "dimensao": "124x129",
-      "marca": "PERFILGOLD",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 428,
-      "prices": [
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T09:53:02+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
         {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
-          "preco_normal": 428,
-          "preco_desconto": 0.0,
-          "preco_final": 428,
-          "atualizado": "2026-09-12T11:33:51+00:00",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T10:00:31+00:00",
           "history": [
             [
-              "2026-09-12",
-              428
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T10:08:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-20T10:15:42+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              419.4
             ]
           ]
         }
@@ -1382,6 +1412,32 @@
       ]
     },
     {
+      "id": "16954595",
+      "name": "Frontal de duche 124x129 cm cavado de correr",
+      "url": "https://www.leroymerlin.pt/produtos/frontal-de-duche-124x129-cm-cavado-de-correr-16954595.html",
+      "dimensao": "124x129",
+      "marca": "PERFILGOLD",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 428,
+      "prices": [
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 428,
+          "preco_desconto": 0.0,
+          "preco_final": 428,
+          "atualizado": "2026-09-20T10:00:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              428
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "84659294",
       "name": "Porta de duche de correr 120x200 cm transparente/preto Roca Ventus",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-correr-120x200-cm-transparente-preto-roca-ventus-84659294.html",
@@ -1402,6 +1458,58 @@
             [
               "2026-09-12",
               438
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209796",
+      "name": "Cabine de duche SENSEA REMIX (60+60)X80X195CM PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/cabine-de-duche-sensea-remix-60-60-x80x195cm-preto-82209796.html",
+      "dimensao": "80x195",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 448,
+      "prices": [
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 544,
+          "preco_desconto": 96,
+          "preco_final": 448,
+          "atualizado": "2026-09-20T09:45:07+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              448
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242441",
+      "name": "Porta de duche + 2 portas transparente cromado 160x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-160x200-cm-sensea-neo-82242441.html",
+      "dimensao": "160x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 448,
+      "prices": [
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 549,
+          "preco_desconto": 101,
+          "preco_final": 448,
+          "atualizado": "2026-09-20T09:29:43+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              448
             ]
           ]
         }
@@ -1450,58 +1558,6 @@
           "preco_desconto": 101,
           "preco_final": 448,
           "atualizado": "2026-09-20T07:17:25+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              448
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82242441",
-      "name": "Porta de duche + 2 portas transparente cromado 160x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-160x200-cm-sensea-neo-82242441.html",
-      "dimensao": "160x200",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 448,
-      "prices": [
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 549,
-          "preco_desconto": 101,
-          "preco_final": 448,
-          "atualizado": "2026-09-20T09:29:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              448
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82209796",
-      "name": "Cabine de duche SENSEA REMIX (60+60)X80X195CM PRETO",
-      "url": "https://www.leroymerlin.pt/produtos/cabine-de-duche-sensea-remix-60-60-x80x195cm-preto-82209796.html",
-      "dimensao": "80x195",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 448,
-      "prices": [
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 544,
-          "preco_desconto": 96,
-          "preco_final": 448,
-          "atualizado": "2026-09-20T09:45:07+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1892,6 +1948,62 @@
               564.4
             ]
           ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T09:53:02+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T10:00:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T10:08:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-20T10:15:42+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              564.4
+            ]
+          ]
         }
       ]
     },
@@ -2270,6 +2382,62 @@
           "preco_desconto": 70.9,
           "preco_final": 638.1,
           "atualizado": "2026-09-20T09:45:07+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T09:53:02+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T10:00:31+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T10:08:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-20T10:15:42+00:00",
           "history": [
             [
               "2026-09-20",

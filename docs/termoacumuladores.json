@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T09:48:52+00:00",
+  "generated": "2026-09-20T10:19:29+00:00",
   "products": [
     {
       "id": "82005354",
@@ -17,10 +17,10 @@
           "preco_normal": 198,
           "preco_desconto": 50,
           "preco_final": 148,
-          "atualizado": "2026-09-12T11:37:35+00:00",
+          "atualizado": "2026-09-20T10:04:13+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               148
             ]
           ]
@@ -254,32 +254,6 @@
       ]
     },
     {
-      "id": "81988416",
-      "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html",
-      "dimensao": "100L",
-      "marca": "ARISTON",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 228,
-      "prices": [
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 274,
-          "preco_desconto": 46,
-          "preco_final": 228,
-          "atualizado": "2026-09-12T11:53:04+00:00",
-          "history": [
-            [
-              "2026-09-12",
-              228
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "89834463",
       "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
@@ -296,6 +270,32 @@
           "preco_desconto": 42,
           "preco_final": 228,
           "atualizado": "2026-09-20T07:57:53+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              228
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81988416",
+      "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html",
+      "dimensao": "100L",
+      "marca": "ARISTON",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 228,
+      "prices": [
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 274,
+          "preco_desconto": 46,
+          "preco_final": 228,
+          "atualizado": "2026-09-20T10:19:28+00:00",
           "history": [
             [
               "2026-09-20",
@@ -425,10 +425,10 @@
           "preco_normal": 349,
           "preco_desconto": 0.0,
           "preco_final": 349,
-          "atualizado": "2026-09-12T11:53:04+00:00",
+          "atualizado": "2026-09-20T10:19:28+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               349
             ]
           ]
@@ -493,10 +493,10 @@
           "preco_normal": 469,
           "preco_desconto": 81,
           "preco_final": 388,
-          "atualizado": "2026-09-12T11:53:04+00:00",
+          "atualizado": "2026-09-20T10:19:28+00:00",
           "history": [
             [
-              "2026-09-12",
+              "2026-09-20",
               388
             ]
           ]
