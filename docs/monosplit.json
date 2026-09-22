@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T22:58:15+00:00",
+  "generated": "2026-09-22T23:19:16+00:00",
   "products": [
     {
       "id": "89876291",
@@ -359,10 +359,10 @@
           "preco_normal": 454,
           "preco_desconto": 86,
           "preco_final": 368,
-          "atualizado": "2026-09-20T11:49:52+00:00",
+          "atualizado": "2026-09-22T23:17:59+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               368
             ]
           ]
@@ -520,20 +520,6 @@
           ]
         },
         {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-09-20T11:26:58+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              378
-            ]
-          ]
-        },
-        {
           "store": "Santa Maria da Feira (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 459,
@@ -543,6 +529,20 @@
           "history": [
             [
               "2026-09-22",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-09-22T23:02:33+00:00",
+          "history": [
+            [
+              "2026-09-23",
               378
             ]
           ]
@@ -852,20 +852,6 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 468,
-          "preco_desconto": 0.0,
-          "preco_final": 468,
-          "atualizado": "2026-09-20T11:49:52+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              468
-            ]
-          ]
-        },
-        {
           "store": "Santa Maria da Feira (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 468,
@@ -875,6 +861,20 @@
           "history": [
             [
               "2026-09-22",
+              468
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 468,
+          "preco_desconto": 0.0,
+          "preco_final": 468,
+          "atualizado": "2026-09-22T23:17:59+00:00",
+          "history": [
+            [
+              "2026-09-23",
               468
             ]
           ]
@@ -1116,43 +1116,15 @@
           ]
         },
         {
-          "store": "Sintra (Lisboa)",
+          "store": "Sacavem (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
+          "preco_normal": 538,
+          "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-09-20T11:26:58+00:00",
+          "atualizado": "2026-09-22T22:41:22+00:00",
           "history": [
             [
-              "2026-09-20",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Telheiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
-          "preco_final": 488,
-          "atualizado": "2026-09-20T11:34:36+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
-          "preco_final": 488,
-          "atualizado": "2026-09-20T11:49:52+00:00",
-          "history": [
-            [
-              "2026-09-20",
+              "2026-09-22",
               488
             ]
           ]
@@ -1172,15 +1144,43 @@
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
+          "store": "Sintra (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 538,
-          "preco_desconto": 50,
+          "preco_normal": 599,
+          "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-22T22:41:22+00:00",
+          "atualizado": "2026-09-22T23:02:33+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-09-23",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Telheiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-09-22T23:07:41+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-09-22T23:17:59+00:00",
+          "history": [
+            [
+              "2026-09-23",
               488
             ]
           ]
@@ -1322,20 +1322,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-20T11:58:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              628
-            ]
-          ]
-        },
-        {
           "store": "Sacavem (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 769,
@@ -1359,6 +1345,20 @@
           "history": [
             [
               "2026-09-22",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-09-20T11:58:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
               628
             ]
           ]
@@ -1395,10 +1395,10 @@
           "preco_normal": 518,
           "preco_desconto": 0.0,
           "preco_final": 518,
-          "atualizado": "2026-09-20T11:26:58+00:00",
+          "atualizado": "2026-09-22T23:02:33+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               518
             ]
           ]
@@ -1458,20 +1458,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 649,
-          "preco_desconto": 121,
-          "preco_final": 528,
-          "atualizado": "2026-09-20T11:58:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              528
-            ]
-          ]
-        },
-        {
           "store": "Sacavem (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 649,
@@ -1481,6 +1467,20 @@
           "history": [
             [
               "2026-09-22",
+              528
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 649,
+          "preco_desconto": 121,
+          "preco_final": 528,
+          "atualizado": "2026-09-20T11:58:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
               528
             ]
           ]
@@ -1531,10 +1531,10 @@
           "preco_normal": 568,
           "preco_desconto": 0.0,
           "preco_final": 568,
-          "atualizado": "2026-09-20T11:26:58+00:00",
+          "atualizado": "2026-09-22T23:02:33+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               568
             ]
           ]
@@ -1585,10 +1585,10 @@
           "preco_normal": 588,
           "preco_desconto": 0.0,
           "preco_final": 588,
-          "atualizado": "2026-09-20T11:26:58+00:00",
+          "atualizado": "2026-09-22T23:02:33+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               588
             ]
           ]
@@ -2393,10 +2393,10 @@
           "preco_normal": 1328,
           "preco_desconto": 0.0,
           "preco_final": 1328,
-          "atualizado": "2026-09-20T11:26:58+00:00",
+          "atualizado": "2026-09-22T23:02:33+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               1328
             ]
           ]
