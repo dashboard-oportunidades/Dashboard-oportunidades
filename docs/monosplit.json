@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T21:34:10+00:00",
+  "generated": "2026-09-22T21:55:13+00:00",
   "products": [
     {
       "id": "89876291",
@@ -274,20 +274,6 @@
       "preco_final": 359,
       "prices": [
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 399,
-          "preco_desconto": 40,
-          "preco_final": 359,
-          "atualizado": "2026-09-20T09:46:22+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              359
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 399,
@@ -311,6 +297,20 @@
           "history": [
             [
               "2026-09-20",
+              359
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 399,
+          "preco_desconto": 40,
+          "preco_final": 359,
+          "atualizado": "2026-09-22T21:53:56+00:00",
+          "history": [
+            [
+              "2026-09-22",
               359
             ]
           ]
@@ -436,15 +436,15 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-09-20T09:38:41+00:00",
+          "atualizado": "2026-09-22T21:17:28+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               378
             ]
           ]
@@ -548,12 +548,12 @@
           ]
         },
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-09-22T21:17:28+00:00",
+          "atualizado": "2026-09-22T21:48:44+00:00",
           "history": [
             [
               "2026-09-22",
@@ -730,6 +730,20 @@
       "preco_final": 418,
       "prices": [
         {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 509,
+          "preco_desconto": 91,
+          "preco_final": 418,
+          "atualizado": "2026-09-22T21:22:38+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              418
+            ]
+          ]
+        },
+        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 509,
@@ -753,20 +767,6 @@
           "history": [
             [
               "2026-09-20",
-              418
-            ]
-          ]
-        },
-        {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 509,
-          "preco_desconto": 91,
-          "preco_final": 418,
-          "atualizado": "2026-09-22T21:22:38+00:00",
-          "history": [
-            [
-              "2026-09-22",
               418
             ]
           ]
@@ -1004,43 +1004,29 @@
           ]
         },
         {
-          "store": "Figueira da Foz (Coimbra)",
+          "store": "Coimbra (Coimbra)",
           "region": "Coimbra",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-09-22T21:17:28+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-20T09:23:15+00:00",
+          "atualizado": "2026-09-22T21:22:38+00:00",
           "history": [
             [
-              "2026-09-20",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 538,
-          "preco_desconto": 50,
-          "preco_final": 488,
-          "atualizado": "2026-09-20T09:31:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 538,
-          "preco_desconto": 50,
-          "preco_final": 488,
-          "atualizado": "2026-09-20T09:46:22+00:00",
-          "history": [
-            [
-              "2026-09-20",
+              "2026-09-22",
               488
             ]
           ]
@@ -1172,12 +1158,12 @@
           ]
         },
         {
-          "store": "Coimbra (Coimbra)",
+          "store": "Figueira da Foz (Coimbra)",
           "region": "Coimbra",
-          "preco_normal": 538,
-          "preco_desconto": 50,
+          "preco_normal": 599,
+          "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-22T21:17:28+00:00",
+          "atualizado": "2026-09-22T21:38:28+00:00",
           "history": [
             [
               "2026-09-22",
@@ -1186,12 +1172,26 @@
           ]
         },
         {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 538,
+          "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-09-22T21:22:38+00:00",
+          "atualizado": "2026-09-22T21:43:37+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              488
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 538,
+          "preco_desconto": 50,
+          "preco_final": 488,
+          "atualizado": "2026-09-22T21:53:56+00:00",
           "history": [
             [
               "2026-09-22",
@@ -1271,10 +1271,10 @@
           "preco_normal": 628,
           "preco_desconto": 130,
           "preco_final": 498,
-          "atualizado": "2026-09-20T09:23:15+00:00",
+          "atualizado": "2026-09-22T21:38:28+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               498
             ]
           ]
@@ -1294,29 +1294,15 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 628,
           "preco_desconto": 0.0,
           "preco_final": 628,
-          "atualizado": "2026-09-20T09:38:41+00:00",
+          "atualizado": "2026-09-22T21:17:28+00:00",
           "history": [
             [
-              "2026-09-20",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-20T09:46:22+00:00",
-          "history": [
-            [
-              "2026-09-20",
+              "2026-09-22",
               628
             ]
           ]
@@ -1364,12 +1350,26 @@
           ]
         },
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 628,
           "preco_desconto": 0.0,
           "preco_final": 628,
-          "atualizado": "2026-09-22T21:17:28+00:00",
+          "atualizado": "2026-09-22T21:48:44+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-09-22T21:53:56+00:00",
           "history": [
             [
               "2026-09-22",
@@ -1458,20 +1458,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 649,
-          "preco_desconto": 121,
-          "preco_final": 528,
-          "atualizado": "2026-09-20T11:58:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              528
-            ]
-          ]
-        },
-        {
           "store": "Evora (Evora)",
           "region": "Evora",
           "preco_normal": 649,
@@ -1481,6 +1467,20 @@
           "history": [
             [
               "2026-09-22",
+              528
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 649,
+          "preco_desconto": 121,
+          "preco_final": 528,
+          "atualizado": "2026-09-20T11:58:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
               528
             ]
           ]
@@ -1848,6 +1848,20 @@
           ]
         },
         {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-09-22T21:17:28+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              1048
+            ]
+          ]
+        },
+        {
           "store": "Loule (Faro)",
           "region": "Faro",
           "preco_normal": 1299,
@@ -1916,20 +1930,6 @@
               1048
             ]
           ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-09-22T21:17:28+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              1048
-            ]
-          ]
         }
       ]
     },
@@ -1944,20 +1944,6 @@
       "preco_final": 828,
       "prices": [
         {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 1019,
-          "preco_desconto": 191,
-          "preco_final": 828,
-          "atualizado": "2026-09-20T11:18:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              828
-            ]
-          ]
-        },
-        {
           "store": "Coimbra (Coimbra)",
           "region": "Coimbra",
           "preco_normal": 828,
@@ -1967,6 +1953,20 @@
           "history": [
             [
               "2026-09-22",
+              828
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1019,
+          "preco_desconto": 191,
+          "preco_final": 828,
+          "atualizado": "2026-09-20T11:18:43+00:00",
+          "history": [
+            [
+              "2026-09-20",
               828
             ]
           ]
@@ -2108,6 +2108,20 @@
           ]
         },
         {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 1449,
+          "preco_desconto": 281,
+          "preco_final": 1168,
+          "atualizado": "2026-09-22T21:17:28+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              1168
+            ]
+          ]
+        },
+        {
           "store": "Guimaraes (Braga)",
           "region": "Braga",
           "preco_normal": 1449,
@@ -2162,20 +2176,6 @@
               1168
             ]
           ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 1449,
-          "preco_desconto": 281,
-          "preco_final": 1168,
-          "atualizado": "2026-09-22T21:17:28+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              1168
-            ]
-          ]
         }
       ]
     },
@@ -2190,15 +2190,15 @@
       "preco_final": 938,
       "prices": [
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 938,
           "preco_desconto": 0.0,
           "preco_final": 938,
-          "atualizado": "2026-09-20T09:38:41+00:00",
+          "atualizado": "2026-09-22T21:17:28+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               938
             ]
           ]
@@ -2218,12 +2218,12 @@
           ]
         },
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 938,
           "preco_desconto": 0.0,
           "preco_final": 938,
-          "atualizado": "2026-09-22T21:17:28+00:00",
+          "atualizado": "2026-09-22T21:48:44+00:00",
           "history": [
             [
               "2026-09-22",
