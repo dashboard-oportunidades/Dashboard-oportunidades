@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T21:55:13+00:00",
+  "generated": "2026-09-22T22:16:13+00:00",
   "products": [
     {
       "id": "81992803",
@@ -396,57 +396,57 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T09:50:33+00:00",
+          "atualizado": "2026-09-22T21:35:59+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               104.3
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T09:58:09+00:00",
+          "atualizado": "2026-09-22T21:41:10+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               104.3
             ]
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T10:05:41+00:00",
+          "atualizado": "2026-09-22T21:46:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               104.3
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T10:13:16+00:00",
+          "atualizado": "2026-09-22T21:51:27+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               104.3
             ]
           ]
@@ -690,12 +690,12 @@
           ]
         },
         {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-22T21:35:59+00:00",
+          "atualizado": "2026-09-22T21:56:58+00:00",
           "history": [
             [
               "2026-09-22",
@@ -704,70 +704,44 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-22T21:41:10+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-22T21:46:18+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-22T21:51:27+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              104.3
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "91835298",
-      "name": "Base de duche Resina 90x70 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-90x70-cm-branco-mate-sensea-easy-v2-91835298.html",
-      "dimensao": "90x70",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 108,
-      "prices": [
-        {
-          "store": "Caldas da Rainha (Leiria)",
+          "store": "Leiria (Leiria)",
           "region": "Leiria",
-          "preco_normal": 129,
-          "preco_desconto": 21,
-          "preco_final": 108,
-          "atualizado": "2026-09-22T20:48:18+00:00",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T22:02:12+00:00",
           "history": [
             [
               "2026-09-22",
-              108
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T22:07:18+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T22:12:31+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              104.3
             ]
           ]
         }
@@ -790,6 +764,32 @@
           "preco_desconto": 21,
           "preco_final": 108,
           "atualizado": "2026-09-22T21:35:59+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              108
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91835298",
+      "name": "Base de duche Resina 90x70 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-90x70-cm-branco-mate-sensea-easy-v2-91835298.html",
+      "dimensao": "90x70",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 108,
+      "prices": [
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 129,
+          "preco_desconto": 21,
+          "preco_final": 108,
+          "atualizado": "2026-09-22T20:48:18+00:00",
           "history": [
             [
               "2026-09-22",
@@ -1036,20 +1036,6 @@
           ]
         },
         {
-          "store": "Torres Novas (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-09-20T11:38:35+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 159,
@@ -1059,6 +1045,20 @@
           "history": [
             [
               "2026-09-22",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Torres Novas (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-20T11:38:35+00:00",
+          "history": [
+            [
+              "2026-09-20",
               138
             ]
           ]
@@ -1076,20 +1076,6 @@
       "preco_final": 138,
       "prices": [
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 159,
-          "preco_desconto": 21,
-          "preco_final": 138,
-          "atualizado": "2026-09-20T10:13:16+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              138
-            ]
-          ]
-        },
-        {
           "store": "Santa Maria da Feira (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 159,
@@ -1099,6 +1085,20 @@
           "history": [
             [
               "2026-09-20",
+              138
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 159,
+          "preco_desconto": 21,
+          "preco_final": 138,
+          "atualizado": "2026-09-22T22:12:31+00:00",
+          "history": [
+            [
+              "2026-09-22",
               138
             ]
           ]
@@ -1274,34 +1274,6 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-20T09:58:09+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 158,
-          "preco_desconto": 0.0,
-          "preco_final": 158,
-          "atualizado": "2026-09-20T10:05:41+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Maia (Porto)",
           "region": "Porto",
           "preco_normal": 192,
@@ -1381,6 +1353,20 @@
           "history": [
             [
               "2026-09-20",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-22T22:02:12+00:00",
+          "history": [
+            [
+              "2026-09-22",
               158
             ]
           ]
@@ -1678,57 +1664,57 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-20T09:50:33+00:00",
+          "atualizado": "2026-09-22T21:35:59+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.2
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-20T09:58:09+00:00",
+          "atualizado": "2026-09-22T21:41:10+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.2
             ]
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-20T10:05:41+00:00",
+          "atualizado": "2026-09-22T21:46:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.2
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-20T10:13:16+00:00",
+          "atualizado": "2026-09-22T21:51:27+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.2
             ]
           ]
@@ -1972,12 +1958,12 @@
           ]
         },
         {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T21:35:59+00:00",
+          "atualizado": "2026-09-22T21:56:58+00:00",
           "history": [
             [
               "2026-09-22",
@@ -1986,12 +1972,12 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T21:41:10+00:00",
+          "atualizado": "2026-09-22T22:02:12+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2000,12 +1986,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Loule (Faro)",
+          "region": "Faro",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T21:46:18+00:00",
+          "atualizado": "2026-09-22T22:07:18+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2014,12 +2000,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T21:51:27+00:00",
+          "atualizado": "2026-09-22T22:12:31+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2320,57 +2306,57 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-20T09:50:33+00:00",
+          "atualizado": "2026-09-22T21:35:59+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.4
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-20T09:58:09+00:00",
+          "atualizado": "2026-09-22T21:41:10+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.4
             ]
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-20T10:05:41+00:00",
+          "atualizado": "2026-09-22T21:46:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.4
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-20T10:13:16+00:00",
+          "atualizado": "2026-09-22T21:51:27+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.4
             ]
           ]
@@ -2614,12 +2600,12 @@
           ]
         },
         {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T21:35:59+00:00",
+          "atualizado": "2026-09-22T21:56:58+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2628,12 +2614,12 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T21:41:10+00:00",
+          "atualizado": "2026-09-22T22:02:12+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2642,12 +2628,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Loule (Faro)",
+          "region": "Faro",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T21:46:18+00:00",
+          "atualizado": "2026-09-22T22:07:18+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2656,12 +2642,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T21:51:27+00:00",
+          "atualizado": "2026-09-22T22:12:31+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2710,20 +2696,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-09-20T12:25:46+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              168
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 199,
@@ -2733,6 +2705,20 @@
           "history": [
             [
               "2026-09-22",
+              168
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-09-20T12:25:46+00:00",
+          "history": [
+            [
+              "2026-09-20",
               168
             ]
           ]
@@ -2766,6 +2752,32 @@
       ]
     },
     {
+      "id": "91835314",
+      "name": "Base de duche Resina 140x90 cm branco mate Sensea Easy V2",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-140x90-cm-branco-mate-sensea-easy-v2-91835314.html",
+      "dimensao": "140x90",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 178,
+      "prices": [
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 213,
+          "preco_desconto": 35,
+          "preco_final": 178,
+          "atualizado": "2026-09-22T22:07:18+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              178
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "88286911",
       "name": "Base de duche SENSEA REMIX RESINA 80X170 CINZENTO MATE",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-80x170-cinzento-mate-88286911.html",
@@ -2781,10 +2793,10 @@
           "preco_normal": 274,
           "preco_desconto": 94.02,
           "preco_final": 179.98,
-          "atualizado": "2026-09-20T10:05:41+00:00",
+          "atualizado": "2026-09-22T22:07:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               179.98
             ]
           ]
@@ -3082,57 +3094,57 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-20T09:50:33+00:00",
+          "atualizado": "2026-09-22T21:35:59+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               184.8
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-20T09:58:09+00:00",
+          "atualizado": "2026-09-22T21:41:10+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               184.8
             ]
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-20T10:05:41+00:00",
+          "atualizado": "2026-09-22T21:46:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               184.8
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-20T10:13:16+00:00",
+          "atualizado": "2026-09-22T21:51:27+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               184.8
             ]
           ]
@@ -3376,12 +3388,12 @@
           ]
         },
         {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-22T21:35:59+00:00",
+          "atualizado": "2026-09-22T21:56:58+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3390,12 +3402,12 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-22T21:41:10+00:00",
+          "atualizado": "2026-09-22T22:02:12+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3404,12 +3416,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Loule (Faro)",
+          "region": "Faro",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-22T21:46:18+00:00",
+          "atualizado": "2026-09-22T22:07:18+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3418,12 +3430,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-22T21:51:27+00:00",
+          "atualizado": "2026-09-22T22:12:31+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3671,10 +3683,10 @@
           "preco_normal": 259,
           "preco_desconto": 41,
           "preco_final": 218,
-          "atualizado": "2026-09-20T10:13:16+00:00",
+          "atualizado": "2026-09-22T22:12:31+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               218
             ]
           ]
@@ -3818,62 +3830,6 @@
           "preco_desconto": 156,
           "preco_final": 234,
           "atualizado": "2026-09-20T12:56:35+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T09:50:33+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T09:58:09+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T10:05:41+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T10:13:16+00:00",
           "history": [
             [
               "2026-09-20",
@@ -4412,57 +4368,57 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-20T09:50:33+00:00",
+          "atualizado": "2026-09-22T21:35:59+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               239.2
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Gaia (Porto)",
+          "region": "Porto",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-20T09:58:09+00:00",
+          "atualizado": "2026-09-22T21:41:10+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               239.2
             ]
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-20T10:05:41+00:00",
+          "atualizado": "2026-09-22T21:46:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               239.2
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-20T10:13:16+00:00",
+          "atualizado": "2026-09-22T21:51:27+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               239.2
             ]
           ]
@@ -4706,12 +4662,12 @@
           ]
         },
         {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T21:35:59+00:00",
+          "atualizado": "2026-09-22T21:56:58+00:00",
           "history": [
             [
               "2026-09-22",
@@ -4720,12 +4676,12 @@
           ]
         },
         {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T21:41:10+00:00",
+          "atualizado": "2026-09-22T22:02:12+00:00",
           "history": [
             [
               "2026-09-22",
@@ -4734,12 +4690,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Loule (Faro)",
+          "region": "Faro",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T21:46:18+00:00",
+          "atualizado": "2026-09-22T22:07:18+00:00",
           "history": [
             [
               "2026-09-22",
@@ -4748,42 +4704,16 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T21:51:27+00:00",
+          "atualizado": "2026-09-22T22:12:31+00:00",
           "history": [
             [
               "2026-09-22",
               239.2
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "84227384",
-      "name": "Base de duche 160x80 cm creme mate efeito ardósia Obath Greenpact",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x80-cm-creme-mate-efeito-ardosia-obath-greenpact-84227384.html",
-      "dimensao": "160x80",
-      "marca": "OBATH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 248,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 339,
-          "preco_desconto": 91,
-          "preco_final": 248,
-          "atualizado": "2026-09-20T11:54:23+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              248
             ]
           ]
         }
@@ -4809,6 +4739,32 @@
           "history": [
             [
               "2026-09-22",
+              248
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84227384",
+      "name": "Base de duche 160x80 cm creme mate efeito ardósia Obath Greenpact",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x80-cm-creme-mate-efeito-ardosia-obath-greenpact-84227384.html",
+      "dimensao": "160x80",
+      "marca": "OBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 248,
+      "prices": [
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 339,
+          "preco_desconto": 91,
+          "preco_final": 248,
+          "atualizado": "2026-09-20T11:54:23+00:00",
+          "history": [
+            [
+              "2026-09-20",
               248
             ]
           ]
@@ -5104,6 +5060,62 @@
               260.4
             ]
           ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T21:56:58+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T22:02:12+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T22:07:18+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T22:12:31+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
         }
       ]
     },
@@ -5149,10 +5161,10 @@
           "preco_normal": 364,
           "preco_desconto": 84.02,
           "preco_final": 279.98,
-          "atualizado": "2026-09-20T10:05:41+00:00",
+          "atualizado": "2026-09-22T22:07:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               279.98
             ]
           ]
