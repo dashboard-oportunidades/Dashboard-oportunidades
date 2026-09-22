@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T23:19:16+00:00",
+  "generated": "2026-09-22T23:40:34+00:00",
   "products": [
     {
       "id": "81992803",
@@ -43,10 +43,10 @@
           "preco_normal": 109,
           "preco_desconto": 21.02,
           "preco_final": 87.98,
-          "atualizado": "2026-09-20T12:02:08+00:00",
+          "atualizado": "2026-09-22T23:26:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               87.98
             ]
           ]
@@ -115,20 +115,6 @@
       "m2_caixa": null,
       "preco_final": 104.3,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T12:09:47+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -536,20 +522,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T12:17:28+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 149,
@@ -662,34 +634,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T11:54:23+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T12:02:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 149,
@@ -738,6 +682,62 @@
           "preco_desconto": 44.7,
           "preco_final": 104.3,
           "atualizado": "2026-09-22T23:15:34+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T23:21:06+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T23:26:18+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T23:31:31+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T23:36:46+00:00",
           "history": [
             [
               "2026-09-23",
@@ -954,20 +954,6 @@
       "preco_final": 137,
       "prices": [
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 181,
-          "preco_desconto": 44,
-          "preco_final": 137,
-          "atualizado": "2026-09-20T12:17:28+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              137
-            ]
-          ]
-        },
-        {
           "store": "Penafiel (Porto)",
           "region": "Porto",
           "preco_normal": 181,
@@ -977,6 +963,20 @@
           "history": [
             [
               "2026-09-22",
+              137
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 181,
+          "preco_desconto": 44,
+          "preco_final": 137,
+          "atualizado": "2026-09-22T23:36:46+00:00",
+          "history": [
+            [
+              "2026-09-23",
               137
             ]
           ]
@@ -1213,10 +1213,10 @@
           "preco_normal": 148,
           "preco_desconto": 0.0,
           "preco_final": 148,
-          "atualizado": "2026-09-20T12:02:08+00:00",
+          "atualizado": "2026-09-22T23:26:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               148
             ]
           ]
@@ -1239,10 +1239,10 @@
           "preco_normal": 219,
           "preco_desconto": 62,
           "preco_final": 157,
-          "atualizado": "2026-09-20T12:17:28+00:00",
+          "atualizado": "2026-09-22T23:36:46+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               157
             ]
           ]
@@ -1344,26 +1344,26 @@
           ]
         },
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 158,
-          "preco_desconto": 0.0,
-          "preco_final": 158,
-          "atualizado": "2026-09-20T12:02:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 158,
           "preco_desconto": 0.0,
           "preco_final": 158,
           "atualizado": "2026-09-22T23:00:01+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
+          "preco_final": 158,
+          "atualizado": "2026-09-22T23:26:18+00:00",
           "history": [
             [
               "2026-09-23",
@@ -1384,20 +1384,6 @@
       "preco_final": 167.2,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-20T12:09:47+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.2
-            ]
-          ]
-        },
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 209,
@@ -1804,20 +1790,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-20T12:17:28+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.2
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 209,
@@ -1930,34 +1902,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-20T11:54:23+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.2
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-20T12:02:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.2
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 209,
@@ -2006,6 +1950,62 @@
           "preco_desconto": 41.8,
           "preco_final": 167.2,
           "atualizado": "2026-09-22T23:15:34+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-22T23:21:06+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-22T23:26:18+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-22T23:31:31+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-22T23:36:46+00:00",
           "history": [
             [
               "2026-09-23",
@@ -2026,20 +2026,6 @@
       "preco_final": 167.4,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-20T12:09:47+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.4
-            ]
-          ]
-        },
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 279,
@@ -2446,20 +2432,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-20T12:17:28+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.4
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 279,
@@ -2572,34 +2544,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-20T11:54:23+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.4
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-20T12:02:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.4
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 279,
@@ -2654,6 +2598,62 @@
               167.4
             ]
           ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-22T23:21:06+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-22T23:26:18+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-22T23:31:31+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-22T23:36:46+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              167.4
+            ]
+          ]
         }
       ]
     },
@@ -2667,20 +2667,6 @@
       "m2_caixa": null,
       "preco_final": 168,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-09-20T12:09:47+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              168
-            ]
-          ]
-        },
         {
           "store": "Braga (Braga)",
           "region": "Braga",
@@ -2719,6 +2705,20 @@
           "history": [
             [
               "2026-09-20",
+              168
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-09-22T23:31:31+00:00",
+          "history": [
+            [
+              "2026-09-23",
               168
             ]
           ]
@@ -2814,20 +2814,6 @@
       "preco_final": 184.8,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-20T12:09:47+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              184.8
-            ]
-          ]
-        },
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 264,
@@ -3226,20 +3212,6 @@
           "preco_desconto": 79.2,
           "preco_final": 184.8,
           "atualizado": "2026-09-20T12:25:46+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-20T12:17:28+00:00",
           "history": [
             [
               "2026-09-20",
@@ -3360,34 +3332,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-20T11:54:23+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-20T12:02:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              184.8
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 264,
@@ -3436,6 +3380,62 @@
           "preco_desconto": 79.2,
           "preco_final": 184.8,
           "atualizado": "2026-09-22T23:15:34+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T23:21:06+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T23:26:18+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T23:31:31+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T23:36:46+00:00",
           "history": [
             [
               "2026-09-23",
@@ -3782,20 +3782,6 @@
       "preco_final": 234,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T12:09:47+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 390,
@@ -3864,48 +3850,6 @@
               234
             ]
           ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T12:17:28+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T11:54:23+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T12:02:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
         }
       ]
     },
@@ -3919,20 +3863,6 @@
       "m2_caixa": null,
       "preco_final": 239.2,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-20T12:09:47+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              239.2
-            ]
-          ]
-        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -4340,20 +4270,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-20T12:17:28+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              239.2
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 299,
@@ -4466,34 +4382,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-20T11:54:23+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              239.2
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-20T12:02:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              239.2
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 299,
@@ -4548,6 +4436,62 @@
               239.2
             ]
           ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-09-22T23:21:06+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-09-22T23:26:18+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-09-22T23:31:31+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-09-22T23:36:46+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              239.2
+            ]
+          ]
         }
       ]
     },
@@ -4593,10 +4537,10 @@
           "preco_normal": 339,
           "preco_desconto": 91,
           "preco_final": 248,
-          "atualizado": "2026-09-20T11:54:23+00:00",
+          "atualizado": "2026-09-22T23:21:06+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               248
             ]
           ]
@@ -5116,6 +5060,62 @@
               260.4
             ]
           ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T23:21:06+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T23:26:18+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T23:31:31+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T23:36:46+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              260.4
+            ]
+          ]
         }
       ]
     },
@@ -5135,10 +5135,10 @@
           "preco_normal": 349,
           "preco_desconto": 70,
           "preco_final": 279,
-          "atualizado": "2026-09-20T11:54:23+00:00",
+          "atualizado": "2026-09-22T23:21:06+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               279
             ]
           ]
@@ -5213,10 +5213,10 @@
           "preco_normal": 489,
           "preco_desconto": 110,
           "preco_final": 379,
-          "atualizado": "2026-09-20T11:54:23+00:00",
+          "atualizado": "2026-09-22T23:21:06+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               379
             ]
           ]

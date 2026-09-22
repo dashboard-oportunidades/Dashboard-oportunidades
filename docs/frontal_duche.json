@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T23:19:16+00:00",
+  "generated": "2026-09-22T23:40:34+00:00",
   "products": [
     {
       "id": "87870009",
@@ -43,10 +43,10 @@
           "preco_normal": 144,
           "preco_desconto": 16,
           "preco_final": 128,
-          "atualizado": "2026-09-20T12:12:13+00:00",
+          "atualizado": "2026-09-22T23:32:48+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               128
             ]
           ]
@@ -266,32 +266,6 @@
       ]
     },
     {
-      "id": "82008892",
-      "name": "Porta de duche frontal porta+frontal 140cm transparente cromado Leci A",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-frontal-porta-frontal-140cm-transparente-cromado-leci-a-82008892.html",
-      "dimensao": null,
-      "marca": "ITALBOX",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 268,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 344,
-          "preco_desconto": 76,
-          "preco_final": 268,
-          "atualizado": "2026-09-20T11:56:51+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              268
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82209759",
       "name": "Porta de duche serigrafada cromado 120x195 cm Sensea Remix",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-120x195-cm-sensea-remix-82209759.html",
@@ -384,6 +358,32 @@
       ]
     },
     {
+      "id": "82008892",
+      "name": "Porta de duche frontal porta+frontal 140cm transparente cromado Leci A",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-frontal-porta-frontal-140cm-transparente-cromado-leci-a-82008892.html",
+      "dimensao": null,
+      "marca": "ITALBOX",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 268,
+      "prices": [
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 344,
+          "preco_desconto": 76,
+          "preco_final": 268,
+          "atualizado": "2026-09-22T23:22:21+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              268
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "93403497",
       "name": "Porta de Duche de Correr 140X200cm vidro transparente perfil preto Leci B S21",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-correr-140x200cm-vidro-transparente-perfil-preto-leci-b-s21-93403497.html",
@@ -399,10 +399,10 @@
           "preco_normal": 304,
           "preco_desconto": 35,
           "preco_final": 269,
-          "atualizado": "2026-09-20T12:20:01+00:00",
+          "atualizado": "2026-09-22T23:38:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               269
             ]
           ]
@@ -583,10 +583,10 @@
           "preco_normal": 364,
           "preco_desconto": 25,
           "preco_final": 339,
-          "atualizado": "2026-09-20T12:20:01+00:00",
+          "atualizado": "2026-09-22T23:38:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               339
             ]
           ]
@@ -681,20 +681,6 @@
       "m2_caixa": null,
       "preco_final": 358,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-09-20T12:12:13+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              358
-            ]
-          ]
-        },
         {
           "store": "Almada (Setubal)",
           "region": "Setubal",
@@ -808,15 +794,29 @@
           ]
         },
         {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-09-22T23:32:48+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              358
+            ]
+          ]
+        },
+        {
           "store": "Matosinhos (Porto)",
           "region": "Porto",
           "preco_normal": 436,
           "preco_desconto": 78,
           "preco_final": 358,
-          "atualizado": "2026-09-20T12:20:01+00:00",
+          "atualizado": "2026-09-22T23:38:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               358
             ]
           ]
@@ -839,10 +839,10 @@
           "preco_normal": 464,
           "preco_desconto": 85,
           "preco_final": 379,
-          "atualizado": "2026-09-20T11:56:51+00:00",
+          "atualizado": "2026-09-22T23:22:21+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               379
             ]
           ]
@@ -926,20 +926,6 @@
       "preco_final": 418,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 509,
-          "preco_desconto": 91,
-          "preco_final": 418,
-          "atualizado": "2026-09-20T12:12:13+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              418
-            ]
-          ]
-        },
-        {
           "store": "Aveiro (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 418,
@@ -982,15 +968,29 @@
           ]
         },
         {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 509,
+          "preco_desconto": 91,
+          "preco_final": 418,
+          "atualizado": "2026-09-22T23:32:48+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              418
+            ]
+          ]
+        },
+        {
           "store": "Matosinhos (Porto)",
           "region": "Porto",
           "preco_normal": 509,
           "preco_desconto": 91,
           "preco_final": 418,
-          "atualizado": "2026-09-20T12:20:01+00:00",
+          "atualizado": "2026-09-22T23:38:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               418
             ]
           ]
@@ -1033,20 +1033,6 @@
       "m2_caixa": null,
       "preco_final": 419.4,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 699,
-          "preco_desconto": 279.6,
-          "preco_final": 419.4,
-          "atualizado": "2026-09-20T12:12:13+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              419.4
-            ]
-          ]
-        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -1454,20 +1440,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 699,
-          "preco_desconto": 279.6,
-          "preco_final": 419.4,
-          "atualizado": "2026-09-20T12:20:01+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              419.4
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 699,
@@ -1580,34 +1552,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 699,
-          "preco_desconto": 279.6,
-          "preco_final": 419.4,
-          "atualizado": "2026-09-20T11:56:51+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              419.4
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 699,
-          "preco_desconto": 279.6,
-          "preco_final": 419.4,
-          "atualizado": "2026-09-20T12:04:34+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              419.4
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 699,
@@ -1656,6 +1600,62 @@
           "preco_desconto": 279.6,
           "preco_final": 419.4,
           "atualizado": "2026-09-22T23:16:45+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-22T23:22:21+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-22T23:27:29+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-22T23:32:48+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-09-22T23:38:03+00:00",
           "history": [
             [
               "2026-09-23",
@@ -1822,32 +1822,6 @@
       ]
     },
     {
-      "id": "82242449",
-      "name": "Porta de duche + 2 portas transparente cromado 180x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-180x200-cm-sensea-neo-82242449.html",
-      "dimensao": "180x200",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 468,
-      "prices": [
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 468,
-          "preco_desconto": 0.0,
-          "preco_final": 468,
-          "atualizado": "2026-09-20T12:04:34+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              468
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "89153200",
       "name": "Portas de duche 130x200 transparente preto Neo",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-130x200-transparente-preto-neo-89153200.html",
@@ -1867,6 +1841,32 @@
           "history": [
             [
               "2026-09-20",
+              468
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242449",
+      "name": "Porta de duche + 2 portas transparente cromado 180x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-180x200-cm-sensea-neo-82242449.html",
+      "dimensao": "180x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 468,
+      "prices": [
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 468,
+          "preco_desconto": 0.0,
+          "preco_final": 468,
+          "atualizado": "2026-09-22T23:27:29+00:00",
+          "history": [
+            [
+              "2026-09-23",
               468
             ]
           ]
@@ -1910,20 +1910,6 @@
       "preco_final": 564.4,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 664,
-          "preco_desconto": 99.6,
-          "preco_final": 564.4,
-          "atualizado": "2026-09-20T12:12:13+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              564.4
-            ]
-          ]
-        },
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 664,
@@ -2330,20 +2316,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 664,
-          "preco_desconto": 99.6,
-          "preco_final": 564.4,
-          "atualizado": "2026-09-20T12:20:01+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              564.4
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 664,
@@ -2456,34 +2428,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 664,
-          "preco_desconto": 99.6,
-          "preco_final": 564.4,
-          "atualizado": "2026-09-20T11:56:51+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              564.4
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 664,
-          "preco_desconto": 99.6,
-          "preco_final": 564.4,
-          "atualizado": "2026-09-20T12:04:34+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              564.4
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 664,
@@ -2532,6 +2476,62 @@
           "preco_desconto": 99.6,
           "preco_final": 564.4,
           "atualizado": "2026-09-22T23:16:45+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-22T23:22:21+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-22T23:27:29+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-22T23:32:48+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-09-22T23:38:03+00:00",
           "history": [
             [
               "2026-09-23",
@@ -2568,32 +2568,6 @@
       ]
     },
     {
-      "id": "82351891",
-      "name": "Porta de duche AMEA1 170X200 TRANSPARENTE INOX",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-amea1-170x200-transparente-inox-82351891.html",
-      "dimensao": "170x200",
-      "marca": "GLASSINOX",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 599,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 739,
-          "preco_desconto": 140,
-          "preco_final": 599,
-          "atualizado": "2026-09-20T11:56:51+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              599
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82352333",
       "name": "Portas de duche serigrafado preto 200x200 cm Tala 3",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-serigrafado-preto-200x200-cm-tala-3-82352333.html",
@@ -2620,6 +2594,32 @@
       ]
     },
     {
+      "id": "82351891",
+      "name": "Porta de duche AMEA1 170X200 TRANSPARENTE INOX",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-amea1-170x200-transparente-inox-82351891.html",
+      "dimensao": "170x200",
+      "marca": "GLASSINOX",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 599,
+      "prices": [
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 739,
+          "preco_desconto": 140,
+          "preco_final": 599,
+          "atualizado": "2026-09-22T23:22:21+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              599
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82352363",
       "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html",
@@ -2629,20 +2629,6 @@
       "m2_caixa": null,
       "preco_final": 638.1,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-20T12:12:13+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              638.1
-            ]
-          ]
-        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -3050,20 +3036,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-20T12:20:01+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              638.1
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 709,
@@ -3176,34 +3148,6 @@
           ]
         },
         {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-20T11:56:51+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              638.1
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-20T12:04:34+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              638.1
-            ]
-          ]
-        },
-        {
           "store": "Sintra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 709,
@@ -3252,6 +3196,62 @@
           "preco_desconto": 70.9,
           "preco_final": 638.1,
           "atualizado": "2026-09-22T23:16:45+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-22T23:22:21+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-22T23:27:29+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-22T23:32:48+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              638.1
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 709,
+          "preco_desconto": 70.9,
+          "preco_final": 638.1,
+          "atualizado": "2026-09-22T23:38:03+00:00",
           "history": [
             [
               "2026-09-23",
