@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T20:52:03+00:00",
+  "generated": "2026-09-22T21:13:13+00:00",
   "products": [
     {
       "id": "90402657",
@@ -38,20 +38,6 @@
       "preco_final": 848,
       "prices": [
         {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 1049,
-          "preco_desconto": 201,
-          "preco_final": 848,
-          "atualizado": "2026-09-20T09:24:27+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              848
-            ]
-          ]
-        },
-        {
           "store": "Caldas da Rainha (Leiria)",
           "region": "Leiria",
           "preco_normal": 1049,
@@ -61,6 +47,20 @@
           "history": [
             [
               "2026-09-22",
+              848
+            ]
+          ]
+        },
+        {
+          "store": "Figueira da Foz (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 1049,
+          "preco_desconto": 201,
+          "preco_final": 848,
+          "atualizado": "2026-09-20T09:24:27+00:00",
+          "history": [
+            [
+              "2026-09-20",
               848
             ]
           ]
@@ -132,6 +132,20 @@
           ]
         },
         {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 1249,
+          "preco_desconto": 241,
+          "preco_final": 1008,
+          "atualizado": "2026-09-22T20:52:02+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              1008
+            ]
+          ]
+        },
+        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1249,
@@ -155,20 +169,6 @@
           "history": [
             [
               "2026-09-20",
-              1008
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 1249,
-          "preco_desconto": 241,
-          "preco_final": 1008,
-          "atualizado": "2026-09-22T20:52:02+00:00",
-          "history": [
-            [
-              "2026-09-22",
               1008
             ]
           ]
@@ -226,20 +226,6 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 1649,
-          "preco_desconto": 321,
-          "preco_final": 1328,
-          "atualizado": "2026-09-20T10:26:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              1328
-            ]
-          ]
-        },
-        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 1649,
@@ -249,6 +235,20 @@
           "history": [
             [
               "2026-09-22",
+              1328
+            ]
+          ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1649,
+          "preco_desconto": 321,
+          "preco_final": 1328,
+          "atualizado": "2026-09-20T10:26:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
               1328
             ]
           ]

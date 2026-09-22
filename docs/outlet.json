@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T20:52:03+00:00",
+  "generated": "2026-09-22T21:13:13+00:00",
   "products": [
     {
       "id": "81992803",
@@ -69,10 +69,10 @@
           "preco_normal": 169,
           "preco_desconto": 75.64,
           "preco_final": 93.36,
-          "atualizado": "2026-09-20T08:30:34+00:00",
+          "atualizado": "2026-09-22T20:59:17+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               93.36
             ]
           ]
@@ -228,57 +228,57 @@
           ]
         },
         {
-          "store": "Carcavelos (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:22:50+00:00",
+          "atualizado": "2026-09-22T20:32:45+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               104.3
             ]
           ]
         },
         {
-          "store": "Cascais (Lisboa)",
-          "region": "Lisboa",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:30:34+00:00",
+          "atualizado": "2026-09-22T20:37:55+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               104.3
             ]
           ]
         },
         {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:34:08+00:00",
+          "atualizado": "2026-09-22T20:43:05+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               104.3
             ]
           ]
         },
         {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:41:50+00:00",
+          "atualizado": "2026-09-22T20:48:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               104.3
             ]
           ]
@@ -690,12 +690,12 @@
           ]
         },
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-22T20:32:45+00:00",
+          "atualizado": "2026-09-22T20:54:05+00:00",
           "history": [
             [
               "2026-09-22",
@@ -704,12 +704,12 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-22T20:37:55+00:00",
+          "atualizado": "2026-09-22T20:59:17+00:00",
           "history": [
             [
               "2026-09-22",
@@ -718,12 +718,12 @@
           ]
         },
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-22T20:43:05+00:00",
+          "atualizado": "2026-09-22T21:04:27+00:00",
           "history": [
             [
               "2026-09-22",
@@ -732,12 +732,12 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-22T20:48:18+00:00",
+          "atualizado": "2026-09-22T21:09:31+00:00",
           "history": [
             [
               "2026-09-22",
@@ -881,10 +881,10 @@
           "preco_normal": 279,
           "preco_desconto": 153.01,
           "preco_final": 125.99,
-          "atualizado": "2026-09-20T08:30:34+00:00",
+          "atualizado": "2026-09-22T20:59:17+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               125.99
             ]
           ]
@@ -1224,32 +1224,6 @@
       ]
     },
     {
-      "id": "94150385",
-      "name": "Base de duche 80x160xcm branco Resina",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x160xcm-branco-resina-94150385.html",
-      "dimensao": "80x160",
-      "marca": "RESINBATH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 149,
-      "prices": [
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 174,
-          "preco_desconto": 25,
-          "preco_final": 149,
-          "atualizado": "2026-09-20T08:41:50+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              149
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "84227261",
       "name": "Base de duche 90x70 cm branco mate efeito ardósia Obath Greenpact",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-90x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227261.html",
@@ -1536,57 +1510,57 @@
           ]
         },
         {
-          "store": "Carcavelos (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-20T08:22:50+00:00",
+          "atualizado": "2026-09-22T20:32:45+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.2
             ]
           ]
         },
         {
-          "store": "Cascais (Lisboa)",
-          "region": "Lisboa",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-20T08:30:34+00:00",
+          "atualizado": "2026-09-22T20:37:55+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.2
             ]
           ]
         },
         {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-20T08:34:08+00:00",
+          "atualizado": "2026-09-22T20:43:05+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.2
             ]
           ]
         },
         {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-20T08:41:50+00:00",
+          "atualizado": "2026-09-22T20:48:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.2
             ]
           ]
@@ -1998,12 +1972,12 @@
           ]
         },
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T20:32:45+00:00",
+          "atualizado": "2026-09-22T20:54:05+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2012,12 +1986,12 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T20:37:55+00:00",
+          "atualizado": "2026-09-22T20:59:17+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2026,12 +2000,12 @@
           ]
         },
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T20:43:05+00:00",
+          "atualizado": "2026-09-22T21:04:27+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2040,12 +2014,12 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T20:48:18+00:00",
+          "atualizado": "2026-09-22T21:09:31+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2178,57 +2152,57 @@
           ]
         },
         {
-          "store": "Carcavelos (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-20T08:22:50+00:00",
+          "atualizado": "2026-09-22T20:32:45+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.4
             ]
           ]
         },
         {
-          "store": "Cascais (Lisboa)",
-          "region": "Lisboa",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-20T08:30:34+00:00",
+          "atualizado": "2026-09-22T20:37:55+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.4
             ]
           ]
         },
         {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-20T08:34:08+00:00",
+          "atualizado": "2026-09-22T20:43:05+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.4
             ]
           ]
         },
         {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-20T08:41:50+00:00",
+          "atualizado": "2026-09-22T20:48:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               167.4
             ]
           ]
@@ -2640,12 +2614,12 @@
           ]
         },
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T20:32:45+00:00",
+          "atualizado": "2026-09-22T20:54:05+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2654,12 +2628,12 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T20:37:55+00:00",
+          "atualizado": "2026-09-22T20:59:17+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2668,12 +2642,12 @@
           ]
         },
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T20:43:05+00:00",
+          "atualizado": "2026-09-22T21:04:27+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2682,12 +2656,12 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T20:48:18+00:00",
+          "atualizado": "2026-09-22T21:09:31+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2722,6 +2696,20 @@
           ]
         },
         {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-09-22T20:37:55+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              168
+            ]
+          ]
+        },
+        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 199,
@@ -2745,20 +2733,6 @@
           "history": [
             [
               "2026-09-20",
-              168
-            ]
-          ]
-        },
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-09-22T20:37:55+00:00",
-          "history": [
-            [
-              "2026-09-22",
               168
             ]
           ]
@@ -2966,57 +2940,57 @@
           ]
         },
         {
-          "store": "Carcavelos (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-20T08:22:50+00:00",
+          "atualizado": "2026-09-22T20:32:45+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               184.8
             ]
           ]
         },
         {
-          "store": "Cascais (Lisboa)",
-          "region": "Lisboa",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-20T08:30:34+00:00",
+          "atualizado": "2026-09-22T20:37:55+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               184.8
             ]
           ]
         },
         {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-20T08:34:08+00:00",
+          "atualizado": "2026-09-22T20:43:05+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               184.8
             ]
           ]
         },
         {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-20T08:41:50+00:00",
+          "atualizado": "2026-09-22T20:48:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               184.8
             ]
           ]
@@ -3428,12 +3402,12 @@
           ]
         },
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-22T20:32:45+00:00",
+          "atualizado": "2026-09-22T20:54:05+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3442,12 +3416,12 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-22T20:37:55+00:00",
+          "atualizado": "2026-09-22T20:59:17+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3456,12 +3430,12 @@
           ]
         },
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-22T20:43:05+00:00",
+          "atualizado": "2026-09-22T21:04:27+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3470,12 +3444,12 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-22T20:48:18+00:00",
+          "atualizado": "2026-09-22T21:09:31+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3567,10 +3541,10 @@
           "preco_normal": 299,
           "preco_desconto": 109,
           "preco_final": 190,
-          "atualizado": "2026-09-20T08:30:34+00:00",
+          "atualizado": "2026-09-22T20:59:17+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               190
             ]
           ]
@@ -3775,10 +3749,10 @@
           "preco_normal": 509,
           "preco_desconto": 284,
           "preco_final": 225,
-          "atualizado": "2026-09-20T08:30:34+00:00",
+          "atualizado": "2026-09-22T20:59:17+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               225
             ]
           ]
@@ -3870,62 +3844,6 @@
           "preco_desconto": 156,
           "preco_final": 234,
           "atualizado": "2026-09-20T12:56:35+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Carcavelos (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T08:22:50+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Cascais (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T08:30:34+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T08:34:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T08:41:50+00:00",
           "history": [
             [
               "2026-09-20",
@@ -4450,57 +4368,57 @@
           ]
         },
         {
-          "store": "Carcavelos (Lisboa)",
-          "region": "Lisboa",
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-20T08:22:50+00:00",
+          "atualizado": "2026-09-22T20:32:45+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               239.2
             ]
           ]
         },
         {
-          "store": "Cascais (Lisboa)",
-          "region": "Lisboa",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-20T08:30:34+00:00",
+          "atualizado": "2026-09-22T20:37:55+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               239.2
             ]
           ]
         },
         {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-20T08:34:08+00:00",
+          "atualizado": "2026-09-22T20:43:05+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               239.2
             ]
           ]
         },
         {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-20T08:41:50+00:00",
+          "atualizado": "2026-09-22T20:48:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               239.2
             ]
           ]
@@ -4912,12 +4830,12 @@
           ]
         },
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T20:32:45+00:00",
+          "atualizado": "2026-09-22T20:54:05+00:00",
           "history": [
             [
               "2026-09-22",
@@ -4926,12 +4844,12 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T20:37:55+00:00",
+          "atualizado": "2026-09-22T20:59:17+00:00",
           "history": [
             [
               "2026-09-22",
@@ -4940,12 +4858,12 @@
           ]
         },
         {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T20:43:05+00:00",
+          "atualizado": "2026-09-22T21:04:27+00:00",
           "history": [
             [
               "2026-09-22",
@@ -4954,12 +4872,12 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T20:48:18+00:00",
+          "atualizado": "2026-09-22T21:09:31+00:00",
           "history": [
             [
               "2026-09-22",
@@ -5136,6 +5054,62 @@
           "preco_desconto": 173.6,
           "preco_final": 260.4,
           "atualizado": "2026-09-22T20:48:18+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Carcavelos (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T20:54:05+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Cascais (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T20:59:17+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T21:04:27+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T21:09:31+00:00",
           "history": [
             [
               "2026-09-22",
