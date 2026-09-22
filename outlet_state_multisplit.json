@@ -8,10 +8,10 @@
     "Amadora (Lisboa)": "2026-09-22T20:20:16+00:00",
     "Aveiro (Aveiro)": "2026-09-22T20:25:33+00:00",
     "Barcelos (Braga)": "2026-09-22T20:30:46+00:00",
-    "Barreiro (Setubal)": "2026-09-20T07:56:39+00:00",
-    "Braga (Braga)": "2026-09-20T08:04:26+00:00",
-    "Braganca (Braganca)": "2026-09-20T08:12:02+00:00",
-    "Caldas da Rainha (Leiria)": "2026-09-20T08:19:43+00:00",
+    "Barreiro (Setubal)": "2026-09-22T20:36:26+00:00",
+    "Braga (Braga)": "2026-09-22T20:41:36+00:00",
+    "Braganca (Braganca)": "2026-09-22T20:46:49+00:00",
+    "Caldas da Rainha (Leiria)": "2026-09-22T20:52:02+00:00",
     "Carcavelos (Lisboa)": "2026-09-20T08:27:51+00:00",
     "Cascais (Lisboa)": "2026-09-20T08:32:24+00:00",
     "Castelo Branco (Castelo Branco)": "2026-09-20T08:39:08+00:00",
@@ -111,11 +111,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-12000-btu-84622735.html"
     },
     "84622735@Barreiro (Setubal)": {
-      "atualizado": "2026-09-20T07:56:39+00:00",
+      "atualizado": "2026-09-22T20:36:26+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-20",
+          "2026-09-22",
           1328
         ]
       ],
@@ -299,6 +299,27 @@
       "store": "Maia (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-9000-9000-btu-haier-perla-premium-90402657.html"
     },
+    "90402658@Caldas da Rainha (Leiria)": {
+      "atualizado": "2026-09-22T20:52:02+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-09-22",
+          848
+        ]
+      ],
+      "id": "90402658",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (2X1) 4Kw 9000 + 12000 Btu Perla premium Haier",
+      "preco_desconto": 201,
+      "preco_final": 848,
+      "preco_normal": 1049,
+      "region": "Leiria",
+      "retificado": false,
+      "store": "Caldas da Rainha (Leiria)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-4kw-9000-12000-btu-perla-premium-haier-90402658.html"
+    },
     "90402658@Figueira da Foz (Coimbra)": {
       "atualizado": "2026-09-20T09:24:27+00:00",
       "dimensao": "12000 BTU",
@@ -363,11 +384,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
     },
     "92041665@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-20T08:19:43+00:00",
+      "atualizado": "2026-09-22T20:52:02+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-20",
+          "2026-09-22",
           1008
         ]
       ],

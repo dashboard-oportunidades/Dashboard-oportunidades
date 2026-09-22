@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T20:30:47+00:00",
+  "generated": "2026-09-22T20:52:03+00:00",
   "products": [
     {
       "id": "90402657",
@@ -47,6 +47,20 @@
           "history": [
             [
               "2026-09-20",
+              848
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 1049,
+          "preco_desconto": 201,
+          "preco_final": 848,
+          "atualizado": "2026-09-22T20:52:02+00:00",
+          "history": [
+            [
+              "2026-09-22",
               848
             ]
           ]
@@ -104,15 +118,15 @@
           ]
         },
         {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 1249,
           "preco_desconto": 241,
           "preco_final": 1008,
-          "atualizado": "2026-09-20T08:19:43+00:00",
+          "atualizado": "2026-09-22T20:20:16+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               1008
             ]
           ]
@@ -146,12 +160,12 @@
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
           "preco_normal": 1249,
           "preco_desconto": 241,
           "preco_final": 1008,
-          "atualizado": "2026-09-22T20:20:16+00:00",
+          "atualizado": "2026-09-22T20:52:02+00:00",
           "history": [
             [
               "2026-09-22",
@@ -212,20 +226,6 @@
           ]
         },
         {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 1649,
-          "preco_desconto": 321,
-          "preco_final": 1328,
-          "atualizado": "2026-09-20T07:56:39+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              1328
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 1649,
@@ -235,6 +235,20 @@
           "history": [
             [
               "2026-09-20",
+              1328
+            ]
+          ]
+        },
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1649,
+          "preco_desconto": 321,
+          "preco_final": 1328,
+          "atualizado": "2026-09-22T20:36:26+00:00",
+          "history": [
+            [
+              "2026-09-22",
               1328
             ]
           ]
