@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T22:37:08+00:00",
+  "generated": "2026-09-22T22:58:15+00:00",
   "products": [
     {
       "id": "81992803",
@@ -550,57 +550,57 @@
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T10:51:39+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T10:59:27+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T11:07:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
+          "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T11:14:59+00:00",
+          "atualizado": "2026-09-22T22:18:01+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T22:23:08+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T22:28:15+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T22:33:21+00:00",
+          "history": [
+            [
+              "2026-09-22",
               104.3
             ]
           ]
@@ -690,26 +690,12 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-22T22:18:01+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
+          "store": "Sacavem (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-22T22:23:08+00:00",
+          "atualizado": "2026-09-22T22:38:52+00:00",
           "history": [
             [
               "2026-09-22",
@@ -718,12 +704,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-22T22:28:15+00:00",
+          "atualizado": "2026-09-22T22:44:06+00:00",
           "history": [
             [
               "2026-09-22",
@@ -732,12 +718,26 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-22T22:33:21+00:00",
+          "atualizado": "2026-09-22T22:49:16+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-22T22:54:28+00:00",
           "history": [
             [
               "2026-09-22",
@@ -1095,10 +1095,10 @@
           "preco_normal": 159,
           "preco_desconto": 21,
           "preco_final": 138,
-          "atualizado": "2026-09-20T10:59:27+00:00",
+          "atualizado": "2026-09-22T22:44:06+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               138
             ]
           ]
@@ -1132,25 +1132,25 @@
       ]
     },
     {
-      "id": "86584060",
-      "name": "Base de duche 140x70 cm branco mate Sensea Easy",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x70-cm-branco-mate-sensea-easy-86584060.html",
-      "dimensao": "140x70",
+      "id": "86584061",
+      "name": "Base de duche 160x70 cm branco mate Sensea Easy",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html",
+      "dimensao": "160x70",
       "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 148,
       "prices": [
         {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 169,
-          "preco_desconto": 21,
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 179,
+          "preco_desconto": 31,
           "preco_final": 148,
-          "atualizado": "2026-09-20T11:07:08+00:00",
+          "atualizado": "2026-09-22T22:23:08+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               148
             ]
           ]
@@ -1168,20 +1168,6 @@
       "preco_final": 148,
       "prices": [
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-20T12:02:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              148
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 148,
@@ -1194,26 +1180,40 @@
               148
             ]
           ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-20T12:02:08+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              148
+            ]
+          ]
         }
       ]
     },
     {
-      "id": "86584061",
-      "name": "Base de duche 160x70 cm branco mate Sensea Easy",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-160x70-cm-branco-mate-sensea-easy-86584061.html",
-      "dimensao": "160x70",
+      "id": "86584060",
+      "name": "Base de duche 140x70 cm branco mate Sensea Easy",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-140x70-cm-branco-mate-sensea-easy-86584060.html",
+      "dimensao": "140x70",
       "marca": "SENSEA",
       "retificado": false,
       "m2_caixa": null,
       "preco_final": 148,
       "prices": [
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 179,
-          "preco_desconto": 31,
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 169,
+          "preco_desconto": 21,
           "preco_final": 148,
-          "atualizado": "2026-09-22T22:23:08+00:00",
+          "atualizado": "2026-09-22T22:49:16+00:00",
           "history": [
             [
               "2026-09-22",
@@ -1302,29 +1302,15 @@
           ]
         },
         {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-20T10:59:27+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              158
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
+          "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 192,
           "preco_desconto": 34,
           "preco_final": 158,
-          "atualizado": "2026-09-20T11:14:59+00:00",
+          "atualizado": "2026-09-22T22:18:01+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
               158
             ]
           ]
@@ -1358,12 +1344,26 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-09-22T22:44:06+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
           "region": "Setubal",
           "preco_normal": 192,
           "preco_desconto": 34,
           "preco_final": 158,
-          "atualizado": "2026-09-22T22:18:01+00:00",
+          "atualizado": "2026-09-22T22:54:28+00:00",
           "history": [
             [
               "2026-09-22",
@@ -1818,57 +1818,57 @@
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-20T10:51:39+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.2
-            ]
-          ]
-        },
-        {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-20T10:59:27+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.2
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-20T11:07:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.2
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
+          "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-20T11:14:59+00:00",
+          "atualizado": "2026-09-22T22:18:01+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-22T22:23:08+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-22T22:28:15+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-22T22:33:21+00:00",
+          "history": [
+            [
+              "2026-09-22",
               167.2
             ]
           ]
@@ -1958,26 +1958,12 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-22T22:18:01+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              167.2
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
+          "store": "Sacavem (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T22:23:08+00:00",
+          "atualizado": "2026-09-22T22:38:52+00:00",
           "history": [
             [
               "2026-09-22",
@@ -1986,12 +1972,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T22:28:15+00:00",
+          "atualizado": "2026-09-22T22:44:06+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2000,12 +1986,26 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-22T22:33:21+00:00",
+          "atualizado": "2026-09-22T22:49:16+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-09-22T22:54:28+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2460,57 +2460,57 @@
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-20T10:51:39+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.4
-            ]
-          ]
-        },
-        {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-20T10:59:27+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.4
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-20T11:07:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              167.4
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
+          "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-20T11:14:59+00:00",
+          "atualizado": "2026-09-22T22:18:01+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-22T22:23:08+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-22T22:28:15+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-22T22:33:21+00:00",
+          "history": [
+            [
+              "2026-09-22",
               167.4
             ]
           ]
@@ -2600,26 +2600,12 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-22T22:18:01+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              167.4
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
+          "store": "Sacavem (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T22:23:08+00:00",
+          "atualizado": "2026-09-22T22:38:52+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2628,12 +2614,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T22:28:15+00:00",
+          "atualizado": "2026-09-22T22:44:06+00:00",
           "history": [
             [
               "2026-09-22",
@@ -2642,12 +2628,26 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-22T22:33:21+00:00",
+          "atualizado": "2026-09-22T22:49:16+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-09-22T22:54:28+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3248,57 +3248,57 @@
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 184.8,
-          "preco_desconto": 0.0,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-20T10:51:39+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-20T10:59:27+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-20T11:07:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
+          "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-20T11:14:59+00:00",
+          "atualizado": "2026-09-22T22:18:01+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T22:23:08+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T22:28:15+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T22:33:21+00:00",
+          "history": [
+            [
+              "2026-09-22",
               184.8
             ]
           ]
@@ -3388,54 +3388,54 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 184.8,
+          "preco_desconto": 0.0,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T22:38:52+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T22:44:06+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-09-22T22:49:16+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
           "region": "Setubal",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-22T22:18:01+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-22T22:23:08+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-22T22:28:15+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-22T22:33:21+00:00",
+          "atualizado": "2026-09-22T22:54:28+00:00",
           "history": [
             [
               "2026-09-22",
@@ -3872,62 +3872,6 @@
           "preco_desconto": 156,
           "preco_final": 234,
           "atualizado": "2026-09-20T12:17:28+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T10:51:39+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T10:59:27+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T11:07:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              234
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 390,
-          "preco_desconto": 156,
-          "preco_final": 234,
-          "atualizado": "2026-09-20T11:14:59+00:00",
           "history": [
             [
               "2026-09-20",
@@ -4466,57 +4410,57 @@
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-20T10:51:39+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              239.2
-            ]
-          ]
-        },
-        {
-          "store": "Santa Maria da Feira (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-20T10:59:27+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              239.2
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-20T11:07:08+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              239.2
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
+          "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-20T11:14:59+00:00",
+          "atualizado": "2026-09-22T22:18:01+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-22",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-09-22T22:23:08+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-09-22T22:28:15+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-09-22T22:33:21+00:00",
+          "history": [
+            [
+              "2026-09-22",
               239.2
             ]
           ]
@@ -4606,26 +4550,12 @@
           ]
         },
         {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-22T22:18:01+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              239.2
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
+          "store": "Sacavem (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T22:23:08+00:00",
+          "atualizado": "2026-09-22T22:38:52+00:00",
           "history": [
             [
               "2026-09-22",
@@ -4634,12 +4564,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T22:28:15+00:00",
+          "atualizado": "2026-09-22T22:44:06+00:00",
           "history": [
             [
               "2026-09-22",
@@ -4648,12 +4578,26 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-22T22:33:21+00:00",
+          "atualizado": "2026-09-22T22:49:16+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-09-22T22:54:28+00:00",
           "history": [
             [
               "2026-09-22",
@@ -5110,6 +5054,62 @@
           "preco_desconto": 173.6,
           "preco_final": 260.4,
           "atualizado": "2026-09-22T22:33:21+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T22:38:52+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Santa Maria da Feira (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T22:44:06+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T22:49:16+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              260.4
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 434,
+          "preco_desconto": 173.6,
+          "preco_final": 260.4,
+          "atualizado": "2026-09-22T22:54:28+00:00",
           "history": [
             [
               "2026-09-22",
