@@ -1,9 +1,9 @@
 {
   "lojas": {
     "Albufeira (Faro)": "2026-09-22T23:35:17+00:00",
-    "Alfragide (Lisboa)": "2026-09-20T12:53:51+00:00",
-    "Almada (Setubal)": "2026-09-20T12:38:26+00:00",
-    "Alta de Lisboa (Lisboa)": "2026-09-20T13:01:28+00:00",
+    "Alfragide (Lisboa)": "2026-09-23T00:01:36+00:00",
+    "Almada (Setubal)": "2026-09-22T23:51:13+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-09-23T00:06:48+00:00",
     "Alverca (Lisboa)": "2026-09-22T20:15:03+00:00",
     "Amadora (Lisboa)": "2026-09-22T20:20:16+00:00",
     "Aveiro (Aveiro)": "2026-09-22T20:25:33+00:00",
@@ -28,8 +28,8 @@
     "Leiria (Leiria)": "2026-09-22T22:05:49+00:00",
     "Loule (Faro)": "2026-09-22T22:11:02+00:00",
     "Loures (Lisboa)": "2026-09-22T22:16:13+00:00",
-    "Mafra (Lisboa)": "2026-09-20T12:46:14+00:00",
-    "Maia (Porto)": "2026-09-20T12:30:42+00:00",
+    "Mafra (Lisboa)": "2026-09-22T23:56:26+00:00",
+    "Maia (Porto)": "2026-09-22T23:46:02+00:00",
     "Matosinhos (Porto)": "2026-09-22T23:40:34+00:00",
     "Montijo (Setubal)": "2026-09-22T22:21:39+00:00",
     "Oeiras (Lisboa)": "2026-09-22T22:26:45+00:00",
@@ -111,11 +111,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-9000-btu-84622733.html"
     },
     "84622735@Almada (Setubal)": {
-      "atualizado": "2026-09-20T12:38:26+00:00",
+      "atualizado": "2026-09-22T23:51:13+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-20",
+          "2026-09-23",
           1328
         ]
       ],
@@ -258,11 +258,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-aire-td-wifi-r32-9000-9000-12000-btu-86584984.html"
     },
     "87694849@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-20T12:53:51+00:00",
+      "atualizado": "2026-09-23T00:01:36+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-20",
+          "2026-09-23",
           1368
         ]
       ],
@@ -321,11 +321,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-samsung-comfort-aj080-9000-9000-12000btu-88293343.html"
     },
     "90402657@Maia (Porto)": {
-      "atualizado": "2026-09-20T12:30:42+00:00",
+      "atualizado": "2026-09-22T23:46:02+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-20",
+          "2026-09-23",
           828
         ]
       ],
@@ -382,27 +382,6 @@
       "retificado": false,
       "store": "Figueira da Foz (Coimbra)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-4kw-9000-12000-btu-perla-premium-haier-90402658.html"
-    },
-    "92041665@Alfragide (Lisboa)": {
-      "atualizado": "2026-09-20T12:53:51+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-09-20",
-          1008
-        ]
-      ],
-      "id": "92041665",
-      "m2_caixa": null,
-      "marca": "ARISTON",
-      "name": "Ar condicionado ARISTON ALYS MULTI-SPLIT 9000+12000 BTU",
-      "preco_desconto": 241,
-      "preco_final": 1008,
-      "preco_normal": 1249,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Alfragide (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
     },
     "92041665@Amadora (Lisboa)": {
       "atualizado": "2026-09-22T20:20:16+00:00",

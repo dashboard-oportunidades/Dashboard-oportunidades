@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T23:40:34+00:00",
+  "generated": "2026-09-23T00:06:48+00:00",
   "products": [
     {
       "id": "82143647",
@@ -43,10 +43,10 @@
           "preco_normal": 1029,
           "preco_desconto": 201,
           "preco_final": 828,
-          "atualizado": "2026-09-20T12:30:42+00:00",
+          "atualizado": "2026-09-22T23:46:02+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-09-23",
               828
             ]
           ]
@@ -129,20 +129,6 @@
       "m2_caixa": null,
       "preco_final": 1008,
       "prices": [
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1249,
-          "preco_desconto": 241,
-          "preco_final": 1008,
-          "atualizado": "2026-09-20T12:53:51+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              1008
-            ]
-          ]
-        },
         {
           "store": "Amadora (Lisboa)",
           "region": "Lisboa",
@@ -238,20 +224,6 @@
       "preco_final": 1328,
       "prices": [
         {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 1649,
-          "preco_desconto": 321,
-          "preco_final": 1328,
-          "atualizado": "2026-09-20T12:38:26+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              1328
-            ]
-          ]
-        },
-        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 1649,
@@ -278,6 +250,20 @@
               1328
             ]
           ]
+        },
+        {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1649,
+          "preco_desconto": 321,
+          "preco_final": 1328,
+          "atualizado": "2026-09-22T23:51:13+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              1328
+            ]
+          ]
         }
       ]
     },
@@ -292,20 +278,6 @@
       "preco_final": 1368,
       "prices": [
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1699,
-          "preco_desconto": 331,
-          "preco_final": 1368,
-          "atualizado": "2026-09-20T12:53:51+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              1368
-            ]
-          ]
-        },
-        {
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1699,
@@ -315,6 +287,20 @@
           "history": [
             [
               "2026-09-22",
+              1368
+            ]
+          ]
+        },
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1699,
+          "preco_desconto": 331,
+          "preco_final": 1368,
+          "atualizado": "2026-09-23T00:01:36+00:00",
+          "history": [
+            [
+              "2026-09-23",
               1368
             ]
           ]
