@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T13:02:42+00:00",
+  "generated": "2026-10-02T09:15:49+00:00",
   "products": [
     {
       "id": "82005354",
@@ -128,6 +128,32 @@
             [
               "2026-09-20",
               158
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96661589",
+      "name": "Termoacumulador HAIER Red ES50V-VH3W 50 litros",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-haier-red-es50v-vh3w-50-litros-96661589.html",
+      "dimensao": "50L",
+      "marca": "HAIER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 159,
+      "prices": [
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 189,
+          "preco_desconto": 30,
+          "preco_final": 159,
+          "atualizado": "2026-10-02T09:15:48+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              159
             ]
           ]
         }
@@ -314,12 +340,12 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 368,
-          "preco_desconto": 0.0,
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 449,
+          "preco_desconto": 81,
           "preco_final": 368,
-          "atualizado": "2026-09-20T11:52:21+00:00",
+          "atualizado": "2026-09-20T12:39:43+00:00",
           "history": [
             [
               "2026-09-20",
@@ -328,12 +354,12 @@
           ]
         },
         {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 449,
-          "preco_desconto": 81,
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 368,
+          "preco_desconto": 0.0,
           "preco_final": 368,
-          "atualizado": "2026-09-20T12:39:43+00:00",
+          "atualizado": "2026-09-20T11:52:21+00:00",
           "history": [
             [
               "2026-09-20",
@@ -406,12 +432,12 @@
       "preco_final": 388,
       "prices": [
         {
-          "store": "Amadora (Lisboa)",
+          "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 388,
           "preco_desconto": 0.0,
           "preco_final": 388,
-          "atualizado": "2026-09-20T07:35:12+00:00",
+          "atualizado": "2026-09-20T12:55:06+00:00",
           "history": [
             [
               "2026-09-20",
@@ -444,46 +470,6 @@
             [
               "2026-09-20",
               388
-            ]
-          ]
-        },
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T12:55:06+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "15840643",
-      "name": "Termoacumulador ariston fleck nilo 75l",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-ariston-fleck-nilo-75l-15840643.html",
-      "dimensao": "75L",
-      "marca": "FLECK",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 458,
-      "prices": [
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 458,
-          "preco_desconto": 0.0,
-          "preco_final": 458,
-          "atualizado": "2026-09-20T07:35:12+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              458
             ]
           ]
         }

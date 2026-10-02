@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T00:06:48+00:00",
+  "generated": "2026-10-02T09:15:49+00:00",
   "products": [
     {
       "id": "82143647",
@@ -94,32 +94,6 @@
       ]
     },
     {
-      "id": "86584984",
-      "name": "Ar condicionado fixo (3X1) Aire+ TD-WIFI R32 9000+9000+12000 BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-aire-td-wifi-r32-9000-9000-12000-btu-86584984.html",
-      "dimensao": "12000 BTU",
-      "marca": "AIRE +",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 999,
-      "prices": [
-        {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 1199,
-          "preco_desconto": 200,
-          "preco_final": 999,
-          "atualizado": "2026-09-22T20:30:46+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              999
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "92041665",
       "name": "Ar condicionado ARISTON ALYS MULTI-SPLIT 9000+12000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html",
@@ -129,20 +103,6 @@
       "m2_caixa": null,
       "preco_final": 1008,
       "prices": [
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1249,
-          "preco_desconto": 241,
-          "preco_final": 1008,
-          "atualizado": "2026-09-22T20:20:16+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              1008
-            ]
-          ]
-        },
         {
           "store": "Caldas da Rainha (Leiria)",
           "region": "Leiria",
@@ -181,6 +141,20 @@
           "history": [
             [
               "2026-09-23",
+              1008
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1249,
+          "preco_desconto": 241,
+          "preco_final": 1008,
+          "atualizado": "2026-10-02T08:59:54+00:00",
+          "history": [
+            [
+              "2026-10-02",
               1008
             ]
           ]
@@ -224,6 +198,20 @@
       "preco_final": 1328,
       "prices": [
         {
+          "store": "Almada (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 1649,
+          "preco_desconto": 321,
+          "preco_final": 1328,
+          "atualizado": "2026-09-22T23:51:13+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              1328
+            ]
+          ]
+        },
+        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 1649,
@@ -250,20 +238,6 @@
               1328
             ]
           ]
-        },
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 1649,
-          "preco_desconto": 321,
-          "preco_final": 1328,
-          "atualizado": "2026-09-22T23:51:13+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              1328
-            ]
-          ]
         }
       ]
     },
@@ -278,20 +252,6 @@
       "preco_final": 1368,
       "prices": [
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1699,
-          "preco_desconto": 331,
-          "preco_final": 1368,
-          "atualizado": "2026-09-22T22:16:13+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              1368
-            ]
-          ]
-        },
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1699,
@@ -301,6 +261,20 @@
           "history": [
             [
               "2026-09-23",
+              1368
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1699,
+          "preco_desconto": 331,
+          "preco_final": 1368,
+          "atualizado": "2026-09-22T22:16:13+00:00",
+          "history": [
+            [
+              "2026-09-22",
               1368
             ]
           ]
@@ -327,6 +301,32 @@
           "history": [
             [
               "2026-09-22",
+              1628
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83791816",
+      "name": "Ar condicionado fixo (3x1) HAIER FLEXIS 9000BTU + 9000BTU + 12000BTU WIFI PRETO",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html",
+      "dimensao": "9000 BTU",
+      "marca": "HAIER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 1628,
+      "prices": [
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 2029,
+          "preco_desconto": 401,
+          "preco_final": 1628,
+          "atualizado": "2026-10-02T08:59:54+00:00",
+          "history": [
+            [
+              "2026-10-02",
               1628
             ]
           ]
