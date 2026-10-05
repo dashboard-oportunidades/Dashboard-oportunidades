@@ -20,10 +20,10 @@
     "Colombo (Lisboa)": "2026-10-05T08:36:19+00:00",
     "Covilha (Castelo Branco)": "2026-10-05T08:38:46+00:00",
     "Evora (Evora)": "2026-10-05T08:40:52+00:00",
-    "Figueira da Foz (Coimbra)": "2026-09-22T21:39:40+00:00",
-    "Gaia (Porto)": "2026-09-22T21:44:49+00:00",
-    "Gondomar (Porto)": "2026-09-22T21:49:58+00:00",
-    "Guarda (Guarda)": "2026-09-22T21:55:12+00:00",
+    "Figueira da Foz (Coimbra)": "2026-10-05T08:44:43+00:00",
+    "Gaia (Porto)": "2026-10-05T08:51:17+00:00",
+    "Gondomar (Porto)": "2026-10-05T08:53:14+00:00",
+    "Guarda (Guarda)": "2026-10-05T08:57:02+00:00",
     "Guimaraes (Braga)": "2026-09-22T22:00:43+00:00",
     "Leiria (Leiria)": "2026-09-22T22:05:49+00:00",
     "Loule (Faro)": "2026-09-22T22:11:02+00:00",
@@ -132,11 +132,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-haier-flexis-9000btu-9000btu-12000btu-wifi-preto-83791816.html"
     },
     "84622733@Gaia (Porto)": {
-      "atualizado": "2026-09-22T21:44:49+00:00",
+      "atualizado": "2026-10-05T08:51:17+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           1208
         ]
       ],
@@ -363,11 +363,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-9000-9000-btu-haier-perla-premium-90402657.html"
     },
     "90402658@Figueira da Foz (Coimbra)": {
-      "atualizado": "2026-09-22T21:39:40+00:00",
+      "atualizado": "2026-10-05T08:44:43+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           848
         ]
       ],
@@ -381,6 +381,27 @@
       "region": "Coimbra",
       "retificado": false,
       "store": "Figueira da Foz (Coimbra)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-4kw-9000-12000-btu-perla-premium-haier-90402658.html"
+    },
+    "90402658@Gondomar (Porto)": {
+      "atualizado": "2026-10-05T08:53:14+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-10-05",
+          848
+        ]
+      ],
+      "id": "90402658",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (2X1) 4Kw 9000 + 12000 Btu Perla premium Haier",
+      "preco_desconto": 201,
+      "preco_final": 848,
+      "preco_normal": 1049,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Gondomar (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-4kw-9000-12000-btu-perla-premium-haier-90402658.html"
     },
     "92041665@Amadora (Lisboa)": {

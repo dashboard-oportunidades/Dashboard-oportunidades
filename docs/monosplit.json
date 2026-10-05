@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T08:41:06+00:00",
+  "generated": "2026-10-05T08:57:19+00:00",
   "products": [
     {
       "id": "89876291",
@@ -260,20 +260,6 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 399,
-          "preco_desconto": 40,
-          "preco_final": 359,
-          "atualizado": "2026-09-22T21:53:56+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              359
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 399,
@@ -297,6 +283,20 @@
           "history": [
             [
               "2026-09-22",
+              359
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 399,
+          "preco_desconto": 40,
+          "preco_final": 359,
+          "atualizado": "2026-10-05T08:56:47+00:00",
+          "history": [
+            [
+              "2026-10-05",
               359
             ]
           ]
@@ -436,20 +436,6 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-09-22T21:48:44+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              378
-            ]
-          ]
-        },
-        {
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 459,
@@ -543,6 +529,20 @@
           "history": [
             [
               "2026-09-23",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-10-05T08:52:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
               378
             ]
           ]
@@ -716,6 +716,20 @@
       "preco_final": 418,
       "prices": [
         {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 509,
+          "preco_desconto": 91,
+          "preco_final": 418,
+          "atualizado": "2026-10-05T08:36:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              418
+            ]
+          ]
+        },
+        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 509,
@@ -739,20 +753,6 @@
           "history": [
             [
               "2026-09-23",
-              418
-            ]
-          ]
-        },
-        {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 509,
-          "preco_desconto": 91,
-          "preco_final": 418,
-          "atualizado": "2026-10-05T08:36:05+00:00",
-          "history": [
-            [
-              "2026-10-05",
               418
             ]
           ]
@@ -1004,15 +1004,29 @@
           ]
         },
         {
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 599,
+          "preco_desconto": 111,
+          "preco_final": 488,
+          "atualizado": "2026-10-05T08:36:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              488
+            ]
+          ]
+        },
+        {
           "store": "Figueira da Foz (Coimbra)",
           "region": "Coimbra",
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-22T21:38:28+00:00",
+          "atualizado": "2026-10-05T08:44:31+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               488
             ]
           ]
@@ -1023,24 +1037,10 @@
           "preco_normal": 538,
           "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-09-22T21:43:37+00:00",
+          "atualizado": "2026-10-05T08:50:04+00:00",
           "history": [
             [
-              "2026-09-22",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 538,
-          "preco_desconto": 50,
-          "preco_final": 488,
-          "atualizado": "2026-09-22T21:53:56+00:00",
-          "history": [
-            [
-              "2026-09-22",
+              "2026-10-05",
               488
             ]
           ]
@@ -1172,12 +1172,12 @@
           ]
         },
         {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 599,
-          "preco_desconto": 111,
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 538,
+          "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-10-05T08:36:05+00:00",
+          "atualizado": "2026-10-05T08:56:47+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1236,130 +1236,6 @@
             [
               "2026-09-22",
               488
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "83791801",
-      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html",
-      "dimensao": "9000 BTU",
-      "marca": "HAIER",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 498,
-      "prices": [
-        {
-          "store": "Figueira da Foz (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 628,
-          "preco_desconto": 130,
-          "preco_final": 498,
-          "atualizado": "2026-09-22T21:38:28+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              498
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-10-05T08:20:36+00:00",
-          "history": [
-            [
-              "2026-10-05",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-10-05T08:33:56+00:00",
-          "history": [
-            [
-              "2026-10-05",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-22T21:48:44+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-22T21:53:56+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 769,
-          "preco_desconto": 141,
-          "preco_final": 628,
-          "atualizado": "2026-09-22T22:41:22+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-22T22:51:42+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-22T23:23:35+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              628
             ]
           ]
         }
@@ -1444,6 +1320,20 @@
           ]
         },
         {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 649,
+          "preco_desconto": 121,
+          "preco_final": 528,
+          "atualizado": "2026-10-05T08:40:37+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              528
+            ]
+          ]
+        },
+        {
           "store": "Sacavem (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 649,
@@ -1467,20 +1357,6 @@
           "history": [
             [
               "2026-09-23",
-              528
-            ]
-          ]
-        },
-        {
-          "store": "Evora (Evora)",
-          "region": "Evora",
-          "preco_normal": 649,
-          "preco_desconto": 121,
-          "preco_final": 528,
-          "atualizado": "2026-10-05T08:40:37+00:00",
-          "history": [
-            [
-              "2026-10-05",
               528
             ]
           ]
@@ -1642,6 +1518,116 @@
             [
               "2026-09-23",
               618
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83791801",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html",
+      "dimensao": "9000 BTU",
+      "marca": "HAIER",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 628,
+      "prices": [
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-10-05T08:20:36+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-10-05T08:33:56+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 769,
+          "preco_desconto": 141,
+          "preco_final": 628,
+          "atualizado": "2026-09-22T22:41:22+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-09-22T22:51:42+00:00",
+          "history": [
+            [
+              "2026-09-22",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-09-22T23:23:35+00:00",
+          "history": [
+            [
+              "2026-09-23",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-10-05T08:52:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              628
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 628,
+          "preco_desconto": 0.0,
+          "preco_final": 628,
+          "atualizado": "2026-10-05T08:56:47+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              628
             ]
           ]
         }
@@ -2190,20 +2176,6 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
-          "preco_normal": 938,
-          "preco_desconto": 0.0,
-          "preco_final": 938,
-          "atualizado": "2026-09-22T21:48:44+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              938
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1159,
@@ -2213,6 +2185,20 @@
           "history": [
             [
               "2026-09-22",
+              938
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 938,
+          "preco_desconto": 0.0,
+          "preco_final": 938,
+          "atualizado": "2026-10-05T08:52:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
               938
             ]
           ]

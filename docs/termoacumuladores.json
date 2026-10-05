@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T08:41:06+00:00",
+  "generated": "2026-10-05T08:57:19+00:00",
   "products": [
     {
       "id": "82005354",
@@ -123,10 +123,10 @@
           "preco_normal": 158,
           "preco_desconto": 0.0,
           "preco_final": 158,
-          "atualizado": "2026-09-20T09:48:51+00:00",
+          "atualizado": "2026-10-05T08:57:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               158
             ]
           ]
@@ -201,10 +201,10 @@
           "preco_normal": 259,
           "preco_desconto": 69.95,
           "preco_final": 189.05,
-          "atualizado": "2026-09-20T09:48:51+00:00",
+          "atualizado": "2026-10-05T08:57:18+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               189.05
             ]
           ]
@@ -420,20 +420,6 @@
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 469,
-          "preco_desconto": 81,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T10:19:28+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Colombo (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 469,
@@ -443,6 +429,20 @@
           "history": [
             [
               "2026-10-05",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 469,
+          "preco_desconto": 81,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T10:19:28+00:00",
+          "history": [
+            [
+              "2026-09-20",
               388
             ]
           ]
