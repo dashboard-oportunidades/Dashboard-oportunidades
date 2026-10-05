@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:28:06+00:00",
+  "generated": "2026-10-05T09:34:37+00:00",
   "products": [
     {
       "id": "82005354",
@@ -57,10 +57,10 @@
           "preco_normal": 169,
           "preco_desconto": 20,
           "preco_final": 149,
-          "atualizado": "2026-09-20T11:13:30+00:00",
+          "atualizado": "2026-10-05T09:34:37+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               149
             ]
           ]
@@ -83,10 +83,10 @@
           "preco_normal": 191,
           "preco_desconto": 42,
           "preco_final": 149,
-          "atualizado": "2026-09-20T11:13:30+00:00",
+          "atualizado": "2026-10-05T09:34:37+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               149
             ]
           ]
@@ -290,6 +290,32 @@
       ]
     },
     {
+      "id": "90153793",
+      "name": "Termoacumulador elétrico 100L wi-fi Ariston Lydos G+",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-100l-wi-fi-ariston-lydos-g-90153793.html",
+      "dimensao": "100L",
+      "marca": "ARISTON",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 229,
+      "prices": [
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 260,
+          "preco_desconto": 31,
+          "preco_final": 229,
+          "atualizado": "2026-10-05T09:34:37+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              229
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "95933346",
       "name": "Termo Vertical HTW SMART LITE função smart e ânodo eletronico 100L",
       "url": "https://www.leroymerlin.pt/produtos/termo-vertical-htw-smart-lite-funcao-smart-e-anodo-eletronico-100l-95933346.html",
@@ -363,6 +389,20 @@
           "history": [
             [
               "2026-09-20",
+              368
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 368,
+          "preco_desconto": 0.0,
+          "preco_final": 368,
+          "atualizado": "2026-10-05T09:34:37+00:00",
+          "history": [
+            [
+              "2026-10-05",
               368
             ]
           ]

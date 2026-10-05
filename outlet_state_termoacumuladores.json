@@ -36,8 +36,8 @@
     "Penafiel (Porto)": "2026-10-05T09:23:27+00:00",
     "Portimao (Faro)": "2026-10-05T09:25:26+00:00",
     "Sacavem (Lisboa)": "2026-10-05T09:28:05+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-09-20T11:05:38+00:00",
-    "Santarem (Santarem)": "2026-09-20T11:13:30+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-10-05T09:29:50+00:00",
+    "Santarem (Santarem)": "2026-10-05T09:34:37+00:00",
     "Setubal (Setubal)": "2026-09-20T11:21:16+00:00",
     "Sintra (Lisboa)": "2026-09-20T11:29:26+00:00",
     "Telheiras (Lisboa)": "2026-09-20T11:37:06+00:00",
@@ -69,11 +69,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-lite-80-litros-75347816.html"
     },
     "75347816@Santarem (Santarem)": {
-      "atualizado": "2026-09-20T11:13:30+00:00",
+      "atualizado": "2026-10-05T09:34:37+00:00",
       "dimensao": "80L",
       "history": [
         [
-          "2026-09-20",
+          "2026-10-05",
           149
         ]
       ],
@@ -129,6 +129,27 @@
       "region": "Setubal",
       "retificado": false,
       "store": "Montijo (Setubal)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
+    },
+    "81940803@Santarem (Santarem)": {
+      "atualizado": "2026-10-05T09:34:37+00:00",
+      "dimensao": "60L",
+      "history": [
+        [
+          "2026-10-05",
+          368
+        ]
+      ],
+      "id": "81940803",
+      "m2_caixa": null,
+      "marca": null,
+      "name": "Termoacumulador indimante inox tel1500w v/h 60l",
+      "preco_desconto": 0.0,
+      "preco_final": 368,
+      "preco_normal": 368,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
     "81940803@Torres Vedras (Lisboa)": {
@@ -384,11 +405,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-50l-84801327.html"
     },
     "89618137@Santarem (Santarem)": {
-      "atualizado": "2026-09-20T11:13:30+00:00",
+      "atualizado": "2026-10-05T09:34:37+00:00",
       "dimensao": "50L",
       "history": [
         [
-          "2026-09-20",
+          "2026-10-05",
           149
         ]
       ],
@@ -424,6 +445,27 @@
       "retificado": false,
       "store": "Barreiro (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html"
+    },
+    "90153793@Santarem (Santarem)": {
+      "atualizado": "2026-10-05T09:34:37+00:00",
+      "dimensao": "100L",
+      "history": [
+        [
+          "2026-10-05",
+          229
+        ]
+      ],
+      "id": "90153793",
+      "m2_caixa": null,
+      "marca": "ARISTON",
+      "name": "Termoacumulador elétrico 100L wi-fi Ariston Lydos G+",
+      "preco_desconto": 31,
+      "preco_final": 229,
+      "preco_normal": 260,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-100l-wi-fi-ariston-lydos-g-90153793.html"
     },
     "95933346@Braganca (Braganca)": {
       "atualizado": "2026-10-05T00:01:09+00:00",
