@@ -2,7 +2,7 @@
   "lojas": {
     "Albufeira (Faro)": "2026-10-05T10:04:12+00:00",
     "Alfragide (Lisboa)": "2026-09-20T12:55:06+00:00",
-    "Almada (Setubal)": "2026-09-20T12:39:43+00:00",
+    "Almada (Setubal)": "2026-10-05T10:21:48+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-20T13:02:41+00:00",
     "Alverca (Lisboa)": "2026-10-02T08:54:18+00:00",
     "Amadora (Lisboa)": "2026-10-02T09:01:07+00:00",
@@ -88,27 +88,6 @@
       "retificado": false,
       "store": "Santarem (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-lite-80-litros-75347816.html"
-    },
-    "81940803@Almada (Setubal)": {
-      "atualizado": "2026-09-20T12:39:43+00:00",
-      "dimensao": "60L",
-      "history": [
-        [
-          "2026-09-20",
-          368
-        ]
-      ],
-      "id": "81940803",
-      "m2_caixa": null,
-      "marca": null,
-      "name": "Termoacumulador indimante inox tel1500w v/h 60l",
-      "preco_desconto": 81,
-      "preco_final": 368,
-      "preco_normal": 449,
-      "region": "Setubal",
-      "retificado": false,
-      "store": "Almada (Setubal)",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-indimante-inox-tel1500w-v-h-60l-81940803.html"
     },
     "81940803@Montijo (Setubal)": {
       "atualizado": "2026-10-05T09:15:59+00:00",
