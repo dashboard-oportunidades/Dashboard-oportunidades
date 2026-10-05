@@ -32,8 +32,8 @@
     "Maia (Porto)": "2026-09-20T12:31:54+00:00",
     "Matosinhos (Porto)": "2026-09-20T12:23:48+00:00",
     "Montijo (Setubal)": "2026-10-05T09:15:59+00:00",
-    "Oeiras (Lisboa)": "2026-09-20T10:34:10+00:00",
-    "Penafiel (Porto)": "2026-09-20T10:41:58+00:00",
+    "Oeiras (Lisboa)": "2026-10-05T09:21:47+00:00",
+    "Penafiel (Porto)": "2026-10-05T09:23:27+00:00",
     "Portimao (Faro)": "2026-09-20T10:49:41+00:00",
     "Sacavem (Lisboa)": "2026-09-20T10:57:57+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-09-20T11:05:38+00:00",
@@ -298,6 +298,27 @@
       "retificado": false,
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-100l-82005354.html"
+    },
+    "82216990@Penafiel (Porto)": {
+      "atualizado": "2026-10-05T09:23:27+00:00",
+      "dimensao": "80L",
+      "history": [
+        [
+          "2026-10-05",
+          189
+        ]
+      ],
+      "id": "82216990",
+      "m2_caixa": null,
+      "marca": "EDESA",
+      "name": "Termoacumulador elétrico 80L 2000W Edesa",
+      "preco_desconto": 0.0,
+      "preco_final": 189,
+      "preco_normal": 189,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Penafiel (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-80l-2000w-edesa-82216990.html"
     },
     "82246625@Chaves (Vila Real)": {
       "atualizado": "2026-10-05T08:32:45+00:00",

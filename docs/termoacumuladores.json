@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:15:59+00:00",
+  "generated": "2026-10-05T09:23:28+00:00",
   "products": [
     {
       "id": "82005354",
@@ -186,6 +186,32 @@
       ]
     },
     {
+      "id": "82216990",
+      "name": "Termoacumulador elétrico 80L 2000W Edesa",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-80l-2000w-edesa-82216990.html",
+      "dimensao": "80L",
+      "marca": "EDESA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 189,
+      "prices": [
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 189,
+          "preco_desconto": 0.0,
+          "preco_final": 189,
+          "atualizado": "2026-10-05T09:23:27+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              189
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "84434192",
       "name": "Termoacumulador HTW SMART PLUS WIFI 80L",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-plus-wifi-80l-84434192.html",
@@ -212,32 +238,6 @@
       ]
     },
     {
-      "id": "89834463",
-      "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
-      "dimensao": "100L",
-      "marca": "BOSCH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 228,
-      "prices": [
-        {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 270,
-          "preco_desconto": 42,
-          "preco_final": 228,
-          "atualizado": "2026-10-02T09:24:05+00:00",
-          "history": [
-            [
-              "2026-10-02",
-              228
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "81988416",
       "name": "Termoacumulador inteligente, Ariston, LYDOS ECO BLU 100L, Classe Energetica B",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html",
@@ -257,6 +257,32 @@
           "history": [
             [
               "2026-10-05",
+              228
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89834463",
+      "name": "Termoacumulador BOSCH tronic tr 4000t 100l",
+      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html",
+      "dimensao": "100L",
+      "marca": "BOSCH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 228,
+      "prices": [
+        {
+          "store": "Barreiro (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 270,
+          "preco_desconto": 42,
+          "preco_final": 228,
+          "atualizado": "2026-10-02T09:24:05+00:00",
+          "history": [
+            [
+              "2026-10-02",
               228
             ]
           ]
