@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:01:02+00:00",
+  "generated": "2026-10-05T09:15:59+00:00",
   "products": [
     {
       "id": "19318593",
@@ -728,15 +728,29 @@
           ]
         },
         {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-10-05T09:00:16+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              358
+            ]
+          ]
+        },
+        {
           "store": "Loule (Faro)",
           "region": "Faro",
           "preco_normal": 436,
           "preco_desconto": 78,
           "preco_final": 358,
-          "atualizado": "2026-09-22T22:08:33+00:00",
+          "atualizado": "2026-10-05T09:05:05+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               358
             ]
           ]
@@ -765,20 +779,6 @@
           "history": [
             [
               "2026-09-23",
-              358
-            ]
-          ]
-        },
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-10-05T09:00:16+00:00",
-          "history": [
-            [
-              "2026-10-05",
               358
             ]
           ]
@@ -904,6 +904,32 @@
       ]
     },
     {
+      "id": "87274339",
+      "name": "Porta de duche 2 folhas 150x200 cm preto transparente Roca Apolo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-150x200-cm-preto-transparente-roca-apolo-87274339.html",
+      "dimensao": "150x200",
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 398,
+      "prices": [
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 486,
+          "preco_desconto": 88,
+          "preco_final": 398,
+          "atualizado": "2026-10-05T09:15:12+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              398
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "82242437",
       "name": "Porta de duche + 2 portas transparente cromado 140x200 cm Sensea Neo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-140x200-cm-sensea-neo-82242437.html",
@@ -956,20 +982,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 509,
-          "preco_desconto": 91,
-          "preco_final": 418,
-          "atualizado": "2026-09-22T23:38:03+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              418
-            ]
-          ]
-        },
-        {
           "store": "Leiria (Leiria)",
           "region": "Leiria",
           "preco_normal": 418,
@@ -979,6 +991,20 @@
           "history": [
             [
               "2026-10-05",
+              418
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 509,
+          "preco_desconto": 91,
+          "preco_final": 418,
+          "atualizado": "2026-09-22T23:38:03+00:00",
+          "history": [
+            [
+              "2026-09-23",
               418
             ]
           ]
@@ -1001,10 +1027,10 @@
           "preco_normal": 509,
           "preco_desconto": 91,
           "preco_final": 418,
-          "atualizado": "2026-09-22T22:08:33+00:00",
+          "atualizado": "2026-10-05T09:05:05+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               418
             ]
           ]
@@ -1358,29 +1384,43 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-09-22T22:08:33+00:00",
+          "atualizado": "2026-10-05T08:58:29+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               419.4
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-09-22T22:13:42+00:00",
+          "atualizado": "2026-10-05T09:00:16+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-10-05T09:05:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
               419.4
             ]
           ]
@@ -1423,20 +1463,6 @@
           "history": [
             [
               "2026-09-23",
-              419.4
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 699,
-          "preco_desconto": 279.6,
-          "preco_final": 419.4,
-          "atualizado": "2026-09-22T22:19:16+00:00",
-          "history": [
-            [
-              "2026-09-22",
               419.4
             ]
           ]
@@ -1624,12 +1650,12 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-10-05T08:58:29+00:00",
+          "atualizado": "2026-10-05T09:12:35+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1638,42 +1664,16 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-10-05T09:00:16+00:00",
+          "atualizado": "2026-10-05T09:15:12+00:00",
           "history": [
             [
               "2026-10-05",
               419.4
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82391559",
-      "name": "Portas de duche VICTORIA 160X195",
-      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-victoria-160x195-82391559.html",
-      "dimensao": "160x195",
-      "marca": "ROCA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 428,
-      "prices": [
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 529,
-          "preco_desconto": 101,
-          "preco_final": 428,
-          "atualizado": "2026-09-22T23:59:08+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              428
             ]
           ]
         }
@@ -1699,6 +1699,32 @@
           "history": [
             [
               "2026-10-05",
+              428
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82391559",
+      "name": "Portas de duche VICTORIA 160X195",
+      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-victoria-160x195-82391559.html",
+      "dimensao": "160x195",
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 428,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 529,
+          "preco_desconto": 101,
+          "preco_final": 428,
+          "atualizado": "2026-09-22T23:59:08+00:00",
+          "history": [
+            [
+              "2026-09-23",
               428
             ]
           ]
@@ -2182,29 +2208,43 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-09-22T22:08:33+00:00",
+          "atualizado": "2026-10-05T08:58:29+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               564.4
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-09-22T22:13:42+00:00",
+          "atualizado": "2026-10-05T09:00:16+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-10-05T09:05:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
               564.4
             ]
           ]
@@ -2247,20 +2287,6 @@
           "history": [
             [
               "2026-09-23",
-              564.4
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 664,
-          "preco_desconto": 99.6,
-          "preco_final": 564.4,
-          "atualizado": "2026-09-22T22:19:16+00:00",
-          "history": [
-            [
-              "2026-09-22",
               564.4
             ]
           ]
@@ -2448,12 +2474,12 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-10-05T08:58:29+00:00",
+          "atualizado": "2026-10-05T09:12:35+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2462,12 +2488,12 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-10-05T09:00:16+00:00",
+          "atualizado": "2026-10-05T09:15:12+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2570,34 +2596,6 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T22:08:33+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              638.1
-            ]
-          ]
-        },
-        {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T22:13:42+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              638.1
-            ]
-          ]
-        },
-        {
           "store": "Mafra (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 709,
@@ -2635,20 +2633,6 @@
           "history": [
             [
               "2026-09-23",
-              638.1
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T22:19:16+00:00",
-          "history": [
-            [
-              "2026-09-22",
               638.1
             ]
           ]

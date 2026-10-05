@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:01:02+00:00",
+  "generated": "2026-10-05T09:15:59+00:00",
   "products": [
     {
       "id": "17364851",
@@ -402,29 +402,43 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T10:06:52+00:00",
+          "atualizado": "2026-10-05T08:58:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               104.3
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T10:14:28+00:00",
+          "atualizado": "2026-10-05T09:00:05+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-05T09:03:49+00:00",
+          "history": [
+            [
+              "2026-10-05",
               104.3
             ]
           ]
@@ -464,20 +478,6 @@
           "preco_desconto": 44.7,
           "preco_final": 104.3,
           "atualizado": "2026-09-20T12:18:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T10:22:27+00:00",
           "history": [
             [
               "2026-09-20",
@@ -668,12 +668,12 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-05T08:58:13+00:00",
+          "atualizado": "2026-10-05T09:12:22+00:00",
           "history": [
             [
               "2026-10-05",
@@ -682,12 +682,12 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-05T09:00:05+00:00",
+          "atualizado": "2026-10-05T09:14:56+00:00",
           "history": [
             [
               "2026-10-05",
@@ -882,20 +882,6 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 179,
-          "preco_desconto": 31,
-          "preco_final": 148,
-          "atualizado": "2026-09-20T11:47:29+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              148
-            ]
-          ]
-        },
-        {
           "store": "Guimaraes (Braga)",
           "region": "Braga",
           "preco_normal": 179,
@@ -905,6 +891,20 @@
           "history": [
             [
               "2026-10-05",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 179,
+          "preco_desconto": 31,
+          "preco_final": 148,
+          "atualizado": "2026-09-20T11:47:29+00:00",
+          "history": [
+            [
+              "2026-09-20",
               148
             ]
           ]
@@ -1284,29 +1284,29 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-09-20T10:06:52+00:00",
+          "atualizado": "2026-10-05T08:58:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               153.3
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Loule (Faro)",
+          "region": "Faro",
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-09-20T10:14:28+00:00",
+          "atualizado": "2026-10-05T09:03:49+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               153.3
             ]
           ]
@@ -1346,20 +1346,6 @@
           "preco_desconto": 65.7,
           "preco_final": 153.3,
           "atualizado": "2026-09-20T12:18:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              153.3
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-09-20T10:22:27+00:00",
           "history": [
             [
               "2026-09-20",
@@ -1550,42 +1536,30 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-10-05T08:58:13+00:00",
+          "atualizado": "2026-10-05T09:12:22+00:00",
           "history": [
             [
               "2026-10-05",
               153.3
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "88103666",
-      "name": "Conjunto de duche STUDIO COM TORNEIRA TERMOSTÁTICA CROMADO",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-studio-com-torneira-termostatica-cromado-88103666.html",
-      "dimensao": null,
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 158,
-      "prices": [
+        },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 189,
-          "preco_desconto": 31,
-          "preco_final": 158,
-          "atualizado": "2026-09-20T12:27:00+00:00",
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-10-05T09:14:56+00:00",
           "history": [
             [
-              "2026-09-20",
-              158
+              "2026-10-05",
+              153.3
             ]
           ]
         }
@@ -1611,6 +1585,32 @@
           "history": [
             [
               "2026-10-05",
+              158
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88103666",
+      "name": "Conjunto de duche STUDIO COM TORNEIRA TERMOSTÁTICA CROMADO",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-studio-com-torneira-termostatica-cromado-88103666.html",
+      "dimensao": null,
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 158,
+      "prices": [
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 189,
+          "preco_desconto": 31,
+          "preco_final": 158,
+          "atualizado": "2026-09-20T12:27:00+00:00",
+          "history": [
+            [
+              "2026-09-20",
               158
             ]
           ]
@@ -1736,6 +1736,20 @@
           ]
         },
         {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 288,
+          "preco_desconto": 0.0,
+          "preco_final": 288,
+          "atualizado": "2026-10-05T09:00:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              288
+            ]
+          ]
+        },
+        {
           "store": "Portimao (Faro)",
           "region": "Faro",
           "preco_normal": 349,
@@ -1759,20 +1773,6 @@
           "history": [
             [
               "2026-09-20",
-              288
-            ]
-          ]
-        },
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 288,
-          "preco_desconto": 0.0,
-          "preco_final": 288,
-          "atualizado": "2026-10-05T09:00:05+00:00",
-          "history": [
-            [
-              "2026-10-05",
               288
             ]
           ]
@@ -1930,20 +1930,6 @@
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-20T10:14:28+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              248
-            ]
-          ]
-        },
-        {
           "store": "Viseu (Viseu)",
           "region": "Viseu",
           "preco_normal": 248,
@@ -1953,6 +1939,20 @@
           "history": [
             [
               "2026-09-20",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-10-05T09:12:22+00:00",
+          "history": [
+            [
+              "2026-10-05",
               248
             ]
           ]
@@ -2306,29 +2306,43 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T10:06:52+00:00",
+          "atualizado": "2026-10-05T08:58:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               209.3
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T10:14:28+00:00",
+          "atualizado": "2026-10-05T09:00:05+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-10-05T09:03:49+00:00",
+          "history": [
+            [
+              "2026-10-05",
               209.3
             ]
           ]
@@ -2368,20 +2382,6 @@
           "preco_desconto": 89.7,
           "preco_final": 209.3,
           "atualizado": "2026-09-20T12:18:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T10:22:27+00:00",
           "history": [
             [
               "2026-09-20",
@@ -2572,12 +2572,12 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-10-05T08:58:13+00:00",
+          "atualizado": "2026-10-05T09:12:22+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2586,12 +2586,12 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-10-05T09:00:05+00:00",
+          "atualizado": "2026-10-05T09:14:56+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2631,10 +2631,10 @@
           "preco_normal": 259,
           "preco_desconto": 41,
           "preco_final": 218,
-          "atualizado": "2026-09-20T10:06:52+00:00",
+          "atualizado": "2026-10-05T09:03:49+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               218
             ]
           ]
@@ -3110,29 +3110,43 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-09-20T10:06:52+00:00",
+          "atualizado": "2026-10-05T08:58:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               257.4
             ]
           ]
         },
         {
-          "store": "Loures (Lisboa)",
-          "region": "Lisboa",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-09-20T10:14:28+00:00",
+          "atualizado": "2026-10-05T09:00:05+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-10-05T09:03:49+00:00",
+          "history": [
+            [
+              "2026-10-05",
               257.4
             ]
           ]
@@ -3172,20 +3186,6 @@
           "preco_desconto": 171.6,
           "preco_final": 257.4,
           "atualizado": "2026-09-20T12:18:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              257.4
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-09-20T10:22:27+00:00",
           "history": [
             [
               "2026-09-20",
@@ -3376,12 +3376,12 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Loures (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-10-05T08:58:13+00:00",
+          "atualizado": "2026-10-05T09:12:22+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3390,12 +3390,12 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-10-05T09:00:05+00:00",
+          "atualizado": "2026-10-05T09:14:56+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3527,10 +3527,10 @@
           "preco_normal": 579,
           "preco_desconto": 111,
           "preco_final": 468,
-          "atualizado": "2026-09-20T10:14:28+00:00",
+          "atualizado": "2026-10-05T09:12:22+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               468
             ]
           ]
@@ -3660,6 +3660,20 @@
           ]
         },
         {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-10-05T09:00:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              408
+            ]
+          ]
+        },
+        {
           "store": "Maia (Porto)",
           "region": "Porto",
           "preco_normal": 408,
@@ -3697,20 +3711,6 @@
           "history": [
             [
               "2026-09-20",
-              408
-            ]
-          ]
-        },
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-10-05T09:00:05+00:00",
-          "history": [
-            [
-              "2026-10-05",
               408
             ]
           ]
@@ -4004,40 +4004,12 @@
           ]
         },
         {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T10:06:52+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Maia (Porto)",
           "region": "Porto",
           "preco_normal": 479,
           "preco_desconto": 91,
           "preco_final": 388,
           "atualizado": "2026-09-20T12:27:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T10:22:27+00:00",
           "history": [
             [
               "2026-09-20",
@@ -4097,6 +4069,20 @@
           "history": [
             [
               "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-05T09:14:56+00:00",
+          "history": [
+            [
+              "2026-10-05",
               388
             ]
           ]
