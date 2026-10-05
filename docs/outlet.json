@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:54:51+00:00",
+  "generated": "2026-10-05T10:04:13+00:00",
   "products": [
     {
       "id": "81992803",
@@ -68,32 +68,6 @@
       ]
     },
     {
-      "id": "91835291",
-      "name": "Base de duche Resina 80x80 cm branco mate Sensea Easy V2",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-80x80-cm-branco-mate-sensea-easy-v2-91835291.html",
-      "dimensao": "80x80",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 87.98,
-      "prices": [
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 109,
-          "preco_desconto": 21.02,
-          "preco_final": 87.98,
-          "atualizado": "2026-09-29T22:01:26+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              87.98
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "94229244",
       "name": "Base de duche 80x80 cm branco mate Sensea Easy",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-80x80-cm-branco-mate-sensea-easy-94229244.html",
@@ -155,20 +129,6 @@
       "m2_caixa": null,
       "preco_final": 104.3,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-29T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              104.3
-            ]
-          ]
-        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -744,20 +704,6 @@
           ]
         },
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-29T22:01:26+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              104.3
-            ]
-          ]
-        },
-        {
           "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 149,
@@ -778,6 +724,34 @@
           "preco_desconto": 44.7,
           "preco_final": 104.3,
           "atualizado": "2026-10-05T09:53:35+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-05T09:56:24+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-05T10:03:05+00:00",
           "history": [
             [
               "2026-10-05",
@@ -899,20 +873,6 @@
           "history": [
             [
               "2026-10-02",
-              128
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 128,
-          "preco_desconto": 0.0,
-          "preco_final": 128,
-          "atualizado": "2026-09-29T22:01:26+00:00",
-          "history": [
-            [
-              "2026-09-29",
               128
             ]
           ]
@@ -1168,20 +1128,6 @@
               148
             ]
           ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-29T22:01:26+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              148
-            ]
-          ]
         }
       ]
     },
@@ -1386,20 +1332,6 @@
       "preco_final": 167.2,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-29T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              167.2
-            ]
-          ]
-        },
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 209,
@@ -1974,20 +1906,6 @@
           ]
         },
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-29T22:01:26+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              167.2
-            ]
-          ]
-        },
-        {
           "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 209,
@@ -2008,6 +1926,34 @@
           "preco_desconto": 41.8,
           "preco_final": 167.2,
           "atualizado": "2026-10-05T09:53:35+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-10-05T09:56:24+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-10-05T10:03:05+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2028,20 +1974,6 @@
       "preco_final": 167.4,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-29T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              167.4
-            ]
-          ]
-        },
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 279,
@@ -2616,20 +2548,6 @@
           ]
         },
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-29T22:01:26+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              167.4
-            ]
-          ]
-        },
-        {
           "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 279,
@@ -2656,6 +2574,34 @@
               167.4
             ]
           ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-10-05T09:56:24+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              167.4
+            ]
+          ]
         }
       ]
     },
@@ -2669,20 +2615,6 @@
       "m2_caixa": null,
       "preco_final": 168,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-09-29T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              168
-            ]
-          ]
-        },
         {
           "store": "Braga (Braga)",
           "region": "Braga",
@@ -2721,6 +2653,20 @@
           "history": [
             [
               "2026-09-29",
+              168
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
               168
             ]
           ]
@@ -2789,20 +2735,6 @@
       "m2_caixa": null,
       "preco_final": 184.8,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-29T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              184.8
-            ]
-          ]
-        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -3378,20 +3310,6 @@
           ]
         },
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-29T22:01:26+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              184.8
-            ]
-          ]
-        },
-        {
           "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 264,
@@ -3412,6 +3330,34 @@
           "preco_desconto": 79.2,
           "preco_final": 184.8,
           "atualizado": "2026-10-05T09:53:35+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-10-05T09:56:24+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              184.8
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-10-05T10:03:05+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3616,20 +3562,6 @@
       "preco_final": 204,
       "prices": [
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 340,
-          "preco_desconto": 136,
-          "preco_final": 204,
-          "atualizado": "2026-09-29T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              204
-            ]
-          ]
-        },
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 340,
@@ -3790,20 +3722,6 @@
           "preco_desconto": 136,
           "preco_final": 204,
           "atualizado": "2026-09-29T22:04:25+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              204
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 340,
-          "preco_desconto": 136,
-          "preco_final": 204,
-          "atualizado": "2026-09-29T22:01:26+00:00",
           "history": [
             [
               "2026-09-29",
@@ -4256,6 +4174,34 @@
               213
             ]
           ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 355,
+          "preco_desconto": 142,
+          "preco_final": 213,
+          "atualizado": "2026-10-05T09:56:24+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              213
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 355,
+          "preco_desconto": 142,
+          "preco_final": 213,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              213
+            ]
+          ]
         }
       ]
     },
@@ -4295,20 +4241,6 @@
       "m2_caixa": null,
       "preco_final": 239.2,
       "prices": [
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-29T22:02:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              239.2
-            ]
-          ]
-        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -4884,20 +4816,6 @@
           ]
         },
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-29T22:01:26+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              239.2
-            ]
-          ]
-        },
-        {
           "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 299,
@@ -4918,6 +4836,34 @@
           "preco_desconto": 59.8,
           "preco_final": 239.2,
           "atualizado": "2026-10-05T09:53:35+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-10-05T09:56:24+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-10-05T10:03:05+00:00",
           "history": [
             [
               "2026-10-05",

@@ -1,6 +1,6 @@
 {
   "lojas": {
-    "Albufeira (Faro)": "2026-09-22T23:34:05+00:00",
+    "Albufeira (Faro)": "2026-10-05T10:03:45+00:00",
     "Alfragide (Lisboa)": "2026-09-23T00:00:21+00:00",
     "Almada (Setubal)": "2026-09-22T23:49:59+00:00",
     "Alta de Lisboa (Lisboa)": "2026-09-23T00:05:36+00:00",
@@ -44,7 +44,7 @@
     "Torres Novas (Santarem)": "2026-10-05T09:49:40+00:00",
     "Torres Vedras (Lisboa)": "2026-10-05T09:51:36+00:00",
     "Viana do Castelo (Viana do Castelo)": "2026-10-05T09:54:19+00:00",
-    "Viseu (Viseu)": "2026-09-22T23:28:45+00:00"
+    "Viseu (Viseu)": "2026-10-05T10:00:10+00:00"
   },
   "products": {
     "72845777@Braga (Braga)": {
@@ -719,27 +719,6 @@
       "store": "Torres Vedras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
-    "82558714@Viseu (Viseu)": {
-      "atualizado": "2026-09-22T23:28:45+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-09-23",
-          488
-        ]
-      ],
-      "id": "82558714",
-      "m2_caixa": null,
-      "marca": "MITSUBISHI HEAVY INDUSTRIES",
-      "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
-      "preco_desconto": 111,
-      "preco_final": 488,
-      "preco_normal": 599,
-      "region": "Viseu",
-      "retificado": false,
-      "store": "Viseu (Viseu)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
-    },
     "82558726@Alta de Lisboa (Lisboa)": {
       "atualizado": "2026-09-23T00:05:36+00:00",
       "dimensao": "12000 BTU",
@@ -1159,6 +1138,27 @@
       "retificado": false,
       "store": "Alfragide (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-tide-12000btu-wifi-branco-83791822.html"
+    },
+    "84567638@Albufeira (Faro)": {
+      "atualizado": "2026-10-05T10:03:45+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-10-05",
+          468
+        ]
+      ],
+      "id": "84567638",
+      "m2_caixa": null,
+      "marca": "BOSCH",
+      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
+      "preco_desconto": 0.0,
+      "preco_final": 468,
+      "preco_normal": 468,
+      "region": "Faro",
+      "retificado": false,
+      "store": "Albufeira (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
     },
     "84567638@Alfragide (Lisboa)": {
       "atualizado": "2026-09-23T00:00:21+00:00",
