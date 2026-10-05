@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:34:37+00:00",
+  "generated": "2026-10-05T09:44:03+00:00",
   "products": [
     {
       "id": "82005354",
@@ -380,20 +380,6 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 368,
-          "preco_desconto": 0.0,
-          "preco_final": 368,
-          "atualizado": "2026-09-20T11:52:21+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              368
-            ]
-          ]
-        },
-        {
           "store": "Santarem (Santarem)",
           "region": "Santarem",
           "preco_normal": 368,
@@ -403,6 +389,20 @@
           "history": [
             [
               "2026-10-05",
+              368
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 368,
+          "preco_desconto": 0.0,
+          "preco_final": 368,
+          "atualizado": "2026-09-20T11:52:21+00:00",
+          "history": [
+            [
+              "2026-09-20",
               368
             ]
           ]

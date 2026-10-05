@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:34:37+00:00",
+  "generated": "2026-10-05T09:44:03+00:00",
   "products": [
     {
       "id": "82143647",
@@ -151,10 +151,10 @@
           "preco_normal": 1008,
           "preco_desconto": 0.0,
           "preco_final": 1008,
-          "atualizado": "2026-09-22T23:03:47+00:00",
+          "atualizado": "2026-10-05T09:43:48+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               1008
             ]
           ]
@@ -351,37 +351,11 @@
           "preco_normal": 2248,
           "preco_desconto": 0.0,
           "preco_final": 2248,
-          "atualizado": "2026-09-22T22:58:15+00:00",
+          "atualizado": "2026-10-05T09:41:07+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               2248
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "88293343",
-      "name": "Ar condicionado fixo (3x1) SAMSUNG COMFORT AJ080 9000 + 9000 + 12000BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-samsung-comfort-aj080-9000-9000-12000btu-88293343.html",
-      "dimensao": "12000 BTU",
-      "marca": "SAMSUNG",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 2608,
-      "prices": [
-        {
-          "store": "Sintra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 2608,
-          "preco_desconto": 0.0,
-          "preco_final": 2608,
-          "atualizado": "2026-09-22T23:03:47+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              2608
             ]
           ]
         }
@@ -403,10 +377,10 @@
           "preco_normal": 3128,
           "preco_desconto": 0.0,
           "preco_final": 3128,
-          "atualizado": "2026-09-22T23:03:47+00:00",
+          "atualizado": "2026-10-05T09:43:48+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               3128
             ]
           ]
