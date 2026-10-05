@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T08:57:19+00:00",
+  "generated": "2026-10-05T09:01:02+00:00",
   "products": [
     {
       "id": "81992803",
@@ -464,29 +464,29 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-29T21:35:33+00:00",
+          "atualizado": "2026-10-05T08:52:15+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               104.3
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-29T21:37:02+00:00",
+          "atualizado": "2026-10-05T08:55:00+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               104.3
             ]
           ]
@@ -758,12 +758,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-05T08:52:15+00:00",
+          "atualizado": "2026-10-05T08:57:58+00:00",
           "history": [
             [
               "2026-10-05",
@@ -772,12 +772,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-05T08:55:00+00:00",
+          "atualizado": "2026-10-05T08:59:48+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1304,20 +1304,6 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-29T21:37:02+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Loule (Faro)",
           "region": "Faro",
           "preco_normal": 158,
@@ -1397,6 +1383,20 @@
           "history": [
             [
               "2026-09-29",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 192,
+          "preco_desconto": 34,
+          "preco_final": 158,
+          "atualizado": "2026-10-05T08:59:48+00:00",
+          "history": [
+            [
+              "2026-10-05",
               158
             ]
           ]
@@ -1722,29 +1722,29 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-29T21:35:33+00:00",
+          "atualizado": "2026-10-05T08:52:15+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               167.2
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-29T21:37:02+00:00",
+          "atualizado": "2026-10-05T08:55:00+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               167.2
             ]
           ]
@@ -2016,12 +2016,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-10-05T08:52:15+00:00",
+          "atualizado": "2026-10-05T08:57:58+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2030,12 +2030,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-10-05T08:55:00+00:00",
+          "atualizado": "2026-10-05T08:59:48+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2364,29 +2364,29 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-29T21:35:33+00:00",
+          "atualizado": "2026-10-05T08:52:15+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               167.4
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-29T21:37:02+00:00",
+          "atualizado": "2026-10-05T08:55:00+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               167.4
             ]
           ]
@@ -2658,12 +2658,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-10-05T08:52:15+00:00",
+          "atualizado": "2026-10-05T08:57:58+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2672,12 +2672,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-10-05T08:55:00+00:00",
+          "atualizado": "2026-10-05T08:59:48+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2726,20 +2726,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              168
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 199,
@@ -2749,6 +2735,20 @@
           "history": [
             [
               "2026-10-05",
+              168
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-09-29T22:05:55+00:00",
+          "history": [
+            [
+              "2026-09-29",
               168
             ]
           ]
@@ -3126,29 +3126,29 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-29T21:35:33+00:00",
+          "atualizado": "2026-10-05T08:52:15+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               184.8
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-29T21:37:02+00:00",
+          "atualizado": "2026-10-05T08:55:00+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               184.8
             ]
           ]
@@ -3420,12 +3420,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-10-05T08:52:15+00:00",
+          "atualizado": "2026-10-05T08:57:58+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3434,12 +3434,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-10-05T08:55:00+00:00",
+          "atualizado": "2026-10-05T08:59:48+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3779,34 +3779,6 @@
           "history": [
             [
               "2026-10-02",
-              204
-            ]
-          ]
-        },
-        {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
-          "preco_normal": 340,
-          "preco_desconto": 136,
-          "preco_final": 204,
-          "atualizado": "2026-09-29T21:35:33+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              204
-            ]
-          ]
-        },
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 340,
-          "preco_desconto": 136,
-          "preco_final": 204,
-          "atualizado": "2026-09-29T21:37:02+00:00",
-          "history": [
-            [
-              "2026-09-29",
               204
             ]
           ]
@@ -4284,6 +4256,34 @@
               213
             ]
           ]
+        },
+        {
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
+          "preco_normal": 355,
+          "preco_desconto": 142,
+          "preco_final": 213,
+          "atualizado": "2026-10-05T08:57:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              213
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 355,
+          "preco_desconto": 142,
+          "preco_final": 213,
+          "atualizado": "2026-10-05T08:59:48+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              213
+            ]
+          ]
         }
       ]
     },
@@ -4632,29 +4632,29 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-29T21:35:33+00:00",
+          "atualizado": "2026-10-05T08:52:15+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               239.2
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-29T21:37:02+00:00",
+          "atualizado": "2026-10-05T08:55:00+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               239.2
             ]
           ]
@@ -4926,12 +4926,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-10-05T08:52:15+00:00",
+          "atualizado": "2026-10-05T08:57:58+00:00",
           "history": [
             [
               "2026-10-05",
@@ -4940,12 +4940,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-10-05T08:55:00+00:00",
+          "atualizado": "2026-10-05T08:59:48+00:00",
           "history": [
             [
               "2026-10-05",

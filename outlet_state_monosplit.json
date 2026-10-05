@@ -24,8 +24,8 @@
     "Gaia (Porto)": "2026-10-05T08:50:04+00:00",
     "Gondomar (Porto)": "2026-10-05T08:52:58+00:00",
     "Guarda (Guarda)": "2026-10-05T08:56:47+00:00",
-    "Guimaraes (Braga)": "2026-09-22T21:59:28+00:00",
-    "Leiria (Leiria)": "2026-09-22T22:04:35+00:00",
+    "Guimaraes (Braga)": "2026-10-05T08:58:41+00:00",
+    "Leiria (Leiria)": "2026-10-05T09:00:30+00:00",
     "Loule (Faro)": "2026-09-22T22:09:47+00:00",
     "Loures (Lisboa)": "2026-09-22T22:15:00+00:00",
     "Mafra (Lisboa)": "2026-09-22T23:55:11+00:00",
@@ -87,27 +87,6 @@
       "region": "Guarda",
       "retificado": false,
       "store": "Guarda (Guarda)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-indesit-12-kbtu-72845777.html"
-    },
-    "72845777@Leiria (Leiria)": {
-      "atualizado": "2026-09-22T22:04:35+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-09-22",
-          359
-        ]
-      ],
-      "id": "72845777",
-      "m2_caixa": null,
-      "marca": "INDESIT",
-      "name": "Ar condicionado fixo (1X1) INDESIT 12 KBTU",
-      "preco_desconto": 40,
-      "preco_final": 359,
-      "preco_normal": 399,
-      "region": "Leiria",
-      "retificado": false,
-      "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-indesit-12-kbtu-72845777.html"
     },
     "72845777@Santarem (Santarem)": {
@@ -1329,11 +1308,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
     },
     "84567638@Guimaraes (Braga)": {
-      "atualizado": "2026-09-22T21:59:28+00:00",
+      "atualizado": "2026-10-05T08:58:41+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           468
         ]
       ],
@@ -1453,27 +1432,6 @@
       "retificado": false,
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-12000btu-r32-84567639.html"
-    },
-    "85193030@Leiria (Leiria)": {
-      "atualizado": "2026-09-22T22:04:35+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-09-22",
-          617
-        ]
-      ],
-      "id": "85193030",
-      "m2_caixa": null,
-      "marca": "HAIER",
-      "name": "Ar condicionado fixo (1X1) R32 9000 BTU Haier Expert",
-      "preco_desconto": 83,
-      "preco_final": 617,
-      "preco_normal": 700,
-      "region": "Leiria",
-      "retificado": false,
-      "store": "Leiria (Leiria)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-r32-9000-btu-haier-expert-85193030.html"
     },
     "85280679@Chaves (Vila Real)": {
       "atualizado": "2026-10-05T08:32:21+00:00",
@@ -1683,27 +1641,6 @@
       "region": "Coimbra",
       "retificado": false,
       "store": "Coimbra (Coimbra)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
-    },
-    "86733349@Leiria (Leiria)": {
-      "atualizado": "2026-09-22T22:04:35+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-09-22",
-          798
-        ]
-      ],
-      "id": "86733349",
-      "m2_caixa": null,
-      "marca": "HISENSE",
-      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
-      "preco_desconto": 501,
-      "preco_final": 798,
-      "preco_normal": 1299,
-      "region": "Leiria",
-      "retificado": false,
-      "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
     },
     "86733349@Loule (Faro)": {
@@ -1959,11 +1896,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
     },
     "86733350@Guimaraes (Braga)": {
-      "atualizado": "2026-09-22T21:59:28+00:00",
+      "atualizado": "2026-10-05T08:58:41+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           1168
         ]
       ],
@@ -1977,27 +1914,6 @@
       "region": "Braga",
       "retificado": false,
       "store": "Guimaraes (Braga)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
-    },
-    "86733350@Leiria (Leiria)": {
-      "atualizado": "2026-09-22T22:04:35+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-09-22",
-          898
-        ]
-      ],
-      "id": "86733350",
-      "m2_caixa": null,
-      "marca": "HISENSE",
-      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 12000 BTU IONIZADOR",
-      "preco_desconto": 551,
-      "preco_final": 898,
-      "preco_normal": 1449,
-      "region": "Leiria",
-      "retificado": false,
-      "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
     },
     "86733350@Loule (Faro)": {
@@ -2505,11 +2421,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-9000-btu-87421093.html"
     },
     "88040809@Guimaraes (Braga)": {
-      "atualizado": "2026-09-22T21:59:28+00:00",
+      "atualizado": "2026-10-05T08:58:41+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           488
         ]
       ],

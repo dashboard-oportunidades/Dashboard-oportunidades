@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T08:57:19+00:00",
+  "generated": "2026-10-05T09:01:02+00:00",
   "products": [
     {
       "id": "19318593",
@@ -22,32 +22,6 @@
             [
               "2026-09-23",
               128
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "19318313",
-      "name": "Lateral de duche 70 cm Sensea Quad",
-      "url": "https://www.leroymerlin.pt/produtos/lateral-de-duche-70-cm-sensea-quad-19318313.html",
-      "dimensao": null,
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 138,
-      "prices": [
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 138,
-          "preco_desconto": 0.0,
-          "preco_final": 138,
-          "atualizado": "2026-09-22T22:03:24+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              138
             ]
           ]
         }
@@ -540,20 +514,6 @@
       "preco_final": 308,
       "prices": [
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 369,
-          "preco_desconto": 61,
-          "preco_final": 308,
-          "atualizado": "2026-09-22T22:03:24+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              308
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 308,
@@ -768,20 +728,6 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 436,
-          "preco_desconto": 78,
-          "preco_final": 358,
-          "atualizado": "2026-09-22T22:03:24+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              358
-            ]
-          ]
-        },
-        {
           "store": "Loule (Faro)",
           "region": "Faro",
           "preco_normal": 436,
@@ -820,6 +766,46 @@
             [
               "2026-09-23",
               358
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 436,
+          "preco_desconto": 78,
+          "preco_final": 358,
+          "atualizado": "2026-10-05T09:00:16+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              358
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82209769",
+      "name": "Porta de duche transparente preto 170x195 cm Sensea Remix",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-preto-170x195-cm-sensea-remix-82209769.html",
+      "dimensao": "170x195",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 378,
+      "prices": [
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 378,
+          "preco_desconto": 0.0,
+          "preco_final": 378,
+          "atualizado": "2026-10-05T09:00:16+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              378
             ]
           ]
         }
@@ -970,20 +956,6 @@
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 418,
-          "preco_desconto": 0.0,
-          "preco_final": 418,
-          "atualizado": "2026-09-22T22:03:24+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              418
-            ]
-          ]
-        },
-        {
           "store": "Matosinhos (Porto)",
           "region": "Porto",
           "preco_normal": 509,
@@ -993,6 +965,20 @@
           "history": [
             [
               "2026-09-23",
+              418
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 418,
+          "preco_desconto": 0.0,
+          "preco_final": 418,
+          "atualizado": "2026-10-05T09:00:16+00:00",
+          "history": [
+            [
+              "2026-10-05",
               418
             ]
           ]
@@ -1344,29 +1330,29 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-09-22T21:58:10+00:00",
+          "atualizado": "2026-10-05T08:52:44+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               419.4
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-09-22T22:03:24+00:00",
+          "atualizado": "2026-10-05T08:56:30+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               419.4
             ]
           ]
@@ -1638,12 +1624,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-10-05T08:52:44+00:00",
+          "atualizado": "2026-10-05T08:58:29+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1652,42 +1638,16 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-10-05T08:56:30+00:00",
+          "atualizado": "2026-10-05T09:00:16+00:00",
           "history": [
             [
               "2026-10-05",
               419.4
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "16954595",
-      "name": "Frontal de duche 124x129 cm cavado de correr",
-      "url": "https://www.leroymerlin.pt/produtos/frontal-de-duche-124x129-cm-cavado-de-correr-16954595.html",
-      "dimensao": "124x129",
-      "marca": "PERFILGOLD",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 428,
-      "prices": [
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 428,
-          "preco_desconto": 0.0,
-          "preco_final": 428,
-          "atualizado": "2026-09-22T22:03:24+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              428
             ]
           ]
         }
@@ -1713,6 +1673,32 @@
           "history": [
             [
               "2026-09-23",
+              428
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16954595",
+      "name": "Frontal de duche 124x129 cm cavado de correr",
+      "url": "https://www.leroymerlin.pt/produtos/frontal-de-duche-124x129-cm-cavado-de-correr-16954595.html",
+      "dimensao": "124x129",
+      "marca": "PERFILGOLD",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 428,
+      "prices": [
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 428,
+          "preco_desconto": 0.0,
+          "preco_final": 428,
+          "atualizado": "2026-10-05T09:00:16+00:00",
+          "history": [
+            [
+              "2026-10-05",
               428
             ]
           ]
@@ -2168,29 +2154,29 @@
           ]
         },
         {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-09-22T21:58:10+00:00",
+          "atualizado": "2026-10-05T08:52:44+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               564.4
             ]
           ]
         },
         {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-09-22T22:03:24+00:00",
+          "atualizado": "2026-10-05T08:56:30+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               564.4
             ]
           ]
@@ -2462,12 +2448,12 @@
           ]
         },
         {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
+          "store": "Guimaraes (Braga)",
+          "region": "Braga",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-10-05T08:52:44+00:00",
+          "atualizado": "2026-10-05T08:58:29+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2476,12 +2462,12 @@
           ]
         },
         {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-10-05T08:56:30+00:00",
+          "atualizado": "2026-10-05T09:00:16+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2579,34 +2565,6 @@
           "history": [
             [
               "2026-09-23",
-              638.1
-            ]
-          ]
-        },
-        {
-          "store": "Guimaraes (Braga)",
-          "region": "Braga",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T21:58:10+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              638.1
-            ]
-          ]
-        },
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T22:03:24+00:00",
-          "history": [
-            [
-              "2026-09-22",
               638.1
             ]
           ]
