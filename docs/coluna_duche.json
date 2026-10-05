@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:50:15+00:00",
+  "generated": "2026-10-05T09:54:51+00:00",
   "products": [
     {
       "id": "17364851",
@@ -626,48 +626,6 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T11:47:29+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T11:55:38+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T12:03:21+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
           "store": "Telheiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 149,
@@ -688,6 +646,48 @@
           "preco_desconto": 44.7,
           "preco_final": 104.3,
           "atualizado": "2026-10-05T09:48:50+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-09-20T12:03:21+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-05T09:51:06+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-05T09:53:51+00:00",
           "history": [
             [
               "2026-10-05",
@@ -767,10 +767,10 @@
           "preco_normal": 129,
           "preco_desconto": 0.0,
           "preco_final": 129,
-          "atualizado": "2026-09-20T11:47:29+00:00",
+          "atualizado": "2026-10-05T09:51:06+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               129
             ]
           ]
@@ -798,20 +798,6 @@
             [
               "2026-10-05",
               135.97
-            ]
-          ]
-        },
-        {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 162,
-          "preco_desconto": 23,
-          "preco_final": 139,
-          "atualizado": "2026-09-20T11:47:29+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              139
             ]
           ]
         }
@@ -894,18 +880,30 @@
               148
             ]
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "84583555",
+      "name": "Coluna de duche com torneira monocomando preto Sensea Easy",
+      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-preto-sensea-easy-84583555.html",
+      "dimensao": null,
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 149,
+      "prices": [
         {
           "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 179,
-          "preco_desconto": 31,
-          "preco_final": 148,
-          "atualizado": "2026-09-20T11:47:29+00:00",
+          "preco_normal": 174,
+          "preco_desconto": 25,
+          "preco_final": 149,
+          "atualizado": "2026-10-05T09:51:06+00:00",
           "history": [
             [
-              "2026-09-20",
-              148
+              "2026-10-05",
+              149
             ]
           ]
         }
@@ -927,10 +925,10 @@
           "preco_normal": 189,
           "preco_desconto": 40,
           "preco_final": 149,
-          "atualizado": "2026-09-20T11:47:29+00:00",
+          "atualizado": "2026-10-05T09:51:06+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               149
             ]
           ]
@@ -1494,48 +1492,6 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-09-20T11:47:29+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              153.3
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-09-20T11:55:38+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              153.3
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-09-20T12:03:21+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              153.3
-            ]
-          ]
-        },
-        {
           "store": "Telheiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 219,
@@ -1556,6 +1512,48 @@
           "preco_desconto": 65.7,
           "preco_final": 153.3,
           "atualizado": "2026-10-05T09:48:50+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-09-20T12:03:21+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-10-05T09:51:06+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-10-05T09:53:51+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2504,48 +2502,6 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T11:47:29+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T11:55:38+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T12:03:21+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
           "store": "Telheiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 299,
@@ -2566,6 +2522,48 @@
           "preco_desconto": 89.7,
           "preco_final": 209.3,
           "atualizado": "2026-10-05T09:48:50+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-09-20T12:03:21+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-10-05T09:51:06+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-10-05T09:53:51+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3334,48 +3332,6 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-09-20T11:47:29+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              257.4
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-09-20T11:55:38+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              257.4
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-09-20T12:03:21+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              257.4
-            ]
-          ]
-        },
-        {
           "store": "Telheiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 429,
@@ -3396,6 +3352,48 @@
           "preco_desconto": 171.6,
           "preco_final": 257.4,
           "atualizado": "2026-10-05T09:48:50+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-09-20T12:03:21+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-10-05T09:51:06+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-10-05T09:53:51+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3447,10 +3445,10 @@
           "preco_normal": 349,
           "preco_desconto": 80,
           "preco_final": 269,
-          "atualizado": "2026-09-20T11:47:29+00:00",
+          "atualizado": "2026-10-05T09:51:06+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               269
             ]
           ]
@@ -3466,6 +3464,32 @@
             [
               "2026-10-05",
               298
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84574809",
+      "name": "Conjunto de duche com torneira cromado 2x2x13 cm W7 Termo",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-cromado-2x2x13-cm-w7-termo-84574809.html",
+      "dimensao": null,
+      "marca": "W7",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 271,
+      "prices": [
+        {
+          "store": "Torres Vedras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 319,
+          "preco_desconto": 48,
+          "preco_final": 271,
+          "atualizado": "2026-10-05T09:51:06+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              271
             ]
           ]
         }
@@ -3697,20 +3721,6 @@
           "history": [
             [
               "2026-10-05",
-              408
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-09-20T11:55:38+00:00",
-          "history": [
-            [
-              "2026-09-20",
               408
             ]
           ]
@@ -4041,20 +4051,6 @@
           "history": [
             [
               "2026-10-05",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T11:55:38+00:00",
-          "history": [
-            [
-              "2026-09-20",
               388
             ]
           ]

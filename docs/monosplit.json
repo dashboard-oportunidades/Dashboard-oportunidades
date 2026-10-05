@@ -1,32 +1,6 @@
 {
-  "generated": "2026-10-05T09:50:15+00:00",
+  "generated": "2026-10-05T09:54:51+00:00",
   "products": [
-    {
-      "id": "89876291",
-      "name": "Ar Condicionado 1x1 ELUXE 4.0 2.6kW 9000BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-eluxe-4-0-2-6kw-9000btu-89876291.html",
-      "dimensao": "9000 BTU",
-      "marca": "ELUXE",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 188,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 239,
-          "preco_desconto": 51,
-          "preco_final": 188,
-          "atualizado": "2026-09-22T23:23:35+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              188
-            ]
-          ]
-        }
-      ]
-    },
     {
       "id": "94727281",
       "name": "Ar condicionado 1x1 WIND WD25-RD1 9 KBTU",
@@ -226,32 +200,6 @@
       ]
     },
     {
-      "id": "82367424",
-      "name": "Ar condicionado fixo (1X1) EQUATION 9000 BTU R32",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-9000-btu-r32-82367424.html",
-      "dimensao": "9000 BTU",
-      "marca": "EQUATION",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 368,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 368,
-          "preco_desconto": 0.0,
-          "preco_final": 368,
-          "atualizado": "2026-09-22T23:23:35+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              368
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "85280679",
       "name": "Ar condicionado fixo (1X1)  EQUATION ENKI WIFI 9000 BTU",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-enki-wifi-9000-btu-85280679.html",
@@ -281,10 +229,10 @@
           "preco_normal": 454,
           "preco_desconto": 86,
           "preco_final": 368,
-          "atualizado": "2026-09-22T23:17:59+00:00",
+          "atualizado": "2026-10-05T09:51:36+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               368
             ]
           ]
@@ -524,32 +472,6 @@
       ]
     },
     {
-      "id": "82204387",
-      "name": "Ar condicionado fixo (1X1) FUJITSU ASY25UI-KP R32 9000BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-fujitsu-asy25ui-kp-r32-9000btu-82204387.html",
-      "dimensao": "9000 BTU",
-      "marca": "FUJITSU",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 408,
-      "prices": [
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-09-22T23:23:35+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              408
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "82367425",
       "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html",
@@ -678,20 +600,6 @@
               418
             ]
           ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 509,
-          "preco_desconto": 91,
-          "preco_final": 418,
-          "atualizado": "2026-09-22T23:23:35+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              418
-            ]
-          ]
         }
       ]
     },
@@ -807,10 +715,10 @@
           "preco_normal": 468,
           "preco_desconto": 0.0,
           "preco_final": 468,
-          "atualizado": "2026-09-22T23:17:59+00:00",
+          "atualizado": "2026-10-05T09:51:36+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               468
             ]
           ]
@@ -1066,15 +974,15 @@
           ]
         },
         {
-          "store": "Torres Vedras (Lisboa)",
+          "store": "Telheiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-09-22T23:17:59+00:00",
+          "atualizado": "2026-10-05T09:45:31+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               488
             ]
           ]
@@ -1094,12 +1002,12 @@
           ]
         },
         {
-          "store": "Telheiras (Lisboa)",
+          "store": "Torres Vedras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-05T09:45:31+00:00",
+          "atualizado": "2026-10-05T09:51:36+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1251,20 +1159,6 @@
           "history": [
             [
               "2026-10-05",
-              528
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 649,
-          "preco_desconto": 121,
-          "preco_final": 528,
-          "atualizado": "2026-09-22T23:23:35+00:00",
-          "history": [
-            [
-              "2026-09-23",
               528
             ]
           ]
@@ -1495,20 +1389,6 @@
           "history": [
             [
               "2026-10-05",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-09-22T23:23:35+00:00",
-          "history": [
-            [
-              "2026-09-23",
               628
             ]
           ]

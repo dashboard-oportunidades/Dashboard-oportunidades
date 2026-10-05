@@ -42,8 +42,8 @@
     "Sintra (Lisboa)": "2026-10-05T09:43:20+00:00",
     "Telheiras (Lisboa)": "2026-10-05T09:45:18+00:00",
     "Torres Novas (Santarem)": "2026-10-05T09:49:23+00:00",
-    "Torres Vedras (Lisboa)": "2026-09-22T23:16:45+00:00",
-    "Viana do Castelo (Viana do Castelo)": "2026-09-22T23:22:21+00:00",
+    "Torres Vedras (Lisboa)": "2026-10-05T09:51:19+00:00",
+    "Viana do Castelo (Viana do Castelo)": "2026-10-05T09:54:02+00:00",
     "Viseu (Viseu)": "2026-09-22T23:27:29+00:00"
   },
   "products": {
@@ -151,27 +151,6 @@
       "retificado": false,
       "store": "Barcelos (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche106-116-cm-apolo-81905996.html"
-    },
-    "82008892@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-09-22T23:22:21+00:00",
-      "dimensao": null,
-      "history": [
-        [
-          "2026-09-23",
-          268
-        ]
-      ],
-      "id": "82008892",
-      "m2_caixa": null,
-      "marca": "ITALBOX",
-      "name": "Porta de duche frontal porta+frontal 140cm transparente cromado Leci A",
-      "preco_desconto": 76,
-      "preco_final": 268,
-      "preco_normal": 344,
-      "region": "Viana do Castelo",
-      "retificado": false,
-      "store": "Viana do Castelo (Viana do Castelo)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-frontal-porta-frontal-140cm-transparente-cromado-leci-a-82008892.html"
     },
     "82209759@Aveiro (Aveiro)": {
       "atualizado": "2026-10-02T09:05:09+00:00",
@@ -1665,11 +1644,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-09-22T23:16:45+00:00",
+      "atualizado": "2026-10-05T09:51:19+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-09-23",
+          "2026-10-05",
           419.4
         ]
       ],
@@ -1686,11 +1665,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-09-22T23:22:21+00:00",
+      "atualizado": "2026-10-05T09:54:02+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-09-23",
+          "2026-10-05",
           419.4
         ]
       ],
@@ -1768,27 +1747,6 @@
       "retificado": false,
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-porta-de-correr-serigrafada-cromado-116x200-cm-cool-free-82281996.html"
-    },
-    "82351891@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-09-22T23:22:21+00:00",
-      "dimensao": "170x200",
-      "history": [
-        [
-          "2026-09-23",
-          599
-        ]
-      ],
-      "id": "82351891",
-      "m2_caixa": null,
-      "marca": "GLASSINOX",
-      "name": "Porta de duche AMEA1 170X200 TRANSPARENTE INOX",
-      "preco_desconto": 140,
-      "preco_final": 599,
-      "preco_normal": 739,
-      "region": "Viana do Castelo",
-      "retificado": false,
-      "store": "Viana do Castelo (Viana do Castelo)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-amea1-170x200-transparente-inox-82351891.html"
     },
     "82352363@Albufeira (Faro)": {
       "atualizado": "2026-09-22T23:32:48+00:00",
@@ -1937,48 +1895,6 @@
       "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
     },
-    "82352363@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-09-22T23:16:45+00:00",
-      "dimensao": "160x200",
-      "history": [
-        [
-          "2026-09-23",
-          638.1
-        ]
-      ],
-      "id": "82352363",
-      "m2_caixa": null,
-      "marca": "GLASSINOX",
-      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
-      "preco_desconto": 70.9,
-      "preco_final": 638.1,
-      "preco_normal": 709,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Torres Vedras (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
-    },
-    "82352363@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-09-22T23:22:21+00:00",
-      "dimensao": "160x200",
-      "history": [
-        [
-          "2026-09-23",
-          638.1
-        ]
-      ],
-      "id": "82352363",
-      "m2_caixa": null,
-      "marca": "GLASSINOX",
-      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
-      "preco_desconto": 70.9,
-      "preco_final": 638.1,
-      "preco_normal": 709,
-      "region": "Viana do Castelo",
-      "retificado": false,
-      "store": "Viana do Castelo (Viana do Castelo)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
-    },
     "82352363@Viseu (Viseu)": {
       "atualizado": "2026-09-22T23:27:29+00:00",
       "dimensao": "160x200",
@@ -2104,27 +2020,6 @@
       "retificado": false,
       "store": "Braganca (Braganca)",
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-145x198-5-cm-transparente-cromado-glassinox-85868086.html"
-    },
-    "85868111@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-09-22T23:22:21+00:00",
-      "dimensao": "110x198",
-      "history": [
-        [
-          "2026-09-23",
-          379
-        ]
-      ],
-      "id": "85868111",
-      "m2_caixa": null,
-      "marca": "GLASSINOX",
-      "name": "Portas de duche 110x198,5 cm serigrafado/cromado Glassinox",
-      "preco_desconto": 85,
-      "preco_final": 379,
-      "preco_normal": 464,
-      "region": "Viana do Castelo",
-      "retificado": false,
-      "store": "Viana do Castelo (Viana do Castelo)",
-      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-110x198-5-cm-serigrafado-cromado-glassinox-85868111.html"
     },
     "85868135@Albufeira (Faro)": {
       "atualizado": "2026-09-22T23:32:48+00:00",
@@ -3009,11 +2904,11 @@
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
     },
     "85868135@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-09-22T23:16:45+00:00",
+      "atualizado": "2026-10-05T09:51:19+00:00",
       "dimensao": "180x198",
       "history": [
         [
-          "2026-09-23",
+          "2026-10-05",
           564.4
         ]
       ],
@@ -3030,11 +2925,11 @@
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
     },
     "85868135@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-09-22T23:22:21+00:00",
+      "atualizado": "2026-10-05T09:54:02+00:00",
       "dimensao": "180x198",
       "history": [
         [
-          "2026-09-23",
+          "2026-10-05",
           564.4
         ]
       ],
