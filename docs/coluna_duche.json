@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T10:04:13+00:00",
+  "generated": "2026-10-05T10:13:54+00:00",
   "products": [
     {
       "id": "17364851",
@@ -65,6 +65,20 @@
       "m2_caixa": null,
       "preco_final": 104.3,
       "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-05T10:03:19+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              104.3
+            ]
+          ]
+        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -458,34 +472,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T12:27:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T12:18:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 149,
@@ -682,12 +668,26 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-05T10:03:19+00:00",
+          "atualizado": "2026-10-05T10:05:12+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-05T10:08:52+00:00",
           "history": [
             [
               "2026-10-05",
@@ -707,6 +707,20 @@
       "m2_caixa": null,
       "preco_final": 128,
       "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 149,
+          "preco_desconto": 21,
+          "preco_final": 128,
+          "atualizado": "2026-10-05T10:03:19+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              128
+            ]
+          ]
+        },
         {
           "store": "Almada (Setubal)",
           "region": "Setubal",
@@ -728,20 +742,6 @@
           "preco_desconto": 21,
           "preco_final": 128,
           "atualizado": "2026-10-05T09:32:37+00:00",
-          "history": [
-            [
-              "2026-10-05",
-              128
-            ]
-          ]
-        },
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 149,
-          "preco_desconto": 21,
-          "preco_final": 128,
-          "atualizado": "2026-10-05T10:03:19+00:00",
           "history": [
             [
               "2026-10-05",
@@ -946,6 +946,20 @@
       "preco_final": 153.3,
       "prices": [
         {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-10-05T10:03:19+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              153.3
+            ]
+          ]
+        },
+        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 219,
@@ -1324,34 +1338,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-09-20T12:27:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              153.3
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-09-20T12:18:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              153.3
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 219,
@@ -1548,12 +1534,26 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-10-05T10:03:19+00:00",
+          "atualizado": "2026-10-05T10:05:12+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-10-05T10:08:52+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1605,10 +1605,10 @@
           "preco_normal": 189,
           "preco_desconto": 31,
           "preco_final": 158,
-          "atualizado": "2026-09-20T12:27:00+00:00",
+          "atualizado": "2026-10-05T10:08:52+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               158
             ]
           ]
@@ -1928,6 +1928,20 @@
       "preco_final": 209.3,
       "prices": [
         {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-10-05T10:03:19+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              209.3
+            ]
+          ]
+        },
+        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 299,
@@ -2320,34 +2334,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T12:27:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T12:18:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 299,
@@ -2544,12 +2530,26 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-10-05T10:03:19+00:00",
+          "atualizado": "2026-10-05T10:05:12+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-10-05T10:08:52+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2598,26 +2598,26 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 259,
-          "preco_desconto": 41,
-          "preco_final": 218,
-          "atualizado": "2026-09-20T12:27:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              218
-            ]
-          ]
-        },
-        {
           "store": "Santarem (Santarem)",
           "region": "Santarem",
           "preco_normal": 218,
           "preco_desconto": 0.0,
           "preco_final": 218,
           "atualizado": "2026-10-05T09:32:37+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              218
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 259,
+          "preco_desconto": 41,
+          "preco_final": 218,
+          "atualizado": "2026-10-05T10:08:52+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2758,6 +2758,20 @@
       "preco_final": 257.4,
       "prices": [
         {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-10-05T10:03:19+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              257.4
+            ]
+          ]
+        },
+        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 429,
@@ -3150,34 +3164,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-09-20T12:27:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              257.4
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-09-20T12:18:43+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              257.4
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 429,
@@ -3374,12 +3360,26 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-10-05T10:03:19+00:00",
+          "atualizado": "2026-10-05T10:05:12+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-10-05T10:08:52+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3684,26 +3684,26 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-09-20T12:27:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              408
-            ]
-          ]
-        },
-        {
           "store": "Setubal (Setubal)",
           "region": "Setubal",
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
           "atualizado": "2026-10-05T09:37:28+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              408
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-10-05T10:08:52+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3888,6 +3888,20 @@
           ]
         },
         {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-05T10:03:19+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              388
+            ]
+          ]
+        },
+        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 479,
@@ -3972,20 +3986,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T12:27:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 479,
@@ -4014,12 +4014,12 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Maia (Porto)",
+          "region": "Porto",
           "preco_normal": 479,
           "preco_desconto": 91,
           "preco_final": 388,
-          "atualizado": "2026-10-05T10:03:19+00:00",
+          "atualizado": "2026-10-05T10:08:52+00:00",
           "history": [
             [
               "2026-10-05",

@@ -29,8 +29,8 @@
     "Loule (Faro)": "2026-10-05T09:06:17+00:00",
     "Loures (Lisboa)": "2026-10-05T09:12:48+00:00",
     "Mafra (Lisboa)": "2026-09-22T23:55:11+00:00",
-    "Maia (Porto)": "2026-09-22T23:44:49+00:00",
-    "Matosinhos (Porto)": "2026-09-22T23:39:16+00:00",
+    "Maia (Porto)": "2026-10-05T10:11:26+00:00",
+    "Matosinhos (Porto)": "2026-10-05T10:05:39+00:00",
     "Montijo (Setubal)": "2026-10-05T09:15:30+00:00",
     "Oeiras (Lisboa)": "2026-10-05T09:21:21+00:00",
     "Penafiel (Porto)": "2026-10-05T09:23:00+00:00",
@@ -1223,27 +1223,6 @@
       "store": "Guimaraes (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
     },
-    "84567638@Matosinhos (Porto)": {
-      "atualizado": "2026-09-22T23:39:16+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-09-23",
-          468
-        ]
-      ],
-      "id": "84567638",
-      "m2_caixa": null,
-      "marca": "BOSCH",
-      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
-      "preco_desconto": 0.0,
-      "preco_final": 468,
-      "preco_normal": 468,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
-    },
     "84567638@Santa Maria da Feira (Aveiro)": {
       "atualizado": "2026-10-05T09:29:26+00:00",
       "dimensao": "9000 BTU",
@@ -1369,48 +1348,6 @@
       "retificado": false,
       "store": "Torres Vedras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-enki-wifi-9000-btu-85280679.html"
-    },
-    "86584981@Matosinhos (Porto)": {
-      "atualizado": "2026-09-22T23:39:16+00:00",
-      "dimensao": "24000 BTU",
-      "history": [
-        [
-          "2026-09-23",
-          1899
-        ]
-      ],
-      "id": "86584981",
-      "m2_caixa": null,
-      "marca": "MITSUBISHI HEAVY INDUSTRIES",
-      "name": "Ar condicionado fixo (1X1) Mitsubishi LMK-Global R32 24000 BTU",
-      "preco_desconto": 100,
-      "preco_final": 1899,
-      "preco_normal": 1999,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk-global-r32-24000-btu-86584981.html"
-    },
-    "86584991@Matosinhos (Porto)": {
-      "atualizado": "2026-09-22T23:39:16+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-09-23",
-          999
-        ]
-      ],
-      "id": "86584991",
-      "m2_caixa": null,
-      "marca": "MITSUBISHI HEAVY INDUSTRIES",
-      "name": "Ar condicionado fixo (1X1) Mitsubishi Premium-WIFI branco R32 9000 BTU",
-      "preco_desconto": 100,
-      "preco_final": 999,
-      "preco_normal": 1099,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-premium-wifi-branco-r32-9000-btu-86584991.html"
     },
     "86733349@Alfragide (Lisboa)": {
       "atualizado": "2026-09-23T00:00:21+00:00",
@@ -1560,11 +1497,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
     },
     "86733349@Maia (Porto)": {
-      "atualizado": "2026-09-22T23:44:49+00:00",
+      "atualizado": "2026-10-05T10:11:26+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-23",
+          "2026-10-05",
           1048
         ]
       ],
@@ -1578,27 +1515,6 @@
       "region": "Porto",
       "retificado": false,
       "store": "Maia (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
-    },
-    "86733349@Matosinhos (Porto)": {
-      "atualizado": "2026-09-22T23:39:16+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-09-23",
-          1048
-        ]
-      ],
-      "id": "86733349",
-      "m2_caixa": null,
-      "marca": "HISENSE",
-      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
-      "preco_desconto": 251,
-      "preco_final": 1048,
-      "preco_normal": 1299,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
     },
     "86733349@Penafiel (Porto)": {
@@ -1832,27 +1748,6 @@
       "store": "Loule (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
     },
-    "86733350@Matosinhos (Porto)": {
-      "atualizado": "2026-09-22T23:39:16+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-09-23",
-          1168
-        ]
-      ],
-      "id": "86733350",
-      "m2_caixa": null,
-      "marca": "HISENSE",
-      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 12000 BTU IONIZADOR",
-      "preco_desconto": 281,
-      "preco_final": 1168,
-      "preco_normal": 1449,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
-    },
     "86733350@Santarem (Santarem)": {
       "atualizado": "2026-10-05T09:34:10+00:00",
       "dimensao": "12000 BTU",
@@ -2001,11 +1896,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733733@Maia (Porto)": {
-      "atualizado": "2026-09-22T23:44:49+00:00",
+      "atualizado": "2026-10-05T10:11:26+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-09-23",
+          "2026-10-05",
           378
         ]
       ],
@@ -2019,27 +1914,6 @@
       "region": "Porto",
       "retificado": false,
       "store": "Maia (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
-    },
-    "86733733@Matosinhos (Porto)": {
-      "atualizado": "2026-09-22T23:39:16+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-09-23",
-          378
-        ]
-      ],
-      "id": "86733733",
-      "m2_caixa": null,
-      "marca": "HISENSE",
-      "name": "Ar condicionado fixo (1x1) New Luso KC25YR03 WIFI 9000 BTU Hisense",
-      "preco_desconto": 81,
-      "preco_final": 378,
-      "preco_normal": 459,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733733@Oeiras (Lisboa)": {
@@ -2523,27 +2397,6 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Amadora (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber3-24kbtu-98196845.html"
-    },
-    "98196845@Matosinhos (Porto)": {
-      "atualizado": "2026-09-22T23:39:16+00:00",
-      "dimensao": "24000 BTU",
-      "history": [
-        [
-          "2026-09-23",
-          568
-        ]
-      ],
-      "id": "98196845",
-      "m2_caixa": null,
-      "marca": "ELUXE",
-      "name": "Ar condicionado fixo (1X1) ELUXE Amber3 24KBTU",
-      "preco_desconto": 0.0,
-      "preco_final": 568,
-      "preco_normal": 568,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber3-24kbtu-98196845.html"
     },
     "98196845@Sintra (Lisboa)": {

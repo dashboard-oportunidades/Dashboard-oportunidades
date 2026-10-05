@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T10:04:13+00:00",
+  "generated": "2026-10-05T10:13:54+00:00",
   "products": [
     {
       "id": "81992803",
@@ -129,6 +129,20 @@
       "m2_caixa": null,
       "preco_final": 104.3,
       "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              104.3
+            ]
+          ]
+        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -522,34 +536,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-29T22:04:25+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              104.3
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 149,
@@ -746,12 +732,26 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-05T10:03:05+00:00",
+          "atualizado": "2026-10-05T10:04:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-05T10:07:38+00:00",
           "history": [
             [
               "2026-10-05",
@@ -874,46 +874,6 @@
             [
               "2026-10-02",
               128
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "88286913",
-      "name": "Base de duche SENSEA REMIX RESINA 70X140 CINZENTO MATE",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-70x140-cinzento-mate-88286913.html",
-      "dimensao": "70x140",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 137,
-      "prices": [
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 181,
-          "preco_desconto": 44,
-          "preco_final": 137,
-          "atualizado": "2026-09-29T22:04:25+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              137
-            ]
-          ]
-        },
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 159.97,
-          "preco_desconto": 0.0,
-          "preco_final": 159.97,
-          "atualizado": "2026-10-02T09:02:38+00:00",
-          "history": [
-            [
-              "2026-10-02",
-              159.97
             ]
           ]
         }
@@ -1132,46 +1092,6 @@
       ]
     },
     {
-      "id": "84227261",
-      "name": "Base de duche 90x70 cm branco mate efeito ardósia Obath Greenpact",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-90x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227261.html",
-      "dimensao": "90x70",
-      "marca": "OBATH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 157,
-      "prices": [
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 219,
-          "preco_desconto": 62,
-          "preco_final": 157,
-          "atualizado": "2026-09-29T22:04:25+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              157
-            ]
-          ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 219,
-          "preco_desconto": 49.03,
-          "preco_final": 169.97,
-          "atualizado": "2026-09-29T22:11:51+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              169.97
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "91835289",
       "name": "Base de duche Resina 120x90 cm branco mate Sensea Easy V2",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-resina-120x90-cm-branco-mate-sensea-easy-v2-91835289.html",
@@ -1250,20 +1170,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 192,
-          "preco_desconto": 34,
-          "preco_final": 158,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 192,
@@ -1322,6 +1228,32 @@
       ]
     },
     {
+      "id": "88286913",
+      "name": "Base de duche SENSEA REMIX RESINA 70X140 CINZENTO MATE",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-sensea-remix-resina-70x140-cinzento-mate-88286913.html",
+      "dimensao": "70x140",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 159.97,
+      "prices": [
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 159.97,
+          "preco_desconto": 0.0,
+          "preco_final": 159.97,
+          "atualizado": "2026-10-02T09:02:38+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              159.97
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "17792411",
       "name": "Base de duche COLORS PIZAR 70X70 PRETO",
       "url": "https://www.leroymerlin.pt/produtos/base-de-duche-colors-pizar-70x70-preto-17792411.html",
@@ -1331,6 +1263,20 @@
       "m2_caixa": null,
       "preco_final": 167.2,
       "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              167.2
+            ]
+          ]
+        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -1724,34 +1670,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              167.2
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 209,
-          "preco_desconto": 41.8,
-          "preco_final": 167.2,
-          "atualizado": "2026-09-29T22:04:25+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              167.2
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 209,
@@ -1948,12 +1866,26 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-10-05T10:03:05+00:00",
+          "atualizado": "2026-10-05T10:04:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              167.2
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 209,
+          "preco_desconto": 41.8,
+          "preco_final": 167.2,
+          "atualizado": "2026-10-05T10:07:38+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1974,6 +1906,20 @@
       "preco_final": 167.4,
       "prices": [
         {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              167.4
+            ]
+          ]
+        },
+        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 279,
@@ -2366,34 +2312,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              167.4
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 279,
-          "preco_desconto": 111.6,
-          "preco_final": 167.4,
-          "atualizado": "2026-09-29T22:04:25+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              167.4
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 279,
@@ -2590,12 +2508,26 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-10-05T10:03:05+00:00",
+          "atualizado": "2026-10-05T10:04:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              167.4
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 279,
+          "preco_desconto": 111.6,
+          "preco_final": 167.4,
+          "atualizado": "2026-10-05T10:07:38+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2615,6 +2547,20 @@
       "m2_caixa": null,
       "preco_final": 168,
       "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 199,
+          "preco_desconto": 31,
+          "preco_final": 168,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              168
+            ]
+          ]
+        },
         {
           "store": "Braga (Braga)",
           "region": "Braga",
@@ -2649,21 +2595,7 @@
           "preco_normal": 199,
           "preco_desconto": 31,
           "preco_final": 168,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              168
-            ]
-          ]
-        },
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 199,
-          "preco_desconto": 31,
-          "preco_final": 168,
-          "atualizado": "2026-10-05T10:03:05+00:00",
+          "atualizado": "2026-10-05T10:07:38+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2694,6 +2626,32 @@
             [
               "2026-09-29",
               168
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84227261",
+      "name": "Base de duche 90x70 cm branco mate efeito ardósia Obath Greenpact",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-90x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227261.html",
+      "dimensao": "90x70",
+      "marca": "OBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 169.97,
+      "prices": [
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 219,
+          "preco_desconto": 49.03,
+          "preco_final": 169.97,
+          "atualizado": "2026-09-29T22:11:51+00:00",
+          "history": [
+            [
+              "2026-09-29",
+              169.97
             ]
           ]
         }
@@ -2736,6 +2694,20 @@
       "preco_final": 184.8,
       "prices": [
         {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              184.8
+            ]
+          ]
+        },
+        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 264,
@@ -3120,34 +3092,6 @@
           "preco_desconto": 79.2,
           "preco_final": 184.8,
           "atualizado": "2026-09-29T22:08:53+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              184.8
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
-          "preco_final": 184.8,
-          "atualizado": "2026-09-29T22:04:25+00:00",
           "history": [
             [
               "2026-09-29",
@@ -3352,56 +3296,30 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-10-05T10:03:05+00:00",
+          "atualizado": "2026-10-05T10:04:58+00:00",
           "history": [
             [
               "2026-10-05",
               184.8
             ]
           ]
-        }
-      ]
-    },
-    {
-      "id": "84227264",
-      "name": "Base de duche 120x70 cm branco mate efeito ardósia Obath Greenpact",
-      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-120x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227264.html",
-      "dimensao": "120x70",
-      "marca": "OBATH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 187.97,
-      "prices": [
+        },
         {
           "store": "Maia (Porto)",
           "region": "Porto",
-          "preco_normal": 249,
-          "preco_desconto": 61.03,
-          "preco_final": 187.97,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              187.97
-            ]
-          ]
-        },
-        {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
-          "preco_normal": 249,
-          "preco_desconto": 52,
-          "preco_final": 197,
-          "atualizado": "2026-10-05T09:22:17+00:00",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
+          "preco_final": 184.8,
+          "atualizado": "2026-10-05T10:07:38+00:00",
           "history": [
             [
               "2026-10-05",
-              197
+              184.8
             ]
           ]
         }
@@ -3422,6 +3340,32 @@
           "region": "Porto",
           "preco_normal": 284,
           "preco_desconto": 87,
+          "preco_final": 197,
+          "atualizado": "2026-10-05T09:22:17+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              197
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84227264",
+      "name": "Base de duche 120x70 cm branco mate efeito ardósia Obath Greenpact",
+      "url": "https://www.leroymerlin.pt/produtos/base-de-duche-120x70-cm-branco-mate-efeito-ardosia-obath-greenpact-84227264.html",
+      "dimensao": "120x70",
+      "marca": "OBATH",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 197,
+      "prices": [
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 249,
+          "preco_desconto": 52,
           "preco_final": 197,
           "atualizado": "2026-10-05T09:22:17+00:00",
           "history": [
@@ -3700,34 +3644,6 @@
               204
             ]
           ]
-        },
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 340,
-          "preco_desconto": 136,
-          "preco_final": 204,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              204
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 340,
-          "preco_desconto": 136,
-          "preco_final": 204,
-          "atualizado": "2026-09-29T22:04:25+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              204
-            ]
-          ]
         }
       ]
     },
@@ -3741,6 +3657,20 @@
       "m2_caixa": null,
       "preco_final": 213,
       "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 355,
+          "preco_desconto": 142,
+          "preco_final": 213,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              213
+            ]
+          ]
+        },
         {
           "store": "Braganca (Braganca)",
           "region": "Braganca",
@@ -4190,12 +4120,26 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 355,
           "preco_desconto": 142,
           "preco_final": 213,
-          "atualizado": "2026-10-05T10:03:05+00:00",
+          "atualizado": "2026-10-05T10:04:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              213
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 355,
+          "preco_desconto": 142,
+          "preco_final": 213,
+          "atualizado": "2026-10-05T10:07:38+00:00",
           "history": [
             [
               "2026-10-05",
@@ -4241,6 +4185,20 @@
       "m2_caixa": null,
       "preco_final": 239.2,
       "prices": [
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-10-05T10:03:05+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              239.2
+            ]
+          ]
+        },
         {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
@@ -4634,34 +4592,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-29T22:05:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              239.2
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 299,
-          "preco_desconto": 59.8,
-          "preco_final": 239.2,
-          "atualizado": "2026-09-29T22:04:25+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              239.2
-            ]
-          ]
-        },
-        {
           "store": "Montijo (Setubal)",
           "region": "Setubal",
           "preco_normal": 299,
@@ -4858,12 +4788,26 @@
           ]
         },
         {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-10-05T10:03:05+00:00",
+          "atualizado": "2026-10-05T10:04:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              239.2
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 299,
+          "preco_desconto": 59.8,
+          "preco_final": 239.2,
+          "atualizado": "2026-10-05T10:07:38+00:00",
           "history": [
             [
               "2026-10-05",

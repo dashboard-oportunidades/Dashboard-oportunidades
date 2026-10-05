@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T10:04:13+00:00",
+  "generated": "2026-10-05T10:13:54+00:00",
   "products": [
     {
       "id": "94727281",
@@ -334,34 +334,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-09-22T23:44:49+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              378
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-09-22T23:39:16+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              378
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 459,
@@ -410,6 +382,20 @@
           "preco_desconto": 81,
           "preco_final": 378,
           "atualizado": "2026-10-05T09:43:35+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              378
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 459,
+          "preco_desconto": 81,
+          "preco_final": 378,
+          "atualizado": "2026-10-05T10:11:26+00:00",
           "history": [
             [
               "2026-10-05",
@@ -640,6 +626,20 @@
       "preco_final": 468,
       "prices": [
         {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 468,
+          "preco_desconto": 0.0,
+          "preco_final": 468,
+          "atualizado": "2026-10-05T10:03:45+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              468
+            ]
+          ]
+        },
+        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 468,
@@ -682,20 +682,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 468,
-          "preco_desconto": 0.0,
-          "preco_final": 468,
-          "atualizado": "2026-09-22T23:39:16+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              468
-            ]
-          ]
-        },
-        {
           "store": "Santa Maria da Feira (Aveiro)",
           "region": "Aveiro",
           "preco_normal": 468,
@@ -716,20 +702,6 @@
           "preco_desconto": 0.0,
           "preco_final": 468,
           "atualizado": "2026-10-05T09:51:36+00:00",
-          "history": [
-            [
-              "2026-10-05",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 468,
-          "preco_desconto": 0.0,
-          "preco_final": 468,
-          "atualizado": "2026-10-05T10:03:45+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1185,20 +1157,6 @@
           "history": [
             [
               "2026-10-02",
-              568
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 568,
-          "preco_desconto": 0.0,
-          "preco_final": 568,
-          "atualizado": "2026-09-22T23:39:16+00:00",
-          "history": [
-            [
-              "2026-09-23",
               568
             ]
           ]
@@ -1662,34 +1620,6 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-09-22T23:44:49+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-09-22T23:39:16+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              1048
-            ]
-          ]
-        },
-        {
           "store": "Penafiel (Porto)",
           "region": "Porto",
           "preco_normal": 1299,
@@ -1710,6 +1640,20 @@
           "preco_desconto": 251,
           "preco_final": 1048,
           "atualizado": "2026-10-05T09:34:10+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-10-05T10:11:26+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1962,20 +1906,6 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1449,
-          "preco_desconto": 281,
-          "preco_final": 1168,
-          "atualizado": "2026-09-22T23:39:16+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              1168
-            ]
-          ]
-        },
-        {
           "store": "Santarem (Santarem)",
           "region": "Santarem",
           "preco_normal": 1449,
@@ -1986,32 +1916,6 @@
             [
               "2026-10-05",
               1168
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86584991",
-      "name": "Ar condicionado fixo (1X1) Mitsubishi Premium-WIFI branco R32 9000 BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-premium-wifi-branco-r32-9000-btu-86584991.html",
-      "dimensao": "9000 BTU",
-      "marca": "MITSUBISHI HEAVY INDUSTRIES",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 999,
-      "prices": [
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1099,
-          "preco_desconto": 100,
-          "preco_final": 999,
-          "atualizado": "2026-09-22T23:39:16+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              999
             ]
           ]
         }
@@ -2144,32 +2048,6 @@
             [
               "2026-10-05",
               1418
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86584981",
-      "name": "Ar condicionado fixo (1X1) Mitsubishi LMK-Global R32 24000 BTU",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk-global-r32-24000-btu-86584981.html",
-      "dimensao": "24000 BTU",
-      "marca": "MITSUBISHI HEAVY INDUSTRIES",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 1899,
-      "prices": [
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1999,
-          "preco_desconto": 100,
-          "preco_final": 1899,
-          "atualizado": "2026-09-22T23:39:16+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              1899
             ]
           ]
         }
