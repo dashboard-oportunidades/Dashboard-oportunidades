@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T10:13:54+00:00",
+  "generated": "2026-10-05T11:11:19+00:00",
   "products": [
     {
       "id": "82143647",
@@ -203,10 +203,10 @@
           "preco_normal": 1649,
           "preco_desconto": 321,
           "preco_final": 1328,
-          "atualizado": "2026-09-22T23:51:13+00:00",
+          "atualizado": "2026-10-05T10:20:36+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               1328
             ]
           ]
@@ -252,26 +252,26 @@
       "preco_final": 1368,
       "prices": [
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1699,
-          "preco_desconto": 331,
-          "preco_final": 1368,
-          "atualizado": "2026-09-23T00:01:36+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              1368
-            ]
-          ]
-        },
-        {
           "store": "Loures (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 1699,
           "preco_desconto": 331,
           "preco_final": 1368,
           "atualizado": "2026-10-05T09:12:59+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              1368
+            ]
+          ]
+        },
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1699,
+          "preco_desconto": 331,
+          "preco_final": 1368,
+          "atualizado": "2026-10-05T11:09:09+00:00",
           "history": [
             [
               "2026-10-05",

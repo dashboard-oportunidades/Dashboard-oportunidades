@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T10:13:54+00:00",
+  "generated": "2026-10-05T11:11:19+00:00",
   "products": [
     {
       "id": "19318593",
@@ -83,10 +83,10 @@
           "preco_normal": 279,
           "preco_desconto": 51,
           "preco_final": 228,
-          "atualizado": "2026-09-22T23:48:44+00:00",
+          "atualizado": "2026-10-05T10:18:05+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               228
             ]
           ]
@@ -146,20 +146,6 @@
       "preco_final": 248,
       "prices": [
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-22T23:59:08+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              248
-            ]
-          ]
-        },
-        {
           "store": "Gaia (Porto)",
           "region": "Porto",
           "preco_normal": 248,
@@ -217,10 +203,10 @@
           "preco_normal": 268,
           "preco_desconto": 0.0,
           "preco_final": 268,
-          "atualizado": "2026-09-22T23:48:44+00:00",
+          "atualizado": "2026-10-05T10:18:05+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               268
             ]
           ]
@@ -396,20 +382,6 @@
       "preco_final": 288,
       "prices": [
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 349,
-          "preco_desconto": 61,
-          "preco_final": 288,
-          "atualizado": "2026-09-22T23:59:08+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              288
-            ]
-          ]
-        },
-        {
           "store": "Braganca (Braganca)",
           "region": "Braganca",
           "preco_normal": 288,
@@ -468,6 +440,32 @@
           "preco_desconto": 0.0,
           "preco_final": 308,
           "atualizado": "2026-10-05T08:56:30+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              308
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82391553",
+      "name": "Cabine de duche cromado 100x195 cm Roca Victoria",
+      "url": "https://www.leroymerlin.pt/produtos/cabine-de-duche-cromado-100x195-cm-roca-victoria-82391553.html",
+      "dimensao": "100x195",
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 308,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 379,
+          "preco_desconto": 71,
+          "preco_final": 308,
+          "atualizado": "2026-10-05T11:08:37+00:00",
           "history": [
             [
               "2026-10-05",
@@ -585,10 +583,10 @@
           "preco_normal": 358,
           "preco_desconto": 0.0,
           "preco_final": 358,
-          "atualizado": "2026-09-22T23:48:44+00:00",
+          "atualizado": "2026-10-05T10:18:05+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               358
             ]
           ]
@@ -688,6 +686,32 @@
             [
               "2026-10-05",
               358
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87274293",
+      "name": "Porta de duche 2 folhas 140x200 cm cromado transparente Roca Apolo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-140x200-cm-cromado-transparente-roca-apolo-87274293.html",
+      "dimensao": "140x200",
+      "marca": "ROCA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 368,
+      "prices": [
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 456,
+          "preco_desconto": 88,
+          "preco_final": 368,
+          "atualizado": "2026-10-05T11:08:37+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              368
             ]
           ]
         }
@@ -930,43 +954,15 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 699,
-          "preco_desconto": 279.6,
-          "preco_final": 419.4,
-          "atualizado": "2026-09-22T23:59:08+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              419.4
-            ]
-          ]
-        },
-        {
           "store": "Almada (Setubal)",
           "region": "Setubal",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-09-22T23:48:44+00:00",
+          "atualizado": "2026-10-05T10:18:05+00:00",
           "history": [
             [
-              "2026-09-23",
-              419.4
-            ]
-          ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 419.4,
-          "preco_desconto": 0.0,
-          "preco_final": 419.4,
-          "atualizado": "2026-09-23T00:04:19+00:00",
-          "history": [
-            [
-              "2026-09-23",
+              "2026-10-05",
               419.4
             ]
           ]
@@ -1313,10 +1309,38 @@
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-09-22T23:53:58+00:00",
+          "atualizado": "2026-10-05T10:28:30+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-10-05T10:10:09+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              419.4
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 699,
+          "preco_desconto": 279.6,
+          "preco_final": 419.4,
+          "atualizado": "2026-10-05T10:05:23+00:00",
+          "history": [
+            [
+              "2026-10-05",
               419.4
             ]
           ]
@@ -1518,12 +1542,12 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-10-05T10:05:23+00:00",
+          "atualizado": "2026-10-05T11:08:37+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1532,12 +1556,12 @@
           ]
         },
         {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 699,
-          "preco_desconto": 279.6,
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 419.4,
+          "preco_desconto": 0.0,
           "preco_final": 419.4,
-          "atualizado": "2026-10-05T10:10:09+00:00",
+          "atualizado": "2026-10-05T11:10:41+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1567,32 +1591,6 @@
           "history": [
             [
               "2026-10-05",
-              428
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82391559",
-      "name": "Portas de duche VICTORIA 160X195",
-      "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-victoria-160x195-82391559.html",
-      "dimensao": "160x195",
-      "marca": "ROCA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 428,
-      "prices": [
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 529,
-          "preco_desconto": 101,
-          "preco_final": 428,
-          "atualizado": "2026-09-22T23:59:08+00:00",
-          "history": [
-            [
-              "2026-09-23",
               428
             ]
           ]
@@ -1641,10 +1639,10 @@
           "preco_normal": 549,
           "preco_desconto": 101,
           "preco_final": 448,
-          "atualizado": "2026-09-23T00:04:19+00:00",
+          "atualizado": "2026-10-05T11:10:41+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               448
             ]
           ]
@@ -1667,10 +1665,10 @@
           "preco_normal": 579,
           "preco_desconto": 111,
           "preco_final": 468,
-          "atualizado": "2026-09-22T23:48:44+00:00",
+          "atualizado": "2026-10-05T10:18:05+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               468
             ]
           ]
@@ -1693,10 +1691,10 @@
           "preco_normal": 654,
           "preco_desconto": 126,
           "preco_final": 528,
-          "atualizado": "2026-09-23T00:04:19+00:00",
+          "atualizado": "2026-10-05T11:10:41+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
               528
             ]
           ]
@@ -1728,43 +1726,15 @@
           ]
         },
         {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 664,
-          "preco_desconto": 99.6,
-          "preco_final": 564.4,
-          "atualizado": "2026-09-22T23:59:08+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              564.4
-            ]
-          ]
-        },
-        {
           "store": "Almada (Setubal)",
           "region": "Setubal",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-09-22T23:48:44+00:00",
+          "atualizado": "2026-10-05T10:18:05+00:00",
           "history": [
             [
-              "2026-09-23",
-              564.4
-            ]
-          ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 664,
-          "preco_desconto": 99.6,
-          "preco_final": 564.4,
-          "atualizado": "2026-09-23T00:04:19+00:00",
-          "history": [
-            [
-              "2026-09-23",
+              "2026-10-05",
               564.4
             ]
           ]
@@ -2111,10 +2081,38 @@
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-09-22T23:53:58+00:00",
+          "atualizado": "2026-10-05T10:28:30+00:00",
           "history": [
             [
-              "2026-09-23",
+              "2026-10-05",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-10-05T10:10:09+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              564.4
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-10-05T10:05:23+00:00",
+          "history": [
+            [
+              "2026-10-05",
               564.4
             ]
           ]
@@ -2316,98 +2314,30 @@
           ]
         },
         {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 664,
-          "preco_desconto": 99.6,
-          "preco_final": 564.4,
-          "atualizado": "2026-10-05T10:05:23+00:00",
-          "history": [
-            [
-              "2026-10-05",
-              564.4
-            ]
-          ]
-        },
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 664,
-          "preco_desconto": 99.6,
-          "preco_final": 564.4,
-          "atualizado": "2026-10-05T10:10:09+00:00",
-          "history": [
-            [
-              "2026-10-05",
-              564.4
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82352363",
-      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html",
-      "dimensao": "160x200",
-      "marca": "GLASSINOX",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 638.1,
-      "prices": [
-        {
           "store": "Alfragide (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T23:59:08+00:00",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-10-05T11:08:37+00:00",
           "history": [
             [
-              "2026-09-23",
-              638.1
-            ]
-          ]
-        },
-        {
-          "store": "Almada (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T23:48:44+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              638.1
+              "2026-10-05",
+              564.4
             ]
           ]
         },
         {
           "store": "Alta de Lisboa (Lisboa)",
           "region": "Lisboa",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-23T00:04:19+00:00",
+          "preco_normal": 664,
+          "preco_desconto": 99.6,
+          "preco_final": 564.4,
+          "atualizado": "2026-10-05T11:10:41+00:00",
           "history": [
             [
-              "2026-09-23",
-              638.1
-            ]
-          ]
-        },
-        {
-          "store": "Mafra (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T23:53:58+00:00",
-          "history": [
-            [
-              "2026-09-23",
-              638.1
+              "2026-10-05",
+              564.4
             ]
           ]
         }
