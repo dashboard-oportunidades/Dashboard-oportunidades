@@ -17,9 +17,9 @@
     "Castelo Branco (Castelo Branco)": "2026-10-05T08:30:22+00:00",
     "Chaves (Vila Real)": "2026-10-05T08:32:07+00:00",
     "Coimbra (Coimbra)": "2026-10-05T08:33:39+00:00",
-    "Colombo (Lisboa)": "2026-09-22T21:21:22+00:00",
-    "Covilha (Castelo Branco)": "2026-09-22T21:26:35+00:00",
-    "Evora (Evora)": "2026-09-22T21:31:43+00:00",
+    "Colombo (Lisboa)": "2026-10-05T08:35:52+00:00",
+    "Covilha (Castelo Branco)": "2026-10-05T08:38:14+00:00",
+    "Evora (Evora)": "2026-10-05T08:40:21+00:00",
     "Figueira da Foz (Coimbra)": "2026-09-22T21:37:16+00:00",
     "Gaia (Porto)": "2026-09-22T21:42:22+00:00",
     "Gondomar (Porto)": "2026-09-22T21:47:30+00:00",
@@ -215,6 +215,27 @@
       "store": "Aveiro (Aveiro)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-120x195-cm-sensea-remix-82209759.html"
     },
+    "82209759@Evora (Evora)": {
+      "atualizado": "2026-10-05T08:40:21+00:00",
+      "dimensao": "120x195",
+      "history": [
+        [
+          "2026-10-05",
+          268
+        ]
+      ],
+      "id": "82209759",
+      "m2_caixa": null,
+      "marca": "SENSEA",
+      "name": "Porta de duche serigrafada cromado 120x195 cm Sensea Remix",
+      "preco_desconto": 0.0,
+      "preco_final": 268,
+      "preco_normal": 268,
+      "region": "Evora",
+      "retificado": false,
+      "store": "Evora (Evora)",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-120x195-cm-sensea-remix-82209759.html"
+    },
     "82209759@Gondomar (Porto)": {
       "atualizado": "2026-09-22T21:47:30+00:00",
       "dimensao": "120x195",
@@ -258,11 +279,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-140x195-cm-sensea-remix-82209761.html"
     },
     "82209762@Colombo (Lisboa)": {
-      "atualizado": "2026-09-22T21:21:22+00:00",
+      "atualizado": "2026-10-05T08:35:52+00:00",
       "dimensao": "140x195",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           278
         ]
       ],
@@ -363,11 +384,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-160x195-cm-sensea-remix-82209765.html"
     },
     "82209770@Evora (Evora)": {
-      "atualizado": "2026-09-22T21:31:43+00:00",
+      "atualizado": "2026-10-05T08:40:21+00:00",
       "dimensao": "80x195",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           228
         ]
       ],
@@ -1182,11 +1203,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Colombo (Lisboa)": {
-      "atualizado": "2026-09-22T21:21:22+00:00",
+      "atualizado": "2026-10-05T08:35:52+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           419.4
         ]
       ],
@@ -1203,11 +1224,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Covilha (Castelo Branco)": {
-      "atualizado": "2026-09-22T21:26:35+00:00",
+      "atualizado": "2026-10-05T08:38:14+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           419.4
         ]
       ],
@@ -1224,11 +1245,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Evora (Evora)": {
-      "atualizado": "2026-09-22T21:31:43+00:00",
+      "atualizado": "2026-10-05T08:40:21+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           419.4
         ]
       ],
@@ -1914,69 +1935,6 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Alta de Lisboa (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
-    },
-    "82352363@Colombo (Lisboa)": {
-      "atualizado": "2026-09-22T21:21:22+00:00",
-      "dimensao": "160x200",
-      "history": [
-        [
-          "2026-09-22",
-          638.1
-        ]
-      ],
-      "id": "82352363",
-      "m2_caixa": null,
-      "marca": "GLASSINOX",
-      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
-      "preco_desconto": 70.9,
-      "preco_final": 638.1,
-      "preco_normal": 709,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Colombo (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
-    },
-    "82352363@Covilha (Castelo Branco)": {
-      "atualizado": "2026-09-22T21:26:35+00:00",
-      "dimensao": "160x200",
-      "history": [
-        [
-          "2026-09-22",
-          638.1
-        ]
-      ],
-      "id": "82352363",
-      "m2_caixa": null,
-      "marca": "GLASSINOX",
-      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
-      "preco_desconto": 70.9,
-      "preco_final": 638.1,
-      "preco_normal": 709,
-      "region": "Castelo Branco",
-      "retificado": false,
-      "store": "Covilha (Castelo Branco)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
-    },
-    "82352363@Evora (Evora)": {
-      "atualizado": "2026-09-22T21:31:43+00:00",
-      "dimensao": "160x200",
-      "history": [
-        [
-          "2026-09-22",
-          638.1
-        ]
-      ],
-      "id": "82352363",
-      "m2_caixa": null,
-      "marca": "GLASSINOX",
-      "name": "Porta de duche TALA2 160X200 TRANSPARENTE PRETO",
-      "preco_desconto": 70.9,
-      "preco_final": 638.1,
-      "preco_normal": 709,
-      "region": "Evora",
-      "retificado": false,
-      "store": "Evora (Evora)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-tala2-160x200-transparente-preto-82352363.html"
     },
     "82352363@Figueira da Foz (Coimbra)": {
@@ -2988,11 +2946,11 @@
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
     },
     "85868135@Colombo (Lisboa)": {
-      "atualizado": "2026-09-22T21:21:22+00:00",
+      "atualizado": "2026-10-05T08:35:52+00:00",
       "dimensao": "180x198",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           564.4
         ]
       ],
@@ -3009,11 +2967,11 @@
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
     },
     "85868135@Covilha (Castelo Branco)": {
-      "atualizado": "2026-09-22T21:26:35+00:00",
+      "atualizado": "2026-10-05T08:38:14+00:00",
       "dimensao": "180x198",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           564.4
         ]
       ],
@@ -3030,11 +2988,11 @@
       "url": "https://www.leroymerlin.pt/produtos/portas-de-duche-180x198-5-cm-serigrafado-cromado-glassinox-85868135.html"
     },
     "85868135@Evora (Evora)": {
-      "atualizado": "2026-09-22T21:31:43+00:00",
+      "atualizado": "2026-10-05T08:40:21+00:00",
       "dimensao": "180x198",
       "history": [
         [
-          "2026-09-22",
+          "2026-10-05",
           564.4
         ]
       ],
