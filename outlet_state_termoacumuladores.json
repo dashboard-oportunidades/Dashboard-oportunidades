@@ -8,15 +8,15 @@
     "Amadora (Lisboa)": "2026-10-02T09:01:07+00:00",
     "Aveiro (Aveiro)": "2026-10-02T09:08:53+00:00",
     "Barcelos (Braga)": "2026-10-02T09:15:48+00:00",
-    "Barreiro (Setubal)": "2026-09-20T07:57:53+00:00",
-    "Braga (Braga)": "2026-09-20T08:05:42+00:00",
-    "Braganca (Braganca)": "2026-09-20T08:13:14+00:00",
-    "Caldas da Rainha (Leiria)": "2026-09-20T08:21:00+00:00",
-    "Carcavelos (Lisboa)": "2026-09-20T08:29:06+00:00",
-    "Cascais (Lisboa)": "2026-09-20T08:32:40+00:00",
-    "Castelo Branco (Castelo Branco)": "2026-09-20T08:40:22+00:00",
-    "Chaves (Vila Real)": "2026-09-20T08:48:01+00:00",
-    "Coimbra (Coimbra)": "2026-09-20T08:55:51+00:00",
+    "Barreiro (Setubal)": "2026-10-02T09:24:05+00:00",
+    "Braga (Braga)": "2026-10-02T09:30:46+00:00",
+    "Braganca (Braganca)": "2026-10-05T00:01:09+00:00",
+    "Caldas da Rainha (Leiria)": "2026-10-05T08:21:08+00:00",
+    "Carcavelos (Lisboa)": "2026-10-05T08:23:44+00:00",
+    "Cascais (Lisboa)": "2026-10-05T08:28:11+00:00",
+    "Castelo Branco (Castelo Branco)": "2026-10-05T08:30:58+00:00",
+    "Chaves (Vila Real)": "2026-10-05T08:32:45+00:00",
+    "Coimbra (Coimbra)": "2026-10-05T08:34:27+00:00",
     "Colombo (Lisboa)": "2026-09-20T09:03:32+00:00",
     "Covilha (Castelo Branco)": "2026-09-20T09:11:07+00:00",
     "Evora (Evora)": "2026-09-20T09:18:45+00:00",
@@ -47,12 +47,12 @@
     "Viseu (Viseu)": "2026-09-20T12:08:18+00:00"
   },
   "products": {
-    "75347816@Coimbra (Coimbra)": {
-      "atualizado": "2026-09-20T08:55:51+00:00",
+    "75347816@Braga (Braga)": {
+      "atualizado": "2026-10-02T09:30:46+00:00",
       "dimensao": "80L",
       "history": [
         [
-          "2026-09-20",
+          "2026-10-02",
           149
         ]
       ],
@@ -63,9 +63,9 @@
       "preco_desconto": 20,
       "preco_final": 149,
       "preco_normal": 169,
-      "region": "Coimbra",
+      "region": "Braga",
       "retificado": false,
-      "store": "Coimbra (Coimbra)",
+      "store": "Braga (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-lite-80-litros-75347816.html"
     },
     "75347816@Santarem (Santarem)": {
@@ -237,11 +237,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-inteligente-ariston-lydos-eco-blu-100l-classe-energetica-b-81988416.html"
     },
     "82005350@Castelo Branco (Castelo Branco)": {
-      "atualizado": "2026-09-20T08:40:22+00:00",
+      "atualizado": "2026-10-05T08:30:58+00:00",
       "dimensao": "50L",
       "history": [
         [
-          "2026-09-20",
+          "2026-10-05",
           158
         ]
       ],
@@ -300,11 +300,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-equation-q2-100l-82005354.html"
     },
     "82246625@Chaves (Vila Real)": {
-      "atualizado": "2026-09-20T08:48:01+00:00",
+      "atualizado": "2026-10-05T08:32:45+00:00",
       "dimensao": "150L",
       "history": [
         [
-          "2026-09-20",
+          "2026-10-05",
           328
         ]
       ],
@@ -342,11 +342,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-htw-smart-plus-wifi-80l-84434192.html"
     },
     "84801327@Caldas da Rainha (Leiria)": {
-      "atualizado": "2026-09-20T08:21:00+00:00",
+      "atualizado": "2026-10-05T08:21:08+00:00",
       "dimensao": "50L",
       "history": [
         [
-          "2026-09-20",
+          "2026-10-05",
           178
         ]
       ],
@@ -384,11 +384,11 @@
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-50l-edesa-digital-89618137.html"
     },
     "89834463@Barreiro (Setubal)": {
-      "atualizado": "2026-09-20T07:57:53+00:00",
+      "atualizado": "2026-10-02T09:24:05+00:00",
       "dimensao": "100L",
       "history": [
         [
-          "2026-09-20",
+          "2026-10-02",
           228
         ]
       ],
@@ -404,33 +404,12 @@
       "store": "Barreiro (Setubal)",
       "url": "https://www.leroymerlin.pt/produtos/termoacumulador-bosch-tronic-tr-4000t-100l-89834463.html"
     },
-    "95888588@Chaves (Vila Real)": {
-      "atualizado": "2026-09-20T08:48:01+00:00",
-      "dimensao": "100L",
-      "history": [
-        [
-          "2026-09-20",
-          229.99
-        ]
-      ],
-      "id": "95888588",
-      "m2_caixa": null,
-      "marca": "BOSCH",
-      "name": "Termoacumulador Elétrico Bosch TR4001T 100L",
-      "preco_desconto": 24.01,
-      "preco_final": 229.99,
-      "preco_normal": 254,
-      "region": "Vila Real",
-      "retificado": false,
-      "store": "Chaves (Vila Real)",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-bosch-tr4001t-100l-95888588.html"
-    },
     "95933346@Braganca (Braganca)": {
-      "atualizado": "2026-09-20T08:13:14+00:00",
+      "atualizado": "2026-10-05T00:01:09+00:00",
       "dimensao": "100L",
       "history": [
         [
-          "2026-09-20",
+          "2026-10-05",
           239.99
         ]
       ],

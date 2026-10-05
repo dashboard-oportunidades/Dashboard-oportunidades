@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T09:15:49+00:00",
+  "generated": "2026-10-05T08:34:28+00:00",
   "products": [
     {
       "id": "82005354",
@@ -38,15 +38,15 @@
       "preco_final": 149,
       "prices": [
         {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
+          "store": "Braga (Braga)",
+          "region": "Braga",
           "preco_normal": 169,
           "preco_desconto": 20,
           "preco_final": 149,
-          "atualizado": "2026-09-20T08:55:51+00:00",
+          "atualizado": "2026-10-02T09:30:46+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               149
             ]
           ]
@@ -104,20 +104,6 @@
       "preco_final": 158,
       "prices": [
         {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 158,
-          "preco_desconto": 0.0,
-          "preco_final": 158,
-          "atualizado": "2026-09-20T08:40:22+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              158
-            ]
-          ]
-        },
-        {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
           "preco_normal": 158,
@@ -127,6 +113,20 @@
           "history": [
             [
               "2026-09-20",
+              158
+            ]
+          ]
+        },
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 158,
+          "preco_desconto": 0.0,
+          "preco_final": 158,
+          "atualizado": "2026-10-05T08:30:58+00:00",
+          "history": [
+            [
+              "2026-10-05",
               158
             ]
           ]
@@ -175,10 +175,10 @@
           "preco_normal": 214,
           "preco_desconto": 36,
           "preco_final": 178,
-          "atualizado": "2026-09-20T08:21:00+00:00",
+          "atualizado": "2026-10-05T08:21:08+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               178
             ]
           ]
@@ -253,37 +253,11 @@
           "preco_normal": 270,
           "preco_desconto": 42,
           "preco_final": 228,
-          "atualizado": "2026-09-20T07:57:53+00:00",
+          "atualizado": "2026-10-02T09:24:05+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               228
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "95888588",
-      "name": "Termoacumulador Elétrico Bosch TR4001T 100L",
-      "url": "https://www.leroymerlin.pt/produtos/termoacumulador-eletrico-bosch-tr4001t-100l-95888588.html",
-      "dimensao": "100L",
-      "marca": "BOSCH",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 229.99,
-      "prices": [
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 254,
-          "preco_desconto": 24.01,
-          "preco_final": 229.99,
-          "atualizado": "2026-09-20T08:48:01+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              229.99
             ]
           ]
         }
@@ -305,10 +279,10 @@
           "preco_normal": 279,
           "preco_desconto": 39.01,
           "preco_final": 239.99,
-          "atualizado": "2026-09-20T08:13:14+00:00",
+          "atualizado": "2026-10-05T00:01:09+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               239.99
             ]
           ]
@@ -385,10 +359,10 @@
           "preco_normal": 405,
           "preco_desconto": 77,
           "preco_final": 328,
-          "atualizado": "2026-09-20T08:48:01+00:00",
+          "atualizado": "2026-10-05T08:32:45+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               328
             ]
           ]

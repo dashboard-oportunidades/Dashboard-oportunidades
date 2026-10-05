@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T09:15:49+00:00",
+  "generated": "2026-10-05T08:34:28+00:00",
   "products": [
     {
       "id": "17364851",
@@ -122,15 +122,71 @@
           ]
         },
         {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-02T08:49:18+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-02T08:56:01+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-02T09:03:51+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              104.3
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 149,
+          "preco_desconto": 44.7,
+          "preco_final": 104.3,
+          "atualizado": "2026-10-02T09:10:40+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              104.3
+            ]
+          ]
+        },
+        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T07:52:57+00:00",
+          "atualizado": "2026-10-02T09:19:07+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               104.3
             ]
           ]
@@ -141,10 +197,10 @@
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:00:38+00:00",
+          "atualizado": "2026-10-02T09:25:47+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               104.3
             ]
           ]
@@ -155,10 +211,10 @@
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:08:22+00:00",
+          "atualizado": "2026-10-04T23:56:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               104.3
             ]
           ]
@@ -169,10 +225,10 @@
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:15:58+00:00",
+          "atualizado": "2026-10-05T08:20:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               104.3
             ]
           ]
@@ -183,10 +239,10 @@
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:24:05+00:00",
+          "atualizado": "2026-10-05T08:22:51+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               104.3
             ]
           ]
@@ -197,52 +253,10 @@
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:31:38+00:00",
+          "atualizado": "2026-10-05T08:26:24+00:00",
           "history": [
             [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:35:26+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:43:05+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-09-20T08:51:02+00:00",
-          "history": [
-            [
-              "2026-09-20",
+              "2026-10-05",
               104.3
             ]
           ]
@@ -640,57 +654,43 @@
           ]
         },
         {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-02T08:49:18+00:00",
+          "atualizado": "2026-10-05T08:30:07+00:00",
           "history": [
             [
-              "2026-10-02",
+              "2026-10-05",
               104.3
             ]
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-02T08:56:01+00:00",
+          "atualizado": "2026-10-05T08:31:53+00:00",
           "history": [
             [
-              "2026-10-02",
+              "2026-10-05",
               104.3
             ]
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-02T09:03:51+00:00",
+          "atualizado": "2026-10-05T08:33:27+00:00",
           "history": [
             [
-              "2026-10-02",
-              104.3
-            ]
-          ]
-        },
-        {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 149,
-          "preco_desconto": 44.7,
-          "preco_final": 104.3,
-          "atualizado": "2026-10-02T09:10:40+00:00",
-          "history": [
-            [
-              "2026-10-02",
+              "2026-10-05",
               104.3
             ]
           ]
@@ -844,6 +844,32 @@
       ]
     },
     {
+      "id": "88484085",
+      "name": "Conjunto de duche 140x20 cm preto Roma",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-140x20-cm-preto-roma-88484085.html",
+      "dimensao": "140x20",
+      "marca": "DEFEROM",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 148,
+      "prices": [
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 169,
+          "preco_desconto": 21,
+          "preco_final": 148,
+          "atualizado": "2026-10-02T09:03:51+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              148
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "91776117",
       "name": "Conjunto de duche 20 cm cromado Mitos-LeColuna",
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-20-cm-cromado-mitos-lecoluna-91776117.html",
@@ -859,10 +885,10 @@
           "preco_normal": 179,
           "preco_desconto": 31,
           "preco_final": 148,
-          "atualizado": "2026-09-20T08:15:58+00:00",
+          "atualizado": "2026-10-05T08:20:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               148
             ]
           ]
@@ -905,32 +931,6 @@
           "history": [
             [
               "2026-09-20",
-              148
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "88484085",
-      "name": "Conjunto de duche 140x20 cm preto Roma",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-140x20-cm-preto-roma-88484085.html",
-      "dimensao": "140x20",
-      "marca": "DEFEROM",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 148,
-      "prices": [
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 169,
-          "preco_desconto": 21,
-          "preco_final": 148,
-          "atualizado": "2026-10-02T09:03:51+00:00",
-          "history": [
-            [
-              "2026-10-02",
               148
             ]
           ]
@@ -1030,15 +1030,71 @@
           ]
         },
         {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-10-02T08:49:18+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-10-02T08:56:01+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-10-02T09:03:51+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              153.3
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 219,
+          "preco_desconto": 65.7,
+          "preco_final": 153.3,
+          "atualizado": "2026-10-02T09:10:40+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              153.3
+            ]
+          ]
+        },
+        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-09-20T07:52:57+00:00",
+          "atualizado": "2026-10-02T09:19:07+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               153.3
             ]
           ]
@@ -1049,10 +1105,10 @@
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-09-20T08:00:38+00:00",
+          "atualizado": "2026-10-02T09:25:47+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               153.3
             ]
           ]
@@ -1063,10 +1119,10 @@
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-09-20T08:08:22+00:00",
+          "atualizado": "2026-10-04T23:56:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               153.3
             ]
           ]
@@ -1077,10 +1133,10 @@
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-09-20T08:15:58+00:00",
+          "atualizado": "2026-10-05T08:20:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               153.3
             ]
           ]
@@ -1091,10 +1147,10 @@
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-09-20T08:24:05+00:00",
+          "atualizado": "2026-10-05T08:22:51+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               153.3
             ]
           ]
@@ -1105,52 +1161,10 @@
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-09-20T08:31:38+00:00",
+          "atualizado": "2026-10-05T08:26:24+00:00",
           "history": [
             [
-              "2026-09-20",
-              153.3
-            ]
-          ]
-        },
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-09-20T08:35:26+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              153.3
-            ]
-          ]
-        },
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-09-20T08:43:05+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              153.3
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-09-20T08:51:02+00:00",
-          "history": [
-            [
-              "2026-09-20",
+              "2026-10-05",
               153.3
             ]
           ]
@@ -1534,57 +1548,43 @@
           ]
         },
         {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-10-02T08:49:18+00:00",
+          "atualizado": "2026-10-05T08:30:07+00:00",
           "history": [
             [
-              "2026-10-02",
+              "2026-10-05",
               153.3
             ]
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-10-02T08:56:01+00:00",
+          "atualizado": "2026-10-05T08:31:53+00:00",
           "history": [
             [
-              "2026-10-02",
+              "2026-10-05",
               153.3
             ]
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 219,
           "preco_desconto": 65.7,
           "preco_final": 153.3,
-          "atualizado": "2026-10-02T09:03:51+00:00",
+          "atualizado": "2026-10-05T08:33:27+00:00",
           "history": [
             [
-              "2026-10-02",
-              153.3
-            ]
-          ]
-        },
-        {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 219,
-          "preco_desconto": 65.7,
-          "preco_final": 153.3,
-          "atualizado": "2026-10-02T09:10:40+00:00",
-          "history": [
-            [
-              "2026-10-02",
+              "2026-10-05",
               153.3
             ]
           ]
@@ -1708,15 +1708,15 @@
           ]
         },
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 229,
           "preco_desconto": 41,
           "preco_final": 188,
-          "atualizado": "2026-09-20T08:00:38+00:00",
+          "atualizado": "2026-10-02T08:56:01+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               188
             ]
           ]
@@ -1731,20 +1731,6 @@
           "history": [
             [
               "2026-09-20",
-              188
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 229,
-          "preco_desconto": 41,
-          "preco_final": 188,
-          "atualizado": "2026-10-02T08:56:01+00:00",
-          "history": [
-            [
-              "2026-10-02",
               188
             ]
           ]
@@ -1767,10 +1753,10 @@
           "preco_normal": 198,
           "preco_desconto": 0.0,
           "preco_final": 198,
-          "atualizado": "2026-09-20T08:08:22+00:00",
+          "atualizado": "2026-10-04T23:56:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               198
             ]
           ]
@@ -1863,10 +1849,10 @@
           "preco_normal": 248,
           "preco_desconto": 0.0,
           "preco_final": 248,
-          "atualizado": "2026-09-20T08:00:38+00:00",
+          "atualizado": "2026-10-02T09:25:47+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               248
             ]
           ]
@@ -1877,52 +1863,10 @@
           "preco_normal": 299,
           "preco_desconto": 51,
           "preco_final": 248,
-          "atualizado": "2026-09-20T08:15:58+00:00",
+          "atualizado": "2026-10-05T08:20:03+00:00",
           "history": [
             [
-              "2026-09-20",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-09-20T08:35:26+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 248,
-          "preco_desconto": 0.0,
-          "preco_final": 248,
-          "atualizado": "2026-09-20T08:43:05+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 248,
-          "preco_desconto": 0.0,
-          "preco_final": 248,
-          "atualizado": "2026-09-20T08:51:02+00:00",
-          "history": [
-            [
-              "2026-09-20",
+              "2026-10-05",
               248
             ]
           ]
@@ -1979,6 +1923,48 @@
           "history": [
             [
               "2026-09-20",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-10-05T08:30:07+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 248,
+          "preco_desconto": 0.0,
+          "preco_final": 248,
+          "atualizado": "2026-10-05T08:31:53+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 248,
+          "preco_desconto": 0.0,
+          "preco_final": 248,
+          "atualizado": "2026-10-05T08:33:27+00:00",
+          "history": [
+            [
+              "2026-10-05",
               248
             ]
           ]
@@ -2052,15 +2038,71 @@
           ]
         },
         {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-10-02T08:49:18+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-10-02T08:56:01+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-10-02T09:03:51+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              209.3
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 299,
+          "preco_desconto": 89.7,
+          "preco_final": 209.3,
+          "atualizado": "2026-10-02T09:10:40+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              209.3
+            ]
+          ]
+        },
+        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T07:52:57+00:00",
+          "atualizado": "2026-10-02T09:19:07+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               209.3
             ]
           ]
@@ -2071,10 +2113,10 @@
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T08:00:38+00:00",
+          "atualizado": "2026-10-02T09:25:47+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               209.3
             ]
           ]
@@ -2085,10 +2127,10 @@
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T08:08:22+00:00",
+          "atualizado": "2026-10-04T23:56:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               209.3
             ]
           ]
@@ -2099,10 +2141,10 @@
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T08:15:58+00:00",
+          "atualizado": "2026-10-05T08:20:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               209.3
             ]
           ]
@@ -2113,10 +2155,10 @@
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T08:24:05+00:00",
+          "atualizado": "2026-10-05T08:22:51+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               209.3
             ]
           ]
@@ -2127,52 +2169,10 @@
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-09-20T08:31:38+00:00",
+          "atualizado": "2026-10-05T08:26:24+00:00",
           "history": [
             [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T08:35:26+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T08:43:05+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-09-20T08:51:02+00:00",
-          "history": [
-            [
-              "2026-09-20",
+              "2026-10-05",
               209.3
             ]
           ]
@@ -2570,57 +2570,43 @@
           ]
         },
         {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-10-02T08:49:18+00:00",
+          "atualizado": "2026-10-05T08:30:07+00:00",
           "history": [
             [
-              "2026-10-02",
+              "2026-10-05",
               209.3
             ]
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-10-02T08:56:01+00:00",
+          "atualizado": "2026-10-05T08:31:53+00:00",
           "history": [
             [
-              "2026-10-02",
+              "2026-10-05",
               209.3
             ]
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 299,
           "preco_desconto": 89.7,
           "preco_final": 209.3,
-          "atualizado": "2026-10-02T09:03:51+00:00",
+          "atualizado": "2026-10-05T08:33:27+00:00",
           "history": [
             [
-              "2026-10-02",
-              209.3
-            ]
-          ]
-        },
-        {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 299,
-          "preco_desconto": 89.7,
-          "preco_final": 209.3,
-          "atualizado": "2026-10-02T09:10:40+00:00",
-          "history": [
-            [
-              "2026-10-02",
+              "2026-10-05",
               209.3
             ]
           ]
@@ -2711,10 +2697,10 @@
           "preco_normal": 279,
           "preco_desconto": 51,
           "preco_final": 228,
-          "atualizado": "2026-09-20T07:52:57+00:00",
+          "atualizado": "2026-10-02T09:19:07+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               228
             ]
           ]
@@ -2731,20 +2717,6 @@
       "m2_caixa": null,
       "preco_final": 228,
       "prices": [
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 279,
-          "preco_desconto": 51,
-          "preco_final": 228,
-          "atualizado": "2026-09-20T08:51:02+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              228
-            ]
-          ]
-        },
         {
           "store": "Guarda (Guarda)",
           "region": "Guarda",
@@ -2769,6 +2741,20 @@
           "history": [
             [
               "2026-09-20",
+              228
+            ]
+          ]
+        },
+        {
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
+          "preco_normal": 279,
+          "preco_desconto": 51,
+          "preco_final": 228,
+          "atualizado": "2026-10-05T08:33:27+00:00",
+          "history": [
+            [
+              "2026-10-05",
               228
             ]
           ]
@@ -2842,15 +2828,71 @@
           ]
         },
         {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-10-02T08:49:18+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-10-02T08:56:01+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-10-02T09:03:51+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              257.4
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 429,
+          "preco_desconto": 171.6,
+          "preco_final": 257.4,
+          "atualizado": "2026-10-02T09:10:40+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              257.4
+            ]
+          ]
+        },
+        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-09-20T07:52:57+00:00",
+          "atualizado": "2026-10-02T09:19:07+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               257.4
             ]
           ]
@@ -2861,10 +2903,10 @@
           "preco_normal": 257.4,
           "preco_desconto": 0.0,
           "preco_final": 257.4,
-          "atualizado": "2026-09-20T08:00:38+00:00",
+          "atualizado": "2026-10-02T09:25:47+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               257.4
             ]
           ]
@@ -2875,10 +2917,10 @@
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-09-20T08:08:22+00:00",
+          "atualizado": "2026-10-04T23:56:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               257.4
             ]
           ]
@@ -2889,10 +2931,10 @@
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-09-20T08:15:58+00:00",
+          "atualizado": "2026-10-05T08:20:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               257.4
             ]
           ]
@@ -2903,10 +2945,10 @@
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-09-20T08:24:05+00:00",
+          "atualizado": "2026-10-05T08:22:51+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               257.4
             ]
           ]
@@ -2917,52 +2959,10 @@
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-09-20T08:31:38+00:00",
+          "atualizado": "2026-10-05T08:26:24+00:00",
           "history": [
             [
-              "2026-09-20",
-              257.4
-            ]
-          ]
-        },
-        {
-          "store": "Castelo Branco (Castelo Branco)",
-          "region": "Castelo Branco",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-09-20T08:35:26+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              257.4
-            ]
-          ]
-        },
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-09-20T08:43:05+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              257.4
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-09-20T08:51:02+00:00",
-          "history": [
-            [
-              "2026-09-20",
+              "2026-10-05",
               257.4
             ]
           ]
@@ -3360,57 +3360,43 @@
           ]
         },
         {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
+          "store": "Castelo Branco (Castelo Branco)",
+          "region": "Castelo Branco",
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-10-02T08:49:18+00:00",
+          "atualizado": "2026-10-05T08:30:07+00:00",
           "history": [
             [
-              "2026-10-02",
+              "2026-10-05",
               257.4
             ]
           ]
         },
         {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-10-02T08:56:01+00:00",
+          "atualizado": "2026-10-05T08:31:53+00:00",
           "history": [
             [
-              "2026-10-02",
+              "2026-10-05",
               257.4
             ]
           ]
         },
         {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
+          "store": "Coimbra (Coimbra)",
+          "region": "Coimbra",
           "preco_normal": 429,
           "preco_desconto": 171.6,
           "preco_final": 257.4,
-          "atualizado": "2026-10-02T09:03:51+00:00",
+          "atualizado": "2026-10-05T08:33:27+00:00",
           "history": [
             [
-              "2026-10-02",
-              257.4
-            ]
-          ]
-        },
-        {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 429,
-          "preco_desconto": 171.6,
-          "preco_final": 257.4,
-          "atualizado": "2026-10-02T09:10:40+00:00",
-          "history": [
-            [
-              "2026-10-02",
+              "2026-10-05",
               257.4
             ]
           ]
@@ -3473,10 +3459,10 @@
           "preco_normal": 298,
           "preco_desconto": 0.0,
           "preco_final": 298,
-          "atualizado": "2026-09-20T08:08:22+00:00",
+          "atualizado": "2026-10-04T23:56:13+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               298
             ]
           ]
@@ -3550,270 +3536,6 @@
       ]
     },
     {
-      "id": "86600587",
-      "name": "Conjunto de duche MONOCOMANDO GROHE VITALIO START 250",
-      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html",
-      "dimensao": null,
-      "marca": "GROHE",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 298,
-      "prices": [
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 479,
-          "preco_desconto": 181,
-          "preco_final": 298,
-          "atualizado": "2026-09-20T08:43:05+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              298
-            ]
-          ]
-        },
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 479,
-          "preco_desconto": 131,
-          "preco_final": 348,
-          "atualizado": "2026-09-20T08:00:38+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              348
-            ]
-          ]
-        },
-        {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
-          "preco_normal": 479,
-          "preco_desconto": 121,
-          "preco_final": 358,
-          "atualizado": "2026-09-20T10:36:55+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              358
-            ]
-          ]
-        },
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T12:11:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T12:50:10+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Barreiro (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T07:52:57+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T08:15:58+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Evora (Evora)",
-          "region": "Evora",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T09:13:48+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T09:36:13+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T09:43:51+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T10:06:52+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T12:27:00+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T10:22:27+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T10:44:41+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T11:08:25+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T11:55:38+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-09-20T12:03:21+00:00",
-          "history": [
-            [
-              "2026-09-20",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-02T08:56:01+00:00",
-          "history": [
-            [
-              "2026-10-02",
-              388
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "89128698",
       "name": "Coluna para duche hidromassagem com torneira   GROHE Vitalio Start 250",
       "url": "https://www.leroymerlin.pt/produtos/coluna-para-duche-hidromassagem-com-torneira-grohe-vitalio-start-250-89128698.html",
@@ -3857,10 +3579,10 @@
           "preco_normal": 339,
           "preco_desconto": 0.0,
           "preco_final": 339,
-          "atualizado": "2026-09-20T08:00:38+00:00",
+          "atualizado": "2026-10-02T09:25:47+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               339
             ]
           ]
@@ -3894,15 +3616,29 @@
           ]
         },
         {
+          "store": "Alverca (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-10-02T08:49:18+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              408
+            ]
+          ]
+        },
+        {
           "store": "Barreiro (Setubal)",
           "region": "Setubal",
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-09-20T07:52:57+00:00",
+          "atualizado": "2026-10-02T09:19:07+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-02",
               408
             ]
           ]
@@ -3976,20 +3712,6 @@
               408
             ]
           ]
-        },
-        {
-          "store": "Alverca (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-10-02T08:49:18+00:00",
-          "history": [
-            [
-              "2026-10-02",
-              408
-            ]
-          ]
         }
       ]
     },
@@ -4023,10 +3745,10 @@
           "preco_normal": 569,
           "preco_desconto": 101,
           "preco_final": 468,
-          "atualizado": "2026-09-20T08:15:58+00:00",
+          "atualizado": "2026-10-05T08:20:03+00:00",
           "history": [
             [
-              "2026-09-20",
+              "2026-10-05",
               468
             ]
           ]
@@ -4138,6 +3860,242 @@
             [
               "2026-09-20",
               348
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86600587",
+      "name": "Conjunto de duche MONOCOMANDO GROHE VITALIO START 250",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-monocomando-grohe-vitalio-start-250-86600587.html",
+      "dimensao": null,
+      "marca": "GROHE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 348,
+      "prices": [
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 479,
+          "preco_desconto": 131,
+          "preco_final": 348,
+          "atualizado": "2026-10-02T09:25:47+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 479,
+          "preco_desconto": 121,
+          "preco_final": 358,
+          "atualizado": "2026-09-20T10:36:55+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              358
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T12:11:00+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T12:50:10+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-02T08:56:01+00:00",
+          "history": [
+            [
+              "2026-10-02",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-05T08:20:03+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T09:13:48+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T09:36:13+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T09:43:51+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T10:06:52+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T12:27:00+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T10:22:27+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T10:44:41+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T11:08:25+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T11:55:38+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-09-20T12:03:21+00:00",
+          "history": [
+            [
+              "2026-09-20",
+              388
             ]
           ]
         }
