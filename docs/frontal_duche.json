@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:23:28+00:00",
+  "generated": "2026-10-05T09:28:06+00:00",
   "products": [
     {
       "id": "19318593",
@@ -106,20 +106,6 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
-          "preco_normal": 279,
-          "preco_desconto": 51,
-          "preco_final": 228,
-          "atualizado": "2026-09-22T22:34:37+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              228
-            ]
-          ]
-        },
-        {
           "store": "Santarem (Santarem)",
           "region": "Santarem",
           "preco_normal": 228,
@@ -129,6 +115,20 @@
           "history": [
             [
               "2026-09-22",
+              228
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 279,
+          "preco_desconto": 51,
+          "preco_final": 228,
+          "atualizado": "2026-10-05T09:24:43+00:00",
+          "history": [
+            [
+              "2026-10-05",
               228
             ]
           ]
@@ -878,32 +878,6 @@
       ]
     },
     {
-      "id": "82242434",
-      "name": "Porta de duche + 2 portas transparente preto 120x200 cm Sensea Neo",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-preto-120x200-cm-sensea-neo-82242434.html",
-      "dimensao": "120x200",
-      "marca": "SENSEA",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 398,
-      "prices": [
-        {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
-          "preco_normal": 398,
-          "preco_desconto": 0.0,
-          "preco_final": 398,
-          "atualizado": "2026-09-22T22:34:37+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              398
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "87274339",
       "name": "Porta de duche 2 folhas 150x200 cm preto transparente Roca Apolo",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-150x200-cm-preto-transparente-roca-apolo-87274339.html",
@@ -920,6 +894,32 @@
           "preco_desconto": 88,
           "preco_final": 398,
           "atualizado": "2026-10-05T09:15:12+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              398
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82242434",
+      "name": "Porta de duche + 2 portas transparente preto 120x200 cm Sensea Neo",
+      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-preto-120x200-cm-sensea-neo-82242434.html",
+      "dimensao": "120x200",
+      "marca": "SENSEA",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 398,
+      "prices": [
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 398,
+          "preco_desconto": 0.0,
+          "preco_final": 398,
+          "atualizado": "2026-10-05T09:24:43+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1496,29 +1496,29 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-09-22T22:34:37+00:00",
+          "atualizado": "2026-10-05T09:20:04+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               419.4
             ]
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-09-22T22:40:06+00:00",
+          "atualizado": "2026-10-05T09:22:47+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               419.4
             ]
           ]
@@ -1650,12 +1650,12 @@
           ]
         },
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
+          "store": "Portimao (Faro)",
+          "region": "Faro",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-10-05T09:20:04+00:00",
+          "atualizado": "2026-10-05T09:24:43+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1664,12 +1664,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 699,
           "preco_desconto": 279.6,
           "preco_final": 419.4,
-          "atualizado": "2026-10-05T09:22:47+00:00",
+          "atualizado": "2026-10-05T09:27:22+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2320,29 +2320,29 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-09-22T22:34:37+00:00",
+          "atualizado": "2026-10-05T09:20:04+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               564.4
             ]
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-09-22T22:40:06+00:00",
+          "atualizado": "2026-10-05T09:22:47+00:00",
           "history": [
             [
-              "2026-09-22",
+              "2026-10-05",
               564.4
             ]
           ]
@@ -2474,12 +2474,12 @@
           ]
         },
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
+          "store": "Portimao (Faro)",
+          "region": "Faro",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-10-05T09:20:04+00:00",
+          "atualizado": "2026-10-05T09:24:43+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2488,12 +2488,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 664,
           "preco_desconto": 99.6,
           "preco_final": 564.4,
-          "atualizado": "2026-10-05T09:22:47+00:00",
+          "atualizado": "2026-10-05T09:27:22+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2633,34 +2633,6 @@
           "history": [
             [
               "2026-09-23",
-              638.1
-            ]
-          ]
-        },
-        {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T22:34:37+00:00",
-          "history": [
-            [
-              "2026-09-22",
-              638.1
-            ]
-          ]
-        },
-        {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 709,
-          "preco_desconto": 70.9,
-          "preco_final": 638.1,
-          "atualizado": "2026-09-22T22:40:06+00:00",
-          "history": [
-            [
-              "2026-09-22",
               638.1
             ]
           ]

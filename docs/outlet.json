@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:23:28+00:00",
+  "generated": "2026-10-05T09:28:06+00:00",
   "products": [
     {
       "id": "81992803",
@@ -604,29 +604,29 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-29T21:45:55+00:00",
+          "atualizado": "2026-10-05T09:17:38+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               104.3
             ]
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-09-29T21:47:24+00:00",
+          "atualizado": "2026-10-05T09:22:17+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               104.3
             ]
           ]
@@ -758,12 +758,12 @@
           ]
         },
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
+          "store": "Portimao (Faro)",
+          "region": "Faro",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-05T09:17:38+00:00",
+          "atualizado": "2026-10-05T09:24:12+00:00",
           "history": [
             [
               "2026-10-05",
@@ -772,12 +772,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 149,
           "preco_desconto": 44.7,
           "preco_final": 104.3,
-          "atualizado": "2026-10-05T09:22:17+00:00",
+          "atualizado": "2026-10-05T09:26:50+00:00",
           "history": [
             [
               "2026-10-05",
@@ -1170,20 +1170,6 @@
       "preco_final": 148,
       "prices": [
         {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 148,
-          "preco_desconto": 0.0,
-          "preco_final": 148,
-          "atualizado": "2026-09-29T22:01:26+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              148
-            ]
-          ]
-        },
-        {
           "store": "Oeiras (Lisboa)",
           "region": "Lisboa",
           "preco_normal": 148,
@@ -1193,6 +1179,20 @@
           "history": [
             [
               "2026-10-05",
+              148
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 148,
+          "preco_desconto": 0.0,
+          "preco_final": 148,
+          "atualizado": "2026-09-29T22:01:26+00:00",
+          "history": [
+            [
+              "2026-09-29",
               148
             ]
           ]
@@ -1848,29 +1848,29 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-29T21:45:55+00:00",
+          "atualizado": "2026-10-05T09:17:38+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               167.2
             ]
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-09-29T21:47:24+00:00",
+          "atualizado": "2026-10-05T09:22:17+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               167.2
             ]
           ]
@@ -2002,12 +2002,12 @@
           ]
         },
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
+          "store": "Portimao (Faro)",
+          "region": "Faro",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-10-05T09:17:38+00:00",
+          "atualizado": "2026-10-05T09:24:12+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2016,12 +2016,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 209,
           "preco_desconto": 41.8,
           "preco_final": 167.2,
-          "atualizado": "2026-10-05T09:22:17+00:00",
+          "atualizado": "2026-10-05T09:26:50+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2490,29 +2490,29 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-29T21:45:55+00:00",
+          "atualizado": "2026-10-05T09:17:38+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               167.4
             ]
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-09-29T21:47:24+00:00",
+          "atualizado": "2026-10-05T09:22:17+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               167.4
             ]
           ]
@@ -2644,12 +2644,12 @@
           ]
         },
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
+          "store": "Portimao (Faro)",
+          "region": "Faro",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-10-05T09:17:38+00:00",
+          "atualizado": "2026-10-05T09:24:12+00:00",
           "history": [
             [
               "2026-10-05",
@@ -2658,12 +2658,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 279,
           "preco_desconto": 111.6,
           "preco_final": 167.4,
-          "atualizado": "2026-10-05T09:22:17+00:00",
+          "atualizado": "2026-10-05T09:26:50+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3252,29 +3252,29 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-29T21:45:55+00:00",
+          "atualizado": "2026-10-05T09:17:38+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               184.8
             ]
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 184.8,
-          "preco_desconto": 0.0,
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 264,
+          "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-09-29T21:47:24+00:00",
+          "atualizado": "2026-10-05T09:22:17+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               184.8
             ]
           ]
@@ -3406,12 +3406,12 @@
           ]
         },
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
+          "store": "Portimao (Faro)",
+          "region": "Faro",
           "preco_normal": 264,
           "preco_desconto": 79.2,
           "preco_final": 184.8,
-          "atualizado": "2026-10-05T09:17:38+00:00",
+          "atualizado": "2026-10-05T09:24:12+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3420,12 +3420,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
-          "preco_normal": 264,
-          "preco_desconto": 79.2,
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 184.8,
+          "preco_desconto": 0.0,
           "preco_final": 184.8,
-          "atualizado": "2026-10-05T09:22:17+00:00",
+          "atualizado": "2026-10-05T09:26:50+00:00",
           "history": [
             [
               "2026-10-05",
@@ -3804,34 +3804,6 @@
           "preco_desconto": 136,
           "preco_final": 204,
           "atualizado": "2026-09-29T22:04:25+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              204
-            ]
-          ]
-        },
-        {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
-          "preco_normal": 340,
-          "preco_desconto": 136,
-          "preco_final": 204,
-          "atualizado": "2026-09-29T21:45:55+00:00",
-          "history": [
-            [
-              "2026-09-29",
-              204
-            ]
-          ]
-        },
-        {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 340,
-          "preco_desconto": 136,
-          "preco_final": 204,
-          "atualizado": "2026-09-29T21:47:24+00:00",
           "history": [
             [
               "2026-09-29",
@@ -4264,6 +4236,34 @@
           "preco_desconto": 142,
           "preco_final": 213,
           "atualizado": "2026-10-05T09:22:17+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              213
+            ]
+          ]
+        },
+        {
+          "store": "Portimao (Faro)",
+          "region": "Faro",
+          "preco_normal": 355,
+          "preco_desconto": 142,
+          "preco_final": 213,
+          "atualizado": "2026-10-05T09:24:12+00:00",
+          "history": [
+            [
+              "2026-10-05",
+              213
+            ]
+          ]
+        },
+        {
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 355,
+          "preco_desconto": 142,
+          "preco_final": 213,
+          "atualizado": "2026-10-05T09:26:50+00:00",
           "history": [
             [
               "2026-10-05",
@@ -4758,29 +4758,29 @@
           ]
         },
         {
-          "store": "Portimao (Faro)",
-          "region": "Faro",
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-29T21:45:55+00:00",
+          "atualizado": "2026-10-05T09:17:38+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               239.2
             ]
           ]
         },
         {
-          "store": "Sacavem (Lisboa)",
-          "region": "Lisboa",
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-09-29T21:47:24+00:00",
+          "atualizado": "2026-10-05T09:22:17+00:00",
           "history": [
             [
-              "2026-09-29",
+              "2026-10-05",
               239.2
             ]
           ]
@@ -4912,12 +4912,12 @@
           ]
         },
         {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
+          "store": "Portimao (Faro)",
+          "region": "Faro",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-10-05T09:17:38+00:00",
+          "atualizado": "2026-10-05T09:24:12+00:00",
           "history": [
             [
               "2026-10-05",
@@ -4926,12 +4926,12 @@
           ]
         },
         {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
+          "store": "Sacavem (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 299,
           "preco_desconto": 59.8,
           "preco_final": 239.2,
-          "atualizado": "2026-10-05T09:22:17+00:00",
+          "atualizado": "2026-10-05T09:26:50+00:00",
           "history": [
             [
               "2026-10-05",
