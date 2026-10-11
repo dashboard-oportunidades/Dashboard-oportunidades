@@ -50,17 +50,6 @@ CATEGORIAS = {
         "state_file": "outlet_state_monosplit.json",
         "out_file": "docs/monosplit.json",
     },
-    "termoacumuladores": {
-        "label": "Termoacumuladores",
-        "url": (
-            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
-            "?filters=%7B%22breadcrumb-1-label%22%3A%22Aquecimento%2520e%2520Climatiza"
-            "%25C3%25A7%25C3%25A3o%22%2C%22attribute-22088%22%3A%22Aquecedor%2520de%2520"
-            "%25C3%25A1gua%2520el%25C3%25A9trico%2520acumulado%22%7D"
-        ),
-        "state_file": "outlet_state_termoacumuladores.json",
-        "out_file": "docs/termoacumuladores.json",
-    },
     "frontal-duche": {
         "label": "Frontal Duche",
         "url": (
