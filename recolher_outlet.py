@@ -401,19 +401,23 @@ def main() -> int:
                     loja_ok = True
                     for j, slug in enumerate(categoria_slugs):
                         if j > 0:
-                            time.sleep(random.uniform(8, 15))
+                            time.sleep(random.uniform(4, 8))
                         categoria = CATEGORIAS[slug]
                         outlet_url = categoria["url"]
+                        t_inicio = time.monotonic()
                         print(f"> Loja: {label} -- {categoria['label']}")
                         page.goto(outlet_url, wait_until="domcontentloaded", timeout=60000)
                         page.wait_for_timeout(2000)
 
-                        if page.locator("#onetrust-accept-btn-handler").count() > 0:
+                        banner = page.locator("#onetrust-accept-btn-handler")
+                        if banner.count() > 0 and banner.first.is_visible():
                             print("\n>>> Aparece o banner de cookies -- clica em 'Aceitar' na janela do browser.\n")
+                            t_banner = time.monotonic()
                             try:
-                                page.locator("#onetrust-accept-btn-handler").wait_for(state="hidden", timeout=60000)
+                                banner.first.wait_for(state="hidden", timeout=60000)
                             except Exception:
                                 pass
+                            print(f"  (banner: esperei {time.monotonic() - t_banner:.0f}s)")
 
                         if is_captcha(page.content()):
                             if not wait_for_human(page):
@@ -426,7 +430,7 @@ def main() -> int:
 
                         html = page.content()
                         products = parse_listing(html)
-                        print(f"  {len(products)} produtos")
+                        print(f"  {len(products)} produtos ({time.monotonic() - t_inicio:.0f}s)")
 
                         # Visita valida mesmo com 0 produtos -- pode ser mesmo que
                         # esta loja nao tenha outlet desta categoria agora.
