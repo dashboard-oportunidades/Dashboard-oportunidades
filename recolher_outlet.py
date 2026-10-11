@@ -414,7 +414,7 @@ def main() -> int:
                             print("\n>>> Aparece o banner de cookies -- clica em 'Aceitar' na janela do browser.\n")
                             t_banner = time.monotonic()
                             try:
-                                banner.first.wait_for(state="hidden", timeout=60000)
+                                banner.first.wait_for(state="hidden", timeout=10000)
                             except Exception:
                                 pass
                             print(f"  (banner: esperei {time.monotonic() - t_banner:.0f}s)")
