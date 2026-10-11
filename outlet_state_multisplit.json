@@ -1,6 +1,6 @@
 {
   "lojas": {
-    "Albufeira (Faro)": "2026-10-05T10:03:56+00:00",
+    "Albufeira (Faro)": "2026-10-11T12:15:30+00:00",
     "Alfragide (Lisboa)": "2026-10-05T11:09:09+00:00",
     "Almada (Setubal)": "2026-10-05T10:20:36+00:00",
     "Alta de Lisboa (Lisboa)": "2026-10-05T11:11:07+00:00",
@@ -29,30 +29,51 @@
     "Loule (Faro)": "2026-10-11T11:32:36+00:00",
     "Loures (Lisboa)": "2026-10-11T11:38:38+00:00",
     "Mafra (Lisboa)": "2026-10-05T10:31:00+00:00",
-    "Maia (Porto)": "2026-10-05T10:12:38+00:00",
-    "Matosinhos (Porto)": "2026-10-05T10:05:52+00:00",
+    "Maia (Porto)": "2026-10-11T12:19:14+00:00",
+    "Matosinhos (Porto)": "2026-10-11T12:17:22+00:00",
     "Montijo (Setubal)": "2026-10-11T11:44:42+00:00",
-    "Oeiras (Lisboa)": "2026-10-05T09:21:33+00:00",
-    "Penafiel (Porto)": "2026-10-05T09:23:13+00:00",
-    "Portimao (Faro)": "2026-10-05T09:25:14+00:00",
-    "Sacavem (Lisboa)": "2026-10-05T09:27:50+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-10-05T09:29:37+00:00",
-    "Santarem (Santarem)": "2026-10-05T09:34:26+00:00",
-    "Setubal (Setubal)": "2026-10-05T09:41:07+00:00",
-    "Sintra (Lisboa)": "2026-10-05T09:43:48+00:00",
-    "Telheiras (Lisboa)": "2026-10-05T09:45:49+00:00",
-    "Torres Novas (Santarem)": "2026-10-05T09:49:57+00:00",
-    "Torres Vedras (Lisboa)": "2026-10-05T09:51:52+00:00",
-    "Viana do Castelo (Viana do Castelo)": "2026-10-05T09:54:32+00:00",
-    "Viseu (Viseu)": "2026-10-05T10:01:21+00:00"
+    "Oeiras (Lisboa)": "2026-10-11T11:50:41+00:00",
+    "Penafiel (Porto)": "2026-10-11T11:52:36+00:00",
+    "Portimao (Faro)": "2026-10-11T11:54:30+00:00",
+    "Sacavem (Lisboa)": "2026-10-11T11:56:25+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-10-11T11:58:20+00:00",
+    "Santarem (Santarem)": "2026-10-11T12:00:12+00:00",
+    "Setubal (Setubal)": "2026-10-11T12:02:05+00:00",
+    "Sintra (Lisboa)": "2026-10-11T12:04:03+00:00",
+    "Telheiras (Lisboa)": "2026-10-11T12:05:58+00:00",
+    "Torres Novas (Santarem)": "2026-10-11T12:07:54+00:00",
+    "Torres Vedras (Lisboa)": "2026-10-11T12:09:49+00:00",
+    "Viana do Castelo (Viana do Castelo)": "2026-10-11T12:11:42+00:00",
+    "Viseu (Viseu)": "2026-10-11T12:13:39+00:00"
   },
   "products": {
+    "77172971@Santarem (Santarem)": {
+      "atualizado": "2026-10-11T12:00:12+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-10-11",
+          799
+        ]
+      ],
+      "id": "77172971",
+      "m2_caixa": null,
+      "marca": "SAMSUNG",
+      "name": "Ar condicionado fixo (2X1) AJ40 LUZON S2 SAMSUNG 9+12 KBTU",
+      "preco_desconto": 200,
+      "preco_final": 799,
+      "preco_normal": 999,
+      "region": "Santarem",
+      "retificado": false,
+      "store": "Santarem (Santarem)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-aj40-luzon-s2-samsung-9-12-kbtu-77172971.html"
+    },
     "82143647@Albufeira (Faro)": {
-      "atualizado": "2026-10-05T10:03:56+00:00",
+      "atualizado": "2026-10-11T12:15:30+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-05",
+          "2026-10-11",
           558
         ]
       ],
@@ -174,11 +195,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-hisense-comfort-9000-12000-btu-84622735.html"
     },
     "84622738@Penafiel (Porto)": {
-      "atualizado": "2026-10-05T09:23:13+00:00",
+      "atualizado": "2026-10-11T11:52:36+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-05",
+          "2026-10-11",
           2248
         ]
       ],
@@ -195,11 +216,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-4x1-hisense-comfort-3x9000-12000-btu-84622738.html"
     },
     "84622738@Setubal (Setubal)": {
-      "atualizado": "2026-10-05T09:41:07+00:00",
+      "atualizado": "2026-10-11T12:02:05+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-05",
+          "2026-10-11",
           2248
         ]
       ],
@@ -216,11 +237,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-4x1-hisense-comfort-3x9000-12000-btu-84622738.html"
     },
     "84622739@Sintra (Lisboa)": {
-      "atualizado": "2026-10-05T09:43:48+00:00",
+      "atualizado": "2026-10-11T12:04:03+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-05",
+          "2026-10-11",
           3128
         ]
       ],
@@ -299,26 +320,26 @@
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-2x9000-12000-btu-ariston-alys-87694849.html"
     },
-    "90402657@Maia (Porto)": {
-      "atualizado": "2026-10-05T10:12:38+00:00",
-      "dimensao": "9000 BTU",
+    "88293343@Sintra (Lisboa)": {
+      "atualizado": "2026-10-11T12:04:03+00:00",
+      "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-05",
-          828
+          "2026-10-11",
+          2608
         ]
       ],
-      "id": "90402657",
+      "id": "88293343",
       "m2_caixa": null,
-      "marca": "HAIER",
-      "name": "Ar condicionado fixo (2X1) 9000 + 9000 Btu Haier Perla premium",
-      "preco_desconto": 201,
-      "preco_final": 828,
-      "preco_normal": 1029,
-      "region": "Porto",
+      "marca": "SAMSUNG",
+      "name": "Ar condicionado fixo (3x1) SAMSUNG COMFORT AJ080 9000 + 9000 + 12000BTU",
+      "preco_desconto": 0.0,
+      "preco_final": 2608,
+      "preco_normal": 2608,
+      "region": "Lisboa",
       "retificado": false,
-      "store": "Maia (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-2x1-9000-9000-btu-haier-perla-premium-90402657.html"
+      "store": "Sintra (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-3x1-samsung-comfort-aj080-9000-9000-12000btu-88293343.html"
     },
     "90402658@Figueira da Foz (Coimbra)": {
       "atualizado": "2026-10-11T10:58:10+00:00",
@@ -426,11 +447,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
     },
     "92041665@Sintra (Lisboa)": {
-      "atualizado": "2026-10-05T09:43:48+00:00",
+      "atualizado": "2026-10-11T12:04:03+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-05",
+          "2026-10-11",
           1008
         ]
       ],
@@ -445,6 +466,27 @@
       "retificado": false,
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ariston-alys-multi-split-9000-12000-btu-92041665.html"
+    },
+    "94727298@Viseu (Viseu)": {
+      "atualizado": "2026-10-11T12:13:39+00:00",
+      "dimensao": "12000 BTU",
+      "history": [
+        [
+          "2026-10-11",
+          1008
+        ]
+      ],
+      "id": "94727298",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado 2x1 HAIER Flexis s wifi 9+12kbtu branco",
+      "preco_desconto": 68.37,
+      "preco_final": 1008,
+      "preco_normal": 1076.37,
+      "region": "Viseu",
+      "retificado": false,
+      "store": "Viseu (Viseu)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-2x1-haier-flexis-s-wifi-9-12kbtu-branco-94727298.html"
     }
   }
 }
