@@ -74,6 +74,7 @@ CATEGORIAS = {
         ),
         "state_file": "outlet_state_coluna_duche.json",
         "out_file": "docs/coluna_duche.json",
+        "marcas": ["GROHE"],
     },
 }
 
@@ -176,6 +177,15 @@ def parse_listing(html: str) -> dict[str, dict]:
                     found[pid] = entry
 
     return found
+
+
+def filtrar_marcas(products: dict[str, dict], marcas: list[str] | None) -> dict[str, dict]:
+    """So as marcas pedidas para a categoria (sem distinguir maiusculas);
+    sem lista, devolve tudo."""
+    if not marcas:
+        return products
+    permitidas = {m.lower() for m in marcas}
+    return {pid: p for pid, p in products.items() if (p.get("marca") or "").lower() in permitidas}
 
 
 def set_store_cookies(context, store: dict) -> None:
@@ -426,7 +436,10 @@ def main() -> int:
 
                         html = page.content()
                         products = parse_listing(html)
-                        print(f"  {len(products)} produtos ({time.monotonic() - t_inicio:.0f}s)")
+                        total_pagina = len(products)
+                        products = filtrar_marcas(products, categoria.get("marcas"))
+                        filtro_txt = f" de {total_pagina}" if len(products) != total_pagina else ""
+                        print(f"  {len(products)}{filtro_txt} produtos ({time.monotonic() - t_inicio:.0f}s)")
 
                         # Visita valida mesmo com 0 produtos -- pode ser mesmo que
                         # esta loja nao tenha outlet desta categoria agora.
