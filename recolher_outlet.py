@@ -76,6 +76,17 @@ CATEGORIAS = {
         "out_file": "docs/coluna_duche.json",
         "marcas": ["GROHE"],
     },
+    "mesa-jardim": {
+        "label": "Mesa de Jardim",
+        "url": (
+            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
+            "?sort=price-desc&filters=%7B%22breadcrumb-1-label%22%3A%22Jardim%22"
+            "%2C%22attribute-22088%22%3A%22Mesa%2520de%2520jardim%2520para%2520refei"
+            "%25C3%25A7%25C3%25B5es%22%7D"
+        ),
+        "state_file": "outlet_state_mesa_jardim.json",
+        "out_file": "docs/mesa_jardim.json",
+    },
 }
 
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
