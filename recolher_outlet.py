@@ -24,6 +24,9 @@ from playwright.sync_api import sync_playwright
 ROOT = Path(__file__).resolve().parent
 CONFIG_FILE = ROOT / "config.json"
 HISTORY_LIMIT = 180
+PAUSA_ENTRE_LOJAS_S = (20, 32)
+LOJAS_ATE_PAUSA_LONGA = 15
+PAUSA_LONGA_S = 90
 
 # Cada categoria e um separador ("tab") no dashboard. Para acrescentar uma
 # nova, basta adicionar uma entrada aqui com o URL do outlet ja filtrado
@@ -382,8 +385,12 @@ def main() -> int:
         try:
             for i, store in enumerate(stores):
                 if i > 0:
-                    pausa = 25
-                    print(f"  (pausa de {pausa:.0f}s antes da proxima loja)")
+                    if i % LOJAS_ATE_PAUSA_LONGA == 0:
+                        pausa = PAUSA_LONGA_S
+                        print(f"  (pausa LONGA de {pausa:.0f}s antes da proxima loja)")
+                    else:
+                        pausa = random.uniform(*PAUSA_ENTRE_LOJAS_S)
+                        print(f"  (pausa de {pausa:.0f}s antes da proxima loja)")
                     time.sleep(pausa)
 
                 label = store_label(store)
