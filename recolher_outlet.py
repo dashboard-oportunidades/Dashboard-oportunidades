@@ -97,6 +97,17 @@ CATEGORIAS = {
         "state_file": "outlet_state_tapete.json",
         "out_file": "docs/tapete.json",
     },
+    "radiador-inercia": {
+        "label": "Radiador Inércia de Fluido",
+        "url": (
+            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
+            "?filters=%7B%22breadcrumb-1-label%22%3A%22Aquecimento%2520e%2520Climatiza"
+            "%25C3%25A7%25C3%25A3o%22%2C%22attribute-22088%22%3A%22Radiador%2520el%25C3%25A9trico"
+            "%2520de%2520in%25C3%25A9rcia%2520de%2520fluido%22%7D"
+        ),
+        "state_file": "outlet_state_radiador_inercia.json",
+        "out_file": "docs/radiador_inercia.json",
+    },
 }
 
 DIM_RE = re.compile(r"(\d{2,3})\s*[xX]\s*(\d{2,3})")
