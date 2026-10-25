@@ -22,94 +22,31 @@
     "Evora (Evora)": "2026-10-24T23:56:11+00:00",
     "Figueira da Foz (Coimbra)": "2026-10-24T23:57:46+00:00",
     "Gaia (Porto)": "2026-10-24T23:59:16+00:00",
-    "Gondomar (Porto)": "2026-10-11T11:08:11+00:00",
-    "Guarda (Guarda)": "2026-10-11T11:13:16+00:00",
-    "Guimaraes (Braga)": "2026-10-11T11:19:18+00:00",
-    "Leiria (Leiria)": "2026-10-11T11:25:23+00:00",
-    "Loule (Faro)": "2026-10-11T11:31:27+00:00",
-    "Loures (Lisboa)": "2026-10-11T11:37:29+00:00",
+    "Gondomar (Porto)": "2026-10-25T00:00:53+00:00",
+    "Guarda (Guarda)": "2026-10-25T00:02:29+00:00",
+    "Guimaraes (Braga)": "2026-10-25T00:04:08+00:00",
+    "Leiria (Leiria)": "2026-10-25T00:05:40+00:00",
+    "Loule (Faro)": "2026-10-25T00:07:16+00:00",
+    "Loures (Lisboa)": "2026-10-25T00:08:57+00:00",
     "Mafra (Lisboa)": "2026-10-11T12:22:44+00:00",
     "Maia (Porto)": "2026-10-11T12:18:55+00:00",
     "Matosinhos (Porto)": "2026-10-11T12:17:05+00:00",
-    "Montijo (Setubal)": "2026-10-11T11:43:31+00:00",
-    "Oeiras (Lisboa)": "2026-10-11T11:50:22+00:00",
-    "Penafiel (Porto)": "2026-10-11T11:52:19+00:00",
-    "Portimao (Faro)": "2026-10-11T11:54:11+00:00",
-    "Sacavem (Lisboa)": "2026-10-11T11:56:04+00:00",
-    "Santa Maria da Feira (Aveiro)": "2026-10-11T11:58:00+00:00",
-    "Santarem (Santarem)": "2026-10-11T11:59:53+00:00",
-    "Setubal (Setubal)": "2026-10-11T12:01:47+00:00",
-    "Sintra (Lisboa)": "2026-10-11T12:03:42+00:00",
-    "Telheiras (Lisboa)": "2026-10-11T12:05:40+00:00",
-    "Torres Novas (Santarem)": "2026-10-11T12:07:34+00:00",
-    "Torres Vedras (Lisboa)": "2026-10-11T12:09:30+00:00",
-    "Viana do Castelo (Viana do Castelo)": "2026-10-11T12:11:25+00:00",
+    "Montijo (Setubal)": "2026-10-25T00:10:29+00:00",
+    "Oeiras (Lisboa)": "2026-10-25T00:12:03+00:00",
+    "Penafiel (Porto)": "2026-10-25T00:13:37+00:00",
+    "Portimao (Faro)": "2026-10-25T00:15:14+00:00",
+    "Sacavem (Lisboa)": "2026-10-25T00:16:43+00:00",
+    "Santa Maria da Feira (Aveiro)": "2026-10-25T00:18:21+00:00",
+    "Santarem (Santarem)": "2026-10-25T00:21:02+00:00",
+    "Setubal (Setubal)": "2026-10-25T00:22:42+00:00",
+    "Sintra (Lisboa)": "2026-10-25T00:24:17+00:00",
+    "Telheiras (Lisboa)": "2026-10-25T00:25:55+00:00",
+    "Torres Novas (Santarem)": "2026-10-25T00:27:31+00:00",
+    "Torres Vedras (Lisboa)": "2026-10-25T00:29:11+00:00",
+    "Viana do Castelo (Viana do Castelo)": "2026-10-25T00:30:46+00:00",
     "Viseu (Viseu)": "2026-10-11T12:13:21+00:00"
   },
   "products": {
-    "72845777@Guarda (Guarda)": {
-      "atualizado": "2026-10-11T11:13:16+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          359
-        ]
-      ],
-      "id": "72845777",
-      "m2_caixa": null,
-      "marca": "INDESIT",
-      "name": "Ar condicionado fixo (1X1) INDESIT 12 KBTU",
-      "preco_desconto": 40,
-      "preco_final": 359,
-      "preco_normal": 399,
-      "region": "Guarda",
-      "retificado": false,
-      "store": "Guarda (Guarda)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-indesit-12-kbtu-72845777.html"
-    },
-    "72845777@Santarem (Santarem)": {
-      "atualizado": "2026-10-11T11:59:53+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          359
-        ]
-      ],
-      "id": "72845777",
-      "m2_caixa": null,
-      "marca": "INDESIT",
-      "name": "Ar condicionado fixo (1X1) INDESIT 12 KBTU",
-      "preco_desconto": 40,
-      "preco_final": 359,
-      "preco_normal": 399,
-      "region": "Santarem",
-      "retificado": false,
-      "store": "Santarem (Santarem)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-indesit-12-kbtu-72845777.html"
-    },
-    "72845777@Sintra (Lisboa)": {
-      "atualizado": "2026-10-11T12:03:42+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          359
-        ]
-      ],
-      "id": "72845777",
-      "m2_caixa": null,
-      "marca": "INDESIT",
-      "name": "Ar condicionado fixo (1X1) INDESIT 12 KBTU",
-      "preco_desconto": 40,
-      "preco_final": 359,
-      "preco_normal": 399,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Sintra (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-indesit-12-kbtu-72845777.html"
-    },
     "82063484@Braganca (Braganca)": {
       "atualizado": "2026-10-24T23:40:56+00:00",
       "dimensao": "12000 BTU",
@@ -131,54 +68,12 @@
       "store": "Braganca (Braganca)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000btu-82063484.html"
     },
-    "82143592@Setubal (Setubal)": {
-      "atualizado": "2026-10-11T12:01:47+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          238
-        ]
-      ],
-      "id": "82143592",
-      "m2_caixa": null,
-      "marca": "ELUXE",
-      "name": "Ar condicionado fixo (1X1) ELUXE AMBER 9000 BTU R32",
-      "preco_desconto": 51,
-      "preco_final": 238,
-      "preco_normal": 289,
-      "region": "Setubal",
-      "retificado": false,
-      "store": "Setubal (Setubal)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber-9000-btu-r32-82143592.html"
-    },
-    "82143593@Santa Maria da Feira (Aveiro)": {
-      "atualizado": "2026-10-11T11:58:00+00:00",
-      "dimensao": "12000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          248
-        ]
-      ],
-      "id": "82143593",
-      "m2_caixa": null,
-      "marca": "ELUXE",
-      "name": "Ar condicionado fixo (1X1) ELUXE AMBER 12000 BTU R32",
-      "preco_desconto": 0.0,
-      "preco_final": 248,
-      "preco_normal": 248,
-      "region": "Aveiro",
-      "retificado": false,
-      "store": "Santa Maria da Feira (Aveiro)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber-12000-btu-r32-82143593.html"
-    },
     "82156855@Montijo (Setubal)": {
-      "atualizado": "2026-10-11T11:43:31+00:00",
+      "atualizado": "2026-10-25T00:10:29+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           748
         ]
       ],
@@ -216,11 +111,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-diamond-srk25zsx-w-9000btu-82156863.html"
     },
     "82156863@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-11T11:50:22+00:00",
+      "atualizado": "2026-10-25T00:12:03+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           1078
         ]
       ],
@@ -258,11 +153,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-htw-ix39b-r32-9000btu-82198934.html"
     },
     "82204387@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-11T12:11:25+00:00",
+      "atualizado": "2026-10-25T00:30:46+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           408
         ]
       ],
@@ -279,11 +174,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-fujitsu-asy25ui-kp-r32-9000btu-82204387.html"
     },
     "82367424@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-11T12:11:25+00:00",
+      "atualizado": "2026-10-25T00:30:46+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           368
         ]
       ],
@@ -552,11 +447,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Guarda (Guarda)": {
-      "atualizado": "2026-10-11T11:13:16+00:00",
+      "atualizado": "2026-10-25T00:02:29+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           488
         ]
       ],
@@ -573,11 +468,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Loule (Faro)": {
-      "atualizado": "2026-10-11T11:31:27+00:00",
+      "atualizado": "2026-10-25T00:07:16+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           488
         ]
       ],
@@ -594,11 +489,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Loures (Lisboa)": {
-      "atualizado": "2026-10-11T11:37:29+00:00",
+      "atualizado": "2026-10-25T00:08:57+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           488
         ]
       ],
@@ -615,11 +510,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-11T11:50:22+00:00",
+      "atualizado": "2026-10-25T00:12:03+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           488
         ]
       ],
@@ -636,11 +531,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Penafiel (Porto)": {
-      "atualizado": "2026-10-11T11:52:19+00:00",
+      "atualizado": "2026-10-25T00:13:37+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           488
         ]
       ],
@@ -657,11 +552,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Sacavem (Lisboa)": {
-      "atualizado": "2026-10-11T11:56:04+00:00",
+      "atualizado": "2026-10-25T00:16:43+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           488
         ]
       ],
@@ -678,20 +573,20 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Santa Maria da Feira (Aveiro)": {
-      "atualizado": "2026-10-11T11:58:00+00:00",
+      "atualizado": "2026-10-25T00:18:21+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
-          568
+          "2026-10-25",
+          488
         ]
       ],
       "id": "82558714",
       "m2_caixa": null,
       "marca": "MITSUBISHI HEAVY INDUSTRIES",
       "name": "Ar condicionado fixo (1X1) MITSUBISHI LMK09Z6L-W 9000BTU",
-      "preco_desconto": 31,
-      "preco_final": 568,
+      "preco_desconto": 111,
+      "preco_final": 488,
       "preco_normal": 599,
       "region": "Aveiro",
       "retificado": false,
@@ -699,11 +594,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Telheiras (Lisboa)": {
-      "atualizado": "2026-10-11T12:05:40+00:00",
+      "atualizado": "2026-10-25T00:25:55+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           488
         ]
       ],
@@ -720,11 +615,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk09z6l-w-9000btu-82558714.html"
     },
     "82558714@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-10-11T12:09:30+00:00",
+      "atualizado": "2026-10-25T00:29:11+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           488
         ]
       ],
@@ -803,12 +698,12 @@
       "store": "Evora (Evora)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
     },
-    "82558726@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-11T12:11:25+00:00",
+    "82558726@Oeiras (Lisboa)": {
+      "atualizado": "2026-10-25T00:12:03+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           528
         ]
       ],
@@ -819,9 +714,9 @@
       "preco_desconto": 121,
       "preco_final": 528,
       "preco_normal": 649,
-      "region": "Viana do Castelo",
+      "region": "Lisboa",
       "retificado": false,
-      "store": "Viana do Castelo (Viana do Castelo)",
+      "store": "Oeiras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk12z6l-w-12000btu-82558726.html"
     },
     "82558730@Amadora (Lisboa)": {
@@ -846,11 +741,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-lmk15z6l-w-15000btu-82558730.html"
     },
     "82577669@Montijo (Setubal)": {
-      "atualizado": "2026-10-11T11:43:31+00:00",
+      "atualizado": "2026-10-25T00:10:29+00:00",
       "dimensao": "24000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           1328
         ]
       ],
@@ -930,11 +825,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791801@Gondomar (Porto)": {
-      "atualizado": "2026-10-11T11:08:11+00:00",
+      "atualizado": "2026-10-25T00:00:53+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           628
         ]
       ],
@@ -951,12 +846,12 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791801@Guarda (Guarda)": {
-      "atualizado": "2026-10-11T11:13:16+00:00",
+      "atualizado": "2026-10-25T00:02:29+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
-          628
+          "2026-10-25",
+          528
         ]
       ],
       "id": "83791801",
@@ -964,19 +859,19 @@
       "marca": "HAIER",
       "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
       "preco_desconto": 0.0,
-      "preco_final": 628,
-      "preco_normal": 628,
+      "preco_final": 528,
+      "preco_normal": 528,
       "region": "Guarda",
       "retificado": false,
       "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791801@Sacavem (Lisboa)": {
-      "atualizado": "2026-10-11T11:56:04+00:00",
+      "atualizado": "2026-10-25T00:16:43+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           628
         ]
       ],
@@ -992,12 +887,33 @@
       "store": "Sacavem (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
-    "83791801@Santarem (Santarem)": {
-      "atualizado": "2026-10-11T11:59:53+00:00",
+    "83791801@Santa Maria da Feira (Aveiro)": {
+      "atualizado": "2026-10-25T00:18:21+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
+          628
+        ]
+      ],
+      "id": "83791801",
+      "m2_caixa": null,
+      "marca": "HAIER",
+      "name": "Ar condicionado fixo (1x1) HAIER FLEXIS 9000BTU WIFI BRANCO",
+      "preco_desconto": 141,
+      "preco_final": 628,
+      "preco_normal": 769,
+      "region": "Aveiro",
+      "retificado": false,
+      "store": "Santa Maria da Feira (Aveiro)",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
+    },
+    "83791801@Santarem (Santarem)": {
+      "atualizado": "2026-10-25T00:21:02+00:00",
+      "dimensao": "9000 BTU",
+      "history": [
+        [
+          "2026-10-25",
           499
         ]
       ],
@@ -1014,11 +930,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-branco-83791801.html"
     },
     "83791801@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-11T12:11:25+00:00",
+      "atualizado": "2026-10-25T00:30:46+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           628
         ]
       ],
@@ -1077,11 +993,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-12000btu-wifi-branco-83791802.html"
     },
     "83791804@Portimao (Faro)": {
-      "atualizado": "2026-10-11T11:54:11+00:00",
+      "atualizado": "2026-10-25T00:15:14+00:00",
       "dimensao": "24000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           1078
         ]
       ],
@@ -1119,11 +1035,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-flexis-9000btu-wifi-preto-83791808.html"
     },
     "83791819@Loures (Lisboa)": {
-      "atualizado": "2026-10-11T11:37:29+00:00",
+      "atualizado": "2026-10-25T00:08:57+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           418
         ]
       ],
@@ -1140,11 +1056,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-perla-9000btu-wifi-branco-83791819.html"
     },
     "83791821@Montijo (Setubal)": {
-      "atualizado": "2026-10-11T11:43:31+00:00",
+      "atualizado": "2026-10-25T00:10:29+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           388
         ]
       ],
@@ -1182,11 +1098,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-haier-tide-12000btu-wifi-branco-83791822.html"
     },
     "84567638@Guimaraes (Braga)": {
-      "atualizado": "2026-10-11T11:19:18+00:00",
+      "atualizado": "2026-10-25T00:04:08+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           468
         ]
       ],
@@ -1223,33 +1139,12 @@
       "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
     },
-    "84567638@Santa Maria da Feira (Aveiro)": {
-      "atualizado": "2026-10-11T11:58:00+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          468
-        ]
-      ],
-      "id": "84567638",
-      "m2_caixa": null,
-      "marca": "BOSCH",
-      "name": "Ar condicionado fixo (1X1) BOSCH CLIMATE 3000I 9000BTU R32",
-      "preco_desconto": 0.0,
-      "preco_final": 468,
-      "preco_normal": 468,
-      "region": "Aveiro",
-      "retificado": false,
-      "store": "Santa Maria da Feira (Aveiro)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-9000btu-r32-84567638.html"
-    },
     "84567638@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-10-11T12:09:30+00:00",
+      "atualizado": "2026-10-25T00:29:11+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           468
         ]
       ],
@@ -1287,11 +1182,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-bosch-climate-3000i-12000btu-r32-84567639.html"
     },
     "84567639@Sintra (Lisboa)": {
-      "atualizado": "2026-10-11T12:03:42+00:00",
+      "atualizado": "2026-10-25T00:24:17+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           518
         ]
       ],
@@ -1329,11 +1224,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-enki-wifi-9000-btu-85280679.html"
     },
     "85280679@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-10-11T12:09:30+00:00",
+      "atualizado": "2026-10-25T00:29:11+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           368
         ]
       ],
@@ -1497,12 +1392,12 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
     },
     "86733349@Leiria (Leiria)": {
-      "atualizado": "2026-10-11T11:25:23+00:00",
+      "atualizado": "2026-10-25T00:05:40+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
-          1048
+          "2026-10-25",
+          898
         ]
       ],
       "id": "86733349",
@@ -1510,19 +1405,19 @@
       "marca": "HISENSE",
       "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
       "preco_desconto": 0.0,
-      "preco_final": 1048,
-      "preco_normal": 1048,
+      "preco_final": 898,
+      "preco_normal": 898,
       "region": "Leiria",
       "retificado": false,
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
     },
     "86733349@Loule (Faro)": {
-      "atualizado": "2026-10-11T11:31:27+00:00",
+      "atualizado": "2026-10-25T00:07:16+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           1048
         ]
       ],
@@ -1580,33 +1475,12 @@
       "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
     },
-    "86733349@Penafiel (Porto)": {
-      "atualizado": "2026-10-11T11:52:19+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          1048
-        ]
-      ],
-      "id": "86733349",
-      "m2_caixa": null,
-      "marca": "HISENSE",
-      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
-      "preco_desconto": 251,
-      "preco_final": 1048,
-      "preco_normal": 1299,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Penafiel (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html"
-    },
     "86733349@Santarem (Santarem)": {
-      "atualizado": "2026-10-11T11:59:53+00:00",
+      "atualizado": "2026-10-25T00:21:02+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           1048
         ]
       ],
@@ -1770,11 +1644,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
     },
     "86733350@Guimaraes (Braga)": {
-      "atualizado": "2026-10-11T11:19:18+00:00",
+      "atualizado": "2026-10-25T00:04:08+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           1168
         ]
       ],
@@ -1791,11 +1665,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
     },
     "86733350@Leiria (Leiria)": {
-      "atualizado": "2026-10-11T11:25:23+00:00",
+      "atualizado": "2026-10-25T00:05:40+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           998
         ]
       ],
@@ -1812,11 +1686,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
     },
     "86733350@Loule (Faro)": {
-      "atualizado": "2026-10-11T11:31:27+00:00",
+      "atualizado": "2026-10-25T00:07:16+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           1168
         ]
       ],
@@ -1854,11 +1728,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-12000-btu-ionizador-86733350.html"
     },
     "86733350@Santarem (Santarem)": {
-      "atualizado": "2026-10-11T11:59:53+00:00",
+      "atualizado": "2026-10-25T00:21:02+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           1168
         ]
       ],
@@ -1938,11 +1812,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733733@Gondomar (Porto)": {
-      "atualizado": "2026-10-11T11:08:11+00:00",
+      "atualizado": "2026-10-25T00:00:53+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           378
         ]
       ],
@@ -1959,11 +1833,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733733@Loures (Lisboa)": {
-      "atualizado": "2026-10-11T11:37:29+00:00",
+      "atualizado": "2026-10-25T00:08:57+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           378
         ]
       ],
@@ -1979,33 +1853,12 @@
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
-    "86733733@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-11T11:50:22+00:00",
-      "dimensao": "9000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          378
-        ]
-      ],
-      "id": "86733733",
-      "m2_caixa": null,
-      "marca": "HISENSE",
-      "name": "Ar condicionado fixo (1x1) New Luso KC25YR03 WIFI 9000 BTU Hisense",
-      "preco_desconto": 81,
-      "preco_final": 378,
-      "preco_normal": 459,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Oeiras (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
-    },
     "86733733@Portimao (Faro)": {
-      "atualizado": "2026-10-11T11:54:11+00:00",
+      "atualizado": "2026-10-25T00:15:14+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           378
         ]
       ],
@@ -2022,11 +1875,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733733@Santa Maria da Feira (Aveiro)": {
-      "atualizado": "2026-10-11T11:58:00+00:00",
+      "atualizado": "2026-10-25T00:18:21+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           378
         ]
       ],
@@ -2043,11 +1896,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733733@Sintra (Lisboa)": {
-      "atualizado": "2026-10-11T12:03:42+00:00",
+      "atualizado": "2026-10-25T00:24:17+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           378
         ]
       ],
@@ -2064,11 +1917,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-new-luso-kc25yr03-wifi-9000-btu-hisense-86733733.html"
     },
     "86733851@Portimao (Faro)": {
-      "atualizado": "2026-10-11T11:54:11+00:00",
+      "atualizado": "2026-10-25T00:15:14+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           418
         ]
       ],
@@ -2084,12 +1937,12 @@
       "store": "Portimao (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-kc35yr03-wifi-12000-btu-86733851.html"
     },
-    "86733851@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-11T12:11:25+00:00",
+    "86733851@Santarem (Santarem)": {
+      "atualizado": "2026-10-25T00:21:02+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           418
         ]
       ],
@@ -2097,20 +1950,20 @@
       "m2_caixa": null,
       "marca": "HISENSE",
       "name": "Ar condicionado fixo (1x1) HISENSE KC35YR03 WIFI 12000 BTU",
-      "preco_desconto": 91,
+      "preco_desconto": 0.0,
       "preco_final": 418,
-      "preco_normal": 509,
-      "region": "Viana do Castelo",
+      "preco_normal": 418,
+      "region": "Santarem",
       "retificado": false,
-      "store": "Viana do Castelo (Viana do Castelo)",
+      "store": "Santarem (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-kc35yr03-wifi-12000-btu-86733851.html"
     },
     "86918508@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-11T11:50:22+00:00",
+      "atualizado": "2026-10-25T00:12:03+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           298
         ]
       ],
@@ -2148,11 +2001,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-12000-btu-87421092.html"
     },
     "87421092@Gondomar (Porto)": {
-      "atualizado": "2026-10-11T11:08:11+00:00",
+      "atualizado": "2026-10-25T00:00:53+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           938
         ]
       ],
@@ -2169,11 +2022,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-12000-btu-87421092.html"
     },
     "87421092@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-11T11:50:22+00:00",
+      "atualizado": "2026-10-25T00:12:03+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           938
         ]
       ],
@@ -2211,11 +2064,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-9000-btu-87421093.html"
     },
     "87421093@Setubal (Setubal)": {
-      "atualizado": "2026-10-11T12:01:47+00:00",
+      "atualizado": "2026-10-25T00:22:42+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           828
         ]
       ],
@@ -2232,11 +2085,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-energy-pro-r32-9000-btu-87421093.html"
     },
     "88040809@Guimaraes (Braga)": {
-      "atualizado": "2026-10-11T11:19:18+00:00",
+      "atualizado": "2026-10-25T00:04:08+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           488
         ]
       ],
@@ -2253,11 +2106,11 @@
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-ds-12000-btu-kd-wi-fi-daitsu-cool-pro-design-88040809.html"
     },
     "90690401@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-11T11:50:22+00:00",
+      "atualizado": "2026-10-25T00:12:03+00:00",
       "dimensao": "12000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           438
         ]
       ],
@@ -2295,11 +2148,11 @@
       "url": "https://www.leroymerlin.pt/produtos/monosplit-mural-hisense-comfort-9-btu-wifi-92500112.html"
     },
     "92500112@Loures (Lisboa)": {
-      "atualizado": "2026-10-11T11:37:29+00:00",
+      "atualizado": "2026-10-25T00:08:57+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           588
         ]
       ],
@@ -2316,11 +2169,11 @@
       "url": "https://www.leroymerlin.pt/produtos/monosplit-mural-hisense-comfort-9-btu-wifi-92500112.html"
     },
     "92500112@Sintra (Lisboa)": {
-      "atualizado": "2026-10-11T12:03:42+00:00",
+      "atualizado": "2026-10-25T00:24:17+00:00",
       "dimensao": "9000 BTU",
       "history": [
         [
-          "2026-10-11",
+          "2026-10-25",
           588
         ]
       ],
@@ -2378,27 +2231,6 @@
       "store": "Alfragide (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-hisense-energy-pro-x-12kbtu-94199510.html"
     },
-    "94395083@Portimao (Faro)": {
-      "atualizado": "2026-10-11T11:54:11+00:00",
-      "dimensao": "21000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          1418
-        ]
-      ],
-      "id": "94395083",
-      "m2_caixa": null,
-      "marca": "MITSUBISHI HEAVY INDUSTRIES",
-      "name": "Ar condicionado 1x1 Mitsubishi smart srk-z6l 21kbtu wifi",
-      "preco_desconto": 341,
-      "preco_final": 1418,
-      "preco_normal": 1759,
-      "region": "Faro",
-      "retificado": false,
-      "store": "Portimao (Faro)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-1x1-mitsubishi-smart-srk-z6l-21kbtu-wifi-94395083.html"
-    },
     "94727281@Colombo (Lisboa)": {
       "atualizado": "2026-10-24T23:51:59+00:00",
       "dimensao": "9000 BTU",
@@ -2439,27 +2271,6 @@
       "region": "Porto",
       "retificado": false,
       "store": "Matosinhos (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber3-24kbtu-98196845.html"
-    },
-    "98196845@Sintra (Lisboa)": {
-      "atualizado": "2026-10-11T12:03:42+00:00",
-      "dimensao": "24000 BTU",
-      "history": [
-        [
-          "2026-10-11",
-          568
-        ]
-      ],
-      "id": "98196845",
-      "m2_caixa": null,
-      "marca": "ELUXE",
-      "name": "Ar condicionado fixo (1X1) ELUXE Amber3 24KBTU",
-      "preco_desconto": 0.0,
-      "preco_final": 568,
-      "preco_normal": 568,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-eluxe-amber3-24kbtu-98196845.html"
     }
   }
