@@ -1,10 +1,218 @@
 {
-  "generated": "2026-10-25T00:43:15+00:00",
+  "generated": "2026-10-29T23:06:45+00:00",
   "products": [
     {
+      "id": "86600587",
+      "name": "Conjunto de duche com torneira, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-vitalio-start-system-86600587.html",
+      "dimensao": null,
+      "marca": "GROHE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 168,
+      "prices": [
+        {
+          "store": "Gondomar (Porto)",
+          "region": "Porto",
+          "preco_normal": 309,
+          "preco_desconto": 141,
+          "preco_final": 168,
+          "atualizado": "2026-10-29T22:47:19+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              168
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 479,
+          "preco_desconto": 131,
+          "preco_final": 348,
+          "atualizado": "2026-10-29T22:34:08+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              348
+            ]
+          ]
+        },
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T21:30:01+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T21:40:12+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Albufeira (Faro)",
+          "region": "Faro",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T21:56:42+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Montijo (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T22:04:41+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T22:17:01+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T22:24:43+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T22:27:00+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Guarda (Guarda)",
+          "region": "Guarda",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T22:44:47+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T22:57:33+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Evora (Evora)",
+          "region": "Evora",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T22:59:59+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Viseu (Viseu)",
+          "region": "Viseu",
+          "preco_normal": 479,
+          "preco_desconto": 91,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T23:02:36+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        },
+        {
+          "store": "Viana do Castelo (Viana do Castelo)",
+          "region": "Viana do Castelo",
+          "preco_normal": 388,
+          "preco_desconto": 0.0,
+          "preco_final": 388,
+          "atualizado": "2026-10-29T23:05:11+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              388
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "93110410",
-      "name": "Conjunto de duche com torneira monocomando, poupança água, chuveiro mão 2 jatos, altura regulável, cromado Grohe GROHE Vitalio Start 250",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-poupanca-de-agua-chuveiro-de-mao-2-jatos-fixacao-regulavel-cromado-grohe-vitalio-start-250-93110410.html",
+      "name": "Conjunto de duche com torneira, poupança água, chuveiro mão 2 jatos, altura regulável, cromado Grohe Grohe Vitalio Start 250",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-poupanca-agua-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-grohe-vitalio-start-250-93110410.html",
       "dimensao": null,
       "marca": "GROHE",
       "retificado": false,
@@ -17,10 +225,10 @@
           "preco_normal": 264,
           "preco_desconto": 35,
           "preco_final": 229,
-          "atualizado": "2026-10-24T23:38:45+00:00",
+          "atualizado": "2026-10-29T22:34:08+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               229
             ]
           ]
@@ -29,8 +237,8 @@
     },
     {
       "id": "83596589",
-      "name": "Conjunto de duche com torneira monocomando, chuveiro mão 2 jatos, altura regulável, cromado Grohe Start Clova 210",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-chuveiro-de-mao-2-jatos-cromado-grohe-grohe-start-clova-210-83596589.html",
+      "name": "Conjunto de duche com torneira, chuveiro mão 2 jatos, altura regulável, cromado Grohe Start Clova 210",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-start-clova-210-83596589.html",
       "dimensao": null,
       "marca": "GROHE",
       "retificado": false,
@@ -38,29 +246,15 @@
       "preco_final": 248,
       "prices": [
         {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 248,
-          "preco_desconto": 0.0,
-          "preco_final": 248,
-          "atualizado": "2026-10-24T23:38:45+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
+          "store": "Colombo (Lisboa)",
+          "region": "Lisboa",
           "preco_normal": 299,
           "preco_desconto": 51,
           "preco_final": 248,
-          "atualizado": "2026-10-24T23:41:57+00:00",
+          "atualizado": "2026-10-29T21:27:29+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               248
             ]
           ]
@@ -71,24 +265,10 @@
           "preco_normal": 299,
           "preco_desconto": 51,
           "preco_final": 248,
-          "atualizado": "2026-10-24T23:46:40+00:00",
+          "atualizado": "2026-10-29T22:10:04+00:00",
           "history": [
             [
-              "2026-10-25",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 248,
-          "preco_desconto": 0.0,
-          "preco_final": 248,
-          "atualizado": "2026-10-24T23:48:18+00:00",
-          "history": [
-            [
-              "2026-10-25",
+              "2026-10-29",
               248
             ]
           ]
@@ -99,24 +279,10 @@
           "preco_normal": 248,
           "preco_desconto": 0.0,
           "preco_final": 248,
-          "atualizado": "2026-10-24T23:49:51+00:00",
+          "atualizado": "2026-10-29T22:19:30+00:00",
           "history": [
             [
-              "2026-10-25",
-              248
-            ]
-          ]
-        },
-        {
-          "store": "Colombo (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 299,
-          "preco_desconto": 51,
-          "preco_final": 248,
-          "atualizado": "2026-10-24T23:51:24+00:00",
-          "history": [
-            [
-              "2026-10-25",
+              "2026-10-29",
               248
             ]
           ]
@@ -127,10 +293,52 @@
           "preco_normal": 248,
           "preco_desconto": 0.0,
           "preco_final": 248,
-          "atualizado": "2026-10-24T23:57:08+00:00",
+          "atualizado": "2026-10-29T22:22:02+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Chaves (Vila Real)",
+          "region": "Vila Real",
+          "preco_normal": 248,
+          "preco_desconto": 0.0,
+          "preco_final": 248,
+          "atualizado": "2026-10-29T22:24:43+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Caldas da Rainha (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 299,
+          "preco_desconto": 51,
+          "preco_final": 248,
+          "atualizado": "2026-10-29T22:27:00+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              248
+            ]
+          ]
+        },
+        {
+          "store": "Braga (Braga)",
+          "region": "Braga",
+          "preco_normal": 248,
+          "preco_desconto": 0.0,
+          "preco_final": 248,
+          "atualizado": "2026-10-29T22:34:08+00:00",
+          "history": [
+            [
+              "2026-10-29",
               248
             ]
           ]
@@ -141,10 +349,10 @@
           "preco_normal": 299,
           "preco_desconto": 51,
           "preco_final": 248,
-          "atualizado": "2026-10-24T23:58:41+00:00",
+          "atualizado": "2026-10-29T22:49:54+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               248
             ]
           ]
@@ -155,10 +363,10 @@
           "preco_normal": 248,
           "preco_desconto": 0.0,
           "preco_final": 248,
-          "atualizado": "2026-10-25T00:31:50+00:00",
+          "atualizado": "2026-10-29T23:02:36+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               248
             ]
           ]
@@ -167,8 +375,8 @@
     },
     {
       "id": "82023074",
-      "name": "Conjunto de duche com torneira monocomando, poupança água, chuveiro mão 2 jatos, cromado Grohe Tempesta System",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-poupanca-de-agua-chuveiro-de-mao-2-jatos-fixacao-nao-regulavel-cromado-grohe-tempesta-system-82023074.html",
+      "name": "Conjunto de duche com torneira, poupança água, chuveiro mão 2 jatos, cromado Grohe Tempesta System",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-poupanca-agua-chuveiro-mao-2-jatos-cromado-grohe-tempesta-system-82023074.html",
       "dimensao": null,
       "marca": "GROHE",
       "retificado": false,
@@ -181,10 +389,10 @@
           "preco_normal": 311.4,
           "preco_desconto": 51.42,
           "preco_final": 259.98,
-          "atualizado": "2026-10-25T00:01:50+00:00",
+          "atualizado": "2026-10-29T22:44:47+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               259.98
             ]
           ]
@@ -193,8 +401,8 @@
     },
     {
       "id": "89128698",
-      "name": "Conjunto de duche com torneira termostático, antiescaldante, poupança água, chuveiro mão, cromado Grohe Vitalio Start System",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-antiescaldante-chuveiro-de-mao-1-jato-cromado-grohe-vitalio-start-system-89128698.html",
+      "name": "Conjunto de duche com torneira termostático, antiescaldante, cromado Grohe Vitalio Start System",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-cromado-grohe-vitalio-start-system-89128698.html",
       "dimensao": null,
       "marca": "GROHE",
       "retificado": false,
@@ -207,10 +415,10 @@
           "preco_normal": 298,
           "preco_desconto": 30,
           "preco_final": 268,
-          "atualizado": "2026-10-25T00:30:10+00:00",
+          "atualizado": "2026-10-29T23:05:11+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               268
             ]
           ]
@@ -221,10 +429,10 @@
           "preco_normal": 349,
           "preco_desconto": 30,
           "preco_final": 319,
-          "atualizado": "2026-10-24T23:35:32+00:00",
+          "atualizado": "2026-10-29T22:36:50+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               319
             ]
           ]
@@ -235,11 +443,25 @@
           "preco_normal": 339,
           "preco_desconto": 0.0,
           "preco_final": 339,
-          "atualizado": "2026-10-24T23:38:45+00:00",
+          "atualizado": "2026-10-29T22:34:08+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               339
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-10-29T21:24:57+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              408
             ]
           ]
         },
@@ -249,10 +471,10 @@
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-10-24T23:30:48+00:00",
+          "atualizado": "2026-10-29T21:52:25+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               408
             ]
           ]
@@ -263,66 +485,10 @@
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-10-24T23:37:02+00:00",
+          "atualizado": "2026-10-29T22:00:28+00:00",
           "history": [
             [
-              "2026-10-25",
-              408
-            ]
-          ]
-        },
-        {
-          "store": "Gaia (Porto)",
-          "region": "Porto",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-10-24T23:58:41+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              408
-            ]
-          ]
-        },
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-10-25T00:05:04+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              408
-            ]
-          ]
-        },
-        {
-          "store": "Setubal (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-10-25T00:22:03+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              408
-            ]
-          ]
-        },
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-10-25T00:36:22+00:00",
-          "history": [
-            [
-              "2026-10-25",
+              "2026-10-29",
               408
             ]
           ]
@@ -333,10 +499,66 @@
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-10-25T00:38:03+00:00",
+          "atualizado": "2026-10-29T22:02:17+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
+              408
+            ]
+          ]
+        },
+        {
+          "store": "Setubal (Setubal)",
+          "region": "Setubal",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-10-29T22:07:26+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              408
+            ]
+          ]
+        },
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-10-29T22:28:55+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              408
+            ]
+          ]
+        },
+        {
+          "store": "Gaia (Porto)",
+          "region": "Porto",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-10-29T22:49:54+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              408
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-10-29T22:57:33+00:00",
+          "history": [
+            [
+              "2026-10-29",
               408
             ]
           ]
@@ -346,7 +568,7 @@
     {
       "id": "82559325",
       "name": "Conjunto de duche com torneira termostático, antiescaldante, poupança água, chuveiro mão 2 jatos, altura regulável, cromado Grohe Start Clova 210",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-poupanca-de-agua-chuveiro-de-mao-2-jatos-cromado-grohe-start-clova-210-82559325.html",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-start-clova-210-82559325.html",
       "dimensao": null,
       "marca": "GROHE",
       "retificado": false,
@@ -359,10 +581,10 @@
           "preco_normal": 349,
           "preco_desconto": 61,
           "preco_final": 288,
-          "atualizado": "2026-10-25T00:26:54+00:00",
+          "atualizado": "2026-10-29T22:14:28+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               288
             ]
           ]
@@ -372,7 +594,7 @@
     {
       "id": "81895990",
       "name": "Conjunto de duche com torneira termostático, poupança água, altura regulável, cromado Grohe Vitalio Joy System",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-poupanca-de-agua-fixacao-regulavel-cromado-grohe-vitalio-joy-system-81895990.html",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-poupanca-agua-altura-regulavel-cromado-grohe-vitalio-joy-system-81895990.html",
       "dimensao": null,
       "marca": "GROHE",
       "retificado": false,
@@ -385,10 +607,10 @@
           "preco_normal": 579,
           "preco_desconto": 281,
           "preco_final": 298,
-          "atualizado": "2026-10-24T23:35:32+00:00",
+          "atualizado": "2026-10-29T22:36:50+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               298
             ]
           ]
@@ -399,10 +621,10 @@
           "preco_normal": 579,
           "preco_desconto": 111,
           "preco_final": 468,
-          "atualizado": "2026-10-25T00:08:17+00:00",
+          "atualizado": "2026-10-29T21:35:51+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               468
             ]
           ]
@@ -410,217 +632,9 @@
       ]
     },
     {
-      "id": "86600587",
-      "name": "Conjunto de duche com torneira monocomando, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-chuveiro-de-mao-2-jatos-cromado-grohe-vitalio-start-system-86600587.html",
-      "dimensao": null,
-      "marca": "GROHE",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 348,
-      "prices": [
-        {
-          "store": "Braga (Braga)",
-          "region": "Braga",
-          "preco_normal": 479,
-          "preco_desconto": 131,
-          "preco_final": 348,
-          "atualizado": "2026-10-24T23:38:45+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              348
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-24T23:32:21+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Caldas da Rainha (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-24T23:41:57+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Chaves (Vila Real)",
-          "region": "Vila Real",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-10-24T23:48:18+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Evora (Evora)",
-          "region": "Evora",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-24T23:55:33+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Gondomar (Porto)",
-          "region": "Porto",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-10-25T00:00:18+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Guarda (Guarda)",
-          "region": "Guarda",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-25T00:01:50+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Montijo (Setubal)",
-          "region": "Setubal",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-25T00:09:55+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-25T00:20:24+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Viana do Castelo (Viana do Castelo)",
-          "region": "Viana do Castelo",
-          "preco_normal": 388,
-          "preco_desconto": 0.0,
-          "preco_final": 388,
-          "atualizado": "2026-10-25T00:30:10+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Viseu (Viseu)",
-          "region": "Viseu",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-25T00:31:50+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Albufeira (Faro)",
-          "region": "Faro",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-25T00:33:20+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-25T00:36:22+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        },
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 479,
-          "preco_desconto": 91,
-          "preco_final": 388,
-          "atualizado": "2026-10-25T00:41:06+00:00",
-          "history": [
-            [
-              "2026-10-25",
-              388
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "86523842",
-      "name": "Conjunto de duche com torneira termostático, antiescaldante, poupança água, chuveiro mão 2 jatos, altura regulável, preto Grohe Vitalio Start System",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-antiescaldante-chuveiro-de-mao-2-jatos-preto-grohe-vitalio-start-system-86523842.html",
+      "name": "Conjunto de duche com torneira termostático antiescaldante, poupança água, chuveiro mão 2 jatos, altura regulável, preto Grohe Vitalio Start System",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-2-jatos-altura-regulavel-preto-grohe-vitalio-start-system-86523842.html",
       "dimensao": null,
       "marca": "GROHE",
       "retificado": false,
@@ -628,15 +642,29 @@
       "preco_final": 468,
       "prices": [
         {
+          "store": "Oeiras (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 569,
+          "preco_desconto": 101,
+          "preco_final": 468,
+          "atualizado": "2026-10-29T21:34:29+00:00",
+          "history": [
+            [
+              "2026-10-29",
+              468
+            ]
+          ]
+        },
+        {
           "store": "Caldas da Rainha (Leiria)",
           "region": "Leiria",
           "preco_normal": 569,
           "preco_desconto": 101,
           "preco_final": 468,
-          "atualizado": "2026-10-24T23:41:57+00:00",
+          "atualizado": "2026-10-29T22:27:00+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               468
             ]
           ]
@@ -647,24 +675,10 @@
           "preco_normal": 468,
           "preco_desconto": 0.0,
           "preco_final": 468,
-          "atualizado": "2026-10-24T23:55:33+00:00",
+          "atualizado": "2026-10-29T22:59:59+00:00",
           "history": [
             [
-              "2026-10-25",
-              468
-            ]
-          ]
-        },
-        {
-          "store": "Oeiras (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 569,
-          "preco_desconto": 101,
-          "preco_final": 468,
-          "atualizado": "2026-10-25T00:11:24+00:00",
-          "history": [
-            [
-              "2026-10-25",
+              "2026-10-29",
               468
             ]
           ]
@@ -675,10 +689,10 @@
           "preco_normal": 569,
           "preco_desconto": 101,
           "preco_final": 468,
-          "atualizado": "2026-10-25T00:31:50+00:00",
+          "atualizado": "2026-10-29T23:02:36+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               468
             ]
           ]
@@ -687,8 +701,8 @@
     },
     {
       "id": "82023076",
-      "name": "Conjunto de duche com torneira termostático, antiescaldante, poupança água, chuveiro mão 3 jatos, cromado Grohe Euphoria System",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-antiescaldante-poupanca-de-agua-chuveiro-de-mao-3-jatos-cromado-grohe-euphoria-system-82023076.html",
+      "name": "Conjunto de duche com torneira termostático antiescaldante, poupança água, chuveiro mão 3 jatos, cromado Grohe Euphoria System",
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-3-jatos-cromado-grohe-euphoria-system-82023076.html",
       "dimensao": null,
       "marca": "GROHE",
       "retificado": false,
@@ -701,10 +715,10 @@
           "preco_normal": 628,
           "preco_desconto": 0.0,
           "preco_final": 628,
-          "atualizado": "2026-10-25T00:31:50+00:00",
+          "atualizado": "2026-10-29T23:02:36+00:00",
           "history": [
             [
-              "2026-10-25",
+              "2026-10-29",
               628
             ]
           ]

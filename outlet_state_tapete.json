@@ -19,7 +19,7 @@
     "Coimbra (Coimbra)": "2026-10-29T22:21:07+00:00",
     "Colombo (Lisboa)": "2026-10-29T21:29:04+00:00",
     "Covilha (Castelo Branco)": "2026-10-29T22:13:32+00:00",
-    "Evora (Evora)": "2026-10-24T23:27:20+00:00",
+    "Evora (Evora)": "2026-10-29T23:01:33+00:00",
     "Figueira da Foz (Coimbra)": "2026-10-29T22:23:41+00:00",
     "Gaia (Porto)": "2026-10-29T22:51:30+00:00",
     "Gondomar (Porto)": "2026-10-29T22:48:57+00:00",
@@ -29,8 +29,8 @@
     "Loule (Faro)": "2026-10-29T21:54:36+00:00",
     "Loures (Lisboa)": "2026-10-29T21:36:34+00:00",
     "Mafra (Lisboa)": "2026-10-29T21:49:04+00:00",
-    "Maia (Porto)": "2026-10-24T23:26:18+00:00",
-    "Matosinhos (Porto)": "2026-10-24T23:25:19+00:00",
+    "Maia (Porto)": "2026-10-29T22:59:04+00:00",
+    "Matosinhos (Porto)": "2026-10-29T22:56:35+00:00",
     "Montijo (Setubal)": "2026-10-29T22:06:21+00:00",
     "Oeiras (Lisboa)": "2026-10-29T21:35:10+00:00",
     "Penafiel (Porto)": "2026-10-29T22:53:58+00:00",
@@ -43,8 +43,8 @@
     "Telheiras (Lisboa)": "2026-10-29T21:39:10+00:00",
     "Torres Novas (Santarem)": "2026-10-29T22:16:05+00:00",
     "Torres Vedras (Lisboa)": "2026-10-29T21:51:40+00:00",
-    "Viana do Castelo (Viana do Castelo)": "2026-10-24T23:29:13+00:00",
-    "Viseu (Viseu)": "2026-10-24T23:28:14+00:00"
+    "Viana do Castelo (Viana do Castelo)": "2026-10-29T23:06:44+00:00",
+    "Viseu (Viseu)": "2026-10-29T23:04:08+00:00"
   },
   "products": {
     "12304320@Albufeira (Faro)": {
@@ -447,11 +447,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-cozinha-karina-50-x-80-cm-bege-12304320.html"
     },
     "12304320@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "50x80",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           3.29
         ]
       ],
@@ -657,11 +657,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-cozinha-karina-50-x-80-cm-bege-12304320.html"
     },
     "12304320@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "50x80",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           3.29
         ]
       ],
@@ -678,11 +678,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-cozinha-karina-50-x-80-cm-bege-12304320.html"
     },
     "12304320@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "50x80",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           3.29
         ]
       ],
@@ -951,11 +951,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-cozinha-karina-50-x-80-cm-bege-12304320.html"
     },
     "12304320@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "50x80",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           3.29
         ]
       ],
@@ -972,11 +972,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-cozinha-karina-50-x-80-cm-bege-12304320.html"
     },
     "12304320@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "50x80",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           3.29
         ]
       ],
@@ -1098,11 +1098,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-160x230cm-branco-15757770.html"
     },
     "15757770@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           47.98
         ]
       ],
@@ -1305,27 +1305,6 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Cascais (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-acr-liso-160x230cm-norge-bege-m-17574193.html"
-    },
-    "17574193@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
-      "dimensao": "160x230",
-      "history": [
-        [
-          "2026-10-25",
-          50.98
-        ]
-      ],
-      "id": "17574193",
-      "m2_caixa": null,
-      "marca": "REVESTEX UNITRAMA",
-      "name": "Tapete acr liso 160x230cm norge bege 'm'",
-      "preco_desconto": 33.01,
-      "preco_final": 50.98,
-      "preco_normal": 83.99,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Maia (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-acr-liso-160x230cm-norge-bege-m-17574193.html"
     },
     "17574193@Montijo (Setubal)": {
@@ -1559,27 +1538,6 @@
       "store": "Covilha (Castelo Branco)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-pele-natural-preto-solido-pequeno-17938151.html"
     },
-    "17938151@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
-      "dimensao": null,
-      "history": [
-        [
-          "2026-10-25",
-          179.4
-        ]
-      ],
-      "id": "17938151",
-      "m2_caixa": null,
-      "marca": "MA SALGUEIRO",
-      "name": "Tapete pele natural PRETO SÓLIDO PEQUENO",
-      "preco_desconto": 119.6,
-      "preco_final": 179.4,
-      "preco_normal": 299,
-      "region": "Evora",
-      "retificado": false,
-      "store": "Evora (Evora)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-pele-natural-preto-solido-pequeno-17938151.html"
-    },
     "17938151@Figueira da Foz (Coimbra)": {
       "atualizado": "2026-10-29T22:23:41+00:00",
       "dimensao": null,
@@ -1704,48 +1662,6 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Mafra (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-pele-natural-preto-solido-pequeno-17938151.html"
-    },
-    "17938151@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
-      "dimensao": null,
-      "history": [
-        [
-          "2026-10-25",
-          179.4
-        ]
-      ],
-      "id": "17938151",
-      "m2_caixa": null,
-      "marca": "MA SALGUEIRO",
-      "name": "Tapete pele natural PRETO SÓLIDO PEQUENO",
-      "preco_desconto": 119.6,
-      "preco_final": 179.4,
-      "preco_normal": 299,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Maia (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-pele-natural-preto-solido-pequeno-17938151.html"
-    },
-    "17938151@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
-      "dimensao": null,
-      "history": [
-        [
-          "2026-10-25",
-          179.4
-        ]
-      ],
-      "id": "17938151",
-      "m2_caixa": null,
-      "marca": "MA SALGUEIRO",
-      "name": "Tapete pele natural PRETO SÓLIDO PEQUENO",
-      "preco_desconto": 119.6,
-      "preco_final": 179.4,
-      "preco_normal": 299,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-pele-natural-preto-solido-pequeno-17938151.html"
     },
     "17938151@Oeiras (Lisboa)": {
@@ -1917,11 +1833,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-pele-natural-preto-solido-pequeno-17938151.html"
     },
     "17938151@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           179.4
         ]
       ],
@@ -1938,11 +1854,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-pele-natural-preto-solido-pequeno-17938151.html"
     },
     "17938151@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           179.4
         ]
       ],
@@ -2274,11 +2190,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-royal-gabeh-14686-67x105cm-18703552.html"
     },
     "18703552@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "67x105",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           14.99
         ]
       ],
@@ -2439,27 +2355,6 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Mafra (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-royal-gabeh-14686-67x105cm-18703552.html"
-    },
-    "18703552@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
-      "dimensao": "67x105",
-      "history": [
-        [
-          "2026-10-25",
-          14.99
-        ]
-      ],
-      "id": "18703552",
-      "m2_caixa": null,
-      "marca": "MA SALGUEIRO",
-      "name": "Tapete desenho ROYAL GABEH 14686 67X105CM",
-      "preco_desconto": 10,
-      "preco_final": 14.99,
-      "preco_normal": 24.99,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-royal-gabeh-14686-67x105cm-18703552.html"
     },
     "18703552@Montijo (Setubal)": {
@@ -2694,11 +2589,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-royal-gabeh-14686-67x105cm-18703552.html"
     },
     "18703552@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "67x105",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           14.99
         ]
       ],
@@ -2715,11 +2610,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-royal-gabeh-14686-67x105cm-18703552.html"
     },
     "18703552@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "67x105",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           14.99
         ]
       ],
@@ -3009,11 +2904,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-royal-gabeh-67-x-105-cm-azul-18703671.html"
     },
     "18703671@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "67x105",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           14.99
         ]
       ],
@@ -3408,11 +3303,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-royal-gabeh-67-x-105-cm-azul-18703671.html"
     },
     "18703671@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "67x105",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           14.99
         ]
       ],
@@ -3429,11 +3324,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-royal-gabeh-67-x-105-cm-azul-18703671.html"
     },
     "18703671@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "67x105",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           14.99
         ]
       ],
@@ -3638,12 +3533,33 @@
       "store": "Santa Maria da Feira (Aveiro)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-exterior-tatami-363-120x170cm-18999260.html"
     },
-    "18999260@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+    "18999260@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "120x170",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
+          41.99
+        ]
+      ],
+      "id": "18999260",
+      "m2_caixa": null,
+      "marca": "MA SALGUEIRO",
+      "name": "Tapete exterior TATAMI 363 120X170CM",
+      "preco_desconto": 28,
+      "preco_final": 41.99,
+      "preco_normal": 69.99,
+      "region": "Viana do Castelo",
+      "retificado": false,
+      "store": "Viana do Castelo (Viana do Castelo)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-exterior-tatami-363-120x170cm-18999260.html"
+    },
+    "18999260@Viseu (Viseu)": {
+      "atualizado": "2026-10-29T23:04:08+00:00",
+      "dimensao": "120x170",
+      "history": [
+        [
+          "2026-10-29",
           41.99
         ]
       ],
@@ -3681,11 +3597,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-cozinha-48191060-80x200cm-19373746.html"
     },
     "19735975@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           159
         ]
       ],
@@ -3702,11 +3618,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-touch-160x230cm-066-branco-19735975.html"
     },
     "19736052@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           259
         ]
       ],
@@ -3996,11 +3912,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-100x150cm-antik-chenille-cinzento-19880294.html"
     },
     "19880294@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "100x150",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           69.99
         ]
       ],
@@ -4017,11 +3933,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-100x150cm-antik-chenille-cinzento-19880294.html"
     },
     "19880294@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "100x150",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           69.99
         ]
       ],
@@ -4205,6 +4121,27 @@
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-sherpa-200x290-cm-branco-laranja-19962803.html"
     },
+    "19962803@Matosinhos (Porto)": {
+      "atualizado": "2026-10-29T22:56:35+00:00",
+      "dimensao": "200x290",
+      "history": [
+        [
+          "2026-10-29",
+          228
+        ]
+      ],
+      "id": "19962803",
+      "m2_caixa": null,
+      "marca": "UNIVERSAL XXI",
+      "name": "Tapete desenho SHERPA 200X290 cm branco/laranja",
+      "preco_desconto": 51,
+      "preco_final": 228,
+      "preco_normal": 279,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Matosinhos (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-sherpa-200x290-cm-branco-laranja-19962803.html"
+    },
     "19963111@Mafra (Lisboa)": {
       "atualizado": "2026-10-29T21:49:04+00:00",
       "dimensao": "160x230",
@@ -4224,6 +4161,27 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Mafra (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-sherpa-160x230-cm-laranja-19963111.html"
+    },
+    "19963111@Viana do Castelo (Viana do Castelo)": {
+      "atualizado": "2026-10-29T23:06:44+00:00",
+      "dimensao": "160x230",
+      "history": [
+        [
+          "2026-10-29",
+          148
+        ]
+      ],
+      "id": "19963111",
+      "m2_caixa": null,
+      "marca": "UNIVERSAL XXI",
+      "name": "Tapete desenho SHERPA 160X230 cm laranja",
+      "preco_desconto": 31,
+      "preco_final": 148,
+      "preco_normal": 179,
+      "region": "Viana do Castelo",
+      "retificado": false,
+      "store": "Viana do Castelo (Viana do Castelo)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-sherpa-160x230-cm-laranja-19963111.html"
     },
     "19973065@Gondomar (Porto)": {
@@ -4288,27 +4246,6 @@
       "retificado": false,
       "store": "Portimao (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-geometrico-menorca-150x200cm-branco-78779466.html"
-    },
-    "81909283@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
-      "dimensao": "140x200",
-      "history": [
-        [
-          "2026-10-25",
-          124
-        ]
-      ],
-      "id": "81909283",
-      "m2_caixa": null,
-      "marca": "MA SALGUEIRO",
-      "name": "Tapete liso TOUCH BEGE CLARO 056 140X200CM",
-      "preco_desconto": 25,
-      "preco_final": 124,
-      "preco_normal": 149,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-liso-touch-bege-claro-056-140x200cm-81909283.html"
     },
     "81951425@Alfragide (Lisboa)": {
       "atualizado": "2026-10-29T21:31:35+00:00",
@@ -4626,11 +4563,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-provence-121-493440-200x300cm-81951425.html"
     },
     "81951425@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "200x300",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           269.4
         ]
       ],
@@ -4815,11 +4752,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-provence-121-493440-200x300cm-81951425.html"
     },
     "81951425@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "200x300",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           269.4
         ]
       ],
@@ -5067,11 +5004,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-provence-121-493440-200x300cm-81951425.html"
     },
     "81951425@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "200x300",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           269.4
         ]
       ],
@@ -5088,11 +5025,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-provence-121-493440-200x300cm-81951425.html"
     },
     "81951425@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "200x300",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           269.4
         ]
       ],
@@ -5256,11 +5193,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-antik-cloud-vermelho-200x290-scru-006-82232288.html"
     },
     "82232288@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           273
         ]
       ],
@@ -5508,11 +5445,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-antik-chenille-200-x-290-cm-bordeux-82232324.html"
     },
     "82232324@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           234
         ]
       ],
@@ -5652,48 +5589,6 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Mafra (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-liso-antik-chenille-200-x-290-cm-bordeux-82232324.html"
-    },
-    "82232324@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
-      "dimensao": "200x290",
-      "history": [
-        [
-          "2026-10-25",
-          234
-        ]
-      ],
-      "id": "82232324",
-      "m2_caixa": null,
-      "marca": "MA SALGUEIRO",
-      "name": "Tapete liso ANTIK CHENILLE 200 x 290 cm bordeux",
-      "preco_desconto": 156,
-      "preco_final": 234,
-      "preco_normal": 390,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Maia (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-liso-antik-chenille-200-x-290-cm-bordeux-82232324.html"
-    },
-    "82232324@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
-      "dimensao": "200x290",
-      "history": [
-        [
-          "2026-10-25",
-          234
-        ]
-      ],
-      "id": "82232324",
-      "m2_caixa": null,
-      "marca": "MA SALGUEIRO",
-      "name": "Tapete liso ANTIK CHENILLE 200 x 290 cm bordeux",
-      "preco_desconto": 156,
-      "preco_final": 234,
-      "preco_normal": 390,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-antik-chenille-200-x-290-cm-bordeux-82232324.html"
     },
     "82232324@Oeiras (Lisboa)": {
@@ -5886,11 +5781,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-antik-chenille-200-x-290-cm-bordeux-82232324.html"
     },
     "82232324@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           234
         ]
       ],
@@ -5907,11 +5802,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-antik-chenille-200-x-290-cm-bordeux-82232324.html"
     },
     "82232324@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           234
         ]
       ],
@@ -6306,11 +6201,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-vegas-140x200cm-natural-82232691.html"
     },
     "82232691@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "140x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           107.4
         ]
       ],
@@ -6516,11 +6411,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-vegas-140x200cm-natural-82232691.html"
     },
     "82232691@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "140x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           107.4
         ]
       ],
@@ -6537,11 +6432,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-vegas-140x200cm-natural-82232691.html"
     },
     "82232691@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "140x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           107.4
         ]
       ],
@@ -6810,11 +6705,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-vegas-140x200cm-natural-82232691.html"
     },
     "82232691@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "140x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           107.4
         ]
       ],
@@ -6831,11 +6726,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-vegas-140x200cm-natural-82232691.html"
     },
     "82232691@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "140x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           107.4
         ]
       ],
@@ -6894,11 +6789,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-vegas-120x170cm-cinza-branco-82232699.html"
     },
     "82232699@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "120x170",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           77.4
         ]
       ],
@@ -7040,33 +6935,12 @@
       "store": "Santa Maria da Feira (Aveiro)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-vegas-160x230cm-branco-preto-82232705.html"
     },
-    "82232705@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
-      "dimensao": "160x230",
-      "history": [
-        [
-          "2026-10-25",
-          149.4
-        ]
-      ],
-      "id": "82232705",
-      "m2_caixa": null,
-      "marca": "MA SALGUEIRO",
-      "name": "Tapete desenho VEGAS 160X230CM BRANCO/PRETO",
-      "preco_desconto": 99.6,
-      "preco_final": 149.4,
-      "preco_normal": 249,
-      "region": "Viana do Castelo",
-      "retificado": false,
-      "store": "Viana do Castelo (Viana do Castelo)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-vegas-160x230cm-branco-preto-82232705.html"
-    },
     "82232705@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           149.4
         ]
       ],
@@ -7314,11 +7188,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-interior-vegas-200x290-cm-branco-preto-82232706.html"
     },
     "82232706@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           203.4
         ]
       ],
@@ -7692,11 +7566,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-interior-vegas-200x290-cm-branco-preto-82232706.html"
     },
     "82232706@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           203.4
         ]
       ],
@@ -7713,11 +7587,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-interior-vegas-200x290-cm-branco-preto-82232706.html"
     },
     "82232706@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           203.4
         ]
       ],
@@ -7818,11 +7692,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-vegas-200x290-cm-azul-e-branco-82232710.html"
     },
     "82232710@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           209.4
         ]
       ],
@@ -7986,11 +7860,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-60x120-cm-branco-82340385.html"
     },
     "82340385@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "60x120",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           10.98
         ]
       ],
@@ -8154,11 +8028,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-retangular-shaggy-norge-120x180cm-branco-82340386.html"
     },
     "82340386@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "120x180",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           26.98
         ]
       ],
@@ -8405,27 +8279,6 @@
       "store": "Guarda (Guarda)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-170x240-cm-kilim-herat-multicor-82425285.html"
     },
-    "82560398@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
-      "dimensao": "120x170",
-      "history": [
-        [
-          "2026-10-25",
-          53.98
-        ]
-      ],
-      "id": "82560398",
-      "m2_caixa": null,
-      "marca": "MA SALGUEIRO",
-      "name": "Tapete natural PVC DENON FINO 120X170CM CINZA",
-      "preco_desconto": 36.01,
-      "preco_final": 53.98,
-      "preco_normal": 89.99,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-natural-pvc-denon-fino-120x170cm-cinza-82560398.html"
-    },
     "82560419@Almada (Setubal)": {
       "atualizado": "2026-10-29T22:03:49+00:00",
       "dimensao": "160x230",
@@ -8466,6 +8319,27 @@
       "region": "Faro",
       "retificado": false,
       "store": "Loule (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-natural-pvc-denon-fino-160x230cm-cinza-82560419.html"
+    },
+    "82560419@Matosinhos (Porto)": {
+      "atualizado": "2026-10-29T22:56:35+00:00",
+      "dimensao": "160x230",
+      "history": [
+        [
+          "2026-10-29",
+          148
+        ]
+      ],
+      "id": "82560419",
+      "m2_caixa": null,
+      "marca": "MA SALGUEIRO",
+      "name": "Tapete natural PVC DENON FINO 160X230CM CINZA",
+      "preco_desconto": 31,
+      "preco_final": 148,
+      "preco_normal": 179,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-natural-pvc-denon-fino-160x230cm-cinza-82560419.html"
     },
     "82929118@Setubal (Setubal)": {
@@ -8616,11 +8490,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-exterior-redondo-150-cm-bege-naterial-enos-tribe-83984508.html"
     },
     "83984508@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           16.98
         ]
       ],
@@ -9015,11 +8889,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-montana-190x290cm-cinza-84717141.html"
     },
     "84717141@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "190x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           161.4
         ]
       ],
@@ -9222,6 +9096,48 @@
       "region": "Lisboa",
       "retificado": false,
       "store": "Mafra (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-liso-montana-190x290cm-cinza-84717141.html"
+    },
+    "84717141@Maia (Porto)": {
+      "atualizado": "2026-10-29T22:59:04+00:00",
+      "dimensao": "190x290",
+      "history": [
+        [
+          "2026-10-29",
+          161.4
+        ]
+      ],
+      "id": "84717141",
+      "m2_caixa": null,
+      "marca": "MA SALGUEIRO",
+      "name": "Tapete liso MONTANA 190X290CM CINZA",
+      "preco_desconto": 107.6,
+      "preco_final": 161.4,
+      "preco_normal": 269,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Maia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-liso-montana-190x290cm-cinza-84717141.html"
+    },
+    "84717141@Matosinhos (Porto)": {
+      "atualizado": "2026-10-29T22:56:35+00:00",
+      "dimensao": "190x290",
+      "history": [
+        [
+          "2026-10-29",
+          161.4
+        ]
+      ],
+      "id": "84717141",
+      "m2_caixa": null,
+      "marca": "MA SALGUEIRO",
+      "name": "Tapete liso MONTANA 190X290CM CINZA",
+      "preco_desconto": 107.6,
+      "preco_final": 161.4,
+      "preco_normal": 269,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-montana-190x290cm-cinza-84717141.html"
     },
     "84717141@Montijo (Setubal)": {
@@ -9477,11 +9393,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-montana-190x290cm-cinza-84717141.html"
     },
     "84717141@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "190x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           161.4
         ]
       ],
@@ -9498,11 +9414,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-liso-montana-190x290cm-cinza-84717141.html"
     },
     "84717141@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "190x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           161.4
         ]
       ],
@@ -9750,11 +9666,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-190x290cm-branco-84760713.html"
     },
     "84760713@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "190x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           82.98
         ]
       ],
@@ -9897,11 +9813,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-160x230cm-prata-84824330.html"
     },
     "84824330@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           47.98
         ]
       ],
@@ -9960,11 +9876,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-160x230cm-prata-84824330.html"
     },
     "84824330@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           47.98
         ]
       ],
@@ -10296,11 +10212,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-oriental-mabel-medallon-160x230cm-86275803.html"
     },
     "86275803@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           92.98
         ]
       ],
@@ -10317,11 +10233,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-oriental-mabel-medallon-160x230cm-86275803.html"
     },
     "86275803@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           92.98
         ]
       ],
@@ -10421,12 +10337,33 @@
       "store": "Loule (Faro)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-domus-mond-120x170cm-86275988.html"
     },
+    "86275988@Maia (Porto)": {
+      "atualizado": "2026-10-29T22:59:04+00:00",
+      "dimensao": "120x170",
+      "history": [
+        [
+          "2026-10-29",
+          44.98
+        ]
+      ],
+      "id": "86275988",
+      "m2_caixa": null,
+      "marca": "REVESTEX UNITRAMA",
+      "name": "Tapete DOMUS MOND 120x170cm",
+      "preco_desconto": 30.01,
+      "preco_final": 44.98,
+      "preco_normal": 74.99,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Maia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-domus-mond-120x170cm-86275988.html"
+    },
     "86276031@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "154x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           41.98
         ]
       ],
@@ -10485,11 +10422,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-interior-springs-2230-192x290-cm-multicor-86276364.html"
     },
     "86276364@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "192x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           87.98
         ]
       ],
@@ -10756,6 +10693,27 @@
       "retificado": false,
       "store": "Colombo (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-e-exterior-sisalana-160-x-230-cm-bege-87669325.html"
+    },
+    "87669398@Maia (Porto)": {
+      "atualizado": "2026-10-29T22:59:04+00:00",
+      "dimensao": "160x230",
+      "history": [
+        [
+          "2026-10-29",
+          105
+        ]
+      ],
+      "id": "87669398",
+      "m2_caixa": null,
+      "marca": "MA SALGUEIRO",
+      "name": "Tapete desenho Marbella 160 x230 cm dourado/bege",
+      "preco_desconto": 14,
+      "preco_final": 105,
+      "preco_normal": 119,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Maia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-desenho-marbella-160-x230-cm-dourado-bege-87669398.html"
     },
     "87797074@Guarda (Guarda)": {
       "atualizado": "2026-10-29T22:46:22+00:00",
@@ -11157,11 +11115,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-satika-160x230cm-inspire-87797145.html"
     },
     "87797145@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           118
         ]
       ],
@@ -11178,11 +11136,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-satika-160x230cm-inspire-87797145.html"
     },
     "87797145@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           118
         ]
       ],
@@ -11304,11 +11262,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-satika-160x230cm-inspire-87797145.html"
     },
     "87797145@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           118
         ]
       ],
@@ -11325,11 +11283,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-satika-160x230cm-inspire-87797145.html"
     },
     "87797145@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           59.98
         ]
       ],
@@ -11388,11 +11346,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-sohan-120x170cm-natural-inspire-87797152.html"
     },
     "87797152@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "120x170",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           38.98
         ]
       ],
@@ -11407,27 +11365,6 @@
       "retificado": false,
       "store": "Maia (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-sohan-120x170cm-natural-inspire-87797152.html"
-    },
-    "87797166@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
-      "dimensao": "160x230",
-      "history": [
-        [
-          "2026-10-25",
-          95.98
-        ]
-      ],
-      "id": "87797166",
-      "m2_caixa": null,
-      "marca": "INSPIRE",
-      "name": "Tapete Sohan 160x230cm natural Inspire",
-      "preco_desconto": 23.02,
-      "preco_final": 95.98,
-      "preco_normal": 119,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-sohan-160x230cm-natural-inspire-87797166.html"
     },
     "87890881@Barreiro (Setubal)": {
       "atualizado": "2026-10-29T22:01:16+00:00",
@@ -11681,27 +11618,6 @@
       "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-iris-160x230cm-87963092.html"
     },
-    "87963092@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
-      "dimensao": "160x230",
-      "history": [
-        [
-          "2026-10-25",
-          118
-        ]
-      ],
-      "id": "87963092",
-      "m2_caixa": null,
-      "marca": "UNIVERSAL XXI",
-      "name": "Tapete IRIS 160x230cm",
-      "preco_desconto": 17,
-      "preco_final": 118,
-      "preco_normal": 135,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Maia (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-iris-160x230cm-87963092.html"
-    },
     "87964509@Chaves (Vila Real)": {
       "atualizado": "2026-10-29T22:26:19+00:00",
       "dimensao": "115x170",
@@ -11764,69 +11680,6 @@
       "retificado": false,
       "store": "Chaves (Vila Real)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-amsterdam-192x290cm-87964512.html"
-    },
-    "87964616@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
-      "dimensao": "133x190",
-      "history": [
-        [
-          "2026-10-25",
-          69
-        ]
-      ],
-      "id": "87964616",
-      "m2_caixa": null,
-      "marca": "UNIVERSAL XXI",
-      "name": "Tapete SENSATION cinza 133x190cm",
-      "preco_desconto": 46,
-      "preco_final": 69,
-      "preco_normal": 115,
-      "region": "Evora",
-      "retificado": false,
-      "store": "Evora (Evora)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-sensation-cinza-133x190cm-87964616.html"
-    },
-    "87964616@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
-      "dimensao": "133x190",
-      "history": [
-        [
-          "2026-10-25",
-          69
-        ]
-      ],
-      "id": "87964616",
-      "m2_caixa": null,
-      "marca": "UNIVERSAL XXI",
-      "name": "Tapete SENSATION cinza 133x190cm",
-      "preco_desconto": 46,
-      "preco_final": 69,
-      "preco_normal": 115,
-      "region": "Viana do Castelo",
-      "retificado": false,
-      "store": "Viana do Castelo (Viana do Castelo)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-sensation-cinza-133x190cm-87964616.html"
-    },
-    "87964616@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
-      "dimensao": "133x190",
-      "history": [
-        [
-          "2026-10-25",
-          69
-        ]
-      ],
-      "id": "87964616",
-      "m2_caixa": null,
-      "marca": "UNIVERSAL XXI",
-      "name": "Tapete SENSATION cinza 133x190cm",
-      "preco_desconto": 46,
-      "preco_final": 69,
-      "preco_normal": 115,
-      "region": "Viseu",
-      "retificado": false,
-      "store": "Viseu (Viseu)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-sensation-cinza-133x190cm-87964616.html"
     },
     "87964618@Albufeira (Faro)": {
       "atualizado": "2026-10-29T21:58:10+00:00",
@@ -11997,11 +11850,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-sensation-cinza-160x230cm-87964618.html"
     },
     "87964618@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           148
         ]
       ],
@@ -12018,11 +11871,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-sensation-cinza-160x230cm-87964618.html"
     },
     "87964618@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           148
         ]
       ],
@@ -12102,11 +11955,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-sensation-prata-160x230cm-87964624.html"
     },
     "87964624@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           148
         ]
       ],
@@ -12207,11 +12060,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-sensation-prata-200x290cm-87964630.html"
     },
     "87964630@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "200x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           218
         ]
       ],
@@ -12268,6 +12121,27 @@
       "retificado": false,
       "store": "Sintra (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-sensation-prata-200x290cm-87964630.html"
+    },
+    "87964633@Matosinhos (Porto)": {
+      "atualizado": "2026-10-29T22:56:35+00:00",
+      "dimensao": "140x200",
+      "history": [
+        [
+          "2026-10-29",
+          49.98
+        ]
+      ],
+      "id": "87964633",
+      "m2_caixa": null,
+      "marca": "UNIVERSAL XXI",
+      "name": "Tapete ESPIGA antracite 140x200cm",
+      "preco_desconto": 32.91,
+      "preco_final": 49.98,
+      "preco_normal": 82.89,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Matosinhos (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-espiga-antracite-140x200cm-87964633.html"
     },
     "87964638@Almada (Setubal)": {
       "atualizado": "2026-10-29T22:03:49+00:00",
@@ -12563,6 +12437,27 @@
       "store": "Alta de Lisboa (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-atlas-120x180cm-branco-89992068.html"
     },
+    "89992068@Evora (Evora)": {
+      "atualizado": "2026-10-29T23:01:33+00:00",
+      "dimensao": "120x180",
+      "history": [
+        [
+          "2026-10-29",
+          35.98
+        ]
+      ],
+      "id": "89992068",
+      "m2_caixa": null,
+      "marca": "UNIVERSAL XXI",
+      "name": "Tapete Atlas 120x180cm branco",
+      "preco_desconto": 24.01,
+      "preco_final": 35.98,
+      "preco_normal": 59.99,
+      "region": "Evora",
+      "retificado": false,
+      "store": "Evora (Evora)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-atlas-120x180cm-branco-89992068.html"
+    },
     "89992068@Loule (Faro)": {
       "atualizado": "2026-10-29T21:54:36+00:00",
       "dimensao": "120x180",
@@ -12582,6 +12477,48 @@
       "region": "Faro",
       "retificado": false,
       "store": "Loule (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-atlas-120x180cm-branco-89992068.html"
+    },
+    "89992068@Maia (Porto)": {
+      "atualizado": "2026-10-29T22:59:04+00:00",
+      "dimensao": "120x180",
+      "history": [
+        [
+          "2026-10-29",
+          35.98
+        ]
+      ],
+      "id": "89992068",
+      "m2_caixa": null,
+      "marca": "UNIVERSAL XXI",
+      "name": "Tapete Atlas 120x180cm branco",
+      "preco_desconto": 24.01,
+      "preco_final": 35.98,
+      "preco_normal": 59.99,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Maia (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-atlas-120x180cm-branco-89992068.html"
+    },
+    "89992068@Matosinhos (Porto)": {
+      "atualizado": "2026-10-29T22:56:35+00:00",
+      "dimensao": "120x180",
+      "history": [
+        [
+          "2026-10-29",
+          35.98
+        ]
+      ],
+      "id": "89992068",
+      "m2_caixa": null,
+      "marca": "UNIVERSAL XXI",
+      "name": "Tapete Atlas 120x180cm branco",
+      "preco_desconto": 24.01,
+      "preco_final": 35.98,
+      "preco_normal": 59.99,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-atlas-120x180cm-branco-89992068.html"
     },
     "89992068@Sintra (Lisboa)": {
@@ -12690,11 +12627,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-atlas-190x290cm-camel-89992090.html"
     },
     "89992090@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "190x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           118
         ]
       ],
@@ -12855,6 +12792,27 @@
       "region": "Guarda",
       "retificado": false,
       "store": "Guarda (Guarda)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-60x120cm-cinza-91008968.html"
+    },
+    "91008968@Matosinhos (Porto)": {
+      "atualizado": "2026-10-29T22:56:35+00:00",
+      "dimensao": "60x120",
+      "history": [
+        [
+          "2026-10-29",
+          10.98
+        ]
+      ],
+      "id": "91008968",
+      "m2_caixa": null,
+      "marca": "REVESTEX UNITRAMA",
+      "name": "Tapete interior polipropileno Norge 60X120CM cinza",
+      "preco_desconto": 7.01,
+      "preco_final": 10.98,
+      "preco_normal": 17.99,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Matosinhos (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-60x120cm-cinza-91008968.html"
     },
     "91008968@Penafiel (Porto)": {
@@ -13110,11 +13068,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-120x180cm-cinza-91008970.html"
     },
     "91008970@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "120x180",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           26.98
         ]
       ],
@@ -13298,6 +13256,27 @@
       "store": "Cascais (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-160x230cm-cinza-91008971.html"
     },
+    "91008971@Evora (Evora)": {
+      "atualizado": "2026-10-29T23:01:33+00:00",
+      "dimensao": "160x230",
+      "history": [
+        [
+          "2026-10-29",
+          47.98
+        ]
+      ],
+      "id": "91008971",
+      "m2_caixa": null,
+      "marca": "REVESTEX UNITRAMA",
+      "name": "Tapete interior polipropileno Norge 160X230CM cinza",
+      "preco_desconto": 32.01,
+      "preco_final": 47.98,
+      "preco_normal": 79.99,
+      "region": "Evora",
+      "retificado": false,
+      "store": "Evora (Evora)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-160x230cm-cinza-91008971.html"
+    },
     "91008971@Gondomar (Porto)": {
       "atualizado": "2026-10-29T22:48:57+00:00",
       "dimensao": "160x230",
@@ -13362,11 +13341,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-160x230cm-cinza-91008971.html"
     },
     "91008971@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-24T23:29:13+00:00",
+      "atualizado": "2026-10-29T23:06:44+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           47.98
         ]
       ],
@@ -13551,11 +13530,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-190x290cm-cinza-91008972.html"
     },
     "91008972@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "190x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           67.98
         ]
       ],
@@ -13677,11 +13656,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-190x290cm-cinza-91008972.html"
     },
     "91008972@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "190x290",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           59.98
         ]
       ],
@@ -14055,11 +14034,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-norge-120x180cm-castanho-91008973.html"
     },
     "91008973@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
+      "atualizado": "2026-10-29T22:59:04+00:00",
       "dimensao": "120x180",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           28.98
         ]
       ],
@@ -14286,11 +14265,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-160x230cm-linho-91008974.html"
     },
     "91008974@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": "160x230",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           47.98
         ]
       ],
@@ -14852,26 +14831,26 @@
       "store": "Carcavelos (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-kilim-kaysary-160-x-230-cm-algodao-91537100.html"
     },
-    "91537100@Maia (Porto)": {
-      "atualizado": "2026-10-24T23:26:18+00:00",
-      "dimensao": "160x230",
+    "91537101@Matosinhos (Porto)": {
+      "atualizado": "2026-10-29T22:56:35+00:00",
+      "dimensao": "200x300",
       "history": [
         [
-          "2026-10-25",
-          111.2
+          "2026-10-29",
+          189
         ]
       ],
-      "id": "91537100",
+      "id": "91537101",
       "m2_caixa": null,
       "marca": "KUATRO CARPETS",
-      "name": "Tapete Kilim Kaysary 160 x 230 cm  algodão",
-      "preco_desconto": 27.8,
-      "preco_final": 111.2,
-      "preco_normal": 139,
+      "name": "Tapete Kilim Kaysary 200 x 300 cm  algodão",
+      "preco_desconto": 42,
+      "preco_final": 189,
+      "preco_normal": 231,
       "region": "Porto",
       "retificado": false,
-      "store": "Maia (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-kilim-kaysary-160-x-230-cm-algodao-91537100.html"
+      "store": "Matosinhos (Porto)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-kilim-kaysary-200-x-300-cm-algodao-91537101.html"
     },
     "91537101@Torres Vedras (Lisboa)": {
       "atualizado": "2026-10-29T21:51:40+00:00",
@@ -15084,11 +15063,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-redondo-d130cm-branco-93010963.html"
     },
     "93010963@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           23.98
         ]
       ],
@@ -15399,11 +15378,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-redondo-d130cm-cinza-93010964.html"
     },
     "93010964@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           23.98
         ]
       ],
@@ -15480,6 +15459,27 @@
       "region": "Faro",
       "retificado": false,
       "store": "Loule (Faro)",
+      "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-redondo-d130cm-cinza-93010964.html"
+    },
+    "93010964@Maia (Porto)": {
+      "atualizado": "2026-10-29T22:59:04+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-10-29",
+          23.98
+        ]
+      ],
+      "id": "93010964",
+      "m2_caixa": null,
+      "marca": "REVESTEX UNITRAMA",
+      "name": "Tapete interior polipropileno Norge redondo D130CM cinza",
+      "preco_desconto": 16.01,
+      "preco_final": 23.98,
+      "preco_normal": 39.99,
+      "region": "Porto",
+      "retificado": false,
+      "store": "Maia (Porto)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-redondo-d130cm-cinza-93010964.html"
     },
     "93010964@Portimao (Faro)": {
@@ -15588,11 +15588,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-redondo-d130cm-cinza-93010964.html"
     },
     "93010964@Viseu (Viseu)": {
-      "atualizado": "2026-10-24T23:28:14+00:00",
+      "atualizado": "2026-10-29T23:04:08+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           23.98
         ]
       ],
@@ -15714,11 +15714,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-redondo-d130cm-linho-93010965.html"
     },
     "93010965@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           23.98
         ]
       ],
@@ -16113,11 +16113,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-interior-polipropileno-norge-redondo-d130cm-prata-93010966.html"
     },
     "93010966@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:27:20+00:00",
+      "atualizado": "2026-10-29T23:01:33+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           23.98
         ]
       ],
@@ -16742,27 +16742,6 @@
       "store": "Loures (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-exterior-e-interior-gredos-d120cm-sortido-96901676.html"
     },
-    "96901676@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
-      "dimensao": null,
-      "history": [
-        [
-          "2026-10-25",
-          29.98
-        ]
-      ],
-      "id": "96901676",
-      "m2_caixa": null,
-      "marca": "TAKOR NUEVO ORIENTE",
-      "name": "Tapete de exterior e interior Gredos D120cm sortido",
-      "preco_desconto": 20.01,
-      "preco_final": 29.98,
-      "preco_normal": 49.99,
-      "region": "Porto",
-      "retificado": false,
-      "store": "Matosinhos (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/tapete-de-exterior-e-interior-gredos-d120cm-sortido-96901676.html"
-    },
     "96901676@Telheiras (Lisboa)": {
       "atualizado": "2026-10-29T21:39:10+00:00",
       "dimensao": null,
@@ -16932,11 +16911,11 @@
       "url": "https://www.leroymerlin.pt/produtos/tapete-de-exterior-e-interior-gredos-200x300cm-sortido-96901683.html"
     },
     "96901683@Matosinhos (Porto)": {
-      "atualizado": "2026-10-24T23:25:19+00:00",
+      "atualizado": "2026-10-29T22:56:35+00:00",
       "dimensao": "200x300",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           208
         ]
       ],

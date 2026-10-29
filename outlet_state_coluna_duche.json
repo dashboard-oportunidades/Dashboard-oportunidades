@@ -19,7 +19,7 @@
     "Coimbra (Coimbra)": "2026-10-29T22:19:30+00:00",
     "Colombo (Lisboa)": "2026-10-29T21:27:29+00:00",
     "Covilha (Castelo Branco)": "2026-10-29T22:12:43+00:00",
-    "Evora (Evora)": "2026-10-24T23:55:33+00:00",
+    "Evora (Evora)": "2026-10-29T22:59:59+00:00",
     "Figueira da Foz (Coimbra)": "2026-10-29T22:22:02+00:00",
     "Gaia (Porto)": "2026-10-29T22:49:54+00:00",
     "Gondomar (Porto)": "2026-10-29T22:47:19+00:00",
@@ -29,7 +29,7 @@
     "Loule (Faro)": "2026-10-29T21:53:50+00:00",
     "Loures (Lisboa)": "2026-10-29T21:35:51+00:00",
     "Mafra (Lisboa)": "2026-10-29T21:47:26+00:00",
-    "Maia (Porto)": "2026-10-25T00:36:22+00:00",
+    "Maia (Porto)": "2026-10-29T22:57:33+00:00",
     "Matosinhos (Porto)": "2026-10-29T22:54:57+00:00",
     "Montijo (Setubal)": "2026-10-29T22:04:41+00:00",
     "Oeiras (Lisboa)": "2026-10-29T21:34:29+00:00",
@@ -43,8 +43,8 @@
     "Telheiras (Lisboa)": "2026-10-29T21:37:34+00:00",
     "Torres Novas (Santarem)": "2026-10-29T22:14:28+00:00",
     "Torres Vedras (Lisboa)": "2026-10-29T21:50:04+00:00",
-    "Viana do Castelo (Viana do Castelo)": "2026-10-25T00:30:10+00:00",
-    "Viseu (Viseu)": "2026-10-25T00:31:50+00:00"
+    "Viana do Castelo (Viana do Castelo)": "2026-10-29T23:05:11+00:00",
+    "Viseu (Viseu)": "2026-10-29T23:02:36+00:00"
   },
   "products": {
     "81895990@Barcelos (Braga)": {
@@ -111,25 +111,25 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-poupanca-agua-chuveiro-mao-2-jatos-cromado-grohe-tempesta-system-82023074.html"
     },
     "82023076@Viseu (Viseu)": {
-      "atualizado": "2026-10-25T00:31:50+00:00",
+      "atualizado": "2026-10-29T23:02:36+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           628
         ]
       ],
       "id": "82023076",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira termostático, antiescaldante, poupança água, chuveiro mão 3 jatos, cromado Grohe Euphoria System",
+      "name": "Conjunto de duche com torneira termostático antiescaldante, poupança água, chuveiro mão 3 jatos, cromado Grohe Euphoria System",
       "preco_desconto": 0.0,
       "preco_final": 628,
       "preco_normal": 628,
       "region": "Viseu",
       "retificado": false,
       "store": "Viseu (Viseu)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-antiescaldante-poupanca-de-agua-chuveiro-de-mao-3-jatos-cromado-grohe-euphoria-system-82023076.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-3-jatos-cromado-grohe-euphoria-system-82023076.html"
     },
     "82559325@Torres Novas (Santarem)": {
       "atualizado": "2026-10-29T22:14:28+00:00",
@@ -321,25 +321,25 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-start-clova-210-83596589.html"
     },
     "83596589@Viseu (Viseu)": {
-      "atualizado": "2026-10-25T00:31:50+00:00",
+      "atualizado": "2026-10-29T23:02:36+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           248
         ]
       ],
       "id": "83596589",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira monocomando, chuveiro mão 2 jatos, altura regulável, cromado Grohe Start Clova 210",
+      "name": "Conjunto de duche com torneira, chuveiro mão 2 jatos, altura regulável, cromado Grohe Start Clova 210",
       "preco_desconto": 0.0,
       "preco_final": 248,
       "preco_normal": 248,
       "region": "Viseu",
       "retificado": false,
       "store": "Viseu (Viseu)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-chuveiro-de-mao-2-jatos-cromado-grohe-grohe-start-clova-210-83596589.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-monocomando-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-start-clova-210-83596589.html"
     },
     "86523842@Caldas da Rainha (Leiria)": {
       "atualizado": "2026-10-29T22:27:00+00:00",
@@ -363,25 +363,25 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-2-jatos-altura-regulavel-preto-grohe-vitalio-start-system-86523842.html"
     },
     "86523842@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:55:33+00:00",
+      "atualizado": "2026-10-29T22:59:59+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           468
         ]
       ],
       "id": "86523842",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira termostático, antiescaldante, poupança água, chuveiro mão 2 jatos, altura regulável, preto Grohe Vitalio Start System",
+      "name": "Conjunto de duche com torneira termostático antiescaldante, poupança água, chuveiro mão 2 jatos, altura regulável, preto Grohe Vitalio Start System",
       "preco_desconto": 0.0,
       "preco_final": 468,
       "preco_normal": 468,
       "region": "Evora",
       "retificado": false,
       "store": "Evora (Evora)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-antiescaldante-chuveiro-de-mao-2-jatos-preto-grohe-vitalio-start-system-86523842.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-2-jatos-altura-regulavel-preto-grohe-vitalio-start-system-86523842.html"
     },
     "86523842@Oeiras (Lisboa)": {
       "atualizado": "2026-10-29T21:34:29+00:00",
@@ -405,25 +405,25 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-2-jatos-altura-regulavel-preto-grohe-vitalio-start-system-86523842.html"
     },
     "86523842@Viseu (Viseu)": {
-      "atualizado": "2026-10-25T00:31:50+00:00",
+      "atualizado": "2026-10-29T23:02:36+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           468
         ]
       ],
       "id": "86523842",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira termostático, antiescaldante, poupança água, chuveiro mão 2 jatos, altura regulável, preto Grohe Vitalio Start System",
+      "name": "Conjunto de duche com torneira termostático antiescaldante, poupança água, chuveiro mão 2 jatos, altura regulável, preto Grohe Vitalio Start System",
       "preco_desconto": 101,
       "preco_final": 468,
       "preco_normal": 569,
       "region": "Viseu",
       "retificado": false,
       "store": "Viseu (Viseu)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-antiescaldante-chuveiro-de-mao-2-jatos-preto-grohe-vitalio-start-system-86523842.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-2-jatos-altura-regulavel-preto-grohe-vitalio-start-system-86523842.html"
     },
     "86600587@Albufeira (Faro)": {
       "atualizado": "2026-10-29T21:56:42+00:00",
@@ -552,25 +552,25 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-vitalio-start-system-86600587.html"
     },
     "86600587@Evora (Evora)": {
-      "atualizado": "2026-10-24T23:55:33+00:00",
+      "atualizado": "2026-10-29T22:59:59+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           388
         ]
       ],
       "id": "86600587",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira monocomando, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
+      "name": "Conjunto de duche com torneira, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
       "preco_desconto": 91,
       "preco_final": 388,
       "preco_normal": 479,
       "region": "Evora",
       "retificado": false,
       "store": "Evora (Evora)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-chuveiro-de-mao-2-jatos-cromado-grohe-vitalio-start-system-86600587.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-vitalio-start-system-86600587.html"
     },
     "86600587@Gondomar (Porto)": {
       "atualizado": "2026-10-29T22:47:19+00:00",
@@ -615,25 +615,25 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-vitalio-start-system-86600587.html"
     },
     "86600587@Maia (Porto)": {
-      "atualizado": "2026-10-25T00:36:22+00:00",
+      "atualizado": "2026-10-29T22:57:33+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           388
         ]
       ],
       "id": "86600587",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira monocomando, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
+      "name": "Conjunto de duche com torneira, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
       "preco_desconto": 91,
       "preco_final": 388,
       "preco_normal": 479,
       "region": "Porto",
       "retificado": false,
       "store": "Maia (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-chuveiro-de-mao-2-jatos-cromado-grohe-vitalio-start-system-86600587.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-vitalio-start-system-86600587.html"
     },
     "86600587@Montijo (Setubal)": {
       "atualizado": "2026-10-29T22:04:41+00:00",
@@ -678,46 +678,46 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-vitalio-start-system-86600587.html"
     },
     "86600587@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-25T00:30:10+00:00",
+      "atualizado": "2026-10-29T23:05:11+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           388
         ]
       ],
       "id": "86600587",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira monocomando, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
+      "name": "Conjunto de duche com torneira, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
       "preco_desconto": 0.0,
       "preco_final": 388,
       "preco_normal": 388,
       "region": "Viana do Castelo",
       "retificado": false,
       "store": "Viana do Castelo (Viana do Castelo)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-chuveiro-de-mao-2-jatos-cromado-grohe-vitalio-start-system-86600587.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-vitalio-start-system-86600587.html"
     },
     "86600587@Viseu (Viseu)": {
-      "atualizado": "2026-10-25T00:31:50+00:00",
+      "atualizado": "2026-10-29T23:02:36+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           388
         ]
       ],
       "id": "86600587",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira monocomando, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
+      "name": "Conjunto de duche com torneira, chuveiro mão 2 jatos, altura regulável, cromado Grohe Vitalio Start System",
       "preco_desconto": 91,
       "preco_final": 388,
       "preco_normal": 479,
       "region": "Viseu",
       "retificado": false,
       "store": "Viseu (Viseu)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-monocomando-chuveiro-de-mao-2-jatos-cromado-grohe-vitalio-start-system-86600587.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-chuveiro-mao-2-jatos-altura-regulavel-cromado-grohe-vitalio-start-system-86600587.html"
     },
     "89128698@Almada (Setubal)": {
       "atualizado": "2026-10-29T22:02:17+00:00",
@@ -888,25 +888,25 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-cromado-grohe-vitalio-start-system-89128698.html"
     },
     "89128698@Maia (Porto)": {
-      "atualizado": "2026-10-25T00:36:22+00:00",
+      "atualizado": "2026-10-29T22:57:33+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           408
         ]
       ],
       "id": "89128698",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira termostático, antiescaldante, poupança água, chuveiro mão, cromado Grohe Vitalio Start System",
+      "name": "Conjunto de duche com torneira termostático, antiescaldante, cromado Grohe Vitalio Start System",
       "preco_desconto": 0.0,
       "preco_final": 408,
       "preco_normal": 408,
       "region": "Porto",
       "retificado": false,
       "store": "Maia (Porto)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-antiescaldante-chuveiro-de-mao-1-jato-cromado-grohe-vitalio-start-system-89128698.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-cromado-grohe-vitalio-start-system-89128698.html"
     },
     "89128698@Setubal (Setubal)": {
       "atualizado": "2026-10-29T22:07:26+00:00",
@@ -930,25 +930,25 @@
       "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-cromado-grohe-vitalio-start-system-89128698.html"
     },
     "89128698@Viana do Castelo (Viana do Castelo)": {
-      "atualizado": "2026-10-25T00:30:10+00:00",
+      "atualizado": "2026-10-29T23:05:11+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           268
         ]
       ],
       "id": "89128698",
       "m2_caixa": null,
       "marca": "GROHE",
-      "name": "Conjunto de duche com torneira termostático, antiescaldante, poupança água, chuveiro mão, cromado Grohe Vitalio Start System",
+      "name": "Conjunto de duche com torneira termostático, antiescaldante, cromado Grohe Vitalio Start System",
       "preco_desconto": 30,
       "preco_final": 268,
       "preco_normal": 298,
       "region": "Viana do Castelo",
       "retificado": false,
       "store": "Viana do Castelo (Viana do Castelo)",
-      "url": "https://www.leroymerlin.pt/produtos/coluna-de-duche-com-torneira-termostatico-antiescaldante-chuveiro-de-mao-1-jato-cromado-grohe-vitalio-start-system-89128698.html"
+      "url": "https://www.leroymerlin.pt/produtos/conjunto-de-duche-com-torneira-termostatico-antiescaldante-poupanca-agua-chuveiro-mao-cromado-grohe-vitalio-start-system-89128698.html"
     },
     "93110410@Braga (Braga)": {
       "atualizado": "2026-10-29T22:34:08+00:00",
