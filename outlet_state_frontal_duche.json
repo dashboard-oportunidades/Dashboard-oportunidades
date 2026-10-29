@@ -1,23 +1,23 @@
 {
   "lojas": {
     "Albufeira (Faro)": "2026-10-25T00:33:37+00:00",
-    "Alfragide (Lisboa)": "2026-10-25T00:41:25+00:00",
+    "Alfragide (Lisboa)": "2026-10-29T21:30:18+00:00",
     "Almada (Setubal)": "2026-10-25T00:38:21+00:00",
-    "Alta de Lisboa (Lisboa)": "2026-10-25T00:42:57+00:00",
-    "Alverca (Lisboa)": "2026-10-24T23:31:06+00:00",
-    "Amadora (Lisboa)": "2026-10-24T23:32:39+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-10-29T21:25:15+00:00",
+    "Alverca (Lisboa)": "2026-10-29T21:52:36+00:00",
+    "Amadora (Lisboa)": "2026-10-29T21:40:33+00:00",
     "Aveiro (Aveiro)": "2026-10-24T23:34:11+00:00",
     "Barcelos (Braga)": "2026-10-24T23:35:48+00:00",
     "Barreiro (Setubal)": "2026-10-24T23:37:23+00:00",
     "Braga (Braga)": "2026-10-24T23:39:05+00:00",
     "Braganca (Braganca)": "2026-10-24T23:40:38+00:00",
     "Caldas da Rainha (Leiria)": "2026-10-24T23:42:16+00:00",
-    "Carcavelos (Lisboa)": "2026-10-24T23:43:50+00:00",
-    "Cascais (Lisboa)": "2026-10-24T23:45:28+00:00",
+    "Carcavelos (Lisboa)": "2026-10-29T21:45:36+00:00",
+    "Cascais (Lisboa)": "2026-10-29T21:43:37+00:00",
     "Castelo Branco (Castelo Branco)": "2026-10-24T23:46:59+00:00",
     "Chaves (Vila Real)": "2026-10-24T23:48:35+00:00",
     "Coimbra (Coimbra)": "2026-10-24T23:50:10+00:00",
-    "Colombo (Lisboa)": "2026-10-24T23:51:41+00:00",
+    "Colombo (Lisboa)": "2026-10-29T21:27:49+00:00",
     "Covilha (Castelo Branco)": "2026-10-24T23:53:10+00:00",
     "Evora (Evora)": "2026-10-24T23:55:53+00:00",
     "Figueira da Foz (Coimbra)": "2026-10-24T23:57:27+00:00",
@@ -26,23 +26,23 @@
     "Guarda (Guarda)": "2026-10-25T00:02:10+00:00",
     "Guimaraes (Braga)": "2026-10-25T00:03:49+00:00",
     "Leiria (Leiria)": "2026-10-25T00:05:23+00:00",
-    "Loule (Faro)": "2026-10-25T00:06:57+00:00",
-    "Loures (Lisboa)": "2026-10-25T00:08:37+00:00",
-    "Mafra (Lisboa)": "2026-10-25T00:39:54+00:00",
+    "Loule (Faro)": "2026-10-29T21:53:57+00:00",
+    "Loures (Lisboa)": "2026-10-29T21:35:59+00:00",
+    "Mafra (Lisboa)": "2026-10-29T21:47:47+00:00",
     "Maia (Porto)": "2026-10-25T00:36:40+00:00",
     "Matosinhos (Porto)": "2026-10-25T00:35:08+00:00",
     "Montijo (Setubal)": "2026-10-25T00:10:12+00:00",
-    "Oeiras (Lisboa)": "2026-10-25T00:11:45+00:00",
+    "Oeiras (Lisboa)": "2026-10-29T21:34:37+00:00",
     "Penafiel (Porto)": "2026-10-25T00:13:19+00:00",
     "Portimao (Faro)": "2026-10-25T00:14:57+00:00",
-    "Sacavem (Lisboa)": "2026-10-25T00:16:26+00:00",
+    "Sacavem (Lisboa)": "2026-10-29T21:32:51+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-10-25T00:18:01+00:00",
     "Santarem (Santarem)": "2026-10-25T00:20:43+00:00",
     "Setubal (Setubal)": "2026-10-25T00:22:23+00:00",
-    "Sintra (Lisboa)": "2026-10-25T00:23:59+00:00",
-    "Telheiras (Lisboa)": "2026-10-25T00:25:34+00:00",
+    "Sintra (Lisboa)": "2026-10-29T21:42:09+00:00",
+    "Telheiras (Lisboa)": "2026-10-29T21:37:54+00:00",
     "Torres Novas (Santarem)": "2026-10-25T00:27:13+00:00",
-    "Torres Vedras (Lisboa)": "2026-10-25T00:28:53+00:00",
+    "Torres Vedras (Lisboa)": "2026-10-29T21:50:22+00:00",
     "Viana do Castelo (Viana do Castelo)": "2026-10-25T00:30:28+00:00",
     "Viseu (Viseu)": "2026-10-25T00:32:09+00:00"
   },
@@ -237,11 +237,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-140x195-cm-sensea-remix-82209761.html"
     },
     "82209762@Colombo (Lisboa)": {
-      "atualizado": "2026-10-24T23:51:41+00:00",
+      "atualizado": "2026-10-29T21:27:49+00:00",
       "dimensao": "140x195",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           278
         ]
       ],
@@ -319,27 +319,6 @@
       "retificado": false,
       "store": "Leiria (Leiria)",
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-160x195-cm-sensea-remix-82209765.html"
-    },
-    "82209768@Alverca (Lisboa)": {
-      "atualizado": "2026-10-24T23:31:06+00:00",
-      "dimensao": "170x195",
-      "history": [
-        [
-          "2026-10-25",
-          348
-        ]
-      ],
-      "id": "82209768",
-      "m2_caixa": null,
-      "marca": "SENSEA",
-      "name": "Porta de duche serigrafada cromado 170x195 cm Sensea Remix",
-      "preco_desconto": 81,
-      "preco_final": 348,
-      "preco_normal": 429,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Alverca (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-serigrafada-cromado-170x195-cm-sensea-remix-82209768.html"
     },
     "82209770@Evora (Evora)": {
       "atualizado": "2026-10-24T23:55:53+00:00",
@@ -510,11 +489,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-transparente-cromado-90x195-cm-sensea-remix-saloon-82209785.html"
     },
     "82242433@Amadora (Lisboa)": {
-      "atualizado": "2026-10-24T23:32:39+00:00",
+      "atualizado": "2026-10-29T21:40:33+00:00",
       "dimensao": "120x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           388
         ]
       ],
@@ -699,11 +678,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-portas-transparente-cromado-180x200-cm-sensea-neo-82242449.html"
     },
     "82242455@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-10-25T00:42:57+00:00",
+      "atualizado": "2026-10-29T21:25:15+00:00",
       "dimensao": "80x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           528
         ]
       ],
@@ -741,11 +720,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Alfragide (Lisboa)": {
-      "atualizado": "2026-10-25T00:41:25+00:00",
+      "atualizado": "2026-10-29T21:30:18+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -783,11 +762,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-10-25T00:42:57+00:00",
+      "atualizado": "2026-10-29T21:25:15+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -804,11 +783,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Alverca (Lisboa)": {
-      "atualizado": "2026-10-24T23:31:06+00:00",
+      "atualizado": "2026-10-29T21:52:36+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -825,11 +804,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Amadora (Lisboa)": {
-      "atualizado": "2026-10-24T23:32:39+00:00",
+      "atualizado": "2026-10-29T21:40:33+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -972,11 +951,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Carcavelos (Lisboa)": {
-      "atualizado": "2026-10-24T23:43:50+00:00",
+      "atualizado": "2026-10-29T21:45:36+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -993,11 +972,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Cascais (Lisboa)": {
-      "atualizado": "2026-10-24T23:45:28+00:00",
+      "atualizado": "2026-10-29T21:43:37+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1077,11 +1056,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Colombo (Lisboa)": {
-      "atualizado": "2026-10-24T23:51:41+00:00",
+      "atualizado": "2026-10-29T21:27:49+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1266,11 +1245,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Loule (Faro)": {
-      "atualizado": "2026-10-25T00:06:57+00:00",
+      "atualizado": "2026-10-29T21:53:57+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1287,11 +1266,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Loures (Lisboa)": {
-      "atualizado": "2026-10-25T00:08:37+00:00",
+      "atualizado": "2026-10-29T21:35:59+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1308,11 +1287,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Mafra (Lisboa)": {
-      "atualizado": "2026-10-25T00:39:54+00:00",
+      "atualizado": "2026-10-29T21:47:47+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1392,11 +1371,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-25T00:11:45+00:00",
+      "atualizado": "2026-10-29T21:34:37+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1455,11 +1434,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Sacavem (Lisboa)": {
-      "atualizado": "2026-10-25T00:16:26+00:00",
+      "atualizado": "2026-10-29T21:32:51+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1539,11 +1518,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Sintra (Lisboa)": {
-      "atualizado": "2026-10-25T00:23:59+00:00",
+      "atualizado": "2026-10-29T21:42:09+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1560,11 +1539,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Telheiras (Lisboa)": {
-      "atualizado": "2026-10-25T00:25:34+00:00",
+      "atualizado": "2026-10-29T21:37:54+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1602,11 +1581,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82242473@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-10-25T00:28:53+00:00",
+      "atualizado": "2026-10-29T21:50:22+00:00",
       "dimensao": "160x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           419.4
         ]
       ],
@@ -1665,11 +1644,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-batente-transparente-cromado-160x200-cm-sensea-neo-82242473.html"
     },
     "82281795@Loule (Faro)": {
-      "atualizado": "2026-10-25T00:06:57+00:00",
+      "atualizado": "2026-10-29T21:53:57+00:00",
       "dimensao": "116x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           418
         ]
       ],
@@ -1686,11 +1665,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-porta-de-correr-cromado-116x200-cm-cool-free-82281795.html"
     },
     "82281996@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-10-25T00:42:57+00:00",
+      "atualizado": "2026-10-29T21:25:15+00:00",
       "dimensao": "116x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           448
         ]
       ],
@@ -1707,11 +1686,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-porta-de-correr-serigrafada-cromado-116x200-cm-cool-free-82281996.html"
     },
     "82391553@Alfragide (Lisboa)": {
-      "atualizado": "2026-10-25T00:41:25+00:00",
+      "atualizado": "2026-10-29T21:30:18+00:00",
       "dimensao": "100x195",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           308
         ]
       ],
@@ -1728,11 +1707,11 @@
       "url": "https://www.leroymerlin.pt/produtos/cabine-de-duche-cromado-100x195-cm-roca-victoria-82391553.html"
     },
     "82456153@Alverca (Lisboa)": {
-      "atualizado": "2026-10-24T23:31:06+00:00",
+      "atualizado": "2026-10-29T21:52:36+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           229
         ]
       ],
@@ -1917,11 +1896,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-de-correr-120x185-cm-transparente-cromado-italbox-leci-86541868.html"
     },
     "87274291@Amadora (Lisboa)": {
-      "atualizado": "2026-10-24T23:32:39+00:00",
+      "atualizado": "2026-10-29T21:40:33+00:00",
       "dimensao": "120x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           358
         ]
       ],
@@ -2022,11 +2001,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
     },
     "87274291@Loule (Faro)": {
-      "atualizado": "2026-10-25T00:06:57+00:00",
+      "atualizado": "2026-10-29T21:53:57+00:00",
       "dimensao": "120x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           358
         ]
       ],
@@ -2064,11 +2043,11 @@
       "url": "https://www.leroymerlin.pt/produtos/porta-de-duche-2-folhas-120x200-cm-cromado-transparente-roca-apolo-87274291.html"
     },
     "87274293@Alfragide (Lisboa)": {
-      "atualizado": "2026-10-25T00:41:25+00:00",
+      "atualizado": "2026-10-29T21:30:18+00:00",
       "dimensao": "140x200",
       "history": [
         [
-          "2026-10-25",
+          "2026-10-29",
           368
         ]
       ],

@@ -1,23 +1,23 @@
 {
   "lojas": {
     "Albufeira (Faro)": "2026-10-24T23:00:31+00:00",
-    "Alfragide (Lisboa)": "2026-10-24T22:47:20+00:00",
+    "Alfragide (Lisboa)": "2026-10-29T21:31:16+00:00",
     "Almada (Setubal)": "2026-10-24T23:03:26+00:00",
-    "Alta de Lisboa (Lisboa)": "2026-10-24T22:45:54+00:00",
-    "Alverca (Lisboa)": "2026-10-24T22:57:28+00:00",
-    "Amadora (Lisboa)": "2026-10-24T22:51:57+00:00",
+    "Alta de Lisboa (Lisboa)": "2026-10-29T21:26:10+00:00",
+    "Alverca (Lisboa)": "2026-10-29T21:53:07+00:00",
+    "Amadora (Lisboa)": "2026-10-29T21:41:05+00:00",
     "Aveiro (Aveiro)": "2026-10-24T23:20:03+00:00",
     "Barcelos (Braga)": "2026-10-24T23:18:03+00:00",
     "Barreiro (Setubal)": "2026-10-24T23:02:31+00:00",
     "Braga (Braga)": "2026-10-24T23:17:04+00:00",
     "Braganca (Braganca)": "2026-10-24T23:16:09+00:00",
     "Caldas da Rainha (Leiria)": "2026-10-24T23:13:05+00:00",
-    "Carcavelos (Lisboa)": "2026-10-24T22:54:38+00:00",
-    "Cascais (Lisboa)": "2026-10-24T22:53:54+00:00",
+    "Carcavelos (Lisboa)": "2026-10-29T21:46:14+00:00",
+    "Cascais (Lisboa)": "2026-10-29T21:44:08+00:00",
     "Castelo Branco (Castelo Branco)": "2026-10-24T23:06:17+00:00",
     "Chaves (Vila Real)": "2026-10-24T23:12:12+00:00",
     "Coimbra (Coimbra)": "2026-10-24T23:10:17+00:00",
-    "Colombo (Lisboa)": "2026-10-24T22:46:40+00:00",
+    "Colombo (Lisboa)": "2026-10-29T21:28:45+00:00",
     "Covilha (Castelo Branco)": "2026-10-24T23:07:17+00:00",
     "Evora (Evora)": "2026-10-24T23:27:39+00:00",
     "Figueira da Foz (Coimbra)": "2026-10-24T23:11:13+00:00",
@@ -26,33 +26,33 @@
     "Guarda (Guarda)": "2026-10-24T23:21:57+00:00",
     "Guimaraes (Braga)": "2026-10-24T23:19:00+00:00",
     "Leiria (Leiria)": "2026-10-24T23:14:07+00:00",
-    "Loule (Faro)": "2026-10-24T22:58:27+00:00",
-    "Loures (Lisboa)": "2026-10-24T22:50:00+00:00",
-    "Mafra (Lisboa)": "2026-10-24T22:55:36+00:00",
+    "Loule (Faro)": "2026-10-29T21:54:27+00:00",
+    "Loures (Lisboa)": "2026-10-29T21:36:26+00:00",
+    "Mafra (Lisboa)": "2026-10-29T21:48:44+00:00",
     "Maia (Porto)": "2026-10-24T23:26:36+00:00",
     "Matosinhos (Porto)": "2026-10-24T23:25:38+00:00",
     "Montijo (Setubal)": "2026-10-24T23:04:21+00:00",
-    "Oeiras (Lisboa)": "2026-10-24T22:48:58+00:00",
+    "Oeiras (Lisboa)": "2026-10-29T21:35:02+00:00",
     "Penafiel (Porto)": "2026-10-24T23:24:44+00:00",
     "Portimao (Faro)": "2026-10-24T23:01:30+00:00",
-    "Sacavem (Lisboa)": "2026-10-24T22:48:19+00:00",
+    "Sacavem (Lisboa)": "2026-10-29T21:33:37+00:00",
     "Santa Maria da Feira (Aveiro)": "2026-10-24T23:21:02+00:00",
     "Santarem (Santarem)": "2026-10-24T23:09:14+00:00",
     "Setubal (Setubal)": "2026-10-24T23:05:22+00:00",
-    "Sintra (Lisboa)": "2026-10-24T22:52:59+00:00",
-    "Telheiras (Lisboa)": "2026-10-24T22:50:55+00:00",
+    "Sintra (Lisboa)": "2026-10-29T21:42:36+00:00",
+    "Telheiras (Lisboa)": "2026-10-29T21:38:50+00:00",
     "Torres Novas (Santarem)": "2026-10-24T23:08:13+00:00",
-    "Torres Vedras (Lisboa)": "2026-10-24T22:56:32+00:00",
+    "Torres Vedras (Lisboa)": "2026-10-29T21:51:22+00:00",
     "Viana do Castelo (Viana do Castelo)": "2026-10-24T23:29:33+00:00",
     "Viseu (Viseu)": "2026-10-24T23:28:33+00:00"
   },
   "products": {
     "17192406@Amadora (Lisboa)": {
-      "atualizado": "2026-10-24T22:51:57+00:00",
+      "atualizado": "2026-10-29T21:41:05+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           148
         ]
       ],
@@ -90,11 +90,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-500w-branco-equation-ecotecpro-17192406.html"
     },
     "17192406@Sintra (Lisboa)": {
-      "atualizado": "2026-10-24T22:52:59+00:00",
+      "atualizado": "2026-10-29T21:42:36+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           148
         ]
       ],
@@ -132,11 +132,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-baixo-janela-branco-1250w-19114081.html"
     },
     "19114081@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-24T22:48:58+00:00",
+      "atualizado": "2026-10-29T21:35:02+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           368
         ]
       ],
@@ -174,11 +174,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Alfragide (Lisboa)": {
-      "atualizado": "2026-10-24T22:47:20+00:00",
+      "atualizado": "2026-10-29T21:31:16+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -216,11 +216,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-10-24T22:45:54+00:00",
+      "atualizado": "2026-10-29T21:26:10+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -237,11 +237,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Alverca (Lisboa)": {
-      "atualizado": "2026-10-24T22:57:28+00:00",
+      "atualizado": "2026-10-29T21:53:07+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -258,11 +258,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Amadora (Lisboa)": {
-      "atualizado": "2026-10-24T22:51:57+00:00",
+      "atualizado": "2026-10-29T21:41:05+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -405,11 +405,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Carcavelos (Lisboa)": {
-      "atualizado": "2026-10-24T22:54:38+00:00",
+      "atualizado": "2026-10-29T21:46:14+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -426,11 +426,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Cascais (Lisboa)": {
-      "atualizado": "2026-10-24T22:53:54+00:00",
+      "atualizado": "2026-10-29T21:44:08+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -510,11 +510,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Colombo (Lisboa)": {
-      "atualizado": "2026-10-24T22:46:40+00:00",
+      "atualizado": "2026-10-29T21:28:45+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -678,11 +678,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Loule (Faro)": {
-      "atualizado": "2026-10-24T22:58:27+00:00",
+      "atualizado": "2026-10-29T21:54:27+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -699,11 +699,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Loures (Lisboa)": {
-      "atualizado": "2026-10-24T22:50:00+00:00",
+      "atualizado": "2026-10-29T21:36:26+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -720,11 +720,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Mafra (Lisboa)": {
-      "atualizado": "2026-10-24T22:55:36+00:00",
+      "atualizado": "2026-10-29T21:48:44+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -804,11 +804,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-24T22:48:58+00:00",
+      "atualizado": "2026-10-29T21:35:02+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -867,11 +867,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Sacavem (Lisboa)": {
-      "atualizado": "2026-10-24T22:48:19+00:00",
+      "atualizado": "2026-10-29T21:33:37+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -951,11 +951,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Sintra (Lisboa)": {
-      "atualizado": "2026-10-24T22:52:59+00:00",
+      "atualizado": "2026-10-29T21:42:36+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -972,11 +972,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Telheiras (Lisboa)": {
-      "atualizado": "2026-10-24T22:50:55+00:00",
+      "atualizado": "2026-10-29T21:38:50+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -1014,11 +1014,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82420949@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-10-24T22:56:32+00:00",
+      "atualizado": "2026-10-29T21:51:22+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           268.8
         ]
       ],
@@ -1077,11 +1077,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-termico-fluido-bosch-ero-3000-1200w-82420949.html"
     },
     "82782196@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-24T22:48:58+00:00",
+      "atualizado": "2026-10-29T21:35:02+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           228
         ]
       ],
@@ -1119,11 +1119,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Alfragide (Lisboa)": {
-      "atualizado": "2026-10-24T22:47:20+00:00",
+      "atualizado": "2026-10-29T21:31:16+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1161,11 +1161,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-10-24T22:45:54+00:00",
+      "atualizado": "2026-10-29T21:26:10+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1182,11 +1182,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Alverca (Lisboa)": {
-      "atualizado": "2026-10-24T22:57:28+00:00",
+      "atualizado": "2026-10-29T21:53:07+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1203,11 +1203,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Amadora (Lisboa)": {
-      "atualizado": "2026-10-24T22:51:57+00:00",
+      "atualizado": "2026-10-29T21:41:05+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1350,11 +1350,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Carcavelos (Lisboa)": {
-      "atualizado": "2026-10-24T22:54:38+00:00",
+      "atualizado": "2026-10-29T21:46:14+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1371,11 +1371,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Cascais (Lisboa)": {
-      "atualizado": "2026-10-24T22:53:54+00:00",
+      "atualizado": "2026-10-29T21:44:08+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1455,11 +1455,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Colombo (Lisboa)": {
-      "atualizado": "2026-10-24T22:46:40+00:00",
+      "atualizado": "2026-10-29T21:28:45+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1623,11 +1623,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Loule (Faro)": {
-      "atualizado": "2026-10-24T22:58:27+00:00",
+      "atualizado": "2026-10-29T21:54:27+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1644,11 +1644,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Loures (Lisboa)": {
-      "atualizado": "2026-10-24T22:50:00+00:00",
+      "atualizado": "2026-10-29T21:36:26+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1665,11 +1665,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Mafra (Lisboa)": {
-      "atualizado": "2026-10-24T22:55:36+00:00",
+      "atualizado": "2026-10-29T21:48:44+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1749,11 +1749,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-24T22:48:58+00:00",
+      "atualizado": "2026-10-29T21:35:02+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1812,11 +1812,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Sacavem (Lisboa)": {
-      "atualizado": "2026-10-24T22:48:19+00:00",
+      "atualizado": "2026-10-29T21:33:37+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1896,11 +1896,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Sintra (Lisboa)": {
-      "atualizado": "2026-10-24T22:52:59+00:00",
+      "atualizado": "2026-10-29T21:42:36+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1917,11 +1917,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Telheiras (Lisboa)": {
-      "atualizado": "2026-10-24T22:50:55+00:00",
+      "atualizado": "2026-10-29T21:38:50+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -1959,11 +1959,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401330@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-10-24T22:56:32+00:00",
+      "atualizado": "2026-10-29T21:51:22+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           799.2
         ]
       ],
@@ -2022,11 +2022,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-rointe-vertical-palaos-2000w-83401330.html"
     },
     "83401340@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-24T22:48:58+00:00",
+      "atualizado": "2026-10-29T21:35:02+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           768
         ]
       ],
@@ -2064,11 +2064,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-500w-83406846.html"
     },
     "83406846@Alta de Lisboa (Lisboa)": {
-      "atualizado": "2026-10-24T22:45:54+00:00",
+      "atualizado": "2026-10-29T21:26:10+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           168
         ]
       ],
@@ -2103,27 +2103,6 @@
       "region": "Setubal",
       "retificado": false,
       "store": "Barreiro (Setubal)",
-      "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-500w-83406846.html"
-    },
-    "83406846@Cascais (Lisboa)": {
-      "atualizado": "2026-10-24T22:53:54+00:00",
-      "dimensao": null,
-      "history": [
-        [
-          "2026-10-24",
-          168
-        ]
-      ],
-      "id": "83406846",
-      "m2_caixa": null,
-      "marca": "EQUATION",
-      "name": "Emissor fluído EQUATION ADAGIO 500W",
-      "preco_desconto": 31,
-      "preco_final": 168,
-      "preco_normal": 199,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Cascais (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-500w-83406846.html"
     },
     "83406846@Evora (Evora)": {
@@ -2210,33 +2189,12 @@
       "store": "Guimaraes (Braga)",
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-500w-83406846.html"
     },
-    "83406846@Loures (Lisboa)": {
-      "atualizado": "2026-10-24T22:50:00+00:00",
-      "dimensao": null,
-      "history": [
-        [
-          "2026-10-24",
-          168
-        ]
-      ],
-      "id": "83406846",
-      "m2_caixa": null,
-      "marca": "EQUATION",
-      "name": "Emissor fluído EQUATION ADAGIO 500W",
-      "preco_desconto": 31,
-      "preco_final": 168,
-      "preco_normal": 199,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Loures (Lisboa)",
-      "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-500w-83406846.html"
-    },
     "83406846@Oeiras (Lisboa)": {
-      "atualizado": "2026-10-24T22:48:58+00:00",
+      "atualizado": "2026-10-29T21:35:02+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           168
         ]
       ],
@@ -2295,11 +2253,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-500w-83406846.html"
     },
     "83406846@Sintra (Lisboa)": {
-      "atualizado": "2026-10-24T22:52:59+00:00",
+      "atualizado": "2026-10-29T21:42:36+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           168
         ]
       ],
@@ -2336,12 +2294,33 @@
       "store": "Torres Novas (Santarem)",
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-500w-83406846.html"
     },
-    "83406848@Alfragide (Lisboa)": {
-      "atualizado": "2026-10-24T22:47:20+00:00",
+    "83406847@Torres Vedras (Lisboa)": {
+      "atualizado": "2026-10-29T21:51:22+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
+          218
+        ]
+      ],
+      "id": "83406847",
+      "m2_caixa": null,
+      "marca": "EQUATION",
+      "name": "Emissor fluido EQUATION ADAGIO 750W",
+      "preco_desconto": 41,
+      "preco_final": 218,
+      "preco_normal": 259,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Torres Vedras (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-750w-83406847.html"
+    },
+    "83406848@Alfragide (Lisboa)": {
+      "atualizado": "2026-10-29T21:31:16+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-10-29",
           238
         ]
       ],
@@ -2379,11 +2358,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-1000w-83406848.html"
     },
     "83406848@Alverca (Lisboa)": {
-      "atualizado": "2026-10-24T22:57:28+00:00",
+      "atualizado": "2026-10-29T21:53:07+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           238
         ]
       ],
@@ -2400,11 +2379,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-1000w-83406848.html"
     },
     "83406848@Amadora (Lisboa)": {
-      "atualizado": "2026-10-24T22:51:57+00:00",
+      "atualizado": "2026-10-29T21:41:05+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           238
         ]
       ],
@@ -2442,11 +2421,11 @@
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-1000w-83406848.html"
     },
     "83406848@Mafra (Lisboa)": {
-      "atualizado": "2026-10-24T22:55:36+00:00",
+      "atualizado": "2026-10-29T21:48:44+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
           238
         ]
       ],
@@ -2567,12 +2546,54 @@
       "store": "Viseu (Viseu)",
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-1000w-83406848.html"
     },
-    "83406851@Loule (Faro)": {
-      "atualizado": "2026-10-24T22:58:27+00:00",
+    "83406850@Cascais (Lisboa)": {
+      "atualizado": "2026-10-29T21:44:08+00:00",
       "dimensao": null,
       "history": [
         [
-          "2026-10-24",
+          "2026-10-29",
+          288
+        ]
+      ],
+      "id": "83406850",
+      "m2_caixa": null,
+      "marca": "EQUATION",
+      "name": "Emissor fluído EQUATION ADAGIO 1500W",
+      "preco_desconto": 61,
+      "preco_final": 288,
+      "preco_normal": 349,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Cascais (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-1500w-83406850.html"
+    },
+    "83406850@Loures (Lisboa)": {
+      "atualizado": "2026-10-29T21:36:26+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-10-29",
+          288
+        ]
+      ],
+      "id": "83406850",
+      "m2_caixa": null,
+      "marca": "EQUATION",
+      "name": "Emissor fluído EQUATION ADAGIO 1500W",
+      "preco_desconto": 61,
+      "preco_final": 288,
+      "preco_normal": 349,
+      "region": "Lisboa",
+      "retificado": false,
+      "store": "Loures (Lisboa)",
+      "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-1500w-83406850.html"
+    },
+    "83406851@Loule (Faro)": {
+      "atualizado": "2026-10-29T21:54:27+00:00",
+      "dimensao": null,
+      "history": [
+        [
+          "2026-10-29",
           308
         ]
       ],
@@ -2586,27 +2607,6 @@
       "region": "Faro",
       "retificado": false,
       "store": "Loule (Faro)",
-      "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-1750w-83406851.html"
-    },
-    "83406851@Torres Vedras (Lisboa)": {
-      "atualizado": "2026-10-24T22:56:32+00:00",
-      "dimensao": null,
-      "history": [
-        [
-          "2026-10-24",
-          308
-        ]
-      ],
-      "id": "83406851",
-      "m2_caixa": null,
-      "marca": "EQUATION",
-      "name": "Emissor fluido EQUATION ADAGIO 1750W",
-      "preco_desconto": 71,
-      "preco_final": 308,
-      "preco_normal": 379,
-      "region": "Lisboa",
-      "retificado": false,
-      "store": "Torres Vedras (Lisboa)",
       "url": "https://www.leroymerlin.pt/produtos/emissor-fluido-equation-adagio-1750w-83406851.html"
     },
     "84587905@Penafiel (Porto)": {
