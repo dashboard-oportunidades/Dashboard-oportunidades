@@ -1,6 +1,32 @@
 {
-  "generated": "2026-10-29T23:06:45+00:00",
+  "generated": "2026-11-04T19:31:30+00:00",
   "products": [
+    {
+      "id": "72845777",
+      "name": "Ar condicionado fixo (1X1) INDESIT 12 KBTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-indesit-12-kbtu-72845777.html",
+      "dimensao": "12000 BTU",
+      "marca": "INDESIT",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 279,
+      "prices": [
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 299,
+          "preco_desconto": 20,
+          "preco_final": 279,
+          "atualizado": "2026-11-04T19:24:52+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              279
+            ]
+          ]
+        }
+      ]
+    },
     {
       "id": "86918508",
       "name": "Ar condicionado fixo (1X1) HTW IX39B4 9000 BTU",
@@ -17,10 +43,10 @@
           "preco_normal": 359,
           "preco_desconto": 61,
           "preco_final": 298,
-          "atualizado": "2026-10-29T21:34:55+00:00",
+          "atualizado": "2026-11-04T18:16:57+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               298
             ]
           ]
@@ -43,10 +69,10 @@
           "preco_normal": 454,
           "preco_desconto": 86,
           "preco_final": 368,
-          "atualizado": "2026-10-29T21:51:02+00:00",
+          "atualizado": "2026-11-04T18:34:04+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               368
             ]
           ]
@@ -57,10 +83,10 @@
           "preco_normal": 368,
           "preco_desconto": 0.0,
           "preco_final": 368,
-          "atualizado": "2026-10-29T22:25:42+00:00",
+          "atualizado": "2026-11-04T19:00:36+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               368
             ]
           ]
@@ -83,10 +109,10 @@
           "preco_normal": 368,
           "preco_desconto": 0.0,
           "preco_final": 368,
-          "atualizado": "2026-10-29T23:06:05+00:00",
+          "atualizado": "2026-11-04T19:31:09+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               368
             ]
           ]
@@ -109,10 +135,10 @@
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-10-29T21:25:52+00:00",
+          "atualizado": "2026-11-04T18:11:02+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               378
             ]
           ]
@@ -123,10 +149,10 @@
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-10-29T21:36:17+00:00",
+          "atualizado": "2026-11-04T18:19:03+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               378
             ]
           ]
@@ -137,10 +163,10 @@
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-10-29T21:42:27+00:00",
+          "atualizado": "2026-11-04T18:25:09+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               378
             ]
           ]
@@ -151,24 +177,10 @@
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-10-29T21:59:32+00:00",
+          "atualizado": "2026-11-04T18:42:38+00:00",
           "history": [
             [
-              "2026-10-29",
-              378
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 459,
-          "preco_desconto": 81,
-          "preco_final": 378,
-          "atualizado": "2026-10-29T22:20:29+00:00",
-          "history": [
-            [
-              "2026-10-29",
+              "2026-11-04",
               378
             ]
           ]
@@ -179,10 +191,10 @@
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-10-29T22:43:06+00:00",
+          "atualizado": "2026-11-04T19:14:48+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               378
             ]
           ]
@@ -193,10 +205,10 @@
           "preco_normal": 459,
           "preco_desconto": 81,
           "preco_final": 378,
-          "atualizado": "2026-10-29T22:48:17+00:00",
+          "atualizado": "2026-11-04T19:19:52+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               378
             ]
           ]
@@ -207,10 +219,10 @@
           "preco_normal": 378,
           "preco_desconto": 0.0,
           "preco_final": 378,
-          "atualizado": "2026-10-29T22:58:29+00:00",
+          "atualizado": "2026-11-04T19:26:16+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               378
             ]
           ]
@@ -233,10 +245,10 @@
           "preco_normal": 474,
           "preco_desconto": 86,
           "preco_final": 388,
-          "atualizado": "2026-10-29T22:05:43+00:00",
+          "atualizado": "2026-11-04T18:47:00+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               388
             ]
           ]
@@ -259,36 +271,10 @@
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-10-29T21:30:59+00:00",
+          "atualizado": "2026-11-04T18:14:07+00:00",
           "history": [
             [
-              "2026-10-29",
-              408
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82367425",
-      "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html",
-      "dimensao": "12000 BTU",
-      "marca": "EQUATION",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 408,
-      "prices": [
-        {
-          "store": "Braganca (Braganca)",
-          "region": "Braganca",
-          "preco_normal": 408,
-          "preco_desconto": 0.0,
-          "preco_final": 408,
-          "atualizado": "2026-10-29T22:32:51+00:00",
-          "history": [
-            [
-              "2026-10-29",
+              "2026-11-04",
               408
             ]
           ]
@@ -311,10 +297,36 @@
           "preco_normal": 499,
           "preco_desconto": 91,
           "preco_final": 408,
-          "atualizado": "2026-10-29T22:32:51+00:00",
+          "atualizado": "2026-11-04T19:06:08+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
+              408
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82367425",
+      "name": "Ar condicionado fixo (1X1) EQUATION 12000 BTU R32",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-equation-12000-btu-r32-82367425.html",
+      "dimensao": "12000 BTU",
+      "marca": "EQUATION",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 408,
+      "prices": [
+        {
+          "store": "Braganca (Braganca)",
+          "region": "Braganca",
+          "preco_normal": 408,
+          "preco_desconto": 0.0,
+          "preco_final": 408,
+          "atualizado": "2026-11-04T19:06:08+00:00",
+          "history": [
+            [
+              "2026-11-04",
               408
             ]
           ]
@@ -337,10 +349,10 @@
           "preco_normal": 408,
           "preco_desconto": 0.0,
           "preco_final": 408,
-          "atualizado": "2026-10-29T23:06:05+00:00",
+          "atualizado": "2026-11-04T19:31:09+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               408
             ]
           ]
@@ -363,10 +375,10 @@
           "preco_normal": 418,
           "preco_desconto": 0.0,
           "preco_final": 418,
-          "atualizado": "2026-10-29T21:36:17+00:00",
+          "atualizado": "2026-11-04T18:19:03+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               418
             ]
           ]
@@ -389,10 +401,10 @@
           "preco_normal": 509,
           "preco_desconto": 91,
           "preco_final": 418,
-          "atualizado": "2026-10-29T21:59:32+00:00",
+          "atualizado": "2026-11-04T18:42:38+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               418
             ]
           ]
@@ -403,10 +415,10 @@
           "preco_normal": 418,
           "preco_desconto": 0.0,
           "preco_final": 418,
-          "atualizado": "2026-10-29T22:17:57+00:00",
+          "atualizado": "2026-11-04T18:54:43+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               418
             ]
           ]
@@ -429,10 +441,10 @@
           "preco_normal": 539,
           "preco_desconto": 101,
           "preco_final": 438,
-          "atualizado": "2026-10-29T21:34:55+00:00",
+          "atualizado": "2026-11-04T18:16:57+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               438
             ]
           ]
@@ -455,10 +467,10 @@
           "preco_normal": 468,
           "preco_desconto": 0.0,
           "preco_final": 468,
-          "atualizado": "2026-10-29T21:51:02+00:00",
+          "atualizado": "2026-11-04T18:34:04+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               468
             ]
           ]
@@ -469,10 +481,10 @@
           "preco_normal": 569,
           "preco_desconto": 101,
           "preco_final": 468,
-          "atualizado": "2026-10-29T22:39:24+00:00",
+          "atualizado": "2026-11-04T19:11:04+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               468
             ]
           ]
@@ -483,10 +495,10 @@
           "preco_normal": 468,
           "preco_desconto": 0.0,
           "preco_final": 468,
-          "atualizado": "2026-10-29T22:55:57+00:00",
+          "atualizado": "2026-11-04T19:24:52+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               468
             ]
           ]
@@ -509,10 +521,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:25:52+00:00",
+          "atualizado": "2026-11-04T18:11:02+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -523,10 +535,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:28:25+00:00",
+          "atualizado": "2026-11-04T18:12:46+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -537,10 +549,10 @@
           "preco_normal": 538,
           "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:33:28+00:00",
+          "atualizado": "2026-11-04T18:15:29+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -551,10 +563,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:34:55+00:00",
+          "atualizado": "2026-11-04T18:16:57+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -565,10 +577,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:36:17+00:00",
+          "atualizado": "2026-11-04T18:19:03+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -579,10 +591,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:38:32+00:00",
+          "atualizado": "2026-11-04T18:20:22+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -593,10 +605,10 @@
           "preco_normal": 538,
           "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:40:55+00:00",
+          "atualizado": "2026-11-04T18:22:35+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -607,10 +619,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:46:05+00:00",
+          "atualizado": "2026-11-04T18:30:13+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -621,10 +633,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:51:02+00:00",
+          "atualizado": "2026-11-04T18:34:04+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -635,10 +647,10 @@
           "preco_normal": 538,
           "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:52:58+00:00",
+          "atualizado": "2026-11-04T18:36:39+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -649,24 +661,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T21:54:17+00:00",
+          "atualizado": "2026-11-04T18:38:35+00:00",
           "history": [
             [
-              "2026-10-29",
-              488
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 538,
-          "preco_desconto": 50,
-          "preco_final": 488,
-          "atualizado": "2026-10-29T22:20:29+00:00",
-          "history": [
-            [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -677,10 +675,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T22:23:02+00:00",
+          "atualizado": "2026-11-04T18:58:43+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -691,10 +689,10 @@
           "preco_normal": 559,
           "preco_desconto": 71,
           "preco_final": 488,
-          "atualizado": "2026-10-29T22:25:42+00:00",
+          "atualizado": "2026-11-04T19:00:36+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -705,10 +703,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T22:27:30+00:00",
+          "atualizado": "2026-11-04T19:01:56+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -719,10 +717,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T22:43:06+00:00",
+          "atualizado": "2026-11-04T19:14:48+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -733,10 +731,10 @@
           "preco_normal": 538,
           "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-10-29T22:45:43+00:00",
+          "atualizado": "2026-11-04T19:17:22+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -747,10 +745,10 @@
           "preco_normal": 538,
           "preco_desconto": 50,
           "preco_final": 488,
-          "atualizado": "2026-10-29T22:50:49+00:00",
+          "atualizado": "2026-11-04T19:22:04+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -761,10 +759,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T22:53:20+00:00",
+          "atualizado": "2026-11-04T19:23:36+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -775,10 +773,10 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T23:03:31+00:00",
+          "atualizado": "2026-11-04T19:29:33+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
             ]
           ]
@@ -801,11 +799,191 @@
           "preco_normal": 599,
           "preco_desconto": 111,
           "preco_final": 488,
-          "atualizado": "2026-10-29T22:39:24+00:00",
+          "atualizado": "2026-11-04T19:11:04+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               488
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86733349",
+      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html",
+      "dimensao": "9000 BTU",
+      "marca": "HISENSE",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 498,
+      "prices": [
+        {
+          "store": "Leiria (Leiria)",
+          "region": "Leiria",
+          "preco_normal": 798,
+          "preco_desconto": 300,
+          "preco_final": 498,
+          "atualizado": "2026-11-04T19:03:28+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              498
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 1299,
+          "preco_desconto": 401,
+          "preco_final": 898,
+          "atualizado": "2026-11-04T19:12:31+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              898
+            ]
+          ]
+        },
+        {
+          "store": "Alta de Lisboa (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1048,
+          "preco_desconto": 0.0,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T18:11:02+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Alfragide (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T18:14:07+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Amadora (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T18:22:35+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Sintra (Lisboa)",
+          "region": "Lisboa",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T18:25:09+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Loule (Faro)",
+          "region": "Faro",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T18:38:35+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Santarem (Santarem)",
+          "region": "Santarem",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T18:54:43+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Barcelos (Braga)",
+          "region": "Braga",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T19:09:26+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Penafiel (Porto)",
+          "region": "Porto",
+          "preco_normal": 1048,
+          "preco_desconto": 0.0,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T19:23:36+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T19:24:52+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
+            ]
+          ]
+        },
+        {
+          "store": "Maia (Porto)",
+          "region": "Porto",
+          "preco_normal": 1299,
+          "preco_desconto": 251,
+          "preco_final": 1048,
+          "atualizado": "2026-11-04T19:26:16+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              1048
             ]
           ]
         }
@@ -827,10 +1005,10 @@
           "preco_normal": 499,
           "preco_desconto": 0.0,
           "preco_final": 499,
-          "atualizado": "2026-10-29T22:17:57+00:00",
+          "atualizado": "2026-11-04T18:54:43+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               499
             ]
           ]
@@ -841,10 +1019,10 @@
           "preco_normal": 528,
           "preco_desconto": 0.0,
           "preco_final": 528,
-          "atualizado": "2026-10-29T22:45:43+00:00",
+          "atualizado": "2026-11-04T19:17:22+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               528
             ]
           ]
@@ -855,10 +1033,10 @@
           "preco_normal": 769,
           "preco_desconto": 141,
           "preco_final": 628,
-          "atualizado": "2026-10-29T21:30:59+00:00",
+          "atualizado": "2026-11-04T18:14:07+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               628
             ]
           ]
@@ -869,24 +1047,10 @@
           "preco_normal": 769,
           "preco_desconto": 141,
           "preco_final": 628,
-          "atualizado": "2026-10-29T21:33:28+00:00",
+          "atualizado": "2026-11-04T18:15:29+00:00",
           "history": [
             [
-              "2026-10-29",
-              628
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 628,
-          "preco_desconto": 0.0,
-          "preco_final": 628,
-          "atualizado": "2026-10-29T22:20:29+00:00",
-          "history": [
-            [
-              "2026-10-29",
+              "2026-11-04",
               628
             ]
           ]
@@ -897,10 +1061,10 @@
           "preco_normal": 628,
           "preco_desconto": 0.0,
           "preco_final": 628,
-          "atualizado": "2026-10-29T22:23:02+00:00",
+          "atualizado": "2026-11-04T18:58:43+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               628
             ]
           ]
@@ -911,10 +1075,10 @@
           "preco_normal": 628,
           "preco_desconto": 0.0,
           "preco_final": 628,
-          "atualizado": "2026-10-29T22:27:30+00:00",
+          "atualizado": "2026-11-04T19:01:56+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               628
             ]
           ]
@@ -925,10 +1089,10 @@
           "preco_normal": 769,
           "preco_desconto": 141,
           "preco_final": 628,
-          "atualizado": "2026-10-29T22:43:06+00:00",
+          "atualizado": "2026-11-04T19:14:48+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               628
             ]
           ]
@@ -939,10 +1103,10 @@
           "preco_normal": 628,
           "preco_desconto": 0.0,
           "preco_final": 628,
-          "atualizado": "2026-10-29T22:48:17+00:00",
+          "atualizado": "2026-11-04T19:19:52+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               628
             ]
           ]
@@ -953,10 +1117,10 @@
           "preco_normal": 628,
           "preco_desconto": 0.0,
           "preco_final": 628,
-          "atualizado": "2026-10-29T23:06:05+00:00",
+          "atualizado": "2026-11-04T19:31:09+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               628
             ]
           ]
@@ -979,10 +1143,10 @@
           "preco_normal": 518,
           "preco_desconto": 0.0,
           "preco_final": 518,
-          "atualizado": "2026-10-29T21:42:27+00:00",
+          "atualizado": "2026-11-04T18:25:09+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               518
             ]
           ]
@@ -993,11 +1157,25 @@
           "preco_normal": 639,
           "preco_desconto": 121,
           "preco_final": 518,
-          "atualizado": "2026-10-29T22:25:42+00:00",
+          "atualizado": "2026-11-04T19:00:36+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               518
+            ]
+          ]
+        },
+        {
+          "store": "Aveiro (Aveiro)",
+          "region": "Aveiro",
+          "preco_normal": 639,
+          "preco_desconto": 111,
+          "preco_final": 528,
+          "atualizado": "2026-11-04T19:12:31+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              528
             ]
           ]
         }
@@ -1019,10 +1197,10 @@
           "preco_normal": 649,
           "preco_desconto": 121,
           "preco_final": 528,
-          "atualizado": "2026-10-29T21:34:55+00:00",
+          "atualizado": "2026-11-04T18:16:57+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               528
             ]
           ]
@@ -1033,10 +1211,10 @@
           "preco_normal": 649,
           "preco_desconto": 121,
           "preco_final": 528,
-          "atualizado": "2026-10-29T22:32:51+00:00",
+          "atualizado": "2026-11-04T19:06:08+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               528
             ]
           ]
@@ -1047,10 +1225,10 @@
           "preco_normal": 649,
           "preco_desconto": 121,
           "preco_final": 528,
-          "atualizado": "2026-10-29T23:00:55+00:00",
+          "atualizado": "2026-11-04T19:28:00+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               528
             ]
           ]
@@ -1073,10 +1251,10 @@
           "preco_normal": 719,
           "preco_desconto": 131,
           "preco_final": 588,
-          "atualizado": "2026-10-29T21:25:52+00:00",
+          "atualizado": "2026-11-04T18:11:02+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               588
             ]
           ]
@@ -1087,10 +1265,10 @@
           "preco_normal": 719,
           "preco_desconto": 131,
           "preco_final": 588,
-          "atualizado": "2026-10-29T21:36:17+00:00",
+          "atualizado": "2026-11-04T18:19:03+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               588
             ]
           ]
@@ -1101,10 +1279,10 @@
           "preco_normal": 588,
           "preco_desconto": 0.0,
           "preco_final": 588,
-          "atualizado": "2026-10-29T21:42:27+00:00",
+          "atualizado": "2026-11-04T18:25:09+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               588
             ]
           ]
@@ -1127,10 +1305,10 @@
           "preco_normal": 618,
           "preco_desconto": 0.0,
           "preco_final": 618,
-          "atualizado": "2026-10-29T21:30:59+00:00",
+          "atualizado": "2026-11-04T18:14:07+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               618
             ]
           ]
@@ -1153,10 +1331,10 @@
           "preco_normal": 779,
           "preco_desconto": 151,
           "preco_final": 628,
-          "atualizado": "2026-10-29T21:30:59+00:00",
+          "atualizado": "2026-11-04T18:14:07+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               628
             ]
           ]
@@ -1179,10 +1357,10 @@
           "preco_normal": 658,
           "preco_desconto": 0.0,
           "preco_final": 658,
-          "atualizado": "2026-10-29T21:40:55+00:00",
+          "atualizado": "2026-11-04T18:22:35+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               658
             ]
           ]
@@ -1193,10 +1371,10 @@
           "preco_normal": 658,
           "preco_desconto": 0.0,
           "preco_final": 658,
-          "atualizado": "2026-10-29T22:11:04+00:00",
+          "atualizado": "2026-11-04T18:49:48+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               658
             ]
           ]
@@ -1219,10 +1397,10 @@
           "preco_normal": 748,
           "preco_desconto": 0.0,
           "preco_final": 748,
-          "atualizado": "2026-10-29T22:05:43+00:00",
+          "atualizado": "2026-11-04T18:47:00+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               748
             ]
           ]
@@ -1245,24 +1423,10 @@
           "preco_normal": 1019,
           "preco_desconto": 191,
           "preco_final": 828,
-          "atualizado": "2026-10-29T22:08:21+00:00",
+          "atualizado": "2026-11-04T18:48:25+00:00",
           "history": [
             [
-              "2026-10-29",
-              828
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 828,
-          "preco_desconto": 0.0,
-          "preco_final": 828,
-          "atualizado": "2026-10-29T22:20:29+00:00",
-          "history": [
-            [
-              "2026-10-29",
+              "2026-11-04",
               828
             ]
           ]
@@ -1285,191 +1449,11 @@
           "preco_normal": 1099,
           "preco_desconto": 211,
           "preco_final": 888,
-          "atualizado": "2026-10-29T21:40:55+00:00",
+          "atualizado": "2026-11-04T18:22:35+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               888
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86733349",
-      "name": "Ar condicionado fixo (1x1) HISENSE FRESHMASTER 9000 BTU IONIZADOR",
-      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-hisense-freshmaster-9000-btu-ionizador-86733349.html",
-      "dimensao": "9000 BTU",
-      "marca": "HISENSE",
-      "retificado": false,
-      "m2_caixa": null,
-      "preco_final": 898,
-      "prices": [
-        {
-          "store": "Leiria (Leiria)",
-          "region": "Leiria",
-          "preco_normal": 898,
-          "preco_desconto": 0.0,
-          "preco_final": 898,
-          "atualizado": "2026-10-29T22:29:55+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              898
-            ]
-          ]
-        },
-        {
-          "store": "Aveiro (Aveiro)",
-          "region": "Aveiro",
-          "preco_normal": 1299,
-          "preco_desconto": 401,
-          "preco_final": 898,
-          "atualizado": "2026-10-29T22:40:53+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              898
-            ]
-          ]
-        },
-        {
-          "store": "Alta de Lisboa (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1048,
-          "preco_desconto": 0.0,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T21:25:52+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Alfragide (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T21:30:59+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Amadora (Lisboa)",
-          "region": "Lisboa",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T21:40:55+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Loule (Faro)",
-          "region": "Faro",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T21:54:17+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Santarem (Santarem)",
-          "region": "Santarem",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T22:17:57+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T22:20:29+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Barcelos (Braga)",
-          "region": "Braga",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T22:37:52+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Penafiel (Porto)",
-          "region": "Porto",
-          "preco_normal": 1048,
-          "preco_desconto": 0.0,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T22:53:20+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Matosinhos (Porto)",
-          "region": "Porto",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T22:55:57+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
-            ]
-          ]
-        },
-        {
-          "store": "Maia (Porto)",
-          "region": "Porto",
-          "preco_normal": 1299,
-          "preco_desconto": 251,
-          "preco_final": 1048,
-          "atualizado": "2026-10-29T22:58:29+00:00",
-          "history": [
-            [
-              "2026-10-29",
-              1048
             ]
           ]
         }
@@ -1491,10 +1475,10 @@
           "preco_normal": 1159,
           "preco_desconto": 221,
           "preco_final": 938,
-          "atualizado": "2026-10-29T21:30:59+00:00",
+          "atualizado": "2026-11-04T18:14:07+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               938
             ]
           ]
@@ -1517,24 +1501,10 @@
           "preco_normal": 1159,
           "preco_desconto": 221,
           "preco_final": 938,
-          "atualizado": "2026-10-29T21:34:55+00:00",
+          "atualizado": "2026-11-04T18:16:57+00:00",
           "history": [
             [
-              "2026-10-29",
-              938
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 938,
-          "preco_desconto": 0.0,
-          "preco_final": 938,
-          "atualizado": "2026-10-29T22:20:29+00:00",
-          "history": [
-            [
-              "2026-10-29",
+              "2026-11-04",
               938
             ]
           ]
@@ -1545,10 +1515,10 @@
           "preco_normal": 938,
           "preco_desconto": 0.0,
           "preco_final": 938,
-          "atualizado": "2026-10-29T22:48:17+00:00",
+          "atualizado": "2026-11-04T19:19:52+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               938
             ]
           ]
@@ -1571,10 +1541,10 @@
           "preco_normal": 1139,
           "preco_desconto": 180,
           "preco_final": 959,
-          "atualizado": "2026-10-29T21:28:25+00:00",
+          "atualizado": "2026-11-04T18:12:46+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               959
             ]
           ]
@@ -1597,10 +1567,10 @@
           "preco_normal": 998,
           "preco_desconto": 0.0,
           "preco_final": 998,
-          "atualizado": "2026-10-29T22:29:55+00:00",
+          "atualizado": "2026-11-04T19:03:28+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               998
             ]
           ]
@@ -1611,10 +1581,10 @@
           "preco_normal": 1449,
           "preco_desconto": 451,
           "preco_final": 998,
-          "atualizado": "2026-10-29T22:40:53+00:00",
+          "atualizado": "2026-11-04T19:12:31+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               998
             ]
           ]
@@ -1625,10 +1595,10 @@
           "preco_normal": 1168,
           "preco_desconto": 0.0,
           "preco_final": 1168,
-          "atualizado": "2026-10-29T21:25:52+00:00",
+          "atualizado": "2026-11-04T18:11:02+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1168
             ]
           ]
@@ -1639,10 +1609,10 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-10-29T21:30:59+00:00",
+          "atualizado": "2026-11-04T18:14:07+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1168
             ]
           ]
@@ -1653,10 +1623,10 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-10-29T21:40:55+00:00",
+          "atualizado": "2026-11-04T18:22:35+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1168
             ]
           ]
@@ -1667,10 +1637,10 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-10-29T21:54:17+00:00",
+          "atualizado": "2026-11-04T18:38:35+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1168
             ]
           ]
@@ -1681,10 +1651,10 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-10-29T22:03:13+00:00",
+          "atualizado": "2026-11-04T18:45:40+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1168
             ]
           ]
@@ -1695,24 +1665,10 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-10-29T22:17:57+00:00",
+          "atualizado": "2026-11-04T18:54:43+00:00",
           "history": [
             [
-              "2026-10-29",
-              1168
-            ]
-          ]
-        },
-        {
-          "store": "Coimbra (Coimbra)",
-          "region": "Coimbra",
-          "preco_normal": 1449,
-          "preco_desconto": 281,
-          "preco_final": 1168,
-          "atualizado": "2026-10-29T22:20:29+00:00",
-          "history": [
-            [
-              "2026-10-29",
+              "2026-11-04",
               1168
             ]
           ]
@@ -1723,10 +1679,10 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-10-29T22:35:06+00:00",
+          "atualizado": "2026-11-04T19:07:45+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1168
             ]
           ]
@@ -1737,10 +1693,10 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-10-29T22:39:24+00:00",
+          "atualizado": "2026-11-04T19:11:04+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1168
             ]
           ]
@@ -1751,11 +1707,37 @@
           "preco_normal": 1449,
           "preco_desconto": 281,
           "preco_final": 1168,
-          "atualizado": "2026-10-29T22:55:57+00:00",
+          "atualizado": "2026-11-04T19:24:52+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1168
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86584991",
+      "name": "Ar condicionado fixo (1X1) Mitsubishi Premium-WIFI branco R32 9000 BTU",
+      "url": "https://www.leroymerlin.pt/produtos/ar-condicionado-fixo-1x1-mitsubishi-premium-wifi-branco-r32-9000-btu-86584991.html",
+      "dimensao": "9000 BTU",
+      "marca": "MITSUBISHI HEAVY INDUSTRIES",
+      "retificado": false,
+      "m2_caixa": null,
+      "preco_final": 998,
+      "prices": [
+        {
+          "store": "Matosinhos (Porto)",
+          "region": "Porto",
+          "preco_normal": 1114,
+          "preco_desconto": 116,
+          "preco_final": 998,
+          "atualizado": "2026-11-04T19:24:52+00:00",
+          "history": [
+            [
+              "2026-11-04",
+              998
             ]
           ]
         }
@@ -1777,10 +1759,10 @@
           "preco_normal": 1078,
           "preco_desconto": 0.0,
           "preco_final": 1078,
-          "atualizado": "2026-10-29T21:30:59+00:00",
+          "atualizado": "2026-11-04T18:14:07+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1078
             ]
           ]
@@ -1791,10 +1773,10 @@
           "preco_normal": 1334,
           "preco_desconto": 256,
           "preco_final": 1078,
-          "atualizado": "2026-10-29T21:34:55+00:00",
+          "atualizado": "2026-11-04T18:16:57+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1078
             ]
           ]
@@ -1817,10 +1799,10 @@
           "preco_normal": 1078,
           "preco_desconto": 0.0,
           "preco_final": 1078,
-          "atualizado": "2026-10-29T21:59:32+00:00",
+          "atualizado": "2026-11-04T18:42:38+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1078
             ]
           ]
@@ -1843,10 +1825,10 @@
           "preco_normal": 1328,
           "preco_desconto": 0.0,
           "preco_final": 1328,
-          "atualizado": "2026-10-29T22:05:43+00:00",
+          "atualizado": "2026-11-04T18:47:00+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1328
             ]
           ]
@@ -1866,13 +1848,13 @@
         {
           "store": "Matosinhos (Porto)",
           "region": "Porto",
-          "preco_normal": 1999,
-          "preco_desconto": 100,
+          "preco_normal": 1899,
+          "preco_desconto": 0.0,
           "preco_final": 1899,
-          "atualizado": "2026-10-29T22:55:57+00:00",
+          "atualizado": "2026-11-04T19:24:52+00:00",
           "history": [
             [
-              "2026-10-29",
+              "2026-11-04",
               1899
             ]
           ]
