@@ -105,12 +105,8 @@ select.loja{
 
   <div class="tabs" id="tabs">
     <button class="tab-ativo" data-tab="base-duche">Base Duche</button>
-    <button data-tab="monosplit">Ar Condicionado</button>
     <button data-tab="frontal-duche">Frontal Duche</button>
-    <button data-tab="coluna-duche">Coluna Duche</button>
     <button data-tab="mesa-jardim">Mesa de Jardim</button>
-    <button data-tab="tapete">Tapete</button>
-    <button data-tab="radiador-inercia">Radiador Inércia</button>
   </div>
 
   <div class="tab-painel" id="tab-base-duche">
@@ -137,12 +133,8 @@ const el = id => document.getElementById(id);
 
 const TABS = [
   { id: 'base-duche', file: 'outlet.json' },
-  { id: 'monosplit', file: 'monosplit.json' },
   { id: 'frontal-duche', file: 'frontal_duche.json' },
-  { id: 'coluna-duche', file: 'coluna_duche.json' },
   { id: 'mesa-jardim', file: 'mesa_jardim.json' },
-  { id: 'tapete', file: 'tapete.json' },
-  { id: 'radiador-inercia', file: 'radiador_inercia.json' },
 ];
 
 let abaAtiva = 'base-duche';

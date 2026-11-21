@@ -42,17 +42,6 @@ CATEGORIAS = {
         "state_file": "outlet_state.json",
         "out_file": "docs/outlet.json",
     },
-    "monosplit": {
-        "label": "Ar Condicionado",
-        "url": (
-            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
-            "?filters=%7B%22breadcrumb-1-label%22%3A%22Aquecimento%2520e%2520Climatiza"
-            "%25C3%25A7%25C3%25A3o%22%2C%22attribute-22088%22%3A%22Pack%2520ar%2520condicionado"
-            "%2520Monosplit%22%7D"
-        ),
-        "state_file": "outlet_state_monosplit.json",
-        "out_file": "docs/monosplit.json",
-    },
     "frontal-duche": {
         "label": "Frontal Duche",
         "url": (
@@ -65,17 +54,6 @@ CATEGORIAS = {
         "state_file": "outlet_state_frontal_duche.json",
         "out_file": "docs/frontal_duche.json",
     },
-    "coluna-duche": {
-        "label": "Coluna Duche",
-        "url": (
-            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
-            "?filters=%7B%22breadcrumb-1-label%22%3A%22Casas%2520de%2520banho%22"
-            "%2C%22attribute-22088%22%3A%22Coluna%2520de%2520duche%22%7D&sort=price-desc"
-        ),
-        "state_file": "outlet_state_coluna_duche.json",
-        "out_file": "docs/coluna_duche.json",
-        "marcas": ["GROHE"],
-    },
     "mesa-jardim": {
         "label": "Mesa de Jardim",
         "url": (
@@ -86,27 +64,6 @@ CATEGORIAS = {
         ),
         "state_file": "outlet_state_mesa_jardim.json",
         "out_file": "docs/mesa_jardim.json",
-    },
-    "tapete": {
-        "label": "Tapete",
-        "url": (
-            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
-            "?filters=%7B%22breadcrumb-1-label%22%3A%22Decora%25C3%25A7%25C3%25A3o%2520e%2520Tapetes%22"
-            "%2C%22attribute-22088%22%3A%22Tapete%22%7D"
-        ),
-        "state_file": "outlet_state_tapete.json",
-        "out_file": "docs/tapete.json",
-    },
-    "radiador-inercia": {
-        "label": "Radiador Inércia de Fluido",
-        "url": (
-            "https://www.leroymerlin.pt/produtos/promocoes/outlet/"
-            "?filters=%7B%22breadcrumb-1-label%22%3A%22Aquecimento%2520e%2520Climatiza"
-            "%25C3%25A7%25C3%25A3o%22%2C%22attribute-22088%22%3A%22Radiador%2520el%25C3%25A9trico"
-            "%2520de%2520in%25C3%25A9rcia%2520de%2520fluido%22%7D"
-        ),
-        "state_file": "outlet_state_radiador_inercia.json",
-        "out_file": "docs/radiador_inercia.json",
     },
 }
 
